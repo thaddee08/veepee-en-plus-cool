@@ -37,6 +37,8 @@ If a brand's site runs on Shopify, `https://<shop>/meta.json` returns its name a
 
 `styles` uses the page's style keys: `streetwear`, `retro`, `sport`, `skate`, `utility`, `boho`, `statement`, `minimal`. If the shop's `robots.txt` asks for a crawl delay, set `delayMs` to match. For shops whose titles put the noun first (French: "Veste en denim"), set `"nounFirst": true`. If a shop encodes men's/women's in its product handles or tags rather than in words, add `departmentHints` (see the A.P.C. entry).
 
+If a shop shows different prices or stock to visitors outside Germany (the workflow runs on US servers), set `"country": "DE"` on it, as on Overkill. Compare a few prices with what you see in the shop before relying on it.
+
 To take only some brands from a multi-brand shop, read just its brand collections with `collections` and filter by the product's vendor with `vendors`, as the Asphaltgold entry does for Nike and Jordan.
 
 Check each shop's terms before listing it, and keep the request rate low. The defaults make one request every 1.5 seconds, once a day.

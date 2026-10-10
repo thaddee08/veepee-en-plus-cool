@@ -2,7 +2,6 @@
   "userAgent": "RESTPOST sale feed (+https://github.com/thaddee08/veepee-en-plus-cool)",
   "maxOffers": 300,
   "minDiscountPercent": 10,
-  "country": "DE",
   "delayMs": 1500,
   "sources": [
     {"type": "shopify", "shop": "HOMEBOY", "brand": "HOMEBOY", "baseUrl": "https://homeboy.eu", "styles": ["skate", "streetwear"], "tag": "Skate & baggy", "maxItems": 40},
@@ -10,7 +9,7 @@
     {"type": "shopify", "shop": "REEBOK", "brand": "Reebok", "baseUrl": "https://www.reebok.eu", "styles": ["sport", "retro"], "tag": "Retro sport", "maxItems": 40},
     {"type": "shopify", "shop": "ASPHALTGOLD", "baseUrl": "https://www.asphaltgold.com", "collections": ["nike", "jordan"], "vendors": "^(nike|jordan)", "styles": ["sport", "streetwear"], "tag": "Nike pick", "maxItems": 30},
     {"type": "shopify", "shop": "AFEW", "baseUrl": "https://www.afew-store.com", "collections": ["nike"], "vendors": "^(nike|jordan)", "styles": ["sport", "streetwear"], "tag": "Nike pick", "maxItems": 30},
-    {"type": "shopify", "shop": "OVERKILL", "baseUrl": "https://www.overkillshop.com", "collections": ["nike", "jordan"], "vendors": "^(nike|jordan)", "styles": ["sport", "streetwear"], "tag": "Nike pick", "maxItems": 30},
+    {"type": "shopify", "shop": "OVERKILL", "baseUrl": "https://www.overkillshop.com", "country": "DE", "collections": ["nike", "jordan"], "vendors": "^(nike|jordan)", "styles": ["sport", "streetwear"], "tag": "Nike pick", "maxItems": 30},
     {"type": "shopify", "shop": "A.P.C.", "brand": "A.P.C.", "baseUrl": "https://www.apc.fr", "styles": ["minimal"], "tag": "French minimal", "maxItems": 30, "delayMs": 10000, "nounFirst": true, "departmentHints": [{"pattern": "-h\\d{5}$", "department": "Men"}, {"pattern": "-f\\d{5}$", "department": "Women"}]},
     {"type": "shopify", "shop": "ARMEDANGELS", "brand": "Armedangels", "baseUrl": "https://www.armedangels.com", "styles": ["minimal"], "tag": "Conscious basics", "maxItems": 30},
     {"type": "shopify", "shop": "6PM", "brand": "6PM", "baseUrl": "https://www.6pmseason.com", "styles": ["streetwear"], "tag": "Frankfurt streetwear", "maxItems": 30},

@@ -201,9 +201,10 @@ async function fromShopify(source) {
   const delay = source.delayMs ?? config.delayMs ?? 1500;
   const meta = await (await get(`${source.baseUrl}/meta.json`)).json();
   if (meta.currency && meta.currency !== "EUR") throw new Error(`prices are in ${meta.currency}, not EUR`);
-  // Shops on Shopify Markets show visitors abroad other prices (e.g. without German VAT) and stock,
-  // and GitHub's runners are in the US, so always ask for the German market.
-  const country = source.country ?? config.country ?? "DE";
+  // Some shops on Shopify Markets show visitors abroad other prices (e.g. without German VAT) and stock,
+  // and GitHub's runners are in the US. For those, "country" asks for a market explicitly. Don't set it
+  // otherwise: shops like Dickies send German visitors to a different market than the one called "DE".
+  const market = source.country ? `&country=${source.country}` : "";
   const offers = [], seen = new Set();
   // "collections" reads only those collections (e.g. a multi-brand shop's "nike" page) instead of the whole catalogue.
   for (const path of (source.collections ?? [null]).map(c => (c ? `/collections/${c}` : ""))) {
@@ -211,7 +212,7 @@ async function fromShopify(source) {
       await sleep(delay);
       let products;
       try {
-        ({ products } = await (await get(`${source.baseUrl}${path}/products.json?limit=250&page=${page}&country=${country}`)).json());
+        ({ products } = await (await get(`${source.baseUrl}${path}/products.json?limit=250&page=${page}${market}`)).json());
       } catch (error) {
         if (page === 1) throw error;
         // Deep pages of big catalogues sometimes fail; keep what the earlier pages found.
