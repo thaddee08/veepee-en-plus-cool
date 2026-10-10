@@ -191,7 +191,15 @@ async function fromShopify(source) {
   const offers = [];
   for (let page = 1; page <= (source.maxPages ?? 30); page++) {
     await sleep(delay);
-    const { products } = await (await get(`${source.baseUrl}/products.json?limit=250&page=${page}`)).json();
+    let products;
+    try {
+      ({ products } = await (await get(`${source.baseUrl}/products.json?limit=250&page=${page}`)).json());
+    } catch (error) {
+      if (page === 1) throw error;
+      // Deep pages of big catalogues sometimes fail; keep what the earlier pages found.
+      console.warn(`  stopped at page ${page}: ${redact(error.message)}`);
+      break;
+    }
     if (!products?.length) break;
     for (const product of products) {
       const offer = shopifyOffer(product, source);
