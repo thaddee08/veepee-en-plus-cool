@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T14:17:10.863Z",
+ "generatedAt": "2026-10-10T14:23:25.978Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -23,8 +23,8 @@
   },
   {
    "source": "ARMEDANGELS",
-   "ok": false,
-   "error": "HTTP 500 for https://www.armedangels.com/products.json?limit=250&page=22"
+   "ok": true,
+   "found": 621
   },
   {
    "source": "6PM",
@@ -128,6 +128,23 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "ICONIC Å CAP",
+   "detail": "black-armedangels yellow",
+   "shop": "ARMEDANGELS",
+   "price": 29.9,
+   "was": 49.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/iconic-a-cap?variant=56598288761157",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008449-3345_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra CARGO PANTS Black TAB",
    "detail": "Size 26",
@@ -205,6 +222,29 @@
     "minimal",
     "streetwear",
     "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LEO LENOVAA ROCK",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 59.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt-dark-steel-black?variant=56485757190469",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -305,6 +345,29 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "LEO LENOVAA SLIP-SKIRT",
+   "detail": "dark steel-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 59.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt?variant=56485757190469",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Chino DUST TAB",
    "detail": "Sizes 25–27",
@@ -382,6 +445,30 @@
    ],
    "department": "Not specified",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTE KAAYUA FALTENSHORTS",
+   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gestreifte-kaayua-faltenshorts-sand-stone-undyed-pink-mist?variant=57299273187653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008534-3658_111.jpg?v=1789057179&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "minimal",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -472,6 +559,29 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "ICONIC Å COLLEGE KNIT SWEATER",
+   "detail": "oatmilk-mars red · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Sweatshirts",
+   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater?variant=56597253292357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1789057179&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "hb. Sweater Vest GREY HEATHER",
    "detail": "Sizes XS–XL",
@@ -554,6 +664,30 @@
    "tag": "French minimal",
    "styles": [
     "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "ICONIC Å COLLEGE STRICKPULLOVER",
+   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater-oatmilk-mars-red?variant=56597253292357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1789057179&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "minimal",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
@@ -654,6 +788,31 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "KARDAA T-SHIRT",
+   "detail": "foam · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-foam?variant=55610217267525",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-3472_111.jpg?v=1790181694&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra WORK Pants WASHED BLUE TAB",
    "detail": "Sizes 24–29",
@@ -739,6 +898,29 @@
     "M",
     "L",
     "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "white · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt-white?variant=56485768626501",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-188_111.jpg?v=1789057005&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "XXL"
    ]
   },
   {
@@ -830,6 +1012,27 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "black · Sizes XS–S · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt-black?variant=56485768397125",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1789057005&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra ALIEN Cargo Cord Black TAB",
    "detail": "Sizes 22–24",
@@ -913,6 +1116,26 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "SLUB JERSEY GESTREIFTES T-SHIRT",
+   "detail": "oatmilk-foam · Size XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt-oatmilk-foam?variant=56186058473797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3537_111.jpg?v=1789591268&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "Pencil Tee BLACK",
    "detail": "Size XXS",
@@ -992,6 +1215,26 @@
    ],
    "department": "Women",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "black · Sizes XS–S",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt?variant=56485768397125",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1075,6 +1318,26 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "SLUB JERSEY STRIPE T-SHIRT",
+   "detail": "oatmilk-foam · Size XXL",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt?variant=56186058473797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3860_111.jpg?v=1789591271&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
    "detail": "Sizes 27–32",
@@ -1155,6 +1418,29 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLOSHIRT",
+   "detail": "washed berry-granit · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-washed-berry-granit?variant=57299144180037",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3629_111.jpg?v=1789057162&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra WORK Pants MOON TAB",
    "detail": "Sizes 24–29",
@@ -1231,6 +1517,30 @@
    ],
    "department": "Not specified",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLOSHIRT",
+   "detail": "foam-oatmilk · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-foam-oatmilk?variant=57299143491909",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1789057162&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1313,6 +1623,29 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "LARISAANA BLUSE",
+   "detail": "foam · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/larisaana-blouse-foam?variant=55573320663365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3472_111.jpg?v=1789591268&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim SHORTS Indigo",
    "detail": "Sizes 22–23",
@@ -1390,6 +1723,29 @@
    ],
    "department": "Not specified",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLO T-SHIRT",
+   "detail": "foam-oatmilk · Sizes S–XXL",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt?variant=57299143491909",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1789057162&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1472,6 +1828,29 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "LARISAANA BLUSE",
+   "detail": "very berry · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/larisaana-blouse-very-berry?variant=55573320466757",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3434_111.jpg?v=1789591268&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Shorts Moon",
    "detail": "Sizes 22–33",
@@ -1549,6 +1928,30 @@
    ],
    "department": "Not specified",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GMT DYE RIPP-HOSE",
+   "detail": "tinted navy · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-tinted-navy?variant=56485804769605",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-3232_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1645,6 +2048,30 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "GMT DYE RIPP-HOSE",
+   "detail": "space steel · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-space-steel?variant=56485804572997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-2682_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER CHINO SHORTS Dust",
    "detail": "Sizes 22–28",
@@ -1724,6 +2151,30 @@
    ],
    "department": "Women",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "COTTON LINEN JACKET",
+   "detail": "fatigue green · Sizes S–XXL",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748737626437",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1789057058&width=800",
+   "tag": "Romantic find",
+   "styles": [
+    "minimal",
+    "boho"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1811,6 +2262,29 @@
     "XS",
     "L",
     "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "fatigue green · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-fatigue-green?variant=56748737626437",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-3453_111.jpg?v=1789057058&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1909,6 +2383,29 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1789056975&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "MASTERBOY Tee BLACK",
    "detail": "Size XXS",
@@ -1991,6 +2488,29 @@
    ],
    "department": "Not specified",
    "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1789056975&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -2078,6 +2598,29 @@
    "sizes": []
   },
   {
+   "brand": "Armedangels",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1789057214&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
    "detail": "Size 25",
@@ -2160,6 +2703,29 @@
    ],
    "department": "Women",
    "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1789057214&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
     "S",
     "M",
     "L",
@@ -2256,6 +2822,29 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "PAASITHE JEANSJACKE",
+   "detail": "loa · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-loa?variant=56485809029445",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008263-3549_111.jpg?v=1789057162&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim Washed Blue TAB",
    "detail": "Sizes 22–34",
@@ -2340,6 +2929,28 @@
     "M",
     "L",
     "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "PAASITHE JEANSJACKE",
+   "detail": "barrea · Sizes XS–L · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-barrea?variant=56485725929797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007987-3393_111.jpg?v=1789057143&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -2429,6 +3040,23 @@
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "BAUMWOLLL-LEINEN-HOSE",
+   "detail": "sandstone · Men",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/cotton-linen-pant-sandstone?variant=56749883588933",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008090-2248_111.jpg?v=1789057108&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": []
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER hb. Denim WASHED BLACK",
    "detail": "Size 24",
@@ -2511,6 +3139,29 @@
     "L",
     "XL",
     "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "PAASITHE DENIM JACKET",
+   "detail": "loa · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-1?variant=56485809029445",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008263-3549_111.jpg?v=1789057162&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -2602,6 +3253,28 @@
     "M",
     "L",
     "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "PAASITHE DENIM JACKET",
+   "detail": "barrea · Sizes XS–L",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket?variant=56485725929797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007987-3393_111.jpg?v=1789057143&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
    ]
   },
   {
