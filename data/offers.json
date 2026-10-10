@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T17:23:29.242Z",
+ "generatedAt": "2026-10-10T20:12:45.177Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,7 +14,7 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 957
+   "found": 954
   },
   {
    "source": "ASPHALTGOLD",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 690
+   "found": 689
   },
   {
    "source": "6PM",
@@ -2612,7 +2612,7 @@
   {
    "brand": "Nike",
    "name": "Air Max Plus VII",
-   "detail": "Sizes 40–48.5 · Men",
+   "detail": "Sizes 40–46 · Men",
    "shop": "OVERKILL",
    "price": 120,
    "was": 189,
@@ -2873,12 +2873,12 @@
   {
    "brand": "Reebok",
    "name": "Lux Fitness Training Burnout Women's T-Shirt",
-   "detail": "Sizes XXS–L · Women",
+   "detail": "Sizes XS–L · Women",
    "shop": "REEBOK",
    "price": 16,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/lux-fitness-training-burnout-tee-100254389-11019?variant=56698413187420",
+   "url": "https://www.reebok.eu/products/lux-fitness-training-burnout-tee-100254389-11019?variant=56698413220188",
    "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254389_155385_FR_Model_eCom.jpg?v=1774017821&width=800",
    "tag": "Retro sport",
    "styles": [
@@ -2887,7 +2887,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
     "XS",
     "S",
     "M",
@@ -3258,7 +3257,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1791618009&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1791655987&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -4482,7 +4481,7 @@
    "price": 105,
    "was": 210,
    "category": "Sweatshirts",
-   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358253955",
+   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358286723",
    "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907ELC_00.jpg?v=1778524122&width=800",
    "tag": "Street edit",
    "styles": [
@@ -4494,7 +4493,6 @@
     "XXS",
     "S",
     "M",
-    "L",
     "XXL"
    ]
   },
