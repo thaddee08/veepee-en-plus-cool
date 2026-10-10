@@ -24,10 +24,21 @@ const discount = o => 1 - o.price / o.was;
 const sameName = (a, b) => String(a ?? "").toLowerCase().replace(/[^\p{L}\p{N}]/gu, "") === String(b ?? "").toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
 const stripHtml = html => String(html ?? "").replace(/<[^>]*>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
 
+// Retries network errors, rate limits and server errors twice, backing off 5 s then 10 s.
 async function get(url) {
-  const res = await fetch(url, { headers: { "user-agent": config.userAgent } });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${redact(url)}`);
-  return res;
+  for (let attempt = 1; ; attempt++) {
+    let res;
+    try {
+      res = await fetch(url, { headers: { "user-agent": config.userAgent } });
+    } catch (error) {
+      if (attempt >= 3) throw new Error(`${error.message} for ${redact(url)}`);
+      await sleep(5000 * attempt);
+      continue;
+    }
+    if (res.ok) return res;
+    if (attempt >= 3 || (res.status !== 429 && res.status < 500)) throw new Error(`HTTP ${res.status} for ${redact(url)}`);
+    await sleep(5000 * attempt);
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -155,7 +166,9 @@ function shopifyImage(src) {
 }
 
 function shopifyOffer(product, source) {
-  const optionAt = pattern => (product.options ?? []).findIndex(o => pattern.test(o.name));
+  // Multi-brand shops can be limited to some brands, e.g. "vendors": "^(nike|jordan)".
+  if (source.vendors && !new RegExp(source.vendors, "i").test(product.vendor ?? "")) return null;
+  const optionAt =pattern => (product.options ?? []).findIndex(o => pattern.test(o.name));
   const sizeAt = optionAt(/size|größe|groesse|taille/i), colourAt = optionAt(/colou?r|farbe|couleur/i);
   const option = (variant, at) => (at >= 0 ? variant[`option${at + 1}`] : null);
   const onSale = (product.variants ?? []).filter(v => v.available && num(v.compare_at_price) > num(v.price));
@@ -188,22 +201,27 @@ async function fromShopify(source) {
   const delay = source.delayMs ?? config.delayMs ?? 1500;
   const meta = await (await get(`${source.baseUrl}/meta.json`)).json();
   if (meta.currency && meta.currency !== "EUR") throw new Error(`prices are in ${meta.currency}, not EUR`);
-  const offers = [];
-  for (let page = 1; page <= (source.maxPages ?? 30); page++) {
-    await sleep(delay);
-    let products;
-    try {
-      ({ products } = await (await get(`${source.baseUrl}/products.json?limit=250&page=${page}`)).json());
-    } catch (error) {
-      if (page === 1) throw error;
-      // Deep pages of big catalogues sometimes fail; keep what the earlier pages found.
-      console.warn(`  stopped at page ${page}: ${redact(error.message)}`);
-      break;
-    }
-    if (!products?.length) break;
-    for (const product of products) {
-      const offer = shopifyOffer(product, source);
-      if (offer) offers.push(offer);
+  const offers = [], seen = new Set();
+  // "collections" reads only those collections (e.g. a multi-brand shop's "nike" page) instead of the whole catalogue.
+  for (const path of (source.collections ?? [null]).map(c => (c ? `/collections/${c}` : ""))) {
+    for (let page = 1; page <= (source.maxPages ?? 30); page++) {
+      await sleep(delay);
+      let products;
+      try {
+        ({ products } = await (await get(`${source.baseUrl}${path}/products.json?limit=250&page=${page}`)).json());
+      } catch (error) {
+        if (page === 1) throw error;
+        // Deep pages of big catalogues sometimes fail; keep what the earlier pages found.
+        console.warn(`  stopped at page ${page}: ${redact(error.message)}`);
+        break;
+      }
+      if (!products?.length) break;
+      for (const product of products) {
+        if (seen.has(product.id)) continue;
+        seen.add(product.id);
+        const offer = shopifyOffer(product, source);
+        if (offer) offers.push(offer);
+      }
     }
   }
   return offers;

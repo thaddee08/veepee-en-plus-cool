@@ -8,7 +8,7 @@ A small sale-discovery page for Germany: real sale items from brand and retailer
 
 `data/offers.json` is built by `scripts/fetch-offers.mjs` from the sources in `feeds.config.json`:
 
-- **Brand shops on Shopify** (HOMEBOY, Dickies, Reebok, A.P.C., Armedangels, 6PM, Rains, Represent). Every Shopify shop publishes its catalogue at `/products.json`. The script keeps items that are in stock and marked down by at least `minDiscountPercent`, and only reads shops that price in euros. These need no account.
+- **Shops on Shopify**: brand shops (HOMEBOY, Dickies, Reebok, A.P.C., Armedangels, 6PM, Rains, Represent), plus Nike and Jordan from the German sneaker shops Asphaltgold, Afew and Overkill. Nike's own site doesn't offer its catalogue this way. Every Shopify shop publishes its catalogue at `/products.json`. The script keeps items that are in stock and marked down by at least `minDiscountPercent`, and only reads shops that price in euros. These need no account.
 - **Retailers through AWIN** (for example SNIPES or Zalando). Big retailers block scraping, so their sale items come from affiliate product feeds. You need an AWIN publisher account and to be accepted into each retailer's programme. Links from these feeds are affiliate links and the page marks them "Ad".
 
 A GitHub Action (`.github/workflows/refresh-offers.yml`) runs the script twice a day (06:23 and 18:23 German summer time), commits the new `data/offers.json`, and deploys the site to GitHub Pages. Pushes to `main` redeploy the site without refreshing the feed.
@@ -36,5 +36,7 @@ If a brand's site runs on Shopify, `https://<shop>/meta.json` returns its name a
 ```
 
 `styles` uses the page's style keys: `streetwear`, `retro`, `sport`, `skate`, `utility`, `boho`, `statement`, `minimal`. If the shop's `robots.txt` asks for a crawl delay, set `delayMs` to match. For shops whose titles put the noun first (French: "Veste en denim"), set `"nounFirst": true`. If a shop encodes men's/women's in its product handles or tags rather than in words, add `departmentHints` (see the A.P.C. entry).
+
+To take only some brands from a multi-brand shop, read just its brand collections with `collections` and filter by the product's vendor with `vendors`, as the Asphaltgold entry does for Nike and Jordan.
 
 Check each shop's terms before listing it, and keep the request rate low. The defaults make one request every 1.5 seconds, once a day.
