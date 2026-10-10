@@ -2,6 +2,7 @@
   "userAgent": "RESTPOST sale feed (+https://github.com/thaddee08/veepee-en-plus-cool)",
   "maxOffers": 300,
   "minDiscountPercent": 10,
+  "country": "DE",
   "delayMs": 1500,
   "sources": [
     {"type": "shopify", "shop": "HOMEBOY", "brand": "HOMEBOY", "baseUrl": "https://homeboy.eu", "styles": ["skate", "streetwear"], "tag": "Skate & baggy", "maxItems": 40},
