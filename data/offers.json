@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T16:26:32.889Z",
+ "generatedAt": "2026-10-10T16:36:29.274Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,12 +9,12 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 473
+   "found": 1
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 957
+   "found": 975
   },
   {
    "source": "ASPHALTGOLD",
@@ -29,7 +29,7 @@
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 6
+   "found": 56
   },
   {
    "source": "A.P.C.",
@@ -84,14 +84,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Woodworth beanie",
-   "detail": "Military green",
+   "name": "Double knee skinny straight work trousers",
+   "detail": "Black · Size 36",
    "shop": "DICKIES",
-   "price": 9.5,
-   "was": 19,
-   "category": "Accessories",
-   "url": "https://dickies.eu/products/woodworth-beanie-dk0a4x7ymgr1-khaki?variant=45766464405690",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4X7YMGR-1_b65a33f6-b6fe-489a-b15e-c128ce316b8e.jpg?v=1779221378&width=800",
+   "price": 34.5,
+   "was": 69,
+   "category": "Trousers",
+   "url": "https://dickies.eu/products/double-knee-skinny-straight-work-trousers-dk0wp811blk1-black?variant=45766060474554",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0WP811BLK-1_4583adce-05c8-48c2-a657-0df2f3dab516.jpg?v=1779221222&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -166,19 +166,20 @@
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "Jumpman Jack TR",
-   "detail": "Size 36.5 · Unisex",
+   "brand": "Nike",
+   "name": "W Air Max Craze",
+   "detail": "Sizes 37.5–40.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 126.05,
-   "was": 168.07,
+   "price": 60,
+   "was": 169,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-jumpman-jack-tr-im9113-300-green-spark-vapor-green-black?variant=56527082062204",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM9113-300_1_2f400188-86a5-4f6f-87e5-c0f4fc204f88.jpg?v=1774447514&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.overkillshop.com/products/nike-w-air-max-craze-fz2089-100-white-metallic-gold-black-copper-moon?variant=55175769850236",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/FZ2089-100_1.jpg?v=1747061320&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Unisex",
    "sizes": []
@@ -235,26 +236,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Kids' Mapleton light weight t-shirt",
-   "detail": "Pine · Size XS · Kids",
-   "shop": "DICKIES",
-   "price": 10,
-   "was": 20,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/kids-mapleton-light-weight-t-shirt-dk0ksr64pin1-green?variant=45766234472634",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0KSR64PIN-1_c4b1b7cf-837c-4546-a1ae-d9a48837cc7a.jpg?v=1779221299&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Kids",
-   "sizes": [
-    "XS"
-   ]
   },
   {
    "brand": "Reebok",
@@ -319,21 +300,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Zoom Skylon 11",
-   "detail": "Sizes 39–40.5 · Women",
+   "name": "Wmns T90",
+   "detail": "Sizes 37.5–38.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 83.19,
-   "was": 108.4,
+   "price": 45,
+   "was": 120,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-zoom-skylon-11-iu7360-103-white-metallic-silver-grey-fog?variant=57217253736828",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IU7360-103_1.jpg?v=1785402938&width=800",
-   "tag": "Retro find",
+   "url": "https://www.overkillshop.com/products/nike-wmns-t90-ih2314-002-black-cocnut-milk-gum-dark-brown?variant=55191576641916",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IH2314-002_1_a80fcad4-3d75-44b4-9306-0a2e5f34360b.jpg?v=1747041858&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -403,28 +383,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Honeyville tank top",
-   "detail": "White · Sizes XS–L · Women",
-   "shop": "DICKIES",
-   "price": 11,
-   "was": 22,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766514966714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88520WH-1_61b0c8e0-3d55-48c3-8a46-ea1858cf335b.jpg?v=1779221410&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "M",
-    "L"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID Logo Cotton Sports Bra Top",
    "detail": "Sizes XS–L · Women",
@@ -488,21 +446,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Air Max Moto 2K",
-   "detail": "Sizes 36.5–42 · Women",
+   "name": "Clogposite",
+   "detail": "Sizes 40–42.5 · Men",
    "shop": "OVERKILL",
-   "price": 83.19,
-   "was": 108.4,
+   "price": 60,
+   "was": 139,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-air-max-moto-2k-hq2056-103-white-photon-dust-metallic-silver-black?variant=57172005814652",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HQ2056-103_1.jpg?v=1785408439&width=800",
-   "tag": "Retro find",
+   "url": "https://www.overkillshop.com/products/nike-clogposite-hj4478-100-summit-white-photon-dust?variant=55394343453052",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HJ4478-100_1.jpg?v=1749052591&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -572,25 +529,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Summerdale logo beanie",
-   "detail": "Dark blue",
-   "shop": "DICKIES",
-   "price": 11,
-   "was": 22,
-   "category": "Accessories",
-   "url": "https://dickies.eu/products/summerdale-logo-beanie-dk0a87nbl181-navy?variant=45766425215162",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87NBL18-1_231254e1-57af-4d40-b0b9-e1928e36497b.jpg?v=1779221388&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "skate",
-    "utility",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Reebok",
    "name": "ID Train Women's T-Shirt",
    "detail": "Sizes XXS–XL · Women",
@@ -654,20 +592,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Cryoshot Air Speed M England",
-   "detail": "Sizes 36.5–48.5 · Unisex",
+   "name": "W LD-1000",
+   "detail": "Sizes 37.5–41 · Women",
    "shop": "OVERKILL",
-   "price": 142.86,
-   "was": 168.07,
+   "price": 45,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/palace-x-nike-cryoshot-air-speed-m-england-im0705-001-black-white-crimson?variant=56855332454780",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0702-001_1.jpg?v=1781269156&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.overkillshop.com/products/nike-w-ld-1000-hf3227-702-desert-ochre-hyper-royal-white?variant=55581171745148",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HF3227-702_1.jpg?v=1753972670&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -727,26 +666,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Two pack boxers",
-   "detail": "Black · Size XS",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/two-pack-boxers-dk0a4xocblk1-black?variant=45766438551738",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XOCBLK-1_8ddb459c-573d-4fbe-b77f-557466330815.jpg?v=1779221364&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
   },
   {
    "brand": "Reebok",
@@ -811,21 +730,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Cryoshot Mercurial Vapor R9 Netherlands",
-   "detail": "Sizes 36–46 · Unisex",
+   "name": "W LD-1000",
+   "detail": "Sizes 37.5–38.5 · Women",
    "shop": "OVERKILL",
-   "price": 142.86,
-   "was": 168.07,
+   "price": 45,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/patta-x-nike-cryoshot-mercurial-vapor-r9-netherlands-im0589-001-metallic-silver-hyper-crimson-black?variant=56855331799420",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0589-001_1.jpg?v=1781269042&width=800",
-   "tag": "Statement color",
+   "url": "https://www.overkillshop.com/products/nike-w-wld-1000-hf3227-401-university-blue-safety-orange-sail-black?variant=55526926582140",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HF3227-401_1.jpg?v=1752498422&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -900,26 +819,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "Plum · Size XS",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Dynamic Puff Women's T-Shirt",
    "detail": "Sizes XXS–XXL · Women",
@@ -983,21 +882,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Cryoshot Tiempo 94 Canada",
-   "detail": "Sizes 36–49.5 · Unisex",
+   "name": "Wmns Field General",
+   "detail": "Sizes 37.5–38 · Women",
    "shop": "OVERKILL",
-   "price": 142.86,
-   "was": 168.07,
+   "price": 45,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nocta-x-nike-cryoshot-tiempo-94-canada-im0703-700-university-gold-black-white?variant=56855333732732",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0703-700_1.jpg?v=1781269254&width=800",
-   "tag": "Statement color",
+   "url": "https://www.overkillshop.com/products/nike-wmns-field-general-hj6000-300-malachite-soft-pearl-gum-dark-brown?variant=55181390020988",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HJ6000-300_1.jpg?v=1747132703&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1067,26 +965,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "True blue · Size XS",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Dynamic Puff Women's T-Shirt",
    "detail": "Sizes XXS–XXL · Women",
@@ -1148,6 +1026,25 @@
     "streetwear"
    ],
    "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "T90",
+   "detail": "Sizes 37.5–44.5 · Unisex",
+   "shop": "OVERKILL",
+   "price": 50,
+   "was": 110,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-t90-hq2851-100-white-black-gym-red?variant=55539362660732",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HQ2851-100_1.jpg?v=1752668253&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "sport",
+    "streetwear",
+    "statement"
+   ],
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -1216,26 +1113,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Brown · Size XS · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID Train 9\" Knit Men's Shorts",
    "detail": "Sizes XS–XXL · Men",
@@ -1296,6 +1173,27 @@
    ],
    "department": "Women",
    "sizes": []
+  },
+  {
+   "brand": "Jordan",
+   "name": "W Canvas Jacket",
+   "detail": "Size S · Women",
+   "shop": "OVERKILL",
+   "price": 150,
+   "was": 329,
+   "category": "Jackets",
+   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-w-canvas-jacket-fd9113-325-cargo-khaki?variant=53596540273020",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/FD9113-325_1.jpg?v=1729666424&width=800",
+   "tag": "Skate & work",
+   "styles": [
+    "sport",
+    "streetwear",
+    "skate"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S"
+   ]
   },
   {
    "brand": "A.P.C. Paris",
@@ -1365,27 +1263,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Vernal vest",
-   "detail": "Egret · Sizes XS–L · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "L"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Embossed Edge T-Shirt",
    "detail": "Sizes XXS–XXL · Women",
@@ -1444,6 +1321,26 @@
    "styles": [
     "sport",
     "streetwear",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Wmns Air Max Muse SE",
+   "detail": "Sizes 37.5–40 · Women",
+   "shop": "OVERKILL",
+   "price": 75,
+   "was": 159,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-wmns-air-max-muse-se-ib4396-001-black-metallic-silver-bright-crimson?variant=55573519892860",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IB4396-001_1.jpg?v=1753875142&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1518,26 +1415,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Mapleton lightweight t-shirt",
-   "detail": "Retro indigo · Size XS",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Studded Logo T-Shirt",
    "detail": "Sizes XXS–XXL · Women",
@@ -1603,6 +1480,27 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "NRG Tech Woven Windrunner Jacket",
+   "detail": "Size L · Men",
+   "shop": "OVERKILL",
+   "price": 75,
+   "was": 149,
+   "category": "Jackets",
+   "url": "https://www.overkillshop.com/products/nike-nrg-tech-woven-windrunner-jacket-ii4600-717-sundial?variant=55548554379644",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/II4600-717_1.jpg?v=1753090437&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "sport",
+    "streetwear",
+    "statement"
+   ],
+   "department": "Men",
+   "sizes": [
+    "L"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Porte-cartes Demi-Lune",
    "detail": "Women",
@@ -1660,27 +1558,6 @@
    "department": "Not specified",
    "sizes": [
     "XXS"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Mapleton lightweight t-shirt",
-   "detail": "Cypress · Sizes XS–S",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
    ]
   },
   {
@@ -1744,6 +1621,24 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "Gato",
+   "detail": "Size 47 · Unisex",
+   "shop": "OVERKILL",
+   "price": 55,
+   "was": 109,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-gato-hq6020-400-coastal-blue-white-gum-light-brown?variant=54875123319164",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HQ6020-400_1.jpg?v=1737543832&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Porte-cartes Demi-Lune",
    "detail": "Women",
@@ -1798,29 +1693,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Maple Valley light weight t-shirt",
-   "detail": "Peach brulee · Sizes XXS–XL · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299680954",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "XL"
-   ]
   },
   {
    "brand": "Reebok",
@@ -1883,6 +1755,24 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "W Air Superfly",
+   "detail": "Sizes 36.5–38 · Unisex",
+   "shop": "OVERKILL",
+   "price": 50,
+   "was": 99,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-w-air-superfly-hq79555-200-ale-brown-team-red-treeline?variant=55380946321788",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HQ7955-200_1.jpg?v=1752244054&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Airpod case pro",
    "detail": "Sale",
@@ -1936,27 +1826,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Maple Valley light weight t-shirt",
-   "detail": "Burgundy · Sizes XXS–S · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "S"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2022,6 +1891,24 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "Zoom Field Jaxx",
+   "detail": "Size 37.5 · Unisex",
+   "shop": "OVERKILL",
+   "price": 90,
+   "was": 170,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/travis-scott-x-nike-zoom-field-jaxx-hq3072-400-leche-blue-baroque-brown-pale-ivory?variant=55159760716156",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HQ3072-400_1.jpg?v=1747121318&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Mètre ruban",
    "detail": "Sale",
@@ -2075,26 +1962,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "Burgundy · Size XXL",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301253818",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XXL"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2157,6 +2024,26 @@
    "sizes": []
   },
   {
+   "brand": "Jordan",
+   "name": "IH Crop Hoodie",
+   "detail": "Size XXL · Men",
+   "shop": "OVERKILL",
+   "price": 65,
+   "was": 109,
+   "category": "Hoodies",
+   "url": "https://www.overkillshop.com/products/jordan-ih-crop-hoodie-im7367-010-black-ivory?variant=56356791910780",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7367-010_1.jpg?v=1771314311&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Mètre ruban",
    "detail": "Sale",
@@ -2210,26 +2097,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Pumpkin spice · Size M · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "M"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2295,6 +2162,26 @@
    "sizes": []
   },
   {
+   "brand": "Jordan",
+   "name": "IH MJ Star SS Tee",
+   "detail": "Size XL · Men",
+   "shop": "OVERKILL",
+   "price": 30,
+   "was": 49,
+   "category": "T-shirts",
+   "url": "https://www.overkillshop.com/products/jordan-ih-mj-star-ss-tee-im7363-010-black?variant=56356792369532",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7363-010_1.jpg?v=1771313979&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XL"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Tote Jade",
    "detail": "Sale",
@@ -2352,27 +2239,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Aitkin light weight chest logo t-shirt",
-   "detail": "Desert sand · Size S",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "skate",
-    "utility",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2436,6 +2302,25 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "Air Max Plus VII",
+   "detail": "Sizes 40–48.5 · Men",
+   "shop": "OVERKILL",
+   "price": 120,
+   "was": 189,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-air-max-plus-vll-iq0282-084-smoke-grey-metallic-silver-iron-grey?variant=56387188261244",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IQ0282-084_1.jpg?v=1772206868&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "shopping diane",
    "detail": "Sale",
@@ -2492,26 +2377,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "V neck top",
-   "detail": "Brown · Size XL · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/v-neck-top-dk0a8677k471-brown?variant=45766449758394",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677K47-1_befcc9ef-a88c-4713-b6a3-2f3fdb76bbc3.jpg?v=1779221378&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XL"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2577,6 +2442,28 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "NRG CS OH Fleece Pant",
+   "detail": "Size XXL · Men",
+   "shop": "OVERKILL",
+   "price": 70,
+   "was": 109,
+   "category": "Trousers",
+   "url": "https://www.overkillshop.com/products/nike-nocta-x-nike-nrg-cs-oh-fleece-pant-fz4675-063-dark-grey-heather-matte-silver-black?variant=43131636056255",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/FZ4675-063_1.jpg?v=1713973973&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Tote Jade",
    "detail": "Sale",
@@ -2634,26 +2521,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "V neck top",
-   "detail": "Black · Size XL · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XL"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2716,6 +2583,26 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "W LD-1000 SE",
+   "detail": "Sizes 40–41 · Women",
+   "shop": "OVERKILL",
+   "price": 45,
+   "was": 69,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-w-wld-1000-se-ih2128-800-ember-glow-beyond-pink-sail-alabaster?variant=55526925861244",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IH2128-800_1.jpg?v=1752498649&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "shopping diane",
    "detail": "Sale",
@@ -2773,28 +2660,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Racer top",
-   "detail": "Beige · Sizes XXS–XL · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "XL"
-   ]
   },
   {
    "brand": "Reebok",
@@ -2858,6 +2723,24 @@
     "streetwear"
    ],
    "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Gato",
+   "detail": "Sizes 37.5–38.5 · Unisex",
+   "shop": "OVERKILL",
+   "price": 45,
+   "was": 69,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-gato-ib8509-001-black-varsity-maize-white-gum-dark-brown?variant=55261173350780",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IB8509-001_1.jpg?v=1748326804&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2928,26 +2811,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Plentywood vest",
-   "detail": "Stormy weather · Size XL · Women",
-   "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XL"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID Train Blocked Knit Shorts",
    "detail": "Sizes XXS–XXL · Men",
@@ -3015,6 +2878,28 @@
    "sizes": []
   },
   {
+   "brand": "Jordan",
+   "name": "IH OS Fleece Pant",
+   "detail": "Size L · Men",
+   "shop": "OVERKILL",
+   "price": 65,
+   "was": 99,
+   "category": "Trousers",
+   "url": "https://www.overkillshop.com/products/jordan-ih-os-fleece-pant-im7369-010-black?variant=56356792172924",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7369-010_1.jpg?v=1771314586&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "L"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "le porte-monnaie neige",
    "detail": "Women",
@@ -3072,26 +2957,6 @@
    "department": "Not specified",
    "sizes": [
     "XS"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Sunflower t-shirt",
-   "detail": "Black · Size L",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-t-shirt-dk0a88f4blk1-black?variant=45766439665850",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4BLK-1_69984b68-abfb-49d9-8918-343310cf9db1.jpg?v=1779221370&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "L"
    ]
   },
   {
@@ -3156,6 +3021,25 @@
     "streetwear"
    ],
    "department": "Men",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Total90 Shox Magia",
+   "detail": "Sizes 37.5–40.5 · Women",
+   "shop": "OVERKILL",
+   "price": 99,
+   "was": 149,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-total90-shox-magia-ir-176-002-black-spinach-green-yellow-diamond-black?variant=57217643676028",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR8176-002_1.jpg?v=1785484741&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3228,28 +3112,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XL · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "XL"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID 1-Color Logo Fleece Shorts",
    "detail": "Sizes XS–XXL · Men",
@@ -3319,6 +3181,25 @@
    ]
   },
   {
+   "brand": "Nike",
+   "name": "Total90 Shox Magia",
+   "detail": "Sizes 37.5–40.5 · Women",
+   "shop": "OVERKILL",
+   "price": 99,
+   "was": 149,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-total90-shox-magia-ir-176-100-white-metallic-silver-black?variant=57217643872636",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR8176-100_1.jpg?v=1785485653&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "T-shirt ajusté écru à micro logo A.P.C.",
    "detail": "Sizes XS–XL · Women",
@@ -3386,26 +3267,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Panther t-shirt",
-   "detail": "Whitecap grey · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID 1-Color Logo Fleece Shorts",
    "detail": "Sizes XS–XXL · Men",
@@ -3467,6 +3328,25 @@
     "streetwear"
    ],
    "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Jordan",
+   "name": "Wmns Air Jordan 3 Retro Starfish",
+   "detail": "Sizes 37.5–42 · Unisex",
+   "shop": "OVERKILL",
+   "price": 99,
+   "was": 149,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/wmns-air-jordan-3-retro-starfish-ih7694-200-fossil-starfish-sail?variant=55522393915772",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IH7694-200_1.jpg?v=1752154436&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -3535,26 +3415,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Outdoor t-shirt",
-   "detail": "Black · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "RBK Collegiate Men's Polo",
    "detail": "Sizes XS–XL · Men",
@@ -3618,6 +3478,26 @@
    "sizes": []
   },
   {
+   "brand": "Jordan",
+   "name": "Air Jordan 1 Retro High OG Shattered Backboard",
+   "detail": "Sizes 37.5–38 · Unisex",
+   "shop": "OVERKILL",
+   "price": 129,
+   "was": 190,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/air-jordan-1-retro-high-og-shattered-backboard-dz5485-008-black-black-sail-starfish?variant=55533445841276",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/DZ5485-008_1_e309c9ce-1d81-4535-84c5-e6fa13710a22.jpg?v=1752669176&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "statement"
+   ],
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Sac Baby Ninon Shoulder",
    "detail": "Women",
@@ -3674,28 +3554,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Running Wild top",
-   "detail": "Brown · Sizes S–L · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
-   "tag": "Sport edit",
-   "styles": [
-    "skate",
-    "utility",
-    "sport"
-   ],
-   "department": "Women",
-   "sizes": [
-    "S",
-    "L"
-   ]
   },
   {
    "brand": "Reebok",
@@ -3762,6 +3620,29 @@
    "sizes": []
   },
   {
+   "brand": "Nike",
+   "name": "Fleece CS Pant",
+   "detail": "Sizes M–L · Men",
+   "shop": "OVERKILL",
+   "price": 75,
+   "was": 109,
+   "category": "Trousers",
+   "url": "https://www.overkillshop.com/products/nocta-x-nike-fleece-cs-pant-hj6334-390-moss-medium-olive-olive-canvas-moss?variant=56433333764476",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HJ6334-390_1.jpg?v=1772612083&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "M",
+    "L"
+   ]
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Cardigan ajusté écru à micro logo A.P.C.",
    "detail": "Sizes S–XL · Women",
@@ -3826,26 +3707,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "Desert sand · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Tulip Core High Impact Sports Bra Top",
    "detail": "Sizes XXS–XL · Women",
@@ -3906,6 +3767,29 @@
    ],
    "department": "Women",
    "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Fleece CS Pant",
+   "detail": "Sizes XL–XXL · Men",
+   "shop": "OVERKILL",
+   "price": 75,
+   "was": 109,
+   "category": "Trousers",
+   "url": "https://www.overkillshop.com/products/nocta-x-nike-fleece-cs-pant-hm5764-063-dark-grey-heather-matte-silver-black?variant=56433333961084",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HM5764-063_1.jpg?v=1772613197&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "A.P.C. Paris",
@@ -3975,26 +3859,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Enterprise light weight t-shirt",
-   "detail": "Black · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "RBK Collegiate Men's Shorts",
    "detail": "Sizes XXS–XL · Men",
@@ -4054,6 +3918,26 @@
     "streetwear"
    ],
    "department": "Men",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "W Zoom Vomero 5",
+   "detail": "Sizes 37.5–42 · Women",
+   "shop": "OVERKILL",
+   "price": 110,
+   "was": 159,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-w-zoom-vomero-5-ll6235-500-tattoo-particle-rose-particle-rose?variant=56396084117884",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/II6236-500_1.jpg?v=1772525269&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "statement"
+   ],
+   "department": "Women",
    "sizes": []
   },
   {
@@ -4122,26 +4006,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Apison light weight t-shirt",
-   "detail": "Dark blue · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Lux High-Rise 6\" Biker Shorts",
    "detail": "Sizes XXS–XL · Women",
@@ -4201,6 +4065,26 @@
     "streetwear"
    ],
    "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Zoom Vomero 5",
+   "detail": "Sizes 41–48.5 · Men",
+   "shop": "OVERKILL",
+   "price": 110,
+   "was": 159,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/mike-zoom-vomero-5-im3486-001-iron-grey-chrome-metallic-silver?variant=56396083691900",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM3486-001_1.jpg?v=1772205336&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "statement"
+   ],
+   "department": "Men",
    "sizes": []
   },
   {
@@ -4267,26 +4151,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "White · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "RBK-Lab Speed Running T-Shirt",
    "detail": "Sizes XS–3XL · Men",
@@ -4345,6 +4209,24 @@
     "streetwear"
    ],
    "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Reactx Rejuven8 Slide QS .Swoosh Touch Grass",
+   "detail": "Sizes 37.5–47.5 · Unisex",
+   "shop": "OVERKILL",
+   "price": 50,
+   "was": 70,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-reactx-rejuven8-slide-qs-swoosh-touch-grass-ir0459-001-dark-smoke-grey-black-klly-green?variant=56696905892220",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR0459-001_1.jpg?v=1778483138&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -4408,26 +4290,6 @@
    "styles": [
     "skate",
     "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Tipp City lightweight t-shirt",
-   "detail": "Egret · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
    ],
    "department": "Not specified",
    "sizes": [
@@ -4501,6 +4363,25 @@
    "sizes": []
   },
   {
+   "brand": "Jordan",
+   "name": "Air Jordan 1 Retro High OG",
+   "detail": "Size 42 · Men",
+   "shop": "OVERKILL",
+   "price": 135,
+   "was": 180,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/jordan-air-jordan-1-retro-high-og-555088-202-vachetta-tan-black-sail?variant=56692204372348",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/555088-202_1.jpg?v=1719398709&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": []
+  },
+  {
    "brand": "A.P.C. Paris",
    "name": "Polo écru ajusté à rayures",
    "detail": "Sizes XS–XL · Women",
@@ -4566,27 +4447,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Cherry Fork lightweight t-shirt",
-   "detail": "Egret · Sizes XS–S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/cherry-fork-lightweight-t-shirt-dk0a8ds7c481-white?variant=45766670844090",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DS7C48-1_9d2520fd-49bf-47e8-97c8-37630660a753.jpg?v=1779221447&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Sport Street Crop Sports Bra Top",
    "detail": "Sizes XXS–XL · Women",
@@ -4635,26 +4495,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Amberley lightweight t-shirt",
-   "detail": "Egret · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Reebok x Market Unisex Graphic T-Shirt",
    "detail": "Sizes S–L · Unisex",
@@ -4694,26 +4534,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Dark brown · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
   },
   {
    "brand": "Reebok",
@@ -4758,26 +4578,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Navy blue · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f4nv01-navy?variant=45766667632826",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4NV0-1_3248569f-4e53-404c-96fc-3334ff96994e.jpg?v=1779221454&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
   },
   {
    "brand": "Reebok",
@@ -4826,26 +4626,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Core High-Rise Women's Leggings",
    "detail": "Sizes XXS–XL · Women",
@@ -4889,26 +4669,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Wolfhurst midweight t-shirt",
-   "detail": "Charcoal grey · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/wolfhurst-midweight-t-shirt-dk0a88qoch01-grey?variant=45766599377082",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QOCH0-1_32358b88-4343-4760-88e8-2ac46714b82f.jpg?v=1779221429&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Satin Logo Fleece Pants",
    "detail": "Sizes XXS–M · Women",
@@ -4950,29 +4710,6 @@
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–L · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
   },
   {
    "brand": "Reebok",
@@ -5026,26 +4763,6 @@
    ]
   },
   {
-   "brand": "Dickies",
-   "name": "Wellsville midweight t-shirt",
-   "detail": "Black · Size M · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "M"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "ID Small Logo Fleece Jogger Pants",
    "detail": "Sizes XS–XL · Men",
@@ -5090,27 +4807,6 @@
    "sizes": []
   },
   {
-   "brand": "Dickies",
-   "name": "Vernal midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "XXL"
-   ]
-  },
-  {
    "brand": "Reebok",
    "name": "Smash Edge Elastic & Top Strap Kids Trainers",
    "detail": "Sizes 27–32.5 · Kids",
@@ -5148,27 +4844,6 @@
    "sizes": [
     "M",
     "L"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "XXL"
    ]
   },
   {
