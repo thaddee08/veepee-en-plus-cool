@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "rigId": "restpost-human-base-v1",
+  "mannequin": {
+    "modelUrl": "assets/try-on/human-base-rigged.glb",
+    "heightMeters": 1.72,
+    "source": "https://www.innerscene.com/tools/library/3d-parts/human-base-mesh-with-editable-53-bone-rig-8e7c8ab1",
+    "license": "CC0"
+  },
+  "products": []
+}
