@@ -1,0 +1,14 @@
+name = "restpost-virtual-try-on"
+main = "virtual-try-on.js"
+compatibility_date = "2026-10-10"
+
+[vars]
+ALLOWED_ORIGIN = "https://thaddee08.github.io"
+ALLOWED_HOSTNAME = "thaddee08.github.io"
+MODEL_IMAGE_URL = "https://thaddee08.github.io/veepee-en-plus-cool/assets/mannequin-photo.png"
+ALLOWED_PRODUCT_IMAGE_HOSTS = "asset.snipes.com,assets.adidas.com,cdn.shopify.com,image.uniqlo.com,img.bstn.com,img01.ztat.net,www.6pmseason.com"
+MAX_TRYON_REQUESTS_PER_HOUR = "8"
+
+[[kv_namespaces]]
+binding = "TRYON_LIMITS"
+id = "REPLACE_WITH_YOUR_CLOUDFLARE_KV_NAMESPACE_ID"
