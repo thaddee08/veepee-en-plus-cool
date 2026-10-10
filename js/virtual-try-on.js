@@ -207,7 +207,17 @@ async function loadBase(app) {
       object.castShadow = true; object.receiveShadow = true;
       for (const bone of object.skeleton.bones) app.boneMap.set(bone.name, bone);
       const materials = Array.isArray(object.material) ? object.material : [object.material];
-      materials.forEach(material => { if (material) { material.roughness = 0.68; material.metalness = 0.04; material.needsUpdate = true; } });
+      const displayMaterials = materials.map(material => new THREE.MeshPhysicalMaterial({
+        color: "#eee9e2",
+        roughness: 0.34,
+        metalness: 0.015,
+        clearcoat: 0.28,
+        clearcoatRoughness: 0.24,
+        map: material?.map || null,
+        normalMap: material?.normalMap || null,
+        roughnessMap: material?.roughnessMap || null
+      }));
+      object.material = Array.isArray(object.material) ? displayMaterials : displayMaterials[0];
     }
   });
   app.figure.add(model);
@@ -259,7 +269,7 @@ function renderItemStatus(items, configs, errors, loaded) {
     const name = document.createElement("span"); name.textContent = item.brand + " · " + item.name;
     const state = document.createElement("small");
     state.textContent = errors.has(item.url) ? "Model unavailable" : loaded.has(item.url) ? "3D fit loaded" : "3D garment asset needed";
-    state.dataset.state = errors.has(item.url) ? "error" : configs.has(item.url) ? "ready" : "missing";
+    state.dataset.state = errors.has(item.url) ? "error" : loaded.has(item.url) ? "ready" : "missing";
     row.append(name, state); box.append(row);
   }
   if (!fitted) {
