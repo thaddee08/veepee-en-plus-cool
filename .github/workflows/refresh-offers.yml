@@ -2,17 +2,24 @@ name: Refresh sale feed
 
 on:
   schedule:
-    - cron: "23 4 * * *" # every day, before Germany wakes up
+    - cron: "23 4,16 * * *" # twice a day: 06:23 and 18:23 in Germany (summer time)
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh-offers
+  cancel-in-progress: false
 
 jobs:
   refresh:
+    # Code pushes only redeploy the site; the feed is refreshed on schedule or by hand.
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -37,4 +44,28 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/offers.json
           git commit -m "Refresh sale feed"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+  # Commits pushed with the workflow token don't trigger a GitHub Pages build,
+  # so the site is deployed from here instead (Settings → Pages → Source: GitHub Actions).
+  deploy:
+    needs: refresh
+    if: always() && (needs.refresh.result == 'success' || needs.refresh.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
