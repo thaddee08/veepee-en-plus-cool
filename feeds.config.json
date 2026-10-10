@@ -1,0 +1,17 @@
+{
+  "userAgent": "RESTPOST sale feed (+https://github.com/thaddee08/veepee-en-plus-cool)",
+  "maxOffers": 240,
+  "minDiscountPercent": 10,
+  "delayMs": 1500,
+  "sources": [
+    {"type": "shopify", "shop": "HOMEBOY", "brand": "HOMEBOY", "baseUrl": "https://homeboy.eu", "styles": ["skate", "streetwear"], "tag": "Skate & baggy", "maxItems": 40},
+    {"type": "shopify", "shop": "DICKIES", "brand": "Dickies", "baseUrl": "https://dickies.eu", "styles": ["skate", "utility"], "tag": "Workwear", "maxItems": 40},
+    {"type": "shopify", "shop": "REEBOK", "brand": "Reebok", "baseUrl": "https://www.reebok.eu", "styles": ["sport", "retro"], "tag": "Retro sport", "maxItems": 40},
+    {"type": "shopify", "shop": "A.P.C.", "brand": "A.P.C.", "baseUrl": "https://www.apc.fr", "styles": ["minimal"], "tag": "French minimal", "maxItems": 30, "delayMs": 10000, "nounFirst": true, "departmentHints": [{"pattern": "-h\\d{5}$", "department": "Men"}, {"pattern": "-f\\d{5}$", "department": "Women"}]},
+    {"type": "shopify", "shop": "ARMEDANGELS", "brand": "Armedangels", "baseUrl": "https://www.armedangels.com", "styles": ["minimal"], "tag": "Conscious basics", "maxItems": 30},
+    {"type": "shopify", "shop": "6PM", "brand": "6PM", "baseUrl": "https://www.6pmseason.com", "styles": ["streetwear"], "tag": "Frankfurt streetwear", "maxItems": 30},
+    {"type": "shopify", "shop": "RAINS", "brand": "Rains", "baseUrl": "https://www.rains.com", "styles": ["utility", "minimal"], "tag": "City weather", "maxItems": 30},
+    {"type": "shopify", "shop": "REPRESENT", "brand": "Represent", "baseUrl": "https://eu.representclo.com", "styles": ["streetwear"], "tag": "Streetwear", "maxItems": 30, "delayMs": 10000},
+    {"type": "awin", "urlsEnv": "AWIN_FEED_URLS", "maxItemsPerShop": 40, "shopNames": {}}
+  ]
+}

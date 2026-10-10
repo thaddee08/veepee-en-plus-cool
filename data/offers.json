@@ -1,0 +1,3939 @@
+{
+ "generatedAt": "2026-10-10T13:40:56.224Z",
+ "sources": [
+  {
+   "source": "HOMEBOY",
+   "ok": true,
+   "found": 93
+  },
+  {
+   "source": "DICKIES",
+   "ok": true,
+   "found": 473
+  },
+  {
+   "source": "REEBOK",
+   "ok": true,
+   "found": 958
+  },
+  {
+   "source": "A.P.C.",
+   "ok": true,
+   "found": 199
+  },
+  {
+   "source": "ARMEDANGELS",
+   "ok": true,
+   "found": 693
+  },
+  {
+   "source": "6PM",
+   "ok": true,
+   "found": 0
+  },
+  {
+   "source": "RAINS",
+   "ok": true,
+   "found": 0
+  },
+  {
+   "source": "REPRESENT",
+   "ok": true,
+   "found": 0
+  },
+  {
+   "source": "awin",
+   "ok": true,
+   "found": 0
+  }
+ ],
+ "offers": [
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Cargo Pants BLACK TAB",
+   "detail": "Sizes 22–32",
+   "shop": "HOMEBOY",
+   "price": 19.99,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cargo-pants-black-tab?variant=58394344849782",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1701-10_2.jpg?v=1708429873&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Woodworth beanie",
+   "detail": "Military green",
+   "shop": "DICKIES",
+   "price": 9.5,
+   "was": 19,
+   "category": "Accessories",
+   "url": "https://dickies.eu/products/woodworth-beanie-dk0a4x7ymgr1-khaki?variant=45766464405690",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4X7YMGR-1_b65a33f6-b6fe-489a-b15e-c128ce316b8e.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Reebok",
+   "name": "Sadie 2 Colour Logo Women's Cropped T-Shirt",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "REEBOK",
+   "price": 10,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/dreamblend-spacer-vector-track-jacket-100257294-4455?variant=56638289707356",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100257294_142803_FR_Model_eCom.jpg?v=1770922662&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Lou Rue Madame Small",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 37.5,
+   "was": 75,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-had-cohmn-m67065?variant=58022350389635",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065HAD_00.jpg?v=1778519204&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "ICONIC Å CAP",
+   "detail": "black-armedangels yellow",
+   "shop": "ARMEDANGELS",
+   "price": 29.9,
+   "was": 49.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/iconic-a-cap?variant=56598288761157",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008449-3345_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra CARGO PANTS Black TAB",
+   "detail": "Size 26",
+   "shop": "HOMEBOY",
+   "price": 19.99,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-black-tab?variant=58393920766326",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201672_Product.jpg?v=1702288106&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Kids' Mapleton light weight t-shirt",
+   "detail": "Pine · Size XS · Kids",
+   "shop": "DICKIES",
+   "price": 10,
+   "was": 20,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/kids-mapleton-light-weight-t-shirt-dk0ksr64pin1-green?variant=45766234472634",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0KSR64PIN-1_c4b1b7cf-837c-4546-a1ae-d9a48837cc7a.jpg?v=1779221299&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Kids",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Cap Sleeve Women's T-Shirt",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 10,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/id-cap-sleeve-t-shirt-100252978-4455?variant=56638242324828",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100252978_153972_FR_Model_eCom.jpg?v=1770250171&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt blanc à logo camping effet vintage",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-post-card-gots-aab-cohow-f26599?variant=58022972948867",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-F26599AAB_00.jpg?v=1779368118&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LEO LENOVAA ROCK",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 59.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt-dark-steel-black?variant=56485757190469",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra SWARM CHINO Pant Petrol TAB",
+   "detail": "Sizes 25–26",
+   "shop": "HOMEBOY",
+   "price": 17.99,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-swarm-chino-pant-petrol-tab?variant=58393910378870",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201995_Product.jpg?v=1702292256&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Honeyville tank top",
+   "detail": "White · Sizes XS–L · Women",
+   "shop": "DICKIES",
+   "price": 11,
+   "was": 22,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766514966714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88520WH-1_61b0c8e0-3d55-48c3-8a46-ea1858cf335b.jpg?v=1779221410&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Logo Cotton Sports Bra Top",
+   "detail": "Sizes XS–L · Women",
+   "shop": "REEBOK",
+   "price": 10,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/reebok-identity-logocotton-bra-top-100239901-1315?variant=55324006285660",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142607-100239901_04_Large_74500513-8b47-4110-83b3-e0cfa0678c8e.jpg?v=1758205305&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt rose à logo camping effet vintage",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-post-card-gots-fae-cohow-f26599?variant=58022974226819",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-F26599FAE_00.jpg?v=1779368118&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LEO LENOVAA SLIP-SKIRT",
+   "detail": "dark steel-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 59.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt?variant=56485757190469",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Chino DUST TAB",
+   "detail": "Sizes 25–27",
+   "shop": "HOMEBOY",
+   "price": 20,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust-tab?variant=58393938755958",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Summerdale logo beanie",
+   "detail": "Dark blue",
+   "shop": "DICKIES",
+   "price": 11,
+   "was": 22,
+   "category": "Accessories",
+   "url": "https://dickies.eu/products/summerdale-logo-beanie-dk0a87nbl181-navy?variant=45766425215162",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87NBL18-1_231254e1-57af-4d40-b0b9-e1928e36497b.jpg?v=1779221388&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "skate",
+    "utility",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Women's T-Shirt",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 12,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/id-train-tee-100254546-4455?variant=56638257987932",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254546_145007_FR_Model_eCom.jpg?v=1773336318&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "tote lou",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 55,
+   "was": 110,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-gac-cohpq-m61442?variant=58022991102339",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPQ-M61442GAC_00.jpg?v=1779368121&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "HIMAARI JERSEYHOSE",
+   "detail": "steel melange · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 54.9,
+   "was": 89.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/himaari-steel-melange?variant=54723425009989",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004668-2874_111.jpg?v=1789057271&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra UFO Cargo Denim Moon TAB",
+   "detail": "Sizes 24–25",
+   "shop": "HOMEBOY",
+   "price": 22,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-ufo-cargo-denim-moon-tab?variant=58393870401910",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200888_Product.jpg?v=1701962484&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Two pack boxers",
+   "detail": "Black · Size XS",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/two-pack-boxers-dk0a4xocblk1-black?variant=45766438551738",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XOCBLK-1_8ddb459c-573d-4fbe-b77f-557466330815.jpg?v=1779221364&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Blocked Men's T-Shirt",
+   "detail": "Sizes XXS–L · Men",
+   "shop": "REEBOK",
+   "price": 12,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/heritage-dance-track-pants-100255207-4509?variant=56638271586652",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255207_155708_FR_Model_eCom.jpg?v=1770922174&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt noir à logo jardin",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 55,
+   "was": 110,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-luxembourg-gots-lza-cohow-h26613?variant=58022976684419",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-H26613LZA_00.jpg?v=1779368118&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "MAGDAALENA JERSEYHOSE",
+   "detail": "black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 54.9,
+   "was": 89.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/magdaalena-black?variant=54722962653509",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30001778-105_111.jpg?v=1789056988&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "hb. Sweater Vest GREY HEATHER",
+   "detail": "Sizes XS–XL",
+   "shop": "HOMEBOY",
+   "price": 19.99,
+   "was": 69.99,
+   "category": "Jackets",
+   "url": "https://homeboy.eu/products/hb-sweater-vest-grey-heather?variant=58393873645942",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3300-12hb.SweaterVestFront.jpg?v=1740574893&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Plum · Size XS",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Dynamic Puff Women's T-Shirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 12,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/dynamic-puff-t-shirt-100253619-253619?variant=56638250844508",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253619_154007_FR_Model_eCom.jpg?v=1770912536&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt blanc à côtes en coton bio.",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 60,
+   "was": 120,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-blanc-a-cotes-en-coton-bio-aab-cohoy-f26586?variant=58023031439747",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/imageaplat.png?v=1787044333&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTE KAAYUA FALTENSHORTS",
+   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gestreifte-kaayua-faltenshorts-sand-stone-undyed-pink-mist?variant=57299273187653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008534-3658_111.jpg?v=1789057179&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "minimal",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra CARGO PANTS Olive TAB",
+   "detail": "Sizes 26–30",
+   "shop": "HOMEBOY",
+   "price": 29.99,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "True blue · Size XS",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Dynamic Puff Women's T-Shirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 12,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/dynamic-puff-t-shirt-100253617-253617?variant=56638250090844",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253617_154007_FR_Model_eCom.jpg?v=1770889480&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt imprimé d'une photo de Jean Touitou",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 60,
+   "was": 120,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-jean-gots-aab-cohbw-h26617?variant=58022380503427",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBW-H26617AAB_00.jpg?v=1779368117&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "ICONIC Å COLLEGE KNIT SWEATER",
+   "detail": "oatmilk-mars red · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Sweatshirts",
+   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater?variant=56597253292357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1789057179&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra WORK Pants WASHED BLUE TAB",
+   "detail": "Sizes 24–29",
+   "shop": "HOMEBOY",
+   "price": 26.99,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-washed-blue-tab?variant=58394365067638",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0700-81x-traWORKPantsDenimWASHEDBLUEFLAT_1.png?v=1722409699&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Brown · Size XS · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train 9\" Knit Men's Shorts",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 12,
+   "was": 30,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/id-train-9-knit-short-100243173-3417?variant=55324137161052",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243173_V1.jpg?v=1756401803&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt bleu clair à logo A.P.C. effet vintage",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 65,
+   "was": 130,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-apc-vintage-gots-iab-cohbu-f26581?variant=58022971310467",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBU-F26581IAB_00_ddb5adb2-c155-4c79-8ae1-d9fc42d6bec1.jpg?v=1784549817&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "ICONIC Å COLLEGE STRICKPULLOVER",
+   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 79.9,
+   "was": 129.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater-oatmilk-mars-red?variant=56597253292357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1789057179&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "minimal",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim WASHED GREY TAB",
+   "detail": "Sizes 22–24",
+   "shop": "HOMEBOY",
+   "price": 29.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Vernal vest",
+   "detail": "Egret · Sizes XS–L · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Embossed Edge T-Shirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/embossed-edge-t-shirt-100253629-1713?variant=56698410729820",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253629_154012_FR_Model_eCom.jpg?v=1770912633&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt écru à rayures noires",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 65,
+   "was": 130,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-julian-lzz-cohox-h26576?variant=58022360252803",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOX-H26576LZZ_00.jpg?v=1779368119&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "KARDAA T-SHIRT",
+   "detail": "foam · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-foam?variant=55610217267525",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-3472_111.jpg?v=1790181694&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra ALIEN Cargo Cord Black TAB",
+   "detail": "Sizes 22–24",
+   "shop": "HOMEBOY",
+   "price": 32.99,
+   "was": 109.98,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Mapleton lightweight t-shirt",
+   "detail": "Retro indigo · Size XS",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Studded Logo T-Shirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/studded-logo-t-shirt-100253950-10300?variant=56698411843932",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253950_155035_FR_Model_eCom.jpg?v=1770914939&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-cartes Demi-Lune",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 70,
+   "was": 140,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-iaf-pxcbc-f63270?variant=58022361301379",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBC-F63270IAF_00.jpg?v=1779369339&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "white · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt-white?variant=56485768626501",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-188_111.jpg?v=1789057005&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "Pencil Tee BLACK",
+   "detail": "Size XXS",
+   "shop": "HOMEBOY",
+   "price": 12,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-black?variant=58393936494966",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/pencilblack.png?v=1702391456&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Mapleton lightweight t-shirt",
+   "detail": "Cypress · Sizes XS–S",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Athlete Men's T-shirt",
+   "detail": "Sizes XXS–M · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/wardrobe-essentials-cropped-t-shirt-100254303-4508?variant=56638255759708",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254303_155331_FR_Model_eCom.jpg?v=1770918697&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-cartes Demi-Lune",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 70,
+   "was": 140,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-kbd-pxbvv-f63270?variant=58022351110531",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXBVV-F63270KBD_00.jpg?v=1779956988&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "black · Sizes XS–S · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt-black?variant=56485768397125",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1789057005&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Chino BLACK TAB",
+   "detail": "Sizes 25–26",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58394367361398",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Maple Valley light weight t-shirt",
+   "detail": "Peach brulee · Sizes XXS–XL · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299680954",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Athlete Men's T-shirt",
+   "detail": "Sizes XXS–M · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/id-football-7-shorts-100254302-4479?variant=56638255300956",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254302_155331_FR_Model_eCom.jpg?v=1770918640&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Airpod case pro",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/airpod-case-pro-cad-pxawv-m63043?variant=62142801052035",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63043CAD_00.jpg?v=1784886674&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "SLUB JERSEY GESTREIFTES T-SHIRT",
+   "detail": "oatmilk-foam · Size XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt-oatmilk-foam?variant=56186058473797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3537_111.jpg?v=1789591268&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
+   "detail": "Sizes 27–32",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Maple Valley light weight t-shirt",
+   "detail": "Burgundy · Sizes XXS–S · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Reebok World Men's T-Shirt",
+   "detail": "Sizes XXS–L · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/reebok-world-t-shirt-100253217-4457?variant=56638247633244",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253217_154393_FR_Model_eCom.jpg?v=1770888953&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Mètre ruban",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/metre-ruban-lzz-pxawv-m63044?variant=58022945063299",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63044LZZ_00.jpg?v=1779956987&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "V-NECK T-SHIRT",
+   "detail": "black · Sizes XS–S",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/v-neck-t-shirt?variant=56485768397125",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1789057005&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra WORK Pants MOON TAB",
+   "detail": "Sizes 24–29",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-moon-tab?variant=58394355859830",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/WORKERMOONFRONT_829dbf0a-0151-4a6a-9d7e-f313ddfecb7d.png?v=1722505107&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Burgundy · Size XXL",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301253818",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Lawn Club Men's T-Shirt",
+   "detail": "Sizes XS–L · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/lawn-club-t-shirt-100253179-4457?variant=56717958611292",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253179_154379_FR_Model_eCom.jpg?v=1770888849&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Mètre ruban",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/metre-ruban-cad-pxawv-m63044?variant=58022944833923",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63044CAD_00.jpg?v=1779956987&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "SLUB JERSEY STRIPE T-SHIRT",
+   "detail": "oatmilk-foam · Size XXL",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt?variant=56186058473797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3860_111.jpg?v=1789591271&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra WORK PANTS Black TAB",
+   "detail": "Sizes 25–27",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-black-tab-kopie?variant=58394349502838",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201347_Product.jpg?v=1702288063&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Pumpkin spice · Size M · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "M"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Crest Men's T-Shirt",
+   "detail": "Sizes XXS–XL · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/crest-t-shirt-100253048-253048?variant=56638244192604",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253048_153938_FR_Model_eCom.jpg?v=1770887652&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Jade",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-jade-aad-cohtb-m67083?variant=58022388138371",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHTB-M67083AAD_00.jpg?v=1779368120&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "KARDAA T-SHIRT",
+   "detail": "dynamo blue · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 24.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-dynamo-blue?variant=54723417211205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-2142_111.jpg?v=1790181694&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim SHORTS Indigo",
+   "detail": "Sizes 22–23",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-indigo?variant=58393877184886",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1079-80x-traMONSTERShortDenimIndigo.jpg?v=1708619747&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Aitkin light weight chest logo t-shirt",
+   "detail": "Desert sand · Size S",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "skate",
+    "utility",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "80's Vector Men's T-Shirt",
+   "detail": "Sizes XXS–M · Men",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/80s-vector-t-shirt-100253017-10300?variant=56638243209564",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253017_153916_FR_Model_eCom.jpg?v=1770250459&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "shopping diane",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/shopping-diane-faa-cohlj-m61443?variant=58023002243459",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLJ-M61443FAA_00.jpg?v=1779368119&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLOSHIRT",
+   "detail": "washed berry-granit · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-washed-berry-granit?variant=57299144180037",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3629_111.jpg?v=1789057162&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim Shorts Washed Blue",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue?variant=58393865617782",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "V neck top",
+   "detail": "Brown · Size XL · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/v-neck-top-dk0a8677k471-brown?variant=45766449758394",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677K47-1_befcc9ef-a88c-4713-b6a3-2f3fdb76bbc3.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Rib Biker Shorts",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 14,
+   "was": 35,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/id-train-rib-biker-shorts-100243240-1315?variant=55324145975644",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243240_V1.jpg?v=1756400595&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Jade",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-jade-aad-cogyx-m67083?variant=58022353142147",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGYX-M67083AAD_00.jpg?v=1779368119&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLOSHIRT",
+   "detail": "foam-oatmilk · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-foam-oatmilk?variant=57299143491909",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1789057162&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "minimal",
+    "sport"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Shorts Moon",
+   "detail": "Sizes 22–33",
+   "shop": "HOMEBOY",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon?variant=58393935774070",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "V neck top",
+   "detail": "Black · Size XL · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Lux Fitness Training Burnout Women's T-Shirt",
+   "detail": "Sizes XXS–L · Women",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/lux-fitness-training-burnout-tee-100254389-11019?variant=56698413187420",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254389_155385_FR_Model_eCom.jpg?v=1774017821&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "shopping diane",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/shopping-diane-baa-cohlj-m61443?variant=58023001817475",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLJ-M61443BAA_00.jpg?v=1779368119&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LARISAANA BLUSE",
+   "detail": "foam · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/larisaana-blouse-foam?variant=55573320663365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3472_111.jpg?v=1789591268&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER CARGO SHORTS OLIVE",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 24,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/kopie-von-x-tra-monster-cargo-shorts-olive?variant=58393879347574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1500-83x-traMONSTERCargoSHORTSOLIVE_1.jpg?v=1712828819&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "skate",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Racer top",
+   "detail": "Beige · Sizes XXS–XL · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Brie Small Logo Women's Leggings",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/brie-small-logo-legging-100251593-4455?variant=56638203167068",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100251593_142663_FR_Model_eCom.jpg?v=1770249359&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt vert foncé à logo A.P.C. effet vintage",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-apc-vintage-gots-kaf-cohbu-h26594?variant=58022978847107",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBU-H26594KAF_00.jpg?v=1779368117&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GESTREIFTES POLO T-SHIRT",
+   "detail": "foam-oatmilk · Sizes S–XXL",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt?variant=57299143491909",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1789057162&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER CHINO SHORTS Dust",
+   "detail": "Sizes 22–28",
+   "shop": "HOMEBOY",
+   "price": 24,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-shorts-dust?variant=58393893503350",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1400-82_2_636bf907-a236-40c4-b1b4-0dfacb15108c.jpg?v=1723129899&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Plentywood vest",
+   "detail": "Stormy weather · Size XL · Women",
+   "shop": "DICKIES",
+   "price": 12.5,
+   "was": 25,
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Blocked Knit Shorts",
+   "detail": "Sizes XXS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/id-train-blocked-knit-shorts-100255082-4507?variant=56638270767452",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255082_155678_FR_Model_eCom.jpg?v=1773328241&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "le porte-monnaie neige",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/le-porte-monnaie-neige-iaf-pxcbc-f63024?variant=58022959612291",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBC-F63024IAF_00.jpg?v=1779369339&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LARISAANA BLUSE",
+   "detail": "very berry · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/larisaana-blouse-very-berry?variant=55573320466757",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3434_111.jpg?v=1789591268&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "PENCIL Hood ITALIAN WINE",
+   "detail": "Size XS",
+   "shop": "HOMEBOY",
+   "price": 29.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/pencil-hood-italian-wine?variant=58393856606582",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILHOODITALIANWINE.png?v=1726646685&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Sunflower t-shirt",
+   "detail": "Black · Size L",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/sunflower-t-shirt-dk0a88f4blk1-black?variant=45766439665850",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4BLK-1_69984b68-abfb-49d9-8918-343310cf9db1.jpg?v=1779221370&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Rib Shrug",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "Jackets",
+   "url": "https://www.reebok.eu/products/id-train-rib-shrug-100254843-11019?variant=56638264213852",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254843_155555_FR_Model_eCom.jpg?v=1770921562&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt ajusté bleu marine à micro logo A.P.C.",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/top-celia-gots-iak-cohpf-f26592?variant=58022982287747",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26592IAK_00.jpg?v=1779368120&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GMT DYE RIPP-HOSE",
+   "detail": "tinted navy · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-tinted-navy?variant=56485804769605",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-3232_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "PENCIL Tee POPPY RED",
+   "detail": "Sizes XXS–S",
+   "shop": "HOMEBOY",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927156086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "skate",
+    "streetwear",
+    "statement"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Summerdale light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XL · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID 1-Color Logo Fleece Shorts",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239983-1315?variant=55324010676572",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142649-100239983_04Large.jpg?v=1758205597&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt ajusté écru à micro logo A.P.C.",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/top-celia-gots-aad-cohpf-f26592?variant=58022981730691",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26592AAD_00.jpg?v=1779368120&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "GMT DYE RIPP-HOSE",
+   "detail": "space steel · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 79.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-space-steel?variant=56485804572997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-2682_111.jpg?v=1789057123&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "MASTERBOY Tee BLACK",
+   "detail": "Size XXS",
+   "shop": "HOMEBOY",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Panther t-shirt",
+   "detail": "Whitecap grey · Size S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID 1-Color Logo Fleece Shorts",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 16,
+   "was": 40,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239985-3364?variant=55324012478812",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239985_V1_ed412d30-21cc-493b-b605-dba51d09ddf0.jpg?v=1756230640&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Ninon Small",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 95,
+   "was": 190,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-ninon-small-haf-puaat-m61861?variant=58022379684227",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-M61861HAF_00.jpg?v=1779956988&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "COTTON LINEN JACKET",
+   "detail": "fatigue green · Sizes S–XXL",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748737626437",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1789057058&width=800",
+   "tag": "Romantic find",
+   "styles": [
+    "minimal",
+    "boho"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Sizes XXS–M",
+   "shop": "HOMEBOY",
+   "price": 34.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872105846",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Outdoor t-shirt",
+   "detail": "Black · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "RBK Collegiate Men's Polo",
+   "detail": "Sizes XS–XL · Men",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Shirts",
+   "url": "https://www.reebok.eu/products/rbk-collegiate-polo-100253132-1714?variant=56698409222492",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253132_154363_FR_Model_eCom.jpg?v=1770888589&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Sac Baby Ninon Shoulder",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 95,
+   "was": 190,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/baby-ninon-shoulder-haf-puaat-f67027?variant=58022370967939",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-F67027HAF_00_6ba73efe-5ea6-4af5-857e-f362afd115ed.jpg?v=1784645166&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Armedangels",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "fatigue green · Sizes S–XXL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-fatigue-green?variant=56748737626437",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-3453_111.jpg?v=1789057058&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
+   "detail": "Size 25",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Running Wild top",
+   "detail": "Brown · Sizes S–L · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
+   "tag": "Sport edit",
+   "styles": [
+    "skate",
+    "utility",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Run Shorts",
+   "detail": "Sizes XXS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/rbk-lab-booty-shorts-100255073-4502?variant=56638266868060",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255073_155676_FR_Model_eCom.jpg?v=1773328710&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Cardigan ajusté écru à micro logo A.P.C.",
+   "detail": "Sizes S–XL · Women",
+   "shop": "A.P.C.",
+   "price": 95,
+   "was": 190,
+   "category": "Knitwear",
+   "url": "https://www.apc.fr/products/top-cora-gots-aad-cohpf-f26591?variant=58022979076483",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26591AAD_00.jpg?v=1779368119&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1789056975&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Bricklane t-shirt",
+   "detail": "Desert sand · Size S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Tulip Core High Impact Sports Bra Top",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/tulip-core-high-impact-bra-100254537-4455?variant=56638257267036",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254537_143562_FR_Model_eCom_9685b353-bdd4-47ae-b5a4-6c5458b2036a.jpg?v=1770919156&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Sweat bleu à logo V.P.C.",
+   "detail": "Sizes XXS–XXL",
+   "shop": "A.P.C.",
+   "price": 105,
+   "was": 210,
+   "category": "Sweatshirts",
+   "url": "https://www.apc.fr/products/sweat-bleu-a-logo-vpc-imn-cohbn-m27907?variant=58371769008515",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907IMN_00.jpg?v=1782921646&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 99.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1789056975&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Enterprise light weight t-shirt",
+   "detail": "Black · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "RBK Collegiate Men's Shorts",
+   "detail": "Sizes XXS–XL · Men",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/rbk-collegiate-shorts-100253135-1714?variant=56638245896540",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253135_154364_FR_Model_eCom_1.jpg?v=1774017468&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Sweat rouge brique à logo V.P.C.",
+   "detail": "Sizes XXS–XXL",
+   "shop": "A.P.C.",
+   "price": 105,
+   "was": 210,
+   "category": "Sweatshirts",
+   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358253955",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907ELC_00.jpg?v=1778524122&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1789057214&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY CORD Pants NAVY TAB",
+   "detail": "Size 26",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-navy-tab-1?variant=58393906577782",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-77x-traBAGGYCordUSNAVYFRONT_af4bde5b-7b53-4cfe-b310-81d8b9148712.png?v=1752145113&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Apison light weight t-shirt",
+   "detail": "Dark blue · Size S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Lux High-Rise 6\" Biker Shorts",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/lux-high-rise-6-biker-short-100243220-1315?variant=55324141322588",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243220_V1.jpg?v=1756323136&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "pull gia",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 115,
+   "was": 230,
+   "category": "Knitwear",
+   "url": "https://www.apc.fr/products/pull-gia-iak-wvbep-f23486?variant=58023001850243",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEP-F23486IAK_00.jpg?v=1779369339&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1789057214&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
+   "detail": "Size 24",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Bricklane t-shirt",
+   "detail": "White · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "RBK-Lab Speed Running T-Shirt",
+   "detail": "Sizes XS–3XL · Men",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/rbk-lab-speed-running-t-shirt-100242024-2248?variant=55324098888028",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242024_V1.jpg?v=1756235393&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "XXL",
+    "3XL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Polo de rugby A.P.C. bleu marine",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 115,
+   "was": 230,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-alexis-gots-iak-cohru-h26633?variant=58023001588099",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHRU-H26633IAK_00.jpg?v=1779368119&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "PAASITHE JEANSJACKE",
+   "detail": "loa · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-loa?variant=56485809029445",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008263-3549_111.jpg?v=1789057162&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "EXPRESS Tee BLACK",
+   "detail": "Size XS",
+   "shop": "HOMEBOY",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Tipp City lightweight t-shirt",
+   "detail": "Egret · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo Cropped Fleece Crewneck Women's Sweatshirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Sweatshirts",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-cropped-fleece-crewneck-sweatshirt-100241296-11019?variant=55324058976604",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241296_V1.jpg?v=1756233028&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "Polo écru ajusté à rayures",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "A.P.C.",
+   "price": 115,
+   "was": 230,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-ecru-ajuste-a-rayures-alj-cohlp-f23509?variant=58023028162947",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLP-F23509ALJ_00.jpg?v=1779368120&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "PAASITHE JEANSJACKE",
+   "detail": "barrea · Sizes XS–L · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-barrea?variant=56485725929797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007987-3393_111.jpg?v=1789057143&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "PENCIL Tee ITALIAN WINE",
+   "detail": "Size XXS",
+   "shop": "HOMEBOY",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-italian-wine?variant=58393879150966",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEEITALIANWINE.png?v=1726646699&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Cherry Fork lightweight t-shirt",
+   "detail": "Egret · Sizes XS–S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/cherry-fork-lightweight-t-shirt-dk0a8ds7c481-white?variant=45766670844090",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DS7C48-1_9d2520fd-49bf-47e8-97c8-37630660a753.jpg?v=1779221447&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Sport Street Crop Sports Bra Top",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/sport-street-crop-bralette-100240023-1315?variant=55324013265244",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240023_V1.jpg?v=1765799122&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
+   "shop": "HOMEBOY",
+   "price": 28,
+   "was": 70,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "boho"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Amberley lightweight t-shirt",
+   "detail": "Egret · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Reebok x Market Unisex Graphic T-Shirt",
+   "detail": "Sizes S–L · Unisex",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/reebok-x-market-graphic-t-shirt-100228835?variant=54824582152540",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100228835_F_Model_eCom.jpg?v=1746041889&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": [
+    "S",
+    "L"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
+   "detail": "Sizes 24–28",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Dark brown · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo French Terry Jogger Women's Track Pants",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/id-small-logo-french-terry-pant-100257701-257701?variant=56638295408988",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100257701_153413_FR_Model_eCom.jpg?v=1773321998&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Navy blue · Size S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f4nv01-navy?variant=45766667632826",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4NV0-1_3248569f-4e53-404c-96fc-3334ff96994e.jpg?v=1779221454&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo French Terry Crewneck Sweatshirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Sweatshirts",
+   "url": "https://www.reebok.eu/products/id-small-logo-french-terry-crewneck-sweatshirt-100257695-257695?variant=56638292525404",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100257695_153406_FR_Model_eCom.jpg?v=1773322156&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
+   "detail": "Sizes 22–33",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Core High-Rise Women's Leggings",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/core-high-rise-leggings-100254542-4487?variant=56638257004892",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254542_143647_FR_Model_eCom.jpg?v=1773335813&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Wolfhurst midweight t-shirt",
+   "detail": "Charcoal grey · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/wolfhurst-midweight-t-shirt-dk0a88qoch01-grey?variant=45766599377082",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QOCH0-1_32358b88-4343-4760-88e8-2ac46714b82f.jpg?v=1779221429&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Satin Logo Fleece Pants",
+   "detail": "Sizes XXS–M · Women",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/satin-logo-fleece-pants-100239801-11019?variant=55324002812252",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239801_V1.jpg?v=1756232346&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim Shorts Washed Black",
+   "detail": "Sizes 22–24",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Sizes XS–L · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo Fleece Cuffed Pants",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-cuffed-pants-100240934-3344?variant=55324040397148",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240934_V1.jpg?v=1756233114&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "Pencil Hood GREY HEATHER",
+   "detail": "Sizes XXS–L",
+   "shop": "HOMEBOY",
+   "price": 36,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Wellsville midweight t-shirt",
+   "detail": "Black · Size M · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "M"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo Fleece Jogger Pants",
+   "detail": "Sizes XS–XL · Men",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-jogger-pants-100240231-1315?variant=55324025651548",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240231_V1.jpg?v=1756235114&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY Denim WASHED GREY TAB",
+   "detail": "Sizes 22–27",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Vernal midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Smash Edge Elastic & Top Strap Kids Trainers",
+   "detail": "Sizes 27–32.5 · Kids",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/reebok-smash-edge-elastic-top-strap-unisex-sneaker-100221595-2433?variant=55323869938012",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100221595_SLC_eCom.jpg?v=1758535337&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Kids",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "BOLD BOY Zipper BLACK",
+   "detail": "Sizes M–L · Kids",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958187382",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "skate",
+    "streetwear",
+    "statement"
+   ],
+   "department": "Kids",
+   "sizes": [
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Derby midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Athlete Flex Sleeveless Crew",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 22,
+   "was": 55,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/athlete-flex-sleeveless-crew-100254315-1713?variant=56698412990812",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254315_155334_FR_Model_eCom.jpg?v=1770918753&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  }
+ ]
+}
