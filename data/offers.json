@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-11T10:57:35.369Z",
+ "generatedAt": "2026-10-11T20:26:50.270Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 93
+   "found": 91
   },
   {
    "source": "DICKIES",
@@ -14,12 +14,12 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 950
+   "found": 943
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 267
+   "found": 264
   },
   {
    "source": "AFEW",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 686
+   "found": 681
   },
   {
    "source": "6PM",
@@ -3059,7 +3059,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–43 · Women",
+   "detail": "Sail / Black / Sail · Sizes 36.5–42 · Women",
    "shop": "ASPHALTGOLD",
    "price": 38,
    "was": 89,
@@ -3329,22 +3329,25 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Hood ITALIAN WINE",
-   "detail": "Size XS",
+   "name": "PENCIL Tee POPPY RED",
+   "detail": "Sizes XXS–S",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-italian-wine?variant=58393856606582",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILHOODITALIANWINE.png?v=1726646685&width=800",
-   "tag": "Skate & baggy",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927156086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "XXS",
+    "XS",
+    "S"
    ]
   },
   {
@@ -3498,25 +3501,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee POPPY RED",
-   "detail": "Sizes XXS–S",
+   "name": "MASTERBOY Tee BLACK",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
    "price": 14.99,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927156086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
-   "tag": "Statement color",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
-    "XS",
-    "S"
+    "XXS"
    ]
   },
   {
@@ -3678,22 +3678,26 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee BLACK",
-   "detail": "Size XXS",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Sizes XXS–M",
    "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
-   "tag": "Skate & baggy",
+   "price": 34.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872105846",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS"
+    "XXS",
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -3842,27 +3846,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "OLD SCHOOL Hood JAMES BROWN",
-   "detail": "Sizes XXS–M",
+   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 34.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872105846",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
-   "tag": "Retro find",
+   "price": 39.99,
+   "was": 100,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4009,14 +4007,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
-   "detail": "Size 25",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
    "price": 39.99,
-   "was": 100,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4182,14 +4180,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4354,14 +4352,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Washed Blue TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra BAGGY CORD Pants NAVY TAB",
+   "detail": "Size 26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-navy-tab-1?variant=58393906577782",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-77x-traBAGGYCordUSNAVYFRONT_af4bde5b-7b53-4cfe-b310-81d8b9148712.png?v=1752145113&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4521,14 +4519,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants NAVY TAB",
-   "detail": "Size 26",
+   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-navy-tab-1?variant=58393906577782",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-77x-traBAGGYCordUSNAVYFRONT_af4bde5b-7b53-4cfe-b310-81d8b9148712.png?v=1752145113&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4687,21 +4685,23 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Size 24",
+   "name": "EXPRESS Tee BLACK",
+   "detail": "Size XS",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4851,22 +4851,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "EXPRESS Tee BLACK",
-   "detail": "Size XS",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
-   "tag": "Skate & baggy",
+   "price": 28,
+   "was": 70,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "S"
    ]
   },
   {
@@ -5021,28 +5023,27 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee ITALIAN WINE",
-   "detail": "Size XXS",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-italian-wine?variant=58393879150966",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEEITALIANWINE.png?v=1726646699&width=800",
-   "tag": "Skate & baggy",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
    "name": "Cherry Fork lightweight t-shirt",
-   "detail": "Egret · Sizes XS–S",
+   "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
@@ -5056,8 +5057,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S"
+    "XS"
    ]
   },
   {
@@ -5088,25 +5088,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
     "streetwear",
-    "boho"
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -5152,14 +5149,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
-   "detail": "Sizes 24–28",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
+   "detail": "Sizes 22–33",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -5216,19 +5213,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
    "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -5282,19 +5278,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
-   "detail": "Sizes 22–33",
+   "name": "x-tra MONSTER Denim Shorts Washed Black",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -5346,21 +5341,26 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
-   "detail": "Sizes 22–30",
+   "name": "Pencil Hood GREY HEATHER",
+   "detail": "Sizes XXS–M",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5409,14 +5409,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 22–24",
+   "name": "x-tra BAGGY Denim WASHED GREY TAB",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 39.99,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5477,24 +5477,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Hood GREY HEATHER",
-   "detail": "Sizes XXS–L",
+   "name": "BOLD BOY Zipper BLACK",
+   "detail": "Sizes M–L · Kids",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 39.99,
    "was": 89.99,
    "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958187382",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Kids",
    "sizes": [
-    "XXS",
-    "XS",
-    "S",
     "M",
     "L"
    ]
@@ -5547,14 +5545,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–27",
+   "name": "x-tra BAGGY Cord CHOCOLATE BROWN",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 89.99,
+   "price": 44.5,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-chocolate-brown?variant=53530596082038",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1.jpg?v=1756809790&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5604,25 +5602,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "BOLD BOY Zipper BLACK",
-   "detail": "Sizes M–L · Kids",
+   "name": "x-tra MONSTER GOTHIC Denim MOON TAB",
+   "detail": "Sizes 24–27",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958187382",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
-   "tag": "Statement color",
+   "price": 49.99,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-moon-tab?variant=58393887703414",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-79x-traMONSTERGOTHICDenimMOONBACK.jpg?v=1724750563&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Kids",
-   "sizes": [
-    "M",
-    "L"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Dickies",
