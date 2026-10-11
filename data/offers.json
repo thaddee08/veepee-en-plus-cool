@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T20:12:45.177Z",
+ "generatedAt": "2026-10-11T10:57:35.369Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,12 +9,12 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 473
+   "found": 471
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 954
+   "found": 950
   },
   {
    "source": "ASPHALTGOLD",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 689
+   "found": 686
   },
   {
    "source": "6PM",
@@ -871,7 +871,6 @@
    "sizes": [
     "XS",
     "S",
-    "L",
     "XL"
    ]
   },
@@ -4481,7 +4480,7 @@
    "price": 105,
    "was": 210,
    "category": "Sweatshirts",
-   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358286723",
+   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358253955",
    "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907ELC_00.jpg?v=1778524122&width=800",
    "tag": "Street edit",
    "styles": [
@@ -4493,6 +4492,7 @@
     "XXS",
     "S",
     "M",
+    "L",
     "XXL"
    ]
   },
@@ -4657,6 +4657,7 @@
    "sizes": [
     "XS",
     "S",
+    "M",
     "L",
     "XL"
    ]
