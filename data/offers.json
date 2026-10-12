@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T12:11:57.472Z",
+ "generatedAt": "2026-10-12T23:07:42.872Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,22 +9,22 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 471
+   "found": 467
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 940
+   "found": 939
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 279
+   "found": 278
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 234
+   "found": 235
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 685
+   "found": 729
   },
   {
    "source": "6PM",
@@ -203,20 +203,29 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å CAP",
-   "detail": "black-armedangels yellow",
+   "name": "XELINAA JERSEY-MIDI-KLEID",
+   "detail": "pink mist · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 49.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/iconic-a-cap?variant=56598288761157",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008449-3345_111.jpg?v=1791803794&width=800",
-   "tag": "Conscious basics",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/xelinaa-pink-mist?variant=55610253148485",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006174-3433_111.jpg?v=1791813523&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport",
+    "statement"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -363,14 +372,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO LENOVAA ROCK",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "MAARGO MERINO",
+   "detail": "black · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
+   "price": 39.9,
    "was": 99.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt-dark-steel-black?variant=56485757190469",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1791803565&width=800",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/maargo-merino-black?variant=55714890121541",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006327-105_111.jpg?v=1791813399&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -381,7 +390,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -531,25 +541,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO LENOVAA SLIP-SKIRT",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "VANJARAA MINI-ROCK",
+   "detail": "tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 99.9,
+   "price": 24.9,
+   "was": 59.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/leo-lenovaa-slip-skirt?variant=56485757190469",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008125-3583_111.jpg?v=1791803565&width=800",
+   "url": "https://www.armedangels.com/products/vanjaraa-mini-skirt-tinted-navy?variant=56678915768645",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006564-3232_111.jpg?v=1791813502&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -690,24 +701,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "HIMAARI JERSEYHOSE",
-   "detail": "steel melange · Sizes XS–L · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "pure · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 54.9,
-   "was": 89.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/himaari-steel-melange?variant=54723425009989",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004668-2874_111.jpg?v=1791803835&width=800",
-   "tag": "Conscious basics",
+   "price": 24.9,
+   "was": 59.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-pure?variant=55610369016133",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3233_111.jpg?v=1791813454&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -856,24 +869,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAGDAALENA JERSEYHOSE",
-   "detail": "black · Sizes XS–XL · Women",
+   "name": "LUKAA LINO HOSE",
+   "detail": "tinted navy · Men",
    "shop": "ARMEDANGELS",
-   "price": 54.9,
-   "was": 89.9,
+   "price": 49.9,
+   "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/magdaalena-black?variant=54722962653509",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30001778-105_111.jpg?v=1791803724&width=800",
+   "url": "https://www.armedangels.com/products/lukaa-lino-pant-tinted-navy?variant=55610363085125",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007217-3232_111.jpg?v=1791813671&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -1025,18 +1034,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTE KAAYUA FALTENSHORTS",
-   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
+   "name": "LEINEN-MIX STRICKKLEID",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 79.9,
-   "was": 129.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gestreifte-kaayua-faltenshorts-sand-stone-undyed-pink-mist?variant=57299273187653",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008534-3658_111.jpg?v=1791803605&width=800",
-   "tag": "Statement color",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/linen-blend-knit-dress-space-steel?variant=55610378977605",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007388-2682_111.jpg?v=1791813628&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -1044,7 +1052,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1193,25 +1202,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å COLLEGE KNIT SWEATER",
-   "detail": "oatmilk-mars red · Sizes XS–XL",
+   "name": "LEINEN-MIX STRICKKLEID",
+   "detail": "undyed · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 79.9,
-   "was": 129.9,
-   "category": "Sweatshirts",
-   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater?variant=56597253292357",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1791803685&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/linen-blend-knit-dress-undyed?variant=55610378649925",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007388-1677_111.jpg?v=1791813416&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1363,18 +1373,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å COLLEGE STRICKPULLOVER",
-   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "name": "CAARUNUS LINO HOSE",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 79.9,
-   "was": 129.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/iconic-a-college-knit-sweater-oatmilk-mars-red?variant=56597253292357",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008097-3478_111.jpg?v=1791803685&width=800",
-   "tag": "Statement color",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/caarunus-lino-pant-washed-berry?variant=55573322793285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006136-3563_111.jpg?v=1791813436&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -1533,18 +1542,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA T-SHIRT",
-   "detail": "foam · Sizes XS–XXL · Women",
+   "name": "CAARUNUS LINO HOSE",
+   "detail": "sandstone · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-foam?variant=55610217267525",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-3472_111.jpg?v=1791803646&width=800",
-   "tag": "Sport edit",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/caarunus-lino-pant-sandstone?variant=55112941535557",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006136-2248_111.jpg?v=1791813533&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -1552,8 +1560,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -1702,24 +1709,27 @@
   },
   {
    "brand": "Armedangels",
-   "name": "V-NECK T-SHIRT",
-   "detail": "white · Sizes XS–M · Women",
+   "name": "KANITAA TOP",
+   "detail": "pink mist · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
+   "price": 14.9,
+   "was": 34.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/v-neck-t-shirt-white?variant=56485768626501",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-188_111.jpg?v=1791803596&width=800",
+   "url": "https://www.armedangels.com/products/kanitaa-pink-mist?variant=55610208420165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004659-3433_111.jpg?v=1791813411&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XXL"
    ]
   },
   {
@@ -1745,7 +1755,7 @@
   {
    "brand": "Dickies",
    "name": "Mapleton lightweight t-shirt",
-   "detail": "Cypress · Sizes XS–S",
+   "detail": "Cypress · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
@@ -1759,8 +1769,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S"
+    "XS"
    ]
   },
   {
@@ -1815,7 +1824,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-total-90-midnight-navy-black-white?variant=52234855448842",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1791806050&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1791832101&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1861,18 +1870,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "V-NECK T-SHIRT",
+   "name": "NEDAA LITAA SHORTS",
    "detail": "black · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/v-neck-t-shirt-black?variant=56485768397125",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1791803747&width=800",
-   "tag": "Sport edit",
+   "price": 14.9,
+   "was": 34.9,
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/nedaa-litaa-black?variant=54723066822981",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30002962-105_111.jpg?v=1791813405&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -2018,21 +2026,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SLUB JERSEY GESTREIFTES T-SHIRT",
-   "detail": "oatmilk-foam · Size XXL · Women",
+   "name": "LEINEN-MIX STRICKTOP",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt-oatmilk-foam?variant=56186058473797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3537_111.jpg?v=1791803747&width=800",
-   "tag": "Sport edit",
+   "price": 29.9,
+   "was": 69.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/linen-blend-knit-top-space-steel?variant=55610361545029",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007192-2682_111.jpg?v=1791813486&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
+    "L",
     "XXL"
    ]
   },
@@ -2175,19 +2184,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "V-NECK T-SHIRT",
-   "detail": "black · Sizes XS–S",
+   "name": "LUALAA T-SHIRT",
+   "detail": "very berry · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
+   "price": 12.9,
+   "was": 29.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/v-neck-t-shirt?variant=56485768397125",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008178-105_111.jpg?v=1791803747&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/lualaa-very-berry?variant=55610306134341",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006877-3434_111.jpg?v=1791813431&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S"
@@ -2330,21 +2340,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SLUB JERSEY STRIPE T-SHIRT",
-   "detail": "oatmilk-foam · Size XXL",
+   "name": "LUALAA T-SHIRT",
+   "detail": "pink mist · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
-   "was": 39.9,
+   "price": 12.9,
+   "was": 29.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt?variant=56186058473797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3860_111.jpg?v=1791803715&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-pink-mist?variant=55610303676741",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006877-3433_111.jpg?v=1791813605&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
+    "S",
+    "M",
     "XXL"
    ]
   },
@@ -2489,14 +2503,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA T-SHIRT",
-   "detail": "dynamo blue · Sizes XS–XXL · Women",
+   "name": "KANITAA GESTREIFTES TOP",
+   "detail": "silver melange-white · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 24.9,
+   "price": 19.9,
    "was": 39.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-dynamo-blue?variant=54723417211205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-2142_111.jpg?v=1791803559&width=800",
+   "url": "https://www.armedangels.com/products/kanitaa-stripes-silver-melange-white?variant=55610342474053",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006917-3599_111.jpg?v=1791813383&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2506,9 +2520,9 @@
    "sizes": [
     "XS",
     "S",
+    "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2576,7 +2590,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36–40.5 · Unisex",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36–42 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 38,
    "was": 99,
@@ -2648,22 +2662,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTES POLOSHIRT",
-   "detail": "washed berry-granit · Sizes S–XXL · Men",
+   "name": "KANITAA GESTREIFTES TOP",
+   "detail": "white-foam · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-washed-berry-granit?variant=57299144180037",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3629_111.jpg?v=1791803862&width=800",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kanitaa-stripes-white-foam?variant=55610340376901",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006917-3560_111.jpg?v=1791813547&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
+    "M",
     "L",
     "XL",
     "XXL"
@@ -2810,24 +2826,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTES POLOSHIRT",
-   "detail": "foam-oatmilk · Sizes S–XXL · Men",
+   "name": "KARDAA T-SHIRT",
+   "detail": "foam · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt-foam-oatmilk?variant=57299143491909",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1791803640&width=800",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-foam?variant=55610217267525",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-3472_111.jpg?v=1791813446&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -2917,7 +2933,7 @@
    "name": "Nike TOTAL 90 PRM TIEMPO",
    "detail": "Sizes 8–13 · Men",
    "shop": "AFEW",
-   "price": 42,
+   "price": 40.99,
    "was": 119.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-total-90-prm-tiempo-black-red-sepia-black?variant=52266779312394",
@@ -2969,25 +2985,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LARISAANA BLUSE",
-   "detail": "foam · Sizes XS–XL · Women",
+   "name": "FARIBAA",
+   "detail": "steel melange · Sizes S–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/larisaana-blouse-foam?variant=55573320663365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3472_111.jpg?v=1791803607&width=800",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/faribaa-leggings-steel-melange?variant=55098903068997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30001810-2874_111.jpg?v=1791813656&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3142,26 +3158,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTES POLO T-SHIRT",
-   "detail": "foam-oatmilk · Sizes S–XXL",
+   "name": "YENAAS BOLD KAPPE",
+   "detail": "blue glow · Unisex",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gestreiftes-polo-t-shirt?variant=57299143491909",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008362-3538_111.jpg?v=1791803640&width=800",
-   "tag": "Conscious basics",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/yenaas-bold-cap-blue-glow?variant=55099399471429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30003749-3432_111.jpg?v=1791813449&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3256,7 +3267,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1791802388&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1791819427&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3306,25 +3317,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LARISAANA BLUSE",
-   "detail": "very berry · Sizes XS–XL · Women",
+   "name": "KARDAA T-SHIRT",
+   "detail": "blue glow · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/larisaana-blouse-very-berry?variant=55573320466757",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3434_111.jpg?v=1791803924&width=800",
-   "tag": "Conscious basics",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-t-shirt-blue-glow?variant=55099699200325",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-3432_111.jpg?v=1791813605&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "XXL"
    ]
   },
   {
@@ -3475,26 +3486,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-HOSE",
-   "detail": "tinted navy · Sizes XS–XXL · Women",
+   "name": "KANITAA GESTREIFTES TOP",
+   "detail": "blue glow-tinted navy · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-tinted-navy?variant=56485804769605",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-3232_111.jpg?v=1791803846&width=800",
-   "tag": "Conscious basics",
+   "price": 19.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kanitaa-stripes-top-blue-glow-tinted-navy?variant=55111532577093",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006917-3552_111.jpg?v=1791813423&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -3629,7 +3639,7 @@
   {
    "brand": "A.P.C. Paris",
    "name": "T-shirt ajusté écru à micro logo A.P.C.",
-   "detail": "Sizes XS–XL · Women",
+   "detail": "Sizes M–XL · Women",
    "shop": "A.P.C.",
    "price": 80,
    "was": 160,
@@ -3643,7 +3653,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
     "M",
     "L",
     "XL"
@@ -3651,26 +3660,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-HOSE",
-   "detail": "space steel · Sizes XS–XXL · Women",
+   "name": "XIANAA GESTREIFTES LANGARMSHIRT",
+   "detail": "pink mist-mars red · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
-   "price": 49.9,
-   "was": 79.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/gmt-dye-rib-pant-space-steel?variant=56485804572997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008246-2682_111.jpg?v=1791803876&width=800",
-   "tag": "Conscious basics",
+   "price": 24.9,
+   "was": 49.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/xianaa-stripes-longsleeve-pink-mist-mars-red?variant=55111528382789",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006584-3491_111.jpg?v=1791813594&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -3820,26 +3828,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "COTTON LINEN JACKET",
-   "detail": "fatigue green · Sizes S–XXL",
+   "name": "XIANAA GESTREIFTES LANGARMSHIRT",
+   "detail": "oatmilk-dynamo blue · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
-   "price": 99.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748737626437",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791803873&width=800",
-   "tag": "Romantic find",
+   "price": 24.9,
+   "was": 49.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/xianaa-stripes-longsleeve-oatmilk-dynamo-blue?variant=55111527334213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006584-2711_111.jpg?v=1791813386&width=800",
+   "tag": "Sport edit",
    "styles": [
     "minimal",
-    "boho"
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -3982,17 +3988,18 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN-JACKE",
-   "detail": "fatigue green · Sizes S–XXL · Men",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "wedgwood · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 99.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket-fatigue-green?variant=56748737626437",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-3453_111.jpg?v=1791803898&width=800",
-   "tag": "Conscious basics",
+   "price": 29.9,
+   "was": 59.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Men",
    "sizes": [
@@ -4156,25 +4163,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTER TELLERROCK",
-   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "space steel · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
-   "price": 99.9,
-   "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791803780&width=800",
-   "tag": "Conscious basics",
+   "price": 29.9,
+   "was": 59.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-space-steel?variant=55661309231429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-2682_111.jpg?v=1791813446&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -4328,25 +4333,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CHECK CIRCLE SKIRT",
-   "detail": "oatmilk-black · Sizes XS–XL",
+   "name": "VANJARAA MINI-ROCK",
+   "detail": "silver melange · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 99.9,
-   "was": 159.9,
+   "price": 29.9,
+   "was": 59.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791803780&width=800",
+   "url": "https://www.armedangels.com/products/vanjaraa-mini-skirt-silver-melange?variant=55113105211717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006564-3215_111.jpg?v=1791813460&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4495,25 +4501,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LOCKERE JEANSJACKE",
-   "detail": "white · Sizes XS–XL · Women",
+   "name": "ALAANIA STRICKPULLOVER",
+   "detail": "oatmilk · Sizes XL–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791803599&width=800",
+   "price": 29.9,
+   "was": 59.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/alaania-oatmilk?variant=54722905801029",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/10253015-1609_111.jpg?v=1791813671&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4608,7 +4611,7 @@
    "was": 119.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom?variant=52423356907786",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1791798256&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1791844038&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -4662,25 +4665,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LOCKERE JEANSJACKE",
-   "detail": "white · Sizes XS–XL",
+   "name": "ILENIAA LARAA MIDI-ROCK",
+   "detail": "seal grey · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/lockere-jeansjacke?variant=57299233702213",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791803599&width=800",
+   "price": 34.9,
+   "was": 69.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/ileniaa-laraa-midi-skirt-seal-grey?variant=55610250527045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005935-3444_111.jpg?v=1791813443&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
@@ -4749,7 +4750,7 @@
   {
    "brand": "Nike",
    "name": "Nike Shox R4 QS",
-   "detail": "Natural / Net / Metallic Silver · Sizes 38.5–44.5 · Unisex",
+   "detail": "Natural / Net / Metallic Silver · Size 38.5 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 74,
    "was": 159,
@@ -4828,14 +4829,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PAASITHE JEANSJACKE",
-   "detail": "loa · Sizes XS–XL · Women",
+   "name": "LEINEN-MIX STRICKTOP",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-loa?variant=56485809029445",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008263-3549_111.jpg?v=1791803568&width=800",
+   "price": 34.9,
+   "was": 69.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/linen-blend-knit-top-washed-berry?variant=55610362396997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007192-3563_111.jpg?v=1791813538&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -4846,7 +4847,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -5000,14 +5002,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PAASITHE JEANSJACKE",
-   "detail": "barrea · Sizes XS–L · Women",
+   "name": "LARISAANA BLUSE",
+   "detail": "foam · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/paasithe-denim-jacket-barrea?variant=56485725929797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007987-3393_111.jpg?v=1791803680&width=800",
+   "price": 39.9,
+   "was": 79.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/larisaana-blouse-foam?variant=55573320663365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005819-3472_111.jpg?v=1791813389&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -5017,7 +5019,8 @@
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
@@ -5230,22 +5233,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Navy blue · Size S",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f4nv01-navy?variant=45766667632826",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4NV0-1_3248569f-4e53-404c-96fc-3334ff96994e.jpg?v=1779221454&width=800",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -5295,20 +5298,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
+   "name": "Wolfhurst midweight t-shirt",
+   "detail": "Charcoal grey · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/wolfhurst-midweight-t-shirt-dk0a88qoch01-grey?variant=45766599377082",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QOCH0-1_32358b88-4343-4760-88e8-2ac46714b82f.jpg?v=1779221429&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS"
    ]
@@ -5363,22 +5366,25 @@
   },
   {
    "brand": "Dickies",
-   "name": "Wolfhurst midweight t-shirt",
-   "detail": "Charcoal grey · Size XS",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Sizes XS–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/wolfhurst-midweight-t-shirt-dk0a88qoch01-grey?variant=45766599377082",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QOCH0-1_32358b88-4343-4760-88e8-2ac46714b82f.jpg?v=1779221429&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -5426,14 +5432,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–L · Women",
+   "name": "Wellsville midweight t-shirt",
+   "detail": "Black · Size M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5441,10 +5447,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
+    "M"
    ]
   },
   {
@@ -5498,22 +5501,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Wellsville midweight t-shirt",
-   "detail": "Black · Size M · Women",
+   "name": "Vernal midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
+   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M"
+    "S",
+    "XXL"
    ]
   },
   {
@@ -5562,14 +5566,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal midweight t-shirt",
+   "name": "Derby midweight t-shirt",
    "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5619,23 +5623,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "name": "Plain City lightweight t-shirt",
+   "detail": "Black · Sizes XS–S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/plain-city-lightweight-t-shirt-dk0a88jiblk1-black?variant=45766576734394",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JIBLK-1_10f261b3-1b2a-479e-929c-0c93602eb249.jpg?v=1779221490&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "XXL"
+    "XS",
+    "S"
    ]
   },
   {
