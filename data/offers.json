@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T21:24:46.820Z",
+ "generatedAt": "2026-10-14T09:39:35.976Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,17 +14,17 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 935
+   "found": 936
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 276
+   "found": 279
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 234
+   "found": 232
   },
   {
    "source": "OVERKILL",
@@ -34,12 +34,12 @@
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 198
+   "found": 0
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 843
+   "found": 840
   },
   {
    "source": "6PM",
@@ -185,44 +185,23 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Tote Lou Rue Madame Small",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 37.5,
-   "was": 75,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-had-cohmn-m67065?variant=58022350389635",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065HAD_00.jpg?v=1778519204&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-space steel · Sizes XS–XXL · Women",
+   "name": "IDAARA T-SHIRT",
+   "detail": "morning sky · Size L · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-undyed-space-steel?variant=56686555300165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3834_111.jpg?v=1791813402&width=800",
-   "tag": "Conscious basics",
+   "price": 14.9,
+   "was": 39.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/idaara-morning-sky?variant=54722980708677",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30001811-2235_111.jpg?v=1791813472&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -344,40 +323,15 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt blanc à logo camping effet vintage",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 47.5,
-   "was": 95,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-post-card-gots-aab-cohow-f26599?variant=58022972948867",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-F26599AAB_00.jpg?v=1779368118&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
    "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "sand stone-undyed · Sizes XS–XXL · Women",
+   "detail": "undyed-space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-sand-stone-undyed?variant=56686555103557",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
+   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-undyed-space-steel?variant=56686555300165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3834_111.jpg?v=1791813402&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -513,20 +467,18 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt rose à logo camping effet vintage",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 47.5,
-   "was": 95,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-post-card-gots-fae-cohow-f26599?variant=58022974226819",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-F26599FAE_00.jpg?v=1779368118&width=800",
-   "tag": "Street edit",
+   "brand": "Armedangels",
+   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
+   "detail": "sand stone-undyed · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-sand-stone-undyed?variant=56686555103557",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "streetwear",
-    "retro"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -534,25 +486,9 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "CCL - NAAILO DENIM SHORT",
-   "detail": "jupiter",
-   "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/ccl-naailo-denim-short?variant=54724134928709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007335-3198_111.jpg?v=1791813589&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -674,45 +610,21 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "tote lou",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 55,
-   "was": 110,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-lou-gac-cohpq-m61442?variant=58022991102339",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPQ-M61442GAC_00.jpg?v=1779368121&width=800",
-   "tag": "French minimal",
+   "brand": "Armedangels",
+   "name": "CCL - NAAILO DENIM SHORT",
+   "detail": "jupiter",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/ccl-naailo-denim-short?variant=54724134928709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007335-3198_111.jpg?v=1791813589&width=800",
+   "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "washed berry · Sizes XS–XXL · Women",
-   "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-washed-berry?variant=57299174097221",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-3563_111.jpg?v=1791813544&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
   },
   {
    "brand": "HOMEBOY",
@@ -834,44 +746,18 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt noir à logo jardin",
-   "detail": "Sizes XS–XXL · Men",
-   "shop": "A.P.C.",
-   "price": 55,
-   "was": 110,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-luxembourg-gots-lza-cohow-h26613?variant=58022976684419",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOW-H26613LZA_00.jpg?v=1779368118&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear"
-   ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTES TANKTOP RIPP-KLEID",
-   "detail": "pink mist-dried palm · Sizes XS–XXL · Women",
+   "name": "GMT DYE BODYCON RIPP-KLEID",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid-pink-mist-dried-palm?variant=57299311624517",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3600_111.jpg?v=1791813491&width=800",
-   "tag": "Statement color",
+   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-washed-berry?variant=57299174097221",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-3563_111.jpg?v=1791813544&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -1009,45 +895,25 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt blanc à côtes en coton bio.",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 60,
-   "was": 120,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-blanc-a-cotes-en-coton-bio-aab-cohoy-f26586?variant=58023031439747",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/imageaplat.png?v=1787044333&width=800",
-   "tag": "French minimal",
+   "brand": "Armedangels",
+   "name": "GESTREIFTES TANKTOP RIPP-KLEID",
+   "detail": "pink mist-dried palm · Sizes XS–XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid-pink-mist-dried-palm?variant=57299311624517",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3600_111.jpg?v=1791813491&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "space steel · Sizes S–XXL · Women",
-   "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-space-steel?variant=57299173704005",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "S",
     "L",
     "XL",
     "XXL"
@@ -1174,50 +1040,24 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt imprimé d'une photo de Jean Touitou",
-   "detail": "Sizes XS–XXL · Men",
-   "shop": "A.P.C.",
-   "price": 60,
-   "was": 120,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-jean-gots-aab-cohbw-h26617?variant=58022380503427",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBW-H26617AAB_00.jpg?v=1779368117&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-washed berry · Sizes XS–XL · Women",
+   "name": "GMT DYE BODYCON RIPP-KLEID",
+   "detail": "space steel · Sizes L–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-washed-berry?variant=56485841633605",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3660_111.jpg?v=1791813480&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-space-steel?variant=57299173769541",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1343,40 +1183,15 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt bleu clair à logo A.P.C. effet vintage",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 65,
-   "was": 130,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-apc-vintage-gots-iab-cohbu-f26581?variant=58022971310467",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBU-F26581IAB_00_ddb5adb2-c155-4c79-8ae1-d9fc42d6bec1.jpg?v=1784549817&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
    "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-foam · Sizes XS–XL · Women",
+   "detail": "undyed-washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-foam?variant=56485840683333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3561_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-washed-berry?variant=56485841633605",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3660_111.jpg?v=1791813480&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -1393,7 +1208,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim WASHED GREY TAB",
-   "detail": "Sizes 22–24",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
@@ -1513,48 +1328,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt écru à rayures noires",
-   "detail": "Sizes XS–XXL · Men",
-   "shop": "A.P.C.",
-   "price": 65,
-   "was": 130,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-julian-lzz-cohox-h26576?variant=58022360252803",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOX-H26576LZZ_00.jpg?v=1779368119&width=800",
-   "tag": "French minimal",
+   "brand": "Armedangels",
+   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
+   "detail": "undyed-foam · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-foam?variant=56485840683333",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3561_111.jpg?v=1791813641&width=800",
+   "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "KURZÄRMLIGES STRICKPOLOSHIRT",
-   "detail": "tinted navy · Sizes S–XXL · Men",
-   "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/kurzarmliges-strickpoloshirt-tinted-navy?variant=57299317752133",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008633-3232_111.jpg?v=1791813399&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Men",
-   "sizes": [
-    "S",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -1649,12 +1442,12 @@
   {
    "brand": "Nike",
    "name": "Nike Total 90",
-   "detail": "Sizes 8–13 · Men",
+   "detail": "Sizes 9–13 · Men",
    "shop": "AFEW",
    "price": 33,
    "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511499018",
+   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511564554",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -1686,42 +1479,22 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Porte-cartes Demi-Lune",
-   "detail": "Women",
-   "shop": "A.P.C.",
-   "price": 70,
-   "was": 140,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-iaf-pxcbc-f63270?variant=58022361301379",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBC-F63270IAF_00.jpg?v=1779369339&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MINI-STRICKROCK",
-   "detail": "undyed-black · Sizes XS–XXL · Women",
+   "name": "KURZÄRMLIGES STRICKPOLOSHIRT",
+   "detail": "tinted navy · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock-undyed-black?variant=57299267223877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
+   "url": "https://www.armedangels.com/products/kurzarmliges-strickpoloshirt-tinted-navy?variant=57299317752133",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008633-3232_111.jpg?v=1791813399&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -1846,41 +1619,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Porte-cartes Demi-Lune",
-   "detail": "Women",
-   "shop": "A.P.C.",
-   "price": 70,
-   "was": 140,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-kbd-pxbvv-f63270?variant=58022351110531",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXBVV-F63270KBD_00.jpg?v=1779956988&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "KURZÄRMLIGES STRICKPOLOSHIRT",
-   "detail": "tinted navy · Sizes S–XXL",
+   "name": "GESTREIFTER MINI-STRICKROCK",
+   "detail": "undyed-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/kurzarmliges-strickpoloshirt?variant=57299317752133",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008633-3215_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock-undyed-black?variant=57299267223877",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "XL",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -2004,42 +1762,22 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Airpod case pro",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/airpod-case-pro-cad-pxawv-m63043?variant=62142801052035",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63043CAD_00.jpg?v=1784886674&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTES TANK TOP RIPP-KLEID",
-   "detail": "pink mist-dried palm · Sizes XS–XXL",
+   "name": "KURZÄRMLIGES STRICKPOLOSHIRT",
+   "detail": "tinted navy · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid?variant=57299311624517",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3599_111.jpg?v=1791813597&width=800",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/kurzarmliges-strickpoloshirt?variant=57299317752133",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008633-3215_111.jpg?v=1791813416&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -2164,32 +1902,15 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Mètre ruban",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/metre-ruban-lzz-pxawv-m63044?variant=58022945063299",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63044LZZ_00.jpg?v=1779956987&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MINI-STRICKROCK",
-   "detail": "undyed-black · Sizes XS–XXL",
+   "name": "GESTREIFTES TANK TOP RIPP-KLEID",
+   "detail": "pink mist-dried palm · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock?variant=57299267223877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid?variant=57299311624517",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3599_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2324,42 +2045,26 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Mètre ruban",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/metre-ruban-cad-pxawv-m63044?variant=58022944833923",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-M63044CAD_00.jpg?v=1779956987&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "space steel · Sizes S–XXL",
+   "name": "GESTREIFTER MINI-STRICKROCK",
+   "detail": "undyed-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid?variant=57299173704005",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock?variant=57299267223877",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
+    "XS",
     "S",
+    "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2484,43 +2189,21 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Tote Jade",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-jade-aad-cohtb-m67083?variant=58022388138371",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHTB-M67083AAD_00.jpg?v=1779368120&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "XELINAA JERSEY-MIDI-KLEID",
-   "detail": "pink mist · Sizes XS–XXL · Women",
+   "name": "GMT DYE BODYCON RIPP-KLEID",
+   "detail": "space steel · Sizes L–XXL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/xelinaa-pink-mist?variant=55610253148485",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006174-3433_111.jpg?v=1791813523&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid?variant=57299173769541",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport",
-    "statement"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
     "L",
     "XL",
     "XXL"
@@ -2645,35 +2328,20 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "shopping diane",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/shopping-diane-faa-cohlj-m61443?variant=58023002243459",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLJ-M61443FAA_00.jpg?v=1779368119&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "SEHAARAA GMT DYE KLEID",
-   "detail": "space steel · Sizes XS–XL · Women",
+   "name": "XELINAA JERSEY-MIDI-KLEID",
+   "detail": "pink mist · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress-space-steel?variant=56485762826565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/xelinaa-pink-mist?variant=55610253148485",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006174-3433_111.jpg?v=1791813523&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
@@ -2681,7 +2349,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2807,32 +2476,15 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Tote Jade",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-jade-aad-cogyx-m67083?variant=58022353142147",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGYX-M67083AAD_00.jpg?v=1779368119&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL-BLUSE",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "SEHAARAA GMT DYE KLEID",
+   "detail": "space steel · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse-dark-steel-black?variant=56485752537413",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress-space-steel?variant=56485762826565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2965,45 +2617,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "shopping diane",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/shopping-diane-baa-cohlj-m61443?variant=58023001817475",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLJ-M61443BAA_00.jpg?v=1779368119&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "STRIPE LINEN BLEND SWEATER",
-   "detail": "sand stone-undyed · Sizes XS–XXL",
+   "name": "LEO-FLEDERMAUSÄRMEL-BLUSE",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Sweatshirts",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater?variant=56686555103557",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
-   "tag": "Romantic find",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse-dark-steel-black?variant=56485752537413",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "boho"
+    "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -3131,52 +2764,23 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt vert foncé à logo A.P.C. effet vintage",
-   "detail": "Sizes XS–XXL · Men",
-   "shop": "A.P.C.",
-   "price": 75,
-   "was": 150,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-apc-vintage-gots-kaf-cohbu-h26594?variant=58022978847107",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBU-H26594KAF_00.jpg?v=1779368117&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear",
-    "retro"
-   ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "SEHAARAA GMT DYE DRESS",
-   "detail": "space steel · Sizes XS–XL",
+   "name": "WEITE POPLIN BLUSE",
+   "detail": "white · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress?variant=56485762826565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/loose-poplin-shirt-blouse-white?variant=56485825511749",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008343-188_111.jpg?v=1791813650&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -3303,35 +2907,19 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "le porte-monnaie neige",
-   "detail": "Women",
-   "shop": "A.P.C.",
-   "price": 80,
-   "was": 160,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/le-porte-monnaie-neige-iaf-pxcbc-f63024?variant=58022959612291",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBC-F63024IAF_00.jpg?v=1779369339&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "LEO BAT WING BLOUSE",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "STRIPE LINEN BLEND SWEATER",
+   "detail": "sand stone-undyed · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
-   "tag": "Conscious basics",
+   "category": "Sweatshirts",
+   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater?variant=56686555103557",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
@@ -3339,7 +2927,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3432,12 +3021,12 @@
   {
    "brand": "Nike",
    "name": "Nike Waffle Racer",
-   "detail": "Sizes 6.5–7 · Men",
+   "detail": "Size 7 · Men",
    "shop": "AFEW",
    "price": 31.99,
    "was": 89.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-waffle-racer-black-sail-coconut-milk-gum-dark-brown?variant=52364589170954",
+   "url": "https://www.afew-store.com/products/nike-waffle-racer-black-sail-coconut-milk-gum-dark-brown?variant=52364589203722",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-waffle-racer-black-sail-coconut-milk-gum-dark-brown-im8658-001-footwear_20_3E_20sneaker.jpg?v=1767793177&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -3467,42 +3056,20 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt ajusté bleu marine à micro logo A.P.C.",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 80,
-   "was": 160,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/top-celia-gots-iak-cohpf-f26592?variant=58022982287747",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26592IAK_00.jpg?v=1779368120&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "EFINARAA BRUSHED BLUSE",
-   "detail": "nightshadow · Sizes XS–S · Women",
+   "name": "LOOSE POPLIN SHIRT BLOUSE",
+   "detail": "white · Sizes XS–S",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Shirts",
-   "url": "https://www.armedangels.com/products/efinaraa-brushed-nightshadow?variant=55714949038405",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3321_111.jpg?v=1791813499&width=800",
+   "url": "https://www.armedangels.com/products/loose-poplin-shirt-blouse?variant=56485825511749",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008343-188_111.jpg?v=1791813650&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S"
@@ -3638,44 +3205,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "T-shirt ajusté écru à micro logo A.P.C.",
-   "detail": "Sizes M–XL · Women",
-   "shop": "A.P.C.",
-   "price": 80,
-   "was": 160,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/top-celia-gots-aad-cohpf-f26592?variant=58022981730691",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26592AAD_00.jpg?v=1779368120&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear"
-   ],
-   "department": "Women",
-   "sizes": [
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "EFINARAA BRUSHED BLUSE",
-   "detail": "dark cranberry · Size XS · Women",
+   "name": "SEHAARAA GMT DYE DRESS",
+   "detail": "space steel · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/efinaraa-brushed-dark-cranberry?variant=55714948710725",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3320_111.jpg?v=1791813492&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress?variant=56485762826565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3806,42 +3355,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Tote Ninon Small",
-   "detail": "Sale",
-   "shop": "A.P.C.",
-   "price": 95,
-   "was": 190,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-ninon-small-haf-puaat-m61861?variant=58022379684227",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-M61861HAF_00.jpg?v=1779956988&width=800",
-   "tag": "French minimal",
+   "brand": "Armedangels",
+   "name": "LEO BAT WING BLOUSE",
+   "detail": "dark steel-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
+   "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "ICONIC Å IVAARA SWEATHOSE",
-   "detail": "mars red · Sizes XS–XXL · Women",
-   "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/iconic-a-ivaara-sweatpant-mars-red?variant=55111540834629",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007477-3428_111.jpg?v=1791813564&width=800",
-   "tag": "Statement color",
-   "styles": [
-    "minimal",
-    "statement"
-   ],
-   "department": "Women",
    "sizes": [
     "XS",
-    "XL",
-    "XXL"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3967,42 +3500,23 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Sac Baby Ninon Shoulder",
-   "detail": "Women",
-   "shop": "A.P.C.",
-   "price": 95,
-   "was": 190,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/baby-ninon-shoulder-haf-puaat-f67027?variant=58022370967939",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUAAT-F67027HAF_00_6ba73efe-5ea6-4af5-857e-f362afd115ed.jpg?v=1784645166&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": []
-  },
-  {
    "brand": "Armedangels",
-   "name": "QUAASA GESTREIFTES LANGARMHEMD",
-   "detail": "tabasco red · Sizes S–XL · Men",
+   "name": "EFINARAA BRUSHED BLUSE",
+   "detail": "nightshadow · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Shirts",
-   "url": "https://www.armedangels.com/products/quaasa-stripe-longsleeve-shirt-tabasco-red?variant=55113551905093",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007426-3496_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "url": "https://www.armedangels.com/products/efinaraa-brushed-nightshadow?variant=55714949038405",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3321_111.jpg?v=1791813499&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "S",
-    "L",
-    "XL"
+    "XS",
+    "S"
    ]
   },
   {
@@ -4072,26 +3586,24 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Jordan Flight Printed Long-Sleeve Jersey",
-   "detail": "Black / White · Sizes S–XL · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Black / Black / University Red · Size 40 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 79,
-   "category": "T-shirts",
-   "url": "https://www.asphaltgold.com/products/nike-jordan-flight-printed-longsleeve-jersey-black-white?variant=52877537214731",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/4hoe91l2muc-IF1831-010_Nike_Jordan-Flight-Printed-Long-Sleeve-Jersey-Black-White_os-1.jpg?v=1770643943&width=800",
+   "price": 57,
+   "was": 129,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513303819",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
-   "department": "Unisex",
-   "sizes": [
-    "S",
-    "XL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "Nike",
@@ -4135,51 +3647,22 @@
    ]
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Cardigan ajusté écru à micro logo A.P.C.",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 95,
-   "was": 190,
-   "category": "Knitwear",
-   "url": "https://www.apc.fr/products/top-cora-gots-aad-cohpf-f26591?variant=58022979076483",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHPF-F26591AAD_00.jpg?v=1779368119&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "minimal",
-    "streetwear"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "ICONIC Å BOMBERJACKE",
-   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "name": "EFINARAA BRUSHED BLUSE",
+   "detail": "dark cranberry · Size XS · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 229.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket-oatmilk-mars-red?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/efinaraa-brushed-dark-cranberry?variant=55714948710725",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3320_111.jpg?v=1791813492&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "XS"
    ]
   },
   {
@@ -4245,23 +3728,26 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
+   "brand": "Jordan",
+   "name": "Nike Jordan Flight Printed Long-Sleeve Jersey",
+   "detail": "Black / White · Sizes S–XL · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 44,
-   "was": 99,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "price": 35,
+   "was": 79,
+   "category": "T-shirts",
+   "url": "https://www.asphaltgold.com/products/nike-jordan-flight-printed-longsleeve-jersey-black-white?variant=52877537214731",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/4hoe91l2muc-IF1831-010_Nike_Jordan-Flight-Printed-Long-Sleeve-Jersey-Black-White_os-1.jpg?v=1770643943&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Unisex",
+   "sizes": [
+    "S",
+    "XL"
+   ]
   },
   {
    "brand": "Nike",
@@ -4302,51 +3788,22 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Sweat bleu à logo V.P.C.",
-   "detail": "Sizes XXS–XXL",
-   "shop": "A.P.C.",
-   "price": 105,
-   "was": 210,
-   "category": "Sweatshirts",
-   "url": "https://www.apc.fr/products/sweat-bleu-a-logo-vpc-imn-cohbn-m27907?variant=58371769008515",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907IMN_00.jpg?v=1782921646&width=800",
-   "tag": "Street edit",
+   "brand": "Armedangels",
+   "name": "ICONIC Å IVAARA SWEATHOSE",
+   "detail": "mars red · Size XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/iconic-a-ivaara-sweatpant-mars-red?variant=55111540965701",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007477-3428_111.jpg?v=1791813564&width=800",
+   "tag": "Statement color",
    "styles": [
     "minimal",
-    "streetwear"
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "ICONIC Å BOMBER JACKET",
-   "detail": "oatmilk-mars red · Sizes XS–XL",
-   "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 229.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
     "XL"
    ]
   },
@@ -4414,20 +3871,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 55,
-   "was": 119,
+   "price": 44,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -4471,48 +3928,22 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Sweat rouge brique à logo V.P.C.",
-   "detail": "Sizes XXS–XXL",
-   "shop": "A.P.C.",
-   "price": 105,
-   "was": 210,
-   "category": "Sweatshirts",
-   "url": "https://www.apc.fr/products/sweat-rouge-brique-a-logo-vpc-elc-cohbn-m27907?variant=58022358253955",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBN-M27907ELC_00.jpg?v=1778524122&width=800",
-   "tag": "Street edit",
+   "brand": "Armedangels",
+   "name": "QUAASA GESTREIFTES LANGARMHEMD",
+   "detail": "tabasco red · Sizes L–XL · Men",
+   "shop": "ARMEDANGELS",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/quaasa-stripe-longsleeve-shirt-tabasco-red?variant=55113551970629",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007426-3496_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
     "minimal",
-    "streetwear"
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
-    "XXS",
-    "S",
-    "M",
-    "L",
-    "XXL"
-   ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "LEINEN-MIX STRAIGHT LEG HOSE",
-   "detail": "oatmilk · Sizes XS–XL · Women",
-   "shop": "ARMEDANGELS",
-   "price": 54.9,
-   "was": 139.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/leinen-mix-straight-leg-hose-oatmilk?variant=57299279380805",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008537-1609_111.jpg?v=1791813599&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
     "L",
     "XL"
    ]
@@ -4581,20 +4012,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Metallic Silver · Sizes 36–42 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 60,
-   "was": 129,
+   "price": 55,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-metallic-silver?variant=52981868069131",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/92twrad39pj-HQ7540-103_Nike_Wmns-Shox-Z_White-Metallic-Silver_os-1.jpg?v=1774451950&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -4637,18 +4067,19 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "pull gia",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 115,
-   "was": 230,
-   "category": "Knitwear",
-   "url": "https://www.apc.fr/products/pull-gia-iak-wvbep-f23486?variant=58023001850243",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEP-F23486IAK_00.jpg?v=1779369339&width=800",
-   "tag": "French minimal",
+   "brand": "Armedangels",
+   "name": "ICONIC Å BOMBERJACKE",
+   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 89.9,
+   "was": 229.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket-oatmilk-mars-red?variant=56485751259461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
@@ -4657,27 +4088,6 @@
     "M",
     "L",
     "XL"
-   ]
-  },
-  {
-   "brand": "Armedangels",
-   "name": "V-AUSSCHNITT JEANS-MIDI-KLEID",
-   "detail": "eau · Sizes XS–M · Women",
-   "shop": "ARMEDANGELS",
-   "price": 54.9,
-   "was": 139.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/v-ausschnitt-jeans-midi-kleid-eau?variant=57299234455877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008468-3615_111.jpg?v=1791813451&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M"
    ]
   },
   {
@@ -4745,14 +4155,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Shox R4 QS",
-   "detail": "Natural / Net / Metallic Silver · Size 38.5 · Unisex",
+   "name": "Nike Wmns Shox Z",
+   "detail": "White / Metallic Silver · Sizes 36–42 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 74,
-   "was": 159,
+   "price": 60,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52838077006091",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/v4arknp61ai-IO4544-100_Nike_Shox-R4-QS_Natural-Net-Metallic-Silver_os-1.jpg?v=1769612077&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-metallic-silver?variant=52981868069131",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/92twrad39pj-HQ7540-103_Nike_Wmns-Shox-Z_White-Metallic-Silver_os-1.jpg?v=1774451950&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -4760,7 +4170,7 @@
     "retro",
     "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -4801,47 +4211,26 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Polo de rugby A.P.C. bleu marine",
-   "detail": "Sizes XS–XXL · Men",
-   "shop": "A.P.C.",
-   "price": 115,
-   "was": 230,
-   "category": "Shirts",
-   "url": "https://www.apc.fr/products/polo-alexis-gots-iak-cohru-h26633?variant=58023001588099",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHRU-H26633IAK_00.jpg?v=1779368119&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "KÜRZÄRMLIGES JEANS-OVERSHIRT",
-   "detail": "laguna · Sizes S–L",
+   "name": "ICONIC Å BOMBER JACKET",
+   "detail": "oatmilk-mars red · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 54.9,
-   "was": 139.9,
+   "price": 89.9,
+   "was": 229.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/kurzarmliges-jeans-overshirt-laguna?variant=57299234095429",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008466-3631_111.jpg?v=1791813566&width=800",
+   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket?variant=56485751259461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
+    "XS",
     "S",
-    "L"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4915,20 +4304,21 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 6 Retro *GS* *Infrared Salesman*",
-   "detail": "Black / Light Crimson · Size 38 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Shox R4 QS",
+   "detail": "Natural / Net / Metallic Silver · Size 38.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 71,
-   "was": 149,
+   "price": 74,
+   "was": 159,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-6-retro-gs-infrared-salesman-black-light-crimson?variant=52882403787019",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/nlgyo0hc7xe-IQ1275-001_Nike_Air-Jordan-6-Retro-GS-Infrared-Salesman-Black-Light-Crimson_os-1.jpg?v=1770909494&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52838077006091",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/v4arknp61ai-IO4544-100_Nike_Shox-R4-QS_Natural-Net-Metallic-Silver_os-1.jpg?v=1769612077&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Unisex",
    "sizes": []
@@ -4970,38 +4360,15 @@
    "sizes": []
   },
   {
-   "brand": "A.P.C. Paris",
-   "name": "Polo écru ajusté à rayures",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "A.P.C.",
-   "price": 115,
-   "was": 230,
-   "category": "Shirts",
-   "url": "https://www.apc.fr/products/polo-ecru-ajuste-a-rayures-alj-cohlp-f23509?variant=58023028162947",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLP-F23509ALJ_00.jpg?v=1779368120&width=800",
-   "tag": "French minimal",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
    "brand": "Armedangels",
-   "name": "LOCKERE JEANSJACKE",
-   "detail": "white · Sizes XS–XL · Women",
+   "name": "LEINEN-MIX STRAIGHT LEG HOSE",
+   "detail": "oatmilk · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791813436&width=800",
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/leinen-mix-straight-leg-hose-oatmilk?variant=57299279380805",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008537-1609_111.jpg?v=1791813599&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
