@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T09:17:46.722Z",
+ "generatedAt": "2026-10-15T20:00:24.711Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,17 +14,17 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 982
+   "found": 975
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 278
+   "found": 276
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 232
+   "found": 231
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 808
+   "found": 802
   },
   {
    "source": "6PM",
@@ -1280,7 +1280,7 @@
   {
    "brand": "Nike",
    "name": "Nike Solo Swoosh Fleece Open-Hem Pants",
-   "detail": "Black Spruce / White · Size XXL · Unisex",
+   "detail": "Black Spruce / White · Sizes XL–XXL · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 39,
    "was": 109,
@@ -1296,18 +1296,19 @@
    ],
    "department": "Unisex",
    "sizes": [
+    "XL",
     "XXL"
    ]
   },
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Sizes 6.5–11 · Women",
+   "detail": "Sizes 7–11 · Women",
    "shop": "AFEW",
    "price": 33,
    "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402262282",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402295050",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-university-red-white-gum-med-brown-io2387-600-footwear_20_3E_20sneaker.jpg?v=1767789877&width=800",
    "tag": "Statement color",
    "styles": [
@@ -1495,7 +1496,6 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "M",
     "L",
     "XL"
    ]
@@ -1923,7 +1923,6 @@
    "department": "Not specified",
    "sizes": [
     "XS",
-    "M",
     "L",
     "XL"
    ]
@@ -2011,7 +2010,7 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90 Shox Magia",
-   "detail": "Size 5.5 · Women",
+   "detail": "Sizes 5.5–8.5 · Women",
    "shop": "AFEW",
    "price": 45.99,
    "was": 149.99,
@@ -2618,21 +2617,27 @@
   },
   {
    "brand": "Armedangels",
-   "name": "WEITE POPLIN BLUSE",
-   "detail": "white · Size L · Women",
+   "name": "STRIPE LINEN BLEND SWEATER",
+   "detail": "sand stone-undyed · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/loose-poplin-shirt-blouse-white?variant=56485825610053",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008343-188_111.jpg?v=1791813650&width=800",
-   "tag": "Conscious basics",
+   "category": "Sweatshirts",
+   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater?variant=56686555103557",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "L"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2759,18 +2764,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "STRIPE LINEN BLEND SWEATER",
-   "detail": "sand stone-undyed · Sizes XS–XXL",
+   "name": "SEHAARAA GMT DYE DRESS",
+   "detail": "space steel · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Sweatshirts",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater?variant=56686555103557",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
-   "tag": "Romantic find",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress?variant=56485762826565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "boho"
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
@@ -2778,8 +2782,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2905,21 +2908,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LOOSE POPLIN SHIRT BLOUSE",
-   "detail": "white · Size L",
+   "name": "LEO BAT WING BLOUSE",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Shirts",
-   "url": "https://www.armedangels.com/products/loose-poplin-shirt-blouse?variant=56485825610053",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008343-188_111.jpg?v=1791813650&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "L"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3014,13 +3021,13 @@
   {
    "brand": "Nike",
    "name": "Nike Daybreak Suede SP",
-   "detail": "Sizes 5–8 · Men",
+   "detail": "Sizes 5–12 · Men",
    "shop": "AFEW",
    "price": 38.99,
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1791891670&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1792070422&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3051,25 +3058,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SEHAARAA GMT DYE DRESS",
-   "detail": "space steel · Sizes XS–XL",
+   "name": "EFINARAA BRUSHED BLUSE",
+   "detail": "nightshadow · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress?variant=56485762826565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/efinaraa-brushed-nightshadow?variant=55714949038405",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3321_111.jpg?v=1791813499&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -3197,24 +3201,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING BLOUSE",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "QUAASA GESTREIFTES LANGARMHEMD",
+   "detail": "tabasco red · Size XL · Men",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
    "category": "Shirts",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/quaasa-stripe-longsleeve-shirt-tabasco-red?variant=55113552003397",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007426-3496_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
     "XL"
    ]
   },
@@ -3350,22 +3351,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "EFINARAA BRUSHED BLUSE",
-   "detail": "nightshadow · Sizes XS–S · Women",
+   "name": "ICONIC Å BOMBERJACKE",
+   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/efinaraa-brushed-nightshadow?variant=55714949038405",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3321_111.jpg?v=1791813499&width=800",
-   "tag": "Conscious basics",
+   "price": 89.9,
+   "was": 229.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket-oatmilk-mars-red?variant=56485751259461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3491,21 +3496,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "QUAASA GESTREIFTES LANGARMHEMD",
-   "detail": "tabasco red · Size XL · Men",
+   "name": "ICONIC Å BOMBER JACKET",
+   "detail": "oatmilk-mars red · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/quaasa-stripe-longsleeve-shirt-tabasco-red?variant=55113552003397",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007426-3496_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "price": 89.9,
+   "was": 229.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket?variant=56485751259461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
     "XL"
    ]
   },
@@ -3638,18 +3646,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å BOMBERJACKE",
-   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "name": "LEINEN-MIX STRAIGHT LEG HOSE",
+   "detail": "oatmilk · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 229.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket-oatmilk-mars-red?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "price": 54.9,
+   "was": 139.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/leinen-mix-straight-leg-hose-oatmilk?variant=57299279380805",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008537-1609_111.jpg?v=1791813599&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
@@ -3780,25 +3787,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å BOMBER JACKET",
-   "detail": "oatmilk-mars red · Sizes XS–XL",
+   "name": "V-AUSSCHNITT JEANS-MIDI-KLEID",
+   "detail": "eau · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 229.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
+   "price": 54.9,
+   "was": 139.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/v-ausschnitt-jeans-midi-kleid-eau?variant=57299234455877",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008468-3615_111.jpg?v=1791813451&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
@@ -3923,25 +3928,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEINEN-MIX STRAIGHT LEG HOSE",
-   "detail": "oatmilk · Sizes XS–XL · Women",
+   "name": "KÜRZÄRMLIGES JEANS-OVERSHIRT",
+   "detail": "laguna · Size L",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/leinen-mix-straight-leg-hose-oatmilk?variant=57299279380805",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008537-1609_111.jpg?v=1791813599&width=800",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/kurzarmliges-jeans-overshirt-laguna?variant=57299234160965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008466-3631_111.jpg?v=1791813566&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
@@ -4069,14 +4070,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "V-AUSSCHNITT JEANS-MIDI-KLEID",
-   "detail": "eau · Sizes XS–M · Women",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/v-ausschnitt-jeans-midi-kleid-eau?variant=57299234455877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008468-3615_111.jpg?v=1791813451&width=800",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791813436&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -4085,7 +4086,9 @@
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4180,7 +4183,7 @@
    "was": 119.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom?variant=52423356907786",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792052651&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792089368&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -4216,21 +4219,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KÜRZÄRMLIGES JEANS-OVERSHIRT",
-   "detail": "laguna · Size L",
+   "name": "LEINEN-MIX STRAIGHT LEG HOSE",
+   "detail": "oatmilk · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/kurzarmliges-jeans-overshirt-laguna?variant=57299234160965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008466-3631_111.jpg?v=1791813566&width=800",
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/leinen-mix-straight-leg-hose?variant=57299279380805",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008537-105_111.jpg?v=1791813650&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "L"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4365,25 +4372,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LOCKERE JEANSJACKE",
-   "detail": "white · Sizes XS–XL · Women",
+   "name": "V-AUSSCHNITT JEANS MIDI-KLEID",
+   "detail": "eau · Sizes XS–M",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791813436&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/v-ausschnitt-jeans-midi-kleid?variant=57299234455877",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008468-3615_111.jpg?v=1791813451&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
