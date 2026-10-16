@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-15T20:00:24.711Z",
+ "generatedAt": "2026-10-16T09:10:03.366Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 91
+   "found": 90
   },
   {
    "source": "DICKIES",
@@ -14,12 +14,12 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 975
+   "found": 1010
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 276
+   "found": 280
   },
   {
    "source": "AFEW",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 802
+   "found": 813
   },
   {
    "source": "6PM",
@@ -273,14 +273,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Astrograbber QS",
-   "detail": "Aluminum / Soft Yellow / Sail / Black · Size 38 · Unisex",
+   "name": "Nike Wmns Total 90",
+   "detail": "White / Black / White / Metallic Gold · Size 40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 40,
-   "was": 129,
+   "price": 29,
+   "was": 109,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-astrograbber-qs-aluminum-soft-yellow-sail-black?variant=51912638595339",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/7vs2lFCY1eNLeXcq3nl7-IH2341-400-Nike-Astrograbber-QS-Aluminum-Soft-Yellow-Sail-Black-os-1.jpg?v=1752746300&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-t90-white-black-white-metallic-gold?variant=51717236195595",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/FZsGU3i8GC2wh1ClD39b_IB5666-100-Nike-Wmns-T90-White-Black-White-Metallic-Gold-OS-1.jpg?v=1750837930&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -288,13 +288,13 @@
     "retro",
     "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
    "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 6–8.5 · Women",
+   "detail": "Sizes 6–9.5 · Women",
    "shop": "AFEW",
    "price": 39,
    "was": 129.99,
@@ -417,14 +417,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Fire Red / Metallic Silver / Black · Sizes 36.5–40 · Women",
+   "name": "Nike Astrograbber QS",
+   "detail": "Aluminum / Soft Yellow / Sail / Black · Size 38 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 41,
+   "price": 40,
    "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-fire-red-metallic-silver-black?variant=52872647999755",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gyqsgx6wlso-IQ7574-671_Nike_Wmns-Shox-Z_Fire-Red-Metallic-Silver-Black_os-1.jpg?v=1770217208&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-astrograbber-qs-aluminum-soft-yellow-sail-black?variant=51912638595339",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/7vs2lFCY1eNLeXcq3nl7-IH2341-400-Nike-Astrograbber-QS-Aluminum-Soft-Yellow-Sail-Black-os-1.jpg?v=1752746300&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -432,7 +432,7 @@
     "retro",
     "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -552,18 +552,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–40 · Women",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Fire Red / Metallic Silver / Black · Sizes 36.5–40 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 49,
-   "was": 149,
+   "price": 41,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-dark-field-brown-bright-cactus-brigt-cactus?variant=52895889981707",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eramlwdxlfn-IO9932-200_Nike_Wmns-Rejuven-8-OG-SE-Dark-Field-Brown-Bright-Cactus-Brigt-Cactus_os-1.jpg?v=1771314541&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-fire-red-metallic-silver-black?variant=52872647999755",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gyqsgx6wlso-IQ7574-671_Nike_Wmns-Shox-Z_Fire-Red-Metallic-Silver-Black_os-1.jpg?v=1770217208&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -697,19 +698,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Force 1 '07",
-   "detail": "Light Bone / Light Bone / White · Size 35.5 · Women",
+   "name": "Nike Wmns Rejuven 8 OG SE",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–40 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 43,
-   "was": 129,
+   "price": 49,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-force-1-07-light-bone-light-bone-white?variant=52700564324619",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/xn3jexz6ldq-HV4406-001_Nike_Wmns-Air-Force-1-07-Light-Bone-Light-Bone-White_os-1.jpg?v=1763994981&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-dark-field-brown-bright-cactus-brigt-cactus?variant=52895889981707",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eramlwdxlfn-IO9932-200_Nike_Wmns-Rejuven-8-OG-SE-Dark-Field-Brown-Bright-Cactus-Brigt-Cactus_os-1.jpg?v=1771314541&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -849,18 +850,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Black / Muslin / Rust Factor · Sizes 35.5–40.5 · Women",
+   "name": "Nike Wmns Air Force 1 '07",
+   "detail": "Light Bone / Light Bone / White · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 50,
-   "was": 149,
+   "price": 43,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-black-muslin-rust-factor?variant=52882428133643",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8xug5ntrxxg-IO9932-001_Nike_Wmns-Rejuven-8-OG-SE-Black-Muslin-Rust-Factor_os-1.jpg?v=1770909468&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-force-1-07-light-bone-light-bone-white?variant=52700564324619",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/xn3jexz6ldq-HV4406-001_Nike_Wmns-Air-Force-1-07-Light-Bone-Light-Bone-White_os-1.jpg?v=1763994981&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -992,21 +994,19 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan Mule",
-   "detail": "Dark Team Red / Metallic Silver · Size 43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Rejuven 8 OG SE",
+   "detail": "Black / Muslin / Rust Factor · Sizes 35.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 50,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-dark-team-red-metallic-silver?variant=52759449895179",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/inhd0yv9vm-HJ4292-600_Nike_Wmns-Air-Jordan-Mule-Dark-Team-Red-Metallic-Silver_os-1.jpg?v=1765868240&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-black-muslin-rust-factor?variant=52882428133643",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8xug5ntrxxg-IO9932-001_Nike_Wmns-Rejuven-8-OG-SE-Black-Muslin-Rust-Factor_os-1.jpg?v=1770909468&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -1137,17 +1137,18 @@
   {
    "brand": "Jordan",
    "name": "Nike Wmns Air Jordan Mule",
-   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
+   "detail": "Dark Team Red / Metallic Silver · Size 43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 53,
+   "price": 50,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-dark-team-red-metallic-silver?variant=52759449895179",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/inhd0yv9vm-HJ4292-600_Nike_Wmns-Air-Jordan-Mule-Dark-Team-Red-Metallic-Silver_os-1.jpg?v=1765868240&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1278,27 +1279,23 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Solo Swoosh Fleece Open-Hem Pants",
-   "detail": "Black Spruce / White · Sizes XL–XXL · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan Mule",
+   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 39,
-   "was": 109,
-   "category": "Trousers",
-   "url": "https://www.asphaltgold.com/products/nikesolo-swoosh-fleece-openhem-pants-black-spruce-white?variant=52761737134347",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6rzrdmiauys-IO0675-317_Nike_Solo-Swoosh-Fleece-Open-Hem-Pants-Black-Spruce-White_os-1.jpg?v=1771487666&width=800",
-   "tag": "Retro find",
+   "price": 53,
+   "was": 149,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "utility"
+    "statement"
    ],
-   "department": "Unisex",
-   "sizes": [
-    "XL",
-    "XXL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "Nike",
@@ -1424,23 +1421,25 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Total 90 PRM",
-   "detail": "Pearl White / Shadow Brown / Peal White · Size 40 · Unisex",
+   "name": "Nike Solo Swoosh Fleece Open-Hem Pants",
+   "detail": "Black Spruce / White · Size XXL · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 39,
    "was": 109,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-total-90-prm-pearl-white-shadow-brown-peal-white?variant=51983762981131",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/X0RorfdFqoPzXlUpIqzr-IH2090-200-Nike-Total-90-PRM-Pearl-White-Shadow-Brown-Peal-White-os-1.jpg?v=1753942338&width=800",
+   "category": "Trousers",
+   "url": "https://www.asphaltgold.com/products/nikesolo-swoosh-fleece-openhem-pants-black-spruce-white?variant=52761737134347",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6rzrdmiauys-IO0675-317_Nike_Solo-Swoosh-Fleece-Open-Hem-Pants-Black-Spruce-White_os-1.jpg?v=1771487666&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro",
-    "statement"
+    "utility"
    ],
    "department": "Unisex",
-   "sizes": []
+   "sizes": [
+    "XXL"
+   ]
   },
   {
    "brand": "Nike",
@@ -1565,24 +1564,23 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Project F.R.O.G. Woven Shorts",
-   "detail": "Olive Aura / White / Grey Strike · Size S · Unisex",
+   "name": "Nike Total 90 PRM",
+   "detail": "Pearl White / Shadow Brown / Peal White · Size 40 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 27,
-   "was": 75,
-   "category": "Shorts",
-   "url": "https://www.asphaltgold.com/products/nike-project-frog-woven-shorts-olive-aura-white-grey-strike?variant=51509822816523",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ZOA6PBChBRUaItKCWAWh_HJ6944-371-Nike-Project-F.R.O.G.-Woven-Shorts-Olive-Aura-White-Grey-Strike-OS-1.jpg?v=1750075390&width=800",
+   "price": 39,
+   "was": 109,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-total-90-prm-pearl-white-shadow-brown-peal-white?variant=51983762981131",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/X0RorfdFqoPzXlUpIqzr-IH2090-200-Nike-Total-90-PRM-Pearl-White-Shadow-Brown-Peal-White-os-1.jpg?v=1753942338&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Unisex",
-   "sizes": [
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Nike",
@@ -1593,7 +1591,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-total-90-midnight-navy-black-white?variant=52234855448842",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792053006&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792140254&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1705,22 +1703,24 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Light Magenta · Sizes 36–42.5 · Women",
+   "name": "Nike Project F.R.O.G. Woven Shorts",
+   "detail": "Olive Aura / White / Grey Strike · Size S · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 129,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-light-magenta?variant=52838585630987",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/PadoGw7VTKYfloTMKOKF-HQ7540-101-Nike-Wmns-Shox-Z-White-Light-Magenta-os-1.jpg?v=1769525183&width=800",
+   "price": 27,
+   "was": 75,
+   "category": "Shorts",
+   "url": "https://www.asphaltgold.com/products/nike-project-frog-woven-shorts-olive-aura-white-grey-strike?variant=51509822816523",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ZOA6PBChBRUaItKCWAWh_HJ6944-371-Nike-Project-F.R.O.G.-Woven-Shorts-Olive-Aura-White-Grey-Strike-OS-1.jpg?v=1750075390&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Unisex",
+   "sizes": [
+    "S"
+   ]
   },
   {
    "brand": "Nike",
@@ -1847,20 +1847,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia",
-   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Sizes 35.5–38 · Women",
+   "name": "Nike Wmns Shox Z",
+   "detail": "White / Light Magenta · Sizes 36–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 56,
-   "was": 149,
+   "price": 47,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338416395",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-light-magenta?variant=52838585630987",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/PadoGw7VTKYfloTMKOKF-HQ7540-101-Nike-Wmns-Shox-Z-White-Light-Magenta-os-1.jpg?v=1769525183&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -1989,20 +1988,21 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan 1 Retro High OG",
-   "detail": "Pale Ivory / Pro Green / Fir / Coconut Milk · Size 36.5 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Total 90 Shox Magia",
+   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Sizes 35.5–38 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 68,
-   "was": 179,
+   "price": 56,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-1-retro-high-og-varsity-red-pale-ivory-pro-green-fir-coconut-milk?variant=52381706780939",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1jJLfcFleJ9STwHBM5hu-FD2596-101-Nike-Wmns-Air-Jordan-1-Retro-High-OG-Pale-Ivory-Pro-Green-Fir-Coconut-Milk-os-1.jpg?v=1758792632&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338416395",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2128,22 +2128,22 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36–42 · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan 1 Retro High OG",
+   "detail": "Pale Ivory / Pro Green / Fir / Coconut Milk · Size 36.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
-   "was": 99,
+   "price": 68,
+   "was": 179,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574555403",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-1-retro-high-og-varsity-red-pale-ivory-pro-green-fir-coconut-milk?variant=52381706780939",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1jJLfcFleJ9STwHBM5hu-FD2596-101-Nike-Wmns-Air-Jordan-1-Retro-High-OG-Pale-Ivory-Pro-Green-Fir-Coconut-Milk-os-1.jpg?v=1758792632&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2275,21 +2275,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
-   "detail": "Light British Tan / Flax · Size 39 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36–42 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 76,
-   "was": 195,
-   "category": "Accessories",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-light-british-tan-flax?variant=52882424398091",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eck216rzugq-IH1413-200_Nike_Wmns-Air-Max-95-Big-Bubble-Jewel-Swoosh-Light-British-Tan-Flax_os-1.jpg?v=1770909623&width=800",
-   "tag": "Retro find",
+   "price": 38,
+   "was": 99,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574555403",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2417,20 +2417,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
+   "detail": "Light British Tan / Flax · Size 39 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 119,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
-   "tag": "Statement color",
+   "price": 76,
+   "was": 195,
+   "category": "Accessories",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-light-british-tan-flax?variant=52882424398091",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eck216rzugq-IH1413-200_Nike_Wmns-Air-Max-95-Big-Bubble-Jewel-Swoosh-Light-British-Tan-Flax_os-1.jpg?v=1770909623&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -2559,22 +2559,22 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Air Max 95 Zip SP *Big Bubble*",
-   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Sizes 37.5–40 · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 80,
-   "was": 199,
+   "price": 47,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910770815243",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2643,7 +2643,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER CARGO SHORTS OLIVE",
-   "detail": "Sizes 22–30",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 24,
    "was": 79.99,
@@ -2708,22 +2708,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia QS",
-   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
+   "name": "Nike Air Max 95 Zip SP *Big Bubble*",
+   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Sizes 37.5–40 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 62,
-   "was": 149,
+   "price": 80,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910770815243",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2850,14 +2849,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–43 · Women",
+   "name": "Nike Wmns Total 90 Shox Magia QS",
+   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 54,
-   "was": 129,
+   "price": 62,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -3001,19 +3000,21 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Black / Sail · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 50,
-   "was": 119,
+   "price": 54,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -3027,7 +3028,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1792070422&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1792140909&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3144,20 +3145,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–42 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Black / Sail · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
-   "was": 89,
+   "price": 50,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -3292,19 +3292,18 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Sprint Sister",
-   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–43 · Women",
+   "detail": "Sail / Black / Sail · Sizes 36.5–42 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 39,
+   "price": 38,
    "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -3439,20 +3438,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Velvet Brown / Velvet Brown / Metallic Gold · Size 35.5 · Women",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 57,
-   "was": 129,
+   "price": 39,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-velvet-brown-velvet-brown-metallic-gold?variant=52882389467403",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/toolf23n10g-IB8954-200_Nike_Wmns-Air-Rift-Velvet-Brown-Velvet-Brown-Metallic-Gold_os-1.jpg?v=1770909729&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro",
-    "boho",
     "statement"
    ],
    "department": "Women",
@@ -3520,7 +3518,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
@@ -3582,26 +3580,25 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Jordan Flight Printed Long-Sleeve Jersey",
-   "detail": "Black / White · Sizes S–XL · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Velvet Brown / Velvet Brown / Metallic Gold · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 79,
-   "category": "T-shirts",
-   "url": "https://www.asphaltgold.com/products/nike-jordan-flight-printed-longsleeve-jersey-black-white?variant=52877537214731",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/4hoe91l2muc-IF1831-010_Nike_Jordan-Flight-Printed-Long-Sleeve-Jersey-Black-White_os-1.jpg?v=1770643943&width=800",
+   "price": 57,
+   "was": 129,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-velvet-brown-velvet-brown-metallic-gold?variant=52882389467403",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/toolf23n10g-IB8954-200_Nike_Wmns-Air-Rift-Velvet-Brown-Velvet-Brown-Metallic-Gold_os-1.jpg?v=1770909729&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "boho",
+    "statement"
    ],
-   "department": "Unisex",
-   "sizes": [
-    "S",
-    "XL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "Nike",
@@ -3731,19 +3728,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Black / Black / University Red · Sizes 37.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 44,
-   "was": 99,
+   "price": 57,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513107211",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -3788,7 +3786,7 @@
   {
    "brand": "Armedangels",
    "name": "V-AUSSCHNITT JEANS-MIDI-KLEID",
-   "detail": "eau · Sizes XS–M · Women",
+   "detail": "eau · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
@@ -3803,7 +3801,8 @@
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   {
@@ -3871,22 +3870,24 @@
   },
   {
    "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36–43 · Women",
+   "name": "Nike Jordan Flight Printed Long-Sleeve Jersey",
+   "detail": "Black / White · Size XL · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 55,
-   "was": 119,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
-   "tag": "Statement color",
+   "price": 35,
+   "was": 79,
+   "category": "T-shirts",
+   "url": "https://www.asphaltgold.com/products/nike-jordan-flight-printed-longsleeve-jersey-black-white?variant=52877537345803",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/4hoe91l2muc-IF1831-010_Nike_Jordan-Flight-Printed-Long-Sleeve-Jersey-Black-White_os-1.jpg?v=1770643943&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Unisex",
+   "sizes": [
+    "XL"
+   ]
   },
   {
    "brand": "Nike",
@@ -3948,7 +3949,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Size 24",
+   "detail": "Sizes 24–26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
@@ -4010,20 +4011,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Metallic Silver · Sizes 36–42 · Women",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 60,
-   "was": 129,
+   "price": 44,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-metallic-silver?variant=52981868069131",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/92twrad39pj-HQ7540-103_Nike_Wmns-Shox-Z_White-Metallic-Silver_os-1.jpg?v=1774451950&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -4156,20 +4156,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Shox R4 QS",
-   "detail": "Natural / Net / Metallic Silver · Size 38.5 · Unisex",
+   "name": "Nike Ava Rover",
+   "detail": "Fossil / Black / Cosmic Clay / Canyon Rust · Size 41 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 74,
-   "was": 159,
+   "price": 64,
+   "was": 139,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52838077006091",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/v4arknp61ai-IO4544-100_Nike_Shox-R4-QS_Natural-Net-Metallic-Silver_os-1.jpg?v=1769612077&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-ava-rover-fossil-black-cosmic-clay-canyon-rust?variant=51948411519243",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/p70aZ0gu0z5AZwKfKEDo-DX4215-204-Nike-Ava-Rover-Fossil-Black-Cosmic-Clay-Canyon-Rust-os-1.jpg?v=1753448795&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Unisex",
    "sizes": []
@@ -4183,7 +4182,7 @@
    "was": 119.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom?variant=52423356907786",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792089368&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792140070&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -4310,20 +4309,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Shox TL",
-   "detail": "Particle Rose / Metallic Silver / Particle Rose · Size 42.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 79,
-   "was": 169,
+   "price": 55,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-tl-particle-rose-metallic-silver-particle-rose?variant=52819922977035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/hdv5bvb78ml-AR3566-601_Nike_Wmns-Shox-TL-Particle-Rose-Metallic-Silver-Particle-Rose_os-1.jpg?v=1768917546&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -4373,7 +4371,7 @@
   {
    "brand": "Armedangels",
    "name": "V-AUSSCHNITT JEANS MIDI-KLEID",
-   "detail": "eau · Sizes XS–M",
+   "detail": "eau · Sizes XS–L",
    "shop": "ARMEDANGELS",
    "price": 54.9,
    "was": 139.9,
@@ -4388,7 +4386,8 @@
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   {
@@ -4584,7 +4583,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim SHORTS Washed Grey",
-   "detail": "Sizes 22–30",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
@@ -4649,7 +4648,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 22–24",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
@@ -4782,7 +4781,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–27",
+   "detail": "Sizes 22–32",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
