@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T10:04:32.951Z",
+ "generatedAt": "2026-10-19T21:12:46.731Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,12 +14,12 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 977
+   "found": 974
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 275
+   "found": 273
   },
   {
    "source": "AFEW",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 837
+   "found": 809
   },
   {
    "source": "6PM",
@@ -186,22 +186,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GRAZILIANAA SOFT LANGARMSHIRT",
-   "detail": "frozen lavender · Size XS · Women",
+   "name": "KARDAA T-SHIRT",
+   "detail": "mangorange · Size XXL",
    "shop": "ARMEDANGELS",
    "price": 14.9,
    "was": 39.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/grazilianaa-soft-frozen-lavender?variant=54973674520901",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007773-3322_111.jpg?v=1791922624&width=800",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-mangorange?variant=54723418194245",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-2341_111.jpg?v=1791813625&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "XXL"
    ]
   },
   {
@@ -325,22 +325,27 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GRAZILIANAA SOFT LANGARMSHIRT",
-   "detail": "tinted navy · Size XS · Women",
+   "name": "GESTREIFTES TANKTOP RIPP-KLEID",
+   "detail": "pink mist-dried palm · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 14.9,
-   "was": 39.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/grazilianaa-soft-tinted-navy?variant=54973673800005",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007773-3232_111.jpg?v=1791922621&width=800",
-   "tag": "Sport edit",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid-pink-mist-dried-palm?variant=57299311624517",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3600_111.jpg?v=1791813491&width=800",
+   "tag": "Statement color",
    "styles": [
     "minimal",
-    "sport"
+    "statement"
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -465,21 +470,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA T-SHIRT",
-   "detail": "mangorange · Size XXL",
+   "name": "GESTREIFTES TANK TOP RIPP-KLEID",
+   "detail": "pink mist-dried palm · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
-   "price": 14.9,
-   "was": 39.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-mangorange?variant=54723418194245",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004660-2341_111.jpg?v=1791813625&width=800",
-   "tag": "Sport edit",
+   "price": 34.9,
+   "was": 89.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid?variant=57299311624517",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3599_111.jpg?v=1791813597&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
     "XXL"
    ]
   },
@@ -605,14 +614,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-space steel · Sizes XS–XL · Women",
+   "name": "LEO-FLEDERMAUSÄRMEL-BLUSE",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-undyed-space-steel?variant=56686555300165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3834_111.jpg?v=1791813402&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse-dark-steel-black?variant=56485752537413",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -747,26 +756,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "sand stone-undyed · Sizes XS–XXL · Women",
+   "name": "LEO BAT WING BLOUSE",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 34.9,
    "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/striped-linen-blend-sweater-sand-stone-undyed?variant=56686555103557",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -900,20 +908,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CCL - NAAILO DENIM SHORT",
-   "detail": "jupiter",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/ccl-naailo-denim-short?variant=54724134928709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007335-3198_111.jpg?v=1791813589&width=800",
+   "price": 54.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke-white?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791813436&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1038,26 +1052,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "washed berry · Sizes XS–XXL · Women",
+   "name": "LOCKERE JEANSJACKE",
+   "detail": "white · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-washed-berry?variant=57299174097221",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-3563_111.jpg?v=1791813544&width=800",
+   "price": 54.9,
+   "was": 139.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/lockere-jeansjacke?variant=57299233702213",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008465-188_111.jpg?v=1791813436&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -1182,27 +1195,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTES TANKTOP RIPP-KLEID",
-   "detail": "pink mist-dried palm · Sizes XS–XXL · Women",
+   "name": "MAARKOS FC",
+   "detail": "night sky · Sizes XS–S · Unisex",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid-pink-mist-dried-palm?variant=57299311624517",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3600_111.jpg?v=1791813491&width=800",
-   "tag": "Statement color",
+   "price": 19.9,
+   "was": 49.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/maarkos-fc-night-sky?variant=54723936190789",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006595-1237_211.jpg?v=1791813394&width=800",
+   "tag": "Sport edit",
    "styles": [
     "minimal",
-    "statement"
+    "sport"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -1328,24 +1337,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "space steel · Sizes L–XXL · Women",
+   "name": "YENAAS COLORBLOCK CAP",
+   "detail": "oatmilk-tabasco red",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid-space-steel?variant=57299173769541",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
+   "price": 19.9,
+   "was": 49.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/yenaas-colorblock-cap?variant=56614055543109",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008452-3572_111.jpg?v=1791813650&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -1471,26 +1476,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-washed berry · Sizes XS–XXL · Women",
+   "name": "FARIBAA ZEBRARAA LEGGINGS",
+   "detail": "black · Size XS · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-washed-berry?variant=56485841633605",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3660_111.jpg?v=1791813480&width=800",
+   "price": 19.9,
+   "was": 49.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XS"
    ]
   },
   {
@@ -1583,7 +1583,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-total-90-midnight-navy-black-white?variant=52234855448842",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792348868&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792435930&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1612,24 +1612,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER LEINEN-MIX PULLOVER",
-   "detail": "undyed-foam · Sizes XS–XL · Women",
+   "name": "LALEAA FESTIVE",
+   "detail": "undyed · Size XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
+   "price": 39.9,
+   "was": 99.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater-undyed-foam?variant=56485840683333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-3561_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/laleaa-festive-undyed?variant=54723956015429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006681-1677_111.jpg?v=1791813411&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
     "XL"
    ]
   },
@@ -1754,22 +1750,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MINI-STRICKROCK",
-   "detail": "undyed-black · Sizes XS–XL · Women",
+   "name": "GETAA",
+   "detail": "black · Size S · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock-undyed-black?variant=57299267223877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/getaa-black?variant=54723949691205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006639-105_111.jpg?v=1791813502&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "XL"
+    "S"
    ]
   },
   {
@@ -1893,26 +1888,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTES TANK TOP RIPP-KLEID",
-   "detail": "pink mist-dried palm · Sizes XS–XXL",
+   "name": "GRAATIA PÄRLAA",
+   "detail": "cinnamon dust · Size XS",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gestreiftes-tank-top-ripp-kleid?variant=57299311624517",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008578-3599_111.jpg?v=1791813597&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/graatia-parlaa-cinnamon-dust?variant=54723895886149",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006400-2782_111.jpg?v=1791813609&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XS"
    ]
   },
   {
@@ -2036,22 +2026,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MINI-STRICKROCK",
-   "detail": "undyed-black · Sizes XS–XL",
+   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
+   "detail": "wedgwood · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/gestreifter-mini-strickrock?variant=57299267223877",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008530-1716_111.jpg?v=1791813621&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
-    "XS",
-    "XL"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2176,20 +2169,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE BODYCON RIPP-KLEID",
-   "detail": "space steel · Sizes L–XXL",
+   "name": "GARN-MIX POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/gmt-dye-bodycon-ripp-kleid?variant=57299173769541",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008402-2682_111.jpg?v=1791813491&width=800",
-   "tag": "Conscious basics",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
+    "S",
+    "M",
     "L",
     "XL",
     "XXL"
@@ -2315,23 +2311,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "XELINAA JERSEY-MIDI-KLEID",
-   "detail": "pink mist · Sizes XS–XXL · Women",
+   "name": "YARNMIX KNIT POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/xelinaa-pink-mist?variant=55610253148485",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006174-3433_111.jpg?v=1791813523&width=800",
-   "tag": "Sport edit",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport",
-    "statement"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
@@ -2461,24 +2454,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SEHAARAA GMT DYE KLEID",
-   "detail": "space steel · Sizes S–XL · Women",
+   "name": "AADRU LS RUGBY",
+   "detail": "dark wave · Size S · Men",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress-space-steel?variant=56485762859333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
-   "tag": "Conscious basics",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/aadru-ls-rugby-dark-wave?variant=55715092201797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007873-3398_111.jpg?v=1791813650&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -2601,14 +2592,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL-BLUSE",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "CALINAA KLEID",
+   "detail": "steel melange · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse-dark-steel-black?variant=56485752537413",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2617,9 +2608,8 @@
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2747,27 +2737,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "STRIPE LINEN BLEND SWEATER",
-   "detail": "sand stone-undyed · Sizes XS–XXL",
+   "name": "AGAAMON STRICKJACKE",
+   "detail": "dark cranberry · Size XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Sweatshirts",
-   "url": "https://www.armedangels.com/products/stripe-linen-blend-sweater?variant=56686555103557",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008520-2591_111.jpg?v=1791813426&width=800",
-   "tag": "Romantic find",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/agaamon-dark-cranberry?variant=54723701440837",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005754-3320_111.jpg?v=1791813502&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "boho"
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2893,20 +2877,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SEHAARAA GMT DYE DRESS",
-   "detail": "space steel · Sizes S–XL",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/sehaaraa-gmt-dye-dress?variant=56485762859333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008160-2682_111.jpg?v=1791813671&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
     "L",
@@ -2986,12 +2971,12 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Shox Z",
-   "detail": "Black / Black / University Red · Sizes 39–40 · Women",
+   "detail": "Black / Black / University Red · Size 40 · Women",
    "shop": "ASPHALTGOLD",
    "price": 51,
    "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513271051",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513303819",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
    "tag": "Retro find",
    "styles": [
@@ -3042,14 +3027,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING BLOUSE",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-blouse?variant=56485752537413",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008116-3583_111.jpg?v=1791813561&width=800",
+   "price": 59.9,
+   "was": 149.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -3106,7 +3091,7 @@
   {
    "brand": "Reebok",
    "name": "ID 1-Color Logo Fleece Shorts",
-   "detail": "Sizes XS–XXL · Men",
+   "detail": "Sizes XS–XL · Men",
    "shop": "REEBOK",
    "price": 16,
    "was": 40,
@@ -3126,8 +3111,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -3189,14 +3173,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ZALAIAA CORDROCK",
-   "detail": "dark cranberry · Sizes XS–S · Women",
+   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/zalaiaa-corduroy-dark-cranberry?variant=54973534765381",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007505-3320_111.jpg?v=1791813597&width=800",
+   "price": 59.9,
+   "was": 149.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -3204,7 +3188,10 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3334,22 +3321,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "VOLAGAA SAMTROCK",
-   "detail": "black · Sizes XS–S · Women",
+   "name": "LEO BAT WING MIDI DRESS",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/volagaa-velvet-black?variant=55715017359685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007844-105_111.jpg?v=1791813659&width=800",
+   "price": 59.9,
+   "was": 149.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3477,22 +3467,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "EFINARAA BRUSHED BLUSE",
-   "detail": "nightshadow · Size XS · Women",
+   "name": "AARY",
+   "detail": "indigo haze · Men",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/efinaraa-brushed-nightshadow?variant=55714949038405",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3321_111.jpg?v=1791813499&width=800",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3618,24 +3606,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "EFINARAA BRUSHED BLUSE",
-   "detail": "dark cranberry · Sizes XS–L · Women",
+   "name": "COTTON LINEN JACKET",
+   "detail": "sandstone · Sizes S–XXL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/efinaraa-brushed-dark-cranberry?variant=55714948710725",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007815-3320_111.jpg?v=1791813492&width=800",
-   "tag": "Conscious basics",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3761,14 +3751,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ZALAIAA CORDROCK",
-   "detail": "dark steel · Sizes XS–S · Women",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
+   "price": 64.9,
+   "was": 159.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/zalaiaa-corduroy-dark-steel?variant=54973533061445",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007505-312_111.jpg?v=1791813530&width=800",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -3776,7 +3766,10 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3903,18 +3896,17 @@
   },
   {
    "brand": "Armedangels",
-   "name": "QUAASA GESTREIFTES LANGARMHEMD",
-   "detail": "tabasco red · Sizes S–XXL · Men",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "sandstone · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/quaasa-stripe-longsleeve-shirt-tabasco-red?variant=55113551905093",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007426-3496_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
    "department": "Men",
    "sizes": [
@@ -4055,26 +4047,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAGDAALENA JERSEYHOSE",
-   "detail": "night sky · Sizes XS–XXL · Women",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 34.9,
-   "was": 89.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/magdaalena-night-sky?variant=54722962850117",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30001778-1237_111.jpg?v=1791813645&width=800",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -4207,26 +4198,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å BOMBERJACKE",
-   "detail": "oatmilk-mars red · Sizes XS–XL · Women",
+   "name": "SAANDON",
+   "detail": "black · Size S · Men",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
+   "price": 94.9,
    "was": 229.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket-oatmilk-mars-red?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "url": "https://www.armedangels.com/products/saandon-black?variant=54723536159045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005104-105_111.jpg?v=1791813533&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -4298,12 +4284,12 @@
   {
    "brand": "Nike",
    "name": "Nike Dunk Low Retro",
-   "detail": "Soft Pearl / Cream II / Soft Pearl · Sizes 37.5–38 · Unisex",
+   "detail": "Soft Pearl / Cream II / Soft Pearl · Size 38 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 56,
    "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-dunk-low-retro-soft-pearl-cream-ii-soft-pearl?variant=52819806978315",
+   "url": "https://www.asphaltgold.com/products/nike-dunk-low-retro-soft-pearl-cream-ii-soft-pearl?variant=52819807011083",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/zdbxmsm8y7l-HF5441-007_Nike_Dunk-Low-Retro-Soft-Pearl-Cream-II-Soft-Pearl_os-1.jpg?v=1768917871&width=800",
    "tag": "Retro find",
    "styles": [
@@ -4357,26 +4343,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å BOMBER JACKET",
-   "detail": "oatmilk-mars red · Sizes XS–XL",
+   "name": "AARY",
+   "detail": "undyed · Men",
    "shop": "ARMEDANGELS",
-   "price": 89.9,
-   "was": 229.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/iconic-a-bomber-jacket?variant=56485751259461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008113-3478_111.jpg?v=1791813469&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136403269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007343-1677_111.jpg?v=1791813632&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -4705,7 +4685,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–32",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
@@ -4998,21 +4978,23 @@
   },
   {
    "brand": "Reebok",
-   "name": "Athlete Flex Sleeveless Crew",
-   "detail": "Sizes XS–XXL · Men",
+   "name": "Reagan Oversized Crew",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 22,
-   "was": 55,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/athlete-flex-sleeveless-crew-100254315-1713?variant=56698412990812",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254315_155334_FR_Model_eCom.jpg?v=1770918753&width=800",
-   "tag": "Retro sport",
+   "price": 20,
+   "was": 50,
+   "category": "Sweatshirts",
+   "url": "https://www.reebok.eu/products/reagan-oversized-crew-100241250-1714?variant=56776558379356",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241250_142889_FR_Model_eCom.jpg?v=1773932870&width=800",
+   "tag": "Street edit",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M",
