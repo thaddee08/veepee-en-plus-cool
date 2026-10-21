@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T09:29:46.628Z",
+ "generatedAt": "2026-10-21T20:17:57.809Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,17 +14,17 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 963
+   "found": 959
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 234
+   "found": 229
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 223
+   "found": 224
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 828
+   "found": 810
   },
   {
    "source": "6PM",
@@ -147,21 +147,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ZOOM LEBRON IV",
-   "detail": "Size 6 · Men",
+   "name": "Nike WMNS Total 90 Shox Magia",
+   "detail": "Size 5.5 · Women",
    "shop": "AFEW",
-   "price": 75,
-   "was": 249.99,
+   "price": 38.99,
+   "was": 149.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-zoom-lebron-iv-black-varsity-purple-blue-tint?variant=49727069585674",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-lebron-iv-black-varsity-purple-blue-tint-fn6251-001-footwear_20_3E_20sneaker_656acc0b-dfbc-471d-96fe-b3c8b528468d.jpg?v=1723120660&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52428239700234",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail-io9300-100-footwear_20_3E_20sneaker.jpg?v=1768950408&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -269,7 +268,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–40 · Women",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–39 · Women",
    "shop": "ASPHALTGOLD",
    "price": 44,
    "was": 149,
@@ -287,20 +286,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 6.5–9.5 · Women",
+   "name": "Nike AIR MAX 95 PRM 'Houseflies'",
+   "detail": "Size 5.5 · Men",
    "shop": "AFEW",
-   "price": 39,
-   "was": 129.99,
+   "price": 53.99,
+   "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-white-lt-magenta?variant=52433274011914",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-white-lt-magenta-hq7540-101-footwear_20_3E_20sneaker.jpg?v=1769036815&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-prm-black-neon-yellow-black-mtlc-dark-grey?variant=51950130561290",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-prm-black-neon-yellow-black-mtlc-dark-grey-im3082-001-footwear_20_3E_20sneaker.jpg?v=1792609987&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -430,14 +430,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ASTROGRABBER",
-   "detail": "Sizes 4.5–7.5 · Men",
+   "name": "Nike AIR ZOOM SPIRIDON",
+   "detail": "Size 8 · Men",
    "shop": "AFEW",
-   "price": 39,
-   "was": 129.99,
+   "price": 48.99,
+   "was": 169.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-astrograbber-off-noir-cement-grey?variant=52185420366090",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-off-noir-cement-grey-iq5483-045-footwear_20_3E_20sneaker.jpg?v=1764250175&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-zoom-spiridon-photon-dust-fir-white-obsidian?variant=51847001014538",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-zoom-spiridon-photon-dust-fir-white-obsidian-io1907-025-footwear_20_3E_20sneaker.jpg?v=1758892191&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -572,18 +572,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ASTROGRABBER QS",
-   "detail": "Size 7.5 · Men",
+   "name": "Nike ZOOM LEBRON IV",
+   "detail": "Size 6 · Men",
    "shop": "AFEW",
-   "price": 39,
-   "was": 129.99,
+   "price": 75,
+   "was": 249.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-astrograbber-qs-fir-phantom-sail-black?variant=51694396834058",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-qs-fir-phantom-sail-black-ih2341-300-footwear_20_3E_20sneaker.jpg?v=1756288895&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-zoom-lebron-iv-black-varsity-purple-blue-tint?variant=49727069585674",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-lebron-iv-black-varsity-purple-blue-tint-fn6251-001-footwear_20_3E_20sneaker_656acc0b-dfbc-471d-96fe-b3c8b528468d.jpg?v=1723120660&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -717,14 +718,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90",
-   "detail": "Sizes 7–12 · Women",
+   "name": "Nike WMNS Shox Z",
+   "detail": "Sizes 6.5–9.5 · Women",
    "shop": "AFEW",
-   "price": 36,
-   "was": 119.99,
+   "price": 39,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white?variant=52423755399434",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white-if3947-200-footwear_20_3E_20sneaker.jpg?v=1768906292&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-white-lt-magenta?variant=52433274011914",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-white-lt-magenta-hq7540-101-footwear_20_3E_20sneaker.jpg?v=1769036815&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -867,20 +868,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90",
-   "detail": "Sizes 7–12 · Women",
+   "name": "Nike ASTROGRABBER",
+   "detail": "Sizes 4.5–7.5 · Men",
    "shop": "AFEW",
-   "price": 36,
-   "was": 119.99,
+   "price": 39,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-black-black-white?variant=52364398592266",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-black-black-white-if3947-001-footwear_20_3E_20sneaker.jpg?v=1767789784&width=800",
+   "url": "https://www.afew-store.com/products/nike-astrograbber-off-noir-cement-grey?variant=52185420366090",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-off-noir-cement-grey-iq5483-045-footwear_20_3E_20sneaker.jpg?v=1764250175&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1008,20 +1009,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90",
-   "detail": "Sizes 7–8 · Women",
+   "name": "Nike ASTROGRABBER QS",
+   "detail": "Size 7.5 · Men",
    "shop": "AFEW",
-   "price": 36,
-   "was": 119.99,
+   "price": 39,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364395970826",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-light-bone-sail-white-gum-med-brown-if3947-002-footwear_20_3E_20sneaker.jpg?v=1767789758&width=800",
+   "url": "https://www.afew-store.com/products/nike-astrograbber-qs-fir-phantom-sail-black?variant=51694396834058",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-qs-fir-phantom-sail-black-ih2341-300-footwear_20_3E_20sneaker.jpg?v=1756288895&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1132,12 +1133,12 @@
   {
    "brand": "Nike",
    "name": "Nike Air Max 95 Zip SP *Big Bubble*",
-   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Sizes 37.5–40 · Unisex",
+   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Sizes 39–40 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 72,
    "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910770815243",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910771044619",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
    "tag": "Retro find",
    "styles": [
@@ -1150,14 +1151,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS LD-1000 SP",
-   "detail": "Size 6 · Women",
+   "name": "Nike WMNS Total 90",
+   "detail": "Sizes 7–12 · Women",
    "shop": "AFEW",
    "price": 36,
    "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-w-ld-1000-sp-soft-grey-college-grey-photon-dust-black?variant=52136513405194",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-w-ld-1000-sp-soft-grey-college-grey-photon-dust-black-im9008-001-footwear_20_3E_20sneaker.jpg?v=1763454517&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white?variant=52423755399434",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white-if3947-200-footwear_20_3E_20sneaker.jpg?v=1768906292&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1294,18 +1295,17 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Sizes 7–9.5 · Women",
+   "detail": "Sizes 7–12 · Women",
    "shop": "AFEW",
-   "price": 33,
-   "was": 109.99,
+   "price": 36,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402295050",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-university-red-white-gum-med-brown-io2387-600-footwear_20_3E_20sneaker.jpg?v=1767789877&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-black-black-white?variant=52364398592266",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-black-black-white-if3947-001-footwear_20_3E_20sneaker.jpg?v=1767789784&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -1437,20 +1437,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Total 90",
-   "detail": "Sizes 9–13 · Men",
+   "name": "Nike WMNS Total 90",
+   "detail": "Sizes 7–8 · Women",
    "shop": "AFEW",
-   "price": 33,
-   "was": 109.99,
+   "price": 36,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511564554",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364395970826",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-light-bone-sail-white-gum-med-brown-if3947-002-footwear_20_3E_20sneaker.jpg?v=1767789758&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1577,14 +1577,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90",
-   "detail": "Sizes 7–12 · Women",
+   "name": "Nike WMNS LD-1000 SP",
+   "detail": "Size 6 · Women",
    "shop": "AFEW",
-   "price": 33,
-   "was": 109.99,
+   "price": 36,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-midnight-navy-black-white?variant=52234855448842",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792571767&width=800",
+   "url": "https://www.afew-store.com/products/nike-w-ld-1000-sp-soft-grey-college-grey-photon-dust-black?variant=52136513405194",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-w-ld-1000-sp-soft-grey-college-grey-photon-dust-black-im9008-001-footwear_20_3E_20sneaker.jpg?v=1763454517&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1713,14 +1713,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Superfly",
-   "detail": "Sizes 7–8.5 · Women",
+   "name": "Nike WMNS Total 90",
+   "detail": "Sizes 7–8 · Women",
    "shop": "AFEW",
-   "price": 30,
-   "was": 99.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-cinnamon-peony-burgundy-crush-black?variant=52389705842954",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-cinnamon-peony-burgundy-crush-black-hq7955-202-footwear_20_3E_20sneaker.jpg?v=1768298956&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402295050",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-university-red-white-gum-med-brown-io2387-600-footwear_20_3E_20sneaker.jpg?v=1767789877&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
@@ -1833,12 +1833,12 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36–42 · Unisex",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 38,
    "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574555403",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
    "tag": "Statement color",
    "styles": [
@@ -1851,20 +1851,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90 Shox Magia",
-   "detail": "Size 5.5 · Women",
+   "name": "Nike Total 90",
+   "detail": "Sizes 9–13 · Men",
    "shop": "AFEW",
-   "price": 45.99,
-   "was": 149.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52428239700234",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail-io9300-100-footwear_20_3E_20sneaker.jpg?v=1768950408&width=800",
+   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511564554",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1987,21 +1987,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX 95 PRM 'Houseflies'",
-   "detail": "Size 5.5 · Men",
+   "name": "Nike WMNS Total 90",
+   "detail": "Sizes 7–12 · Women",
    "shop": "AFEW",
-   "price": 62.99,
-   "was": 189.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-prm-black-neon-yellow-black-mtlc-dark-grey?variant=51950130561290",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-prm-black-neon-yellow-black-mtlc-dark-grey-im3082-001-footwear_20_3E_20sneaker.jpg?v=1790848026&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-midnight-navy-black-white?variant=52234855448842",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-midnight-navy-black-white-im7595-400-footwear_20_3E_20sneaker.jpg?v=1792597089&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2126,20 +2125,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR ZOOM SPIRIDON",
-   "detail": "Size 8 · Men",
+   "name": "Nike WMNS Air Superfly",
+   "detail": "Sizes 7–8.5 · Women",
    "shop": "AFEW",
-   "price": 57,
-   "was": 169.99,
+   "price": 30,
+   "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-zoom-spiridon-photon-dust-fir-white-obsidian?variant=51847001014538",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-zoom-spiridon-photon-dust-fir-white-obsidian-io1907-025-footwear_20_3E_20sneaker.jpg?v=1758892191&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-cinnamon-peony-burgundy-crush-black?variant=52389705842954",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-cinnamon-peony-burgundy-crush-black-hq7955-202-footwear_20_3E_20sneaker.jpg?v=1768298956&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2403,20 +2403,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS LD-1000 SP",
-   "detail": "Sizes 5–6 · Women",
+   "name": "Nike AIR MAX 95 BIG BUBBLE PRM",
+   "detail": "Sizes 8–8.5 · Men",
    "shop": "AFEW",
-   "price": 42,
-   "was": 119.99,
+   "price": 63,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-w-ld-1000-sp-velvet-brown-safety-orange-alabaster?variant=52136515272970",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-w-ld-1000-sp-velvet-brown-safety-orange-alabaster-im9008-201-footwear_20_3E_20sneaker.jpg?v=1763454562&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-prm-white-metallic-gold-chile-red-photo-blue?variant=52477158555914",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-prm-white-metallic-gold-chile-red-photo-blue-ib7872-100-footwear_20_3E_20sneaker.jpg?v=1792608080&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2522,40 +2523,42 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 6 Retro *GS* *Infrared Salesman*",
-   "detail": "Black / Light Crimson · Size 38 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Velvet Brown / Velvet Brown / Metallic Gold · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 64,
-   "was": 149,
+   "price": 57,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-6-retro-gs-infrared-salesman-black-light-crimson?variant=52882403787019",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/nlgyo0hc7xe-IQ1275-001_Nike_Air-Jordan-6-Retro-GS-Infrared-Salesman-Black-Light-Crimson_os-1.jpg?v=1770909494&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-velvet-brown-velvet-brown-metallic-gold?variant=52882389467403",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/toolf23n10g-IB8954-200_Nike_Wmns-Air-Rift-Velvet-Brown-Velvet-Brown-Metallic-Gold_os-1.jpg?v=1770909729&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "boho",
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Daybreak Suede SP",
-   "detail": "Sizes 5–12 · Men",
+   "name": "Nike WMNS LD-1000 SP",
+   "detail": "Sizes 5–6 · Women",
    "shop": "AFEW",
-   "price": 38.99,
-   "was": 109.99,
+   "price": 42,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1792574286&width=800",
+   "url": "https://www.afew-store.com/products/nike-w-ld-1000-sp-velvet-brown-safety-orange-alabaster?variant=52136515272970",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-w-ld-1000-sp-velvet-brown-safety-orange-alabaster-im9008-201-footwear_20_3E_20sneaker.jpg?v=1763454562&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2667,41 +2670,39 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Velvet Brown / Velvet Brown / Metallic Gold · Size 35.5 · Women",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 57,
-   "was": 129,
+   "price": 44,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-velvet-brown-velvet-brown-metallic-gold?variant=52882389467403",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/toolf23n10g-IB8954-200_Nike_Wmns-Air-Rift-Velvet-Brown-Velvet-Brown-Metallic-Gold_os-1.jpg?v=1770909729&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "boho",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Superfly",
-   "detail": "Sizes 6–10 · Women",
+   "name": "Nike Daybreak Suede SP",
+   "detail": "Sizes 5–12 · Men",
    "shop": "AFEW",
-   "price": 39.99,
-   "was": 99.99,
+   "price": 38.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389698863370",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-black-sail-hq7955-001-footwear_20_3E_20sneaker.jpg?v=1768298871&width=800",
+   "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977531658",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1792585388&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2813,38 +2814,38 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Linen / Sail / Linen · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 44,
-   "was": 99,
+   "price": 40,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-linen-sail-linen?variant=53183306072331",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/d1chssmht3s-IB7102-200_Nike_Wmns-Sprint-Sister-Linen-Sail-Linen_os-1.jpg?v=1781705535&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "boho"
    ],
    "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX 95 BIG BUBBLE PRM",
-   "detail": "Sizes 8–8.5 · Men",
+   "name": "Nike AIR MAX DN8 QS",
+   "detail": "Sizes 5.5–9 · Men",
    "shop": "AFEW",
-   "price": 72,
-   "was": 179.99,
+   "price": 78.99,
+   "was": 209.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-prm-white-metallic-gold-chile-red-photo-blue?variant=52477158555914",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-prm-white-metallic-gold-chile-red-photo-blue-ib7872-100-footwear_20_3E_20sneaker.jpg?v=1792044129&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-air-max-dn8-qs-metallic-silver-metallic-silver-black?variant=52153773719818",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-qs-metallic-silver-metallic-silver-black-im0700-001-footwear_20_3E_20sneaker.jpg?v=1763708857&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Men",
    "sizes": []
@@ -2963,34 +2964,32 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Linen / Sail / Linen · Sizes 36.5–40.5 · Women",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Black / Hemp · Sizes 36.5–42 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 40,
-   "was": 89,
+   "price": 61,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-linen-sail-linen?variant=53183306072331",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/d1chssmht3s-IB7102-200_Nike_Wmns-Sprint-Sister-Linen-Sail-Linen_os-1.jpg?v=1781705535&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "boho"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 6.5–8.5 · Women",
+   "name": "Nike WMNS Air Superfly",
+   "detail": "Sizes 6–10 · Women",
    "shop": "AFEW",
-   "price": 56,
-   "was": 139.99,
+   "price": 39.99,
+   "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-white-white-summit-white-metallic-silver?variant=52695566942474",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-white-white-summit-white-metallic-silver-ir1222-100-footwear_20_3E_20sneaker.jpg?v=1773224494&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389698863370",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-black-sail-hq7955-001-footwear_20_3E_20sneaker.jpg?v=1768298871&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3108,32 +3107,33 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Black / Hemp · Sizes 36.5–42 · Women",
+   "name": "Nike Moon Shoe OG",
+   "detail": "Sail / Black / Sail · Sizes 38.5–48.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 61,
-   "was": 129,
+   "price": 47,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-moon-shoe-og-sail-black-sail?variant=53189179343115",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/o0ai26xbold-IX3952-100_Nike_Wmns-Moon-Shoe-OG-Sail-Black-Sail_os-1.jpg?v=1782138407&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Superfly",
-   "detail": "Sizes 6.5–9 · Women",
+   "name": "Nike WMNS Shox Z",
+   "detail": "Sizes 6.5–8.5 · Women",
    "shop": "AFEW",
-   "price": 40,
-   "was": 99.99,
+   "price": 56,
+   "was": 139.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-sail-sail-sail-black?variant=52695638343946",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-sail-sail-sail-black-im5162-100-footwear_20_3E_20sneaker.jpg?v=1773225517&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-white-white-summit-white-metallic-silver?variant=52695566942474",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-white-white-summit-white-metallic-silver-ir1222-100-footwear_20_3E_20sneaker.jpg?v=1773224494&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3256,14 +3256,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Moon Shoe OG",
-   "detail": "Sail / Black / Sail · Sizes 38.5–48.5 · Unisex",
+   "name": "Nike Air Max 95 *Big Bubble* *Leather*",
+   "detail": "Black / Black / Black · Sizes 36–37.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 99,
+   "price": 95,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-moon-shoe-og-sail-black-sail?variant=53189179343115",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/o0ai26xbold-IX3952-100_Nike_Wmns-Moon-Shoe-OG-Sail-Black-Sail_os-1.jpg?v=1782138407&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-leather-black-black-black?variant=52700896690443",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/u7hh7jte2pk-IM0696-001_Nike_Air-Max-95-Big-Bubble-Leather-Black-Black-Black_os-1.jpg?v=1764341065&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -3275,20 +3275,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX DN8 QS",
-   "detail": "Sizes 5.5–9 · Men",
+   "name": "Nike WMNS Air Superfly",
+   "detail": "Sizes 6.5–9 · Women",
    "shop": "AFEW",
-   "price": 88.99,
-   "was": 209.99,
+   "price": 40,
+   "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-dn8-qs-metallic-silver-metallic-silver-black?variant=52153773719818",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-qs-metallic-silver-metallic-silver-black-im0700-001-footwear_20_3E_20sneaker.jpg?v=1763708857&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-sail-sail-sail-black?variant=52695638343946",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-sail-sail-sail-black-im5162-100-footwear_20_3E_20sneaker.jpg?v=1773225517&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3398,39 +3398,40 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 *Big Bubble* *Leather*",
-   "detail": "Black / Black / Black · Sizes 36–37.5 · Unisex",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Silver / Metallic Silver / Black · Sizes 36–41 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 95,
-   "was": 199,
+   "price": 62,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-leather-black-black-black?variant=52700896690443",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/u7hh7jte2pk-IM0696-001_Nike_Air-Max-95-Big-Bubble-Leather-Black-Black-Black_os-1.jpg?v=1764341065&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-silver-metallic-silver-black?variant=52985085788427",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gqiwy2erjcp-IO7843-002_Nike_Wmns-Shox-Z_Silver-Metallic-Silver-Black_os-1.jpg?v=1774452668&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Superfly LX",
-   "detail": "Sizes 6.5–9 · Women",
+   "name": "Nike AIR MAX DN8 LTR SP",
+   "detail": "Sizes 5.5–8 · Men",
    "shop": "AFEW",
-   "price": 54,
-   "was": 119.99,
+   "price": 90,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom?variant=52423356907786",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792152799&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-dn8-ltr-sp-black-black?variant=52423359725834",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-ltr-sp-black-black-ii7058-001-footwear_20_3E_20sneaker.jpg?v=1792612162&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -3544,40 +3545,39 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Silver / Metallic Silver / Black · Sizes 36–41 · Women",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Soft Pearl / Black / Black · Sizes 36–45.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 62,
-   "was": 129,
+   "price": 48,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-silver-metallic-silver-black?variant=52985085788427",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gqiwy2erjcp-IO7843-002_Nike_Wmns-Shox-Z_Silver-Metallic-Silver-Black_os-1.jpg?v=1774452668&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-soft-pearl-black-black?variant=53018060161291",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8f4ynxf97n2-II0407-001_Nike_Wmns-Moon-Racer-OG-SP-Soft-Pearl-Black-Black_os-1.jpg?v=1775122079&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS LD-1000",
-   "detail": "Sizes 8–9 · Women",
+   "name": "Nike Air Max 95 Zip Big Bubble",
+   "detail": "Size 6 · Men",
    "shop": "AFEW",
-   "price": 54,
-   "was": 119.99,
+   "price": 90,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-ld-1000-soft-pearl-lt-bone-soft-pearl-soft-pearl-celestine-blue-sail?variant=51584577831178",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-ld-1000-soft-pearl-lt-bone-soft-pearl-soft-pearl-celestine-blue-sail-ih7345-001-footwear_20_3E_20sneaker.jpg?v=1753952495&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-black-anthracite-mtlc-cool-grey-white?variant=52081324491018",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-black-anthracite-mtlc-cool-grey-white-im0695-001-footwear_20_3E_20sneaker.jpg?v=1792608607&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -3686,33 +3686,34 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Soft Pearl / Black / Black · Sizes 36–45.5 · Women",
+   "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
+   "detail": "Cargo Khaki / Medium Olive · Sizes 36–38 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 48,
-   "was": 99,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-soft-pearl-black-black?variant=53018060161291",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8f4ynxf97n2-II0407-001_Nike_Wmns-Moon-Racer-OG-SP-Soft-Pearl-Black-Black_os-1.jpg?v=1775122079&width=800",
+   "price": 95,
+   "was": 195,
+   "category": "Accessories",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-cargo-khaki-medium-olive?variant=52882421743883",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ezg9c9dizyn-IH1413-300_Nike_Wmns-Air-Max-95-Big-Bubble-Jewel-Swoosh-Cargo-Khaki-Medium-Olive_os-1.jpg?v=1770909523&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "utility"
    ],
    "department": "Women",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Astra Ultra",
-   "detail": "Sizes 5–11 · Women",
+   "name": "Nike WMNS Air Superfly LX",
+   "detail": "Sizes 6.5–9 · Women",
    "shop": "AFEW",
-   "price": 50.99,
-   "was": 109.99,
+   "price": 54,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-astra-ultra-fauna-brown-chambray-blue-black?variant=52450125119754",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-astra-ultra-fauna-brown-chambray-blue-black-fz5778-200-footwear_20_3E_20sneaker.jpg?v=1769295996&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom?variant=52423356907786",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-lx-cacao-wow-cacao-wow-phantom-hq9148-201-footwear_20_3E_20sneaker.jpg?v=1792152799&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3823,40 +3824,40 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
-   "detail": "Cargo Khaki / Medium Olive · Sizes 36–38 · Women",
+   "name": "Nike Air Max 95 *Big Bubble* *Premium* *Olympic*",
+   "detail": "White / Metallic Gold / Chile Red / Photo Blue · Sizes 38.5–43 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 95,
-   "was": 195,
-   "category": "Accessories",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-cargo-khaki-medium-olive?variant=52882421743883",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ezg9c9dizyn-IH1413-300_Nike_Wmns-Air-Max-95-Big-Bubble-Jewel-Swoosh-Cargo-Khaki-Medium-Olive_os-1.jpg?v=1770909523&width=800",
+   "price": 88,
+   "was": 179,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-premium-olympic-white-metallic-gold-chile-red-photo-blue?variant=52840757559563",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eggypirijta-IB7872-100_Nike_Air-Max-95-Big-Bubble-Premium-Olympic-White-Metallic-Gold-Chile-Red-Photo-Blue_os-1.jpg?v=1769784874&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro",
-    "utility"
+    "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Total 90",
-   "detail": "Size 6.5 · Men",
+   "name": "Nike WMNS LD-1000",
+   "detail": "Sizes 8–9 · Women",
    "shop": "AFEW",
-   "price": 50.99,
-   "was": 109.99,
+   "price": 54,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-t90-white-black-black-gum-light-brown?variant=51157448884490",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-t90-white-black-black-gum-light-brown-ib8182-100-footwear_20_3E_20sneaker.jpg?v=1746780522&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-ld-1000-soft-pearl-lt-bone-soft-pearl-soft-pearl-celestine-blue-sail?variant=51584577831178",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-ld-1000-soft-pearl-lt-bone-soft-pearl-soft-pearl-celestine-blue-sail-ih7345-001-footwear_20_3E_20sneaker.jpg?v=1753952495&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3972,40 +3973,43 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 *Big Bubble* *Premium* *Olympic*",
-   "detail": "White / Metallic Gold / Chile Red / Photo Blue · Sizes 38.5–43 · Unisex",
+   "name": "Nike AeroSwift Dri-FIT ADV 2 Inch Brief-Lined Shorts",
+   "detail": "Black / Dark Smoke Grey / Bright Crimson · Sizes S–L · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 88,
-   "was": 179,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-premium-olympic-white-metallic-gold-chile-red-photo-blue?variant=52840757559563",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eggypirijta-IB7872-100_Nike_Air-Max-95-Big-Bubble-Premium-Olympic-White-Metallic-Gold-Chile-Red-Photo-Blue_os-1.jpg?v=1769784874&width=800",
-   "tag": "Retro find",
+   "price": 44,
+   "was": 89,
+   "category": "Shorts",
+   "url": "https://www.asphaltgold.com/products/nikeaeroswift-drifit-adv-2-inch-brieflined-shorts-black-dark-smoke-grey-bright-crimson?variant=53069456376075",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jxbf9yzls3g-IR4445-010_Nike_AeroSwift-Dri-FIT-ADV-2-Inch-Brief-Lined-Shorts-Black-Dark-Smoke-Grey-Bright-Crimson_os-1.jpg?v=1777559025&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Unisex",
-   "sizes": []
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 Big Bubble",
-   "detail": "Sizes 8.5–10.5 · Men",
+   "name": "Nike WMNS Astra Ultra",
+   "detail": "Sizes 5–11 · Women",
    "shop": "AFEW",
-   "price": 94,
-   "was": 199.99,
+   "price": 50.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey?variant=52666299187466",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey-im0695-002-footwear_20_3E_20sneaker.jpg?v=1772700110&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-astra-ultra-fauna-brown-chambray-blue-black?variant=52450125119754",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-astra-ultra-fauna-brown-chambray-blue-black-fz5778-200-footwear_20_3E_20sneaker.jpg?v=1769295996&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -4123,42 +4127,41 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AeroSwift Dri-FIT ADV 2 Inch Brief-Lined Shorts",
-   "detail": "Black / Dark Smoke Grey / Bright Crimson · Sizes S–L · Unisex",
+   "name": "Nike Everyday Plus Tabi Socks",
+   "detail": "White / Black · Sizes S–XL · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 44,
-   "was": 89,
-   "category": "Shorts",
-   "url": "https://www.asphaltgold.com/products/nikeaeroswift-drifit-adv-2-inch-brieflined-shorts-black-dark-smoke-grey-bright-crimson?variant=53069456376075",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jxbf9yzls3g-IR4445-010_Nike_AeroSwift-Dri-FIT-ADV-2-Inch-Brief-Lined-Shorts-Black-Dark-Smoke-Grey-Bright-Crimson_os-1.jpg?v=1777559025&width=800",
-   "tag": "Statement color",
+   "price": 10,
+   "was": 20,
+   "category": "Accessories",
+   "url": "https://www.asphaltgold.com/products/nikeeveryday-plus-tabi-socks-white-black?variant=52993394442507",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/112ibx685a9-DX1158100_Nike_Everyday-Plus-Tabi-Socks_White-Black_os-1.jpg?v=1774630379&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Unisex",
    "sizes": [
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike NIKE DBREAK SP",
-   "detail": "Sizes 6–9 · Men",
+   "name": "Nike Total 90",
+   "detail": "Size 6.5 · Men",
    "shop": "AFEW",
-   "price": 47,
-   "was": 99.99,
+   "price": 50.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-nike-dbreak-sp-black-metallic-gold-black?variant=51900374089994",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-nike-dbreak-sp-black-metallic-gold-black-bv7725-003-footwear_20_3E_20sneaker.jpg?v=1759757890&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-t90-white-black-black-gum-light-brown?variant=51157448884490",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-t90-white-black-black-gum-light-brown-ib8182-100-footwear_20_3E_20sneaker.jpg?v=1746780522&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Men",
    "sizes": []
@@ -4277,43 +4280,41 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Everyday Plus Tabi Socks",
-   "detail": "White / Black · Sizes S–XL · Unisex",
+   "name": "Nike Air Max 95 *Big Bubble* *Paisley Bandana*",
+   "detail": "Sail / Volt / University Red / Sport Green · Sizes 40–44 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 10,
-   "was": 20,
-   "category": "Accessories",
-   "url": "https://www.asphaltgold.com/products/nikeeveryday-plus-tabi-socks-white-black?variant=52993394442507",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/112ibx685a9-DX1158100_Nike_Everyday-Plus-Tabi-Socks_White-Black_os-1.jpg?v=1774630379&width=800",
-   "tag": "Nike pick",
+   "price": 98,
+   "was": 195,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-sail-volt-university-red-sport-green?variant=52960885899531",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gijh16f0yav-IQ0620-100_Nike_Air-Max-95-Big-Bubble-Paisley-Bandana-Sail-Volt-University-Red-Sport-Green_os-1.jpg?v=1773406675&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro",
+    "boho",
+    "statement"
    ],
    "department": "Unisex",
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS ASTRA ULTRA",
-   "detail": "Sizes 12.5–14.5 · Women",
+   "name": "Nike Air Max 95 Big Bubble",
+   "detail": "Sizes 8.5–10.5 · Men",
    "shop": "AFEW",
-   "price": 51.99,
-   "was": 109.99,
+   "price": 94,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-astra-ultra-black-black?variant=52234851320074",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-astra-ultra-black-black-fz5778-004-footwear_20_3E_20sneaker.jpg?v=1765198835&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey?variant=52666299187466",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey-im0695-002-footwear_20_3E_20sneaker.jpg?v=1772700110&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -4689,7 +4690,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–31",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
@@ -4707,12 +4708,12 @@
   {
    "brand": "Dickies",
    "name": "Vernal midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "detail": "White · Size XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
+   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581813434",
    "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
@@ -4721,7 +4722,6 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
     "XXL"
    ]
   },
@@ -4753,12 +4753,12 @@
   {
    "brand": "HOMEBOY",
    "name": "BOLD BOY Zipper BLACK",
-   "detail": "Sizes M–L · Kids",
+   "detail": "Size M · Kids",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
    "category": "Hoodies",
-   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958187382",
+   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958220150",
    "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
    "tag": "Statement color",
    "styles": [
@@ -4768,8 +4768,7 @@
    ],
    "department": "Kids",
    "sizes": [
-    "M",
-    "L"
+    "M"
    ]
   },
   {
