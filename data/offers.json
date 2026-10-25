@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T18:54:50.705Z",
+ "generatedAt": "2026-10-25T09:17:08.119Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,12 +14,12 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 638
+   "found": 639
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 242
+   "found": 241
   },
   {
    "source": "AFEW",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 851
+   "found": 826
   },
   {
    "source": "6PM",
@@ -4176,13 +4176,13 @@
   {
    "brand": "Armedangels",
    "name": "MAIRAA",
-   "detail": "misty morning · Women",
+   "detail": "rosalilly · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/mairaa-misty-morning?variant=54724006674757",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3054_111.jpg?v=1791813605&width=800",
+   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -4322,19 +4322,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAIRAA",
-   "detail": "rosalilly · Women",
+   "name": "IAAN SLIM JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
+   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
