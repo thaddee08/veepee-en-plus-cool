@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T10:59:28.111Z",
+ "generatedAt": "2026-10-30T20:56:38.339Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,22 +9,22 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 453
+   "found": 452
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 664
+   "found": 662
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 244
+   "found": 260
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 150
+   "found": 147
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 874
+   "found": 858
   },
   {
    "source": "6PM",
@@ -511,14 +511,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Two pack boxers",
-   "detail": "Black · Size XS",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Plum · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/two-pack-boxers-dk0a4xocblk1-black?variant=45766438551738",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XOCBLK-1_8ddb459c-573d-4fbe-b77f-557466330815.jpg?v=1779221364&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -577,13 +577,13 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Size 11 · Women",
+   "detail": "Sizes 6.5–10.5 · Women",
    "shop": "AFEW",
    "price": 36,
    "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-black-black-white?variant=52364398854410",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-black-black-white-if3947-001-footwear_20_3E_20sneaker.jpg?v=1767789784&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364395938058",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-light-bone-sail-white-gum-med-brown-if3947-002-footwear_20_3E_20sneaker.jpg?v=1767789758&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -658,13 +658,13 @@
   {
    "brand": "Dickies",
    "name": "Mapleton light weight t-shirt",
-   "detail": "Plum · Size XS",
+   "detail": "True blue · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -721,17 +721,18 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Sizes 6.5–10 · Women",
+   "detail": "Sizes 10.5–11.5 · Women",
    "shop": "AFEW",
-   "price": 36,
-   "was": 119.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364395938058",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-light-bone-sail-white-gum-med-brown-if3947-002-footwear_20_3E_20sneaker.jpg?v=1767789758&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402524426",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-university-red-white-gum-med-brown-io2387-600-footwear_20_3E_20sneaker.jpg?v=1767789877&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -805,20 +806,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "True blue · Size XS",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Brown · Size XS · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -871,21 +872,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Total 90",
-   "detail": "Size 11.5 · Women",
+   "name": "Nike Total 90",
+   "detail": "Sizes 10.5–14 · Men",
    "shop": "AFEW",
    "price": 33,
    "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-university-red-white-gum-med-brown?variant=52364402589962",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-university-red-white-gum-med-brown-io2387-600-footwear_20_3E_20sneaker.jpg?v=1767789877&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511662858",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -953,14 +953,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Brown · Size XS · Women",
+   "name": "Vernal vest",
+   "detail": "Egret · Sizes XS–L · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -968,7 +968,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "L"
    ]
   },
   {
@@ -1019,14 +1020,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Total 90",
-   "detail": "Sizes 10–14 · Men",
+   "name": "Nike Daybreak Suede SP",
+   "detail": "Size 11.5 · Men",
    "shop": "AFEW",
-   "price": 33,
+   "price": 38.99,
    "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511630090",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
+   "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977957642",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1793361969&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1091,23 +1092,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal vest",
-   "detail": "Egret · Sizes XS–L · Women",
+   "name": "Mapleton lightweight t-shirt",
+   "detail": "Retro indigo · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "L"
+    "XS"
    ]
   },
   {
@@ -1156,20 +1156,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Daybreak Suede SP",
-   "detail": "Size 11.5 · Men",
+   "name": "Nike WMNS Air Superfly",
+   "detail": "Sizes 8.5–9.5 · Women",
    "shop": "AFEW",
-   "price": 38.99,
-   "was": 109.99,
+   "price": 39.99,
+   "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977957642",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1793223187&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389699027210",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-black-sail-hq7955-001-footwear_20_3E_20sneaker.jpg?v=1768298871&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1233,13 +1233,13 @@
   {
    "brand": "Dickies",
    "name": "Mapleton lightweight t-shirt",
-   "detail": "Retro indigo · Size XS",
+   "detail": "Cypress · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1296,13 +1296,13 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Air Superfly",
-   "detail": "Sizes 8.5–9.5 · Women",
+   "detail": "Size 7.5 · Women",
    "shop": "AFEW",
-   "price": 39.99,
+   "price": 40,
    "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389699027210",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-black-sail-hq7955-001-footwear_20_3E_20sneaker.jpg?v=1768298871&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-sail-sail-sail-black?variant=52695638409482",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-sail-sail-sail-black-im5162-100-footwear_20_3E_20sneaker.jpg?v=1773225517&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1331,23 +1331,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "UN-WASTED TOP",
-   "detail": "steel melange-undyed · Size XS · Women",
+   "name": "YENAAS COLORBLOCK CAP",
+   "detail": "oatmilk-tabasco red",
    "shop": "ARMEDANGELS",
    "price": 19.9,
    "was": 49.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/un-wasted-top-steel-melange-undyed?variant=56485771837765",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008188-3595_111.jpg?v=1791813509&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/yenaas-colorblock-cap?variant=56614055543109",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008452-3572_111.jpg?v=1791813650&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -1370,22 +1367,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton lightweight t-shirt",
-   "detail": "Cypress · Size XS",
+   "name": "Maple Valley light weight t-shirt",
+   "detail": "Peach brulee · Sizes XS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "XL"
    ]
   },
   {
@@ -1435,20 +1434,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Superfly",
-   "detail": "Size 7.5 · Women",
+   "name": "Nike AIR MAX DN8 LTR SP",
+   "detail": "Sizes 5.5–7 · Men",
    "shop": "AFEW",
-   "price": 40,
-   "was": 99.99,
+   "price": 90,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-sail-sail-sail-black?variant=52695638409482",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-sail-sail-sail-black-im5162-100-footwear_20_3E_20sneaker.jpg?v=1773225517&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-dn8-ltr-sp-black-black?variant=52423359725834",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-ltr-sp-black-black-ii7058-001-footwear_20_3E_20sneaker.jpg?v=1793027347&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1472,20 +1471,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "YENAAS COLORBLOCK CAP",
-   "detail": "oatmilk-tabasco red",
+   "name": "FARIBAA ZEBRARAA LEGGINGS",
+   "detail": "black · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 19.9,
    "was": 49.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/yenaas-colorblock-cap?variant=56614055543109",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008452-3572_111.jpg?v=1791813650&width=800",
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1510,13 +1511,13 @@
   {
    "brand": "Dickies",
    "name": "Maple Valley light weight t-shirt",
-   "detail": "Peach brulee · Sizes XS–XL · Women",
+   "detail": "Burgundy · Sizes XXS–S · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1524,9 +1525,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "XL"
+    "XXS",
+    "S"
    ]
   },
   {
@@ -1574,14 +1574,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX DN8 LTR SP",
-   "detail": "Sizes 5.5–7 · Men",
+   "name": "Nike Air Max 95 Big Bubble",
+   "detail": "Size 10 · Men",
    "shop": "AFEW",
-   "price": 90,
+   "price": 94,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-dn8-ltr-sp-black-black?variant=52423359725834",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-ltr-sp-black-black-ii7058-001-footwear_20_3E_20sneaker.jpg?v=1793027347&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey?variant=52666299285770",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey-im0695-002-footwear_20_3E_20sneaker.jpg?v=1772700110&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1610,14 +1610,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "UN-WASTED TOP",
-   "detail": "steel melange-undyed · Size XS",
+   "name": "GRAATIA PÄRLAA",
+   "detail": "cinnamon dust · Size XS",
    "shop": "ARMEDANGELS",
-   "price": 19.9,
-   "was": 49.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/un-wasted-top?variant=56485771837765",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008188-3483_111.jpg?v=1791813451&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/graatia-parlaa-cinnamon-dust?variant=54723895886149",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006400-2782_111.jpg?v=1791813609&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -1647,23 +1647,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley light weight t-shirt",
-   "detail": "Burgundy · Sizes XXS–S · Women",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Burgundy · Size XXL",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301253818",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XXS",
-    "S"
+    "XXL"
    ]
   },
   {
@@ -1710,20 +1709,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 Big Bubble",
-   "detail": "Size 10 · Men",
+   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
+   "detail": "Sizes 6.5–12.5 · Women",
    "shop": "AFEW",
-   "price": 94,
-   "was": 199.99,
+   "price": 101.99,
+   "was": 194.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey?variant=52666299285770",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-big-bubble-phantom-black-lt-crimson-smoke-grey-im0695-002-footwear_20_3E_20sneaker.jpg?v=1772700110&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1793358851&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1746,21 +1745,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FARIBAA ZEBRARAA LEGGINGS",
-   "detail": "black · Size XS · Women",
+   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
+   "detail": "wedgwood · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 19.9,
-   "was": 49.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1783,22 +1786,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "Burgundy · Size XXL",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Pumpkin spice · Size M · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301253818",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XXL"
+    "M"
    ]
   },
   {
@@ -1847,18 +1850,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
-   "detail": "Sizes 6.5–12.5 · Women",
+   "name": "Nike WMNS T90",
+   "detail": "Size 8.5 · Women",
    "shop": "AFEW",
-   "price": 101.99,
-   "was": 194.99,
+   "price": 57.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1793357529&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-t90-metallic-silver-black-university-red?variant=52095792283914",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-t90-metallic-silver-black-university-red-im7595-001-footwear_20_3E_20sneaker.jpg?v=1762767039&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1883,21 +1887,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GRAATIA PÄRLAA",
-   "detail": "cinnamon dust · Size XS",
+   "name": "GARN-MIX POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/graatia-parlaa-cinnamon-dust?variant=54723895886149",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006400-2782_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1920,22 +1929,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Pumpkin spice · Size M · Women",
+   "name": "Aitkin light weight chest logo t-shirt",
+   "detail": "Desert sand · Size S",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
+   "tag": "Street edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M"
+    "S"
    ]
   },
   {
@@ -1982,19 +1992,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS T90",
-   "detail": "Size 8.5 · Women",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 7–8.5 · Women",
    "shop": "AFEW",
-   "price": 57.99,
-   "was": 109.99,
+   "price": 98.99,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-t90-metallic-silver-black-university-red?variant=52095792283914",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-t90-metallic-silver-black-university-red-im7595-001-footwear_20_3E_20sneaker.jpg?v=1762767039&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -2021,19 +2030,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
-   "detail": "wedgwood · Sizes S–XXL · Men",
+   "name": "YARNMIX KNIT POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
     "S",
     "M",
@@ -2062,23 +2071,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin light weight chest logo t-shirt",
-   "detail": "Desert sand · Size S",
+   "name": "V neck top",
+   "detail": "Black · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
-   "tag": "Street edit",
+   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "streetwear"
+    "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S"
+    "XL"
    ]
   },
   {
@@ -2126,20 +2134,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 7–8.5 · Women",
+   "name": "Nike BOOK 2 'Spiridon'",
+   "detail": "Sizes 9–11 · Men",
    "shop": "AFEW",
-   "price": 98.99,
-   "was": 179.99,
+   "price": 84.99,
+   "was": 149.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1793287339&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2163,26 +2172,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GARN-MIX POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
+   "name": "CALINAA KLEID",
+   "detail": "black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-black?variant=55714984460613",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-105_111.jpg?v=1791813491&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2205,14 +2212,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "V neck top",
-   "detail": "Black · Size XL · Women",
+   "name": "Racer top",
+   "detail": "Beige · Sizes XXS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2220,6 +2227,8 @@
    ],
    "department": "Women",
    "sizes": [
+    "XXS",
+    "XS",
     "XL"
    ]
   },
@@ -2268,21 +2277,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike BOOK 2 'Spiridon'",
-   "detail": "Sizes 9–11 · Men",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Size 11.5 · Women",
    "shop": "AFEW",
-   "price": 84.99,
-   "was": 149.99,
+   "price": 104,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1793287339&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464258314",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2306,23 +2314,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "YARNMIX KNIT POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
+   "name": "CALINAA KLEID",
+   "detail": "steel melange · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -2347,14 +2355,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Racer top",
-   "detail": "Beige · Sizes XXS–XL · Women",
+   "name": "Plentywood vest",
+   "detail": "Stormy weather · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2362,8 +2370,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
-    "XS",
     "XL"
    ]
   },
@@ -2413,20 +2419,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Size 11.5 · Women",
+   "name": "Nike Air Max 95 OG",
+   "detail": "Sizes 10–12 · Men",
    "shop": "AFEW",
-   "price": 104,
-   "was": 179.99,
+   "price": 111.99,
+   "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464258314",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988055818",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1793362211&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2451,14 +2457,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "black · Sizes XS–XL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-black?variant=55714984460613",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-105_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2492,22 +2498,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Plentywood vest",
-   "detail": "Stormy weather · Size XL · Women",
+   "name": "Sunflower t-shirt",
+   "detail": "Black · Size L",
    "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/sunflower-t-shirt-dk0a88f4blk1-black?variant=45766439665850",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4BLK-1_69984b68-abfb-49d9-8918-343310cf9db1.jpg?v=1779221370&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XL"
+    "L"
    ]
   },
   {
@@ -2555,14 +2561,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 OG",
-   "detail": "Sizes 10–12 · Men",
+   "name": "Nike SHOX R4 QS",
+   "detail": "Sizes 4.5–9.5 · Men",
    "shop": "AFEW",
-   "price": 111.99,
-   "was": 189.99,
+   "price": 95.99,
+   "was": 159.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988055818",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1793187790&width=800",
+   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2591,23 +2597,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "steel melange · Sizes XS–XL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
     "M",
+    "L",
     "XL"
    ]
   },
@@ -2632,22 +2639,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower t-shirt",
-   "detail": "Black · Size L",
+   "name": "Summerdale light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–S · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-t-shirt-dk0a88f4blk1-black?variant=45766439665850",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F4BLK-1_69984b68-abfb-49d9-8918-343310cf9db1.jpg?v=1779221370&width=800",
+   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "L"
+    "XS",
+    "S"
    ]
   },
   {
@@ -2698,14 +2706,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike SHOX R4 QS",
-   "detail": "Sizes 4.5–9.5 · Men",
+   "name": "Nike AIR MAX 95 Big Bubble Woven",
+   "detail": "Sizes 8–12.5 · Men",
    "shop": "AFEW",
-   "price": 95.99,
-   "was": 159.99,
+   "price": 119.99,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1793379486&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2734,14 +2742,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL · Women",
+   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2775,22 +2783,21 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–S · Women",
+   "name": "Panther t-shirt",
+   "detail": "Whitecap grey · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
+   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
     "S"
    ]
   },
@@ -2842,18 +2849,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX 95 Big Bubble Woven",
-   "detail": "Sizes 8–12.5 · Men",
+   "name": "Nike LeBron XXIII 'LeBronto'",
+   "detail": "Sizes 8–11 · Men",
    "shop": "AFEW",
    "price": 119.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1793356987&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -2880,14 +2888,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL",
+   "name": "LEO BAT WING MIDI DRESS",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2925,153 +2933,6 @@
   },
   {
    "brand": "Dickies",
-   "name": "Panther t-shirt",
-   "detail": "Whitecap grey · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "ID Train Rib Shrug",
-   "detail": "Sizes XXS–XL · Women",
-   "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "Jackets",
-   "url": "https://www.reebok.eu/products/id-train-rib-shrug-100254843-11019?variant=56638264213852",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254843_155555_FR_Model_eCom.jpg?v=1770921562&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "Jordan",
-   "name": "Nike Jordan Flight Printed Long-Sleeve Jersey",
-   "detail": "Black / White · Size L · Unisex",
-   "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 79,
-   "category": "T-shirts",
-   "url": "https://www.asphaltgold.com/products/nike-jordan-flight-printed-longsleeve-jersey-black-white?variant=52877537313035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/4hoe91l2muc-IF1831-010_Nike_Jordan-Flight-Printed-Long-Sleeve-Jersey-Black-White_os-1.jpg?v=1770643943&width=800",
-   "tag": "Retro find",
-   "styles": [
-    "sport",
-    "streetwear",
-    "retro"
-   ],
-   "department": "Unisex",
-   "sizes": [
-    "L"
-   ]
-  },
-  {
-   "brand": "Nike",
-   "name": "Nike LeBron XXIII 'LeBronto'",
-   "detail": "Sizes 8–11 · Men",
-   "shop": "AFEW",
-   "price": 119.99,
-   "was": 199.99,
-   "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
-   "tag": "Statement color",
-   "styles": [
-    "sport",
-    "streetwear",
-    "statement"
-   ],
-   "department": "Men",
-   "sizes": []
-  },
-  {
-   "brand": "Nike",
-   "name": "Cryoshot Tiempo 94 Canada",
-   "detail": "Sizes 36–46 · Unisex",
-   "shop": "OVERKILL",
-   "price": 119,
-   "was": 200,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nocta-x-nike-cryoshot-tiempo-94-canada-im0703-700-university-gold-black-white?variant=56855333732732",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0703-700_1.jpg?v=1781269254&width=800",
-   "tag": "Statement color",
-   "styles": [
-    "sport",
-    "streetwear",
-    "statement"
-   ],
-   "department": "Unisex",
-   "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
-   "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee BLACK",
-   "detail": "Size XXS",
-   "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XXS"
-   ]
-  },
-  {
-   "brand": "Dickies",
    "name": "Outdoor t-shirt",
    "detail": "Black · Size XS",
    "shop": "DICKIES",
@@ -3092,23 +2953,22 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID 1-Color Logo Fleece Shorts",
-   "detail": "Sizes XS–XL · Men",
+   "name": "ID Train Rib Shrug",
+   "detail": "Sizes XXS–XL · Women",
    "shop": "REEBOK",
    "price": 16,
    "was": 40,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239983-1315?variant=55324010676572",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142649-100239983_04Large.jpg?v=1758205597&width=800",
-   "tag": "Street edit",
+   "category": "Jackets",
+   "url": "https://www.reebok.eu/products/id-train-rib-shrug-100254843-11019?variant=56638264213852",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254843_155555_FR_Model_eCom.jpg?v=1770921562&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear",
-    "utility"
+    "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M",
@@ -3139,13 +2999,13 @@
   {
    "brand": "Nike",
    "name": "Nike LEBRON XXIII 'Shut Up And Dribble'",
-   "detail": "Sizes 11.5–12 · Men",
+   "detail": "Sizes 11–12 · Men",
    "shop": "AFEW",
    "price": 119.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400514826",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1793274848&width=800",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400482058",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1793369648&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3155,68 +3015,59 @@
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "Jumpman Jack TR",
-   "detail": "Size 36.5 · Unisex",
+   "brand": "Nike",
+   "name": "Cryoshot Tiempo 94 Canada",
+   "detail": "Sizes 36–46 · Unisex",
    "shop": "OVERKILL",
    "price": 119,
    "was": 200,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-jumpman-jack-tr-im9113-300-green-spark-vapor-green-black?variant=56527082062204",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM9113-300_1_2f400188-86a5-4f6f-87e5-c0f4fc204f88.jpg?v=1774447514&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.overkillshop.com/products/nocta-x-nike-cryoshot-tiempo-94-canada-im0703-700-university-gold-black-white?variant=56855333732732",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0703-700_1.jpg?v=1781269254&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Unisex",
    "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING MIDI DRESS",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "AARY",
+   "detail": "indigo haze · Men",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "OLD SCHOOL Hood JAMES BROWN",
-   "detail": "Sizes XXS–XL",
+   "name": "MASTERBOY Tee BLACK",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
-   "price": 34.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872138614",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
-   "tag": "Retro find",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "XL"
+    "XXS"
    ]
   },
   {
@@ -3249,8 +3100,8 @@
    "price": 16,
    "was": 40,
    "category": "Shorts",
-   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239985-3364?variant=55324012478812",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239985_V1_ed412d30-21cc-493b-b605-dba51d09ddf0.jpg?v=1756230640&width=800",
+   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239983-1315?variant=55324010676572",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142649-100239983_04Large.jpg?v=1758205597&width=800",
    "tag": "Street edit",
    "styles": [
     "sport",
@@ -3305,64 +3156,70 @@
    "sizes": []
   },
   {
-   "brand": "Nike",
-   "name": "FA England Varsity Jacket",
-   "detail": "Sizes XS–XL · Unisex",
+   "brand": "Jordan",
+   "name": "Jumpman Jack TR",
+   "detail": "Size 36.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 476,
-   "was": 800,
-   "category": "Jackets",
-   "url": "https://www.overkillshop.com/products/palace-x-nike-fa-england-varsity-jacket-im6636-065-cool-grey-white-bright-crimson?variant=56854737092988",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM6636-065_1.jpg?v=1781171865&width=800",
-   "tag": "Quiet essential",
+   "price": 119,
+   "was": 200,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-jumpman-jack-tr-im9113-300-green-spark-vapor-green-black?variant=56527082062204",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM9113-300_1_2f400188-86a5-4f6f-87e5-c0f4fc204f88.jpg?v=1774447514&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "minimal"
+    "streetwear"
    ],
    "department": "Unisex",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "indigo haze · Men",
+   "name": "COTTON LINEN JACKET",
+   "detail": "sandstone · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
-   "tag": "Conscious basics",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
-   "detail": "Size 25",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Sizes XXS–XL",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 100,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
-   "tag": "Skate & baggy",
+   "price": 34.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872138614",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "XL"
+   ]
   },
   {
    "brand": "Dickies",
@@ -3386,18 +3243,20 @@
   },
   {
    "brand": "Reebok",
-   "name": "RBK Collegiate Men's Polo",
+   "name": "ID 1-Color Logo Fleece Shorts",
    "detail": "Sizes XS–XL · Men",
    "shop": "REEBOK",
-   "price": 18,
-   "was": 45,
-   "category": "Shirts",
-   "url": "https://www.reebok.eu/products/rbk-collegiate-polo-100253132-1714?variant=56698409222492",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253132_154363_FR_Model_eCom.jpg?v=1770888589&width=800",
-   "tag": "Retro sport",
+   "price": 16,
+   "was": 40,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239985-3364?variant=55324012478812",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239985_V1_ed412d30-21cc-493b-b605-dba51d09ddf0.jpg?v=1756230640&width=800",
+   "tag": "Street edit",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "streetwear",
+    "utility"
    ],
    "department": "Men",
    "sizes": [
@@ -3447,57 +3306,62 @@
   },
   {
    "brand": "Nike",
-   "name": "Air Max 95 OG",
-   "detail": "Size 39 · Unisex",
+   "name": "FA England Varsity Jacket",
+   "detail": "Sizes XS–XL · Unisex",
    "shop": "OVERKILL",
-   "price": 122,
-   "was": 205,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/levis-x-nike-air-max-95-og-hm4743-001-black-black-anthracite-gym-red?variant=55522341880188",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HM4743-001_1_f546b8c2-b199-4d69-bf49-ce14fbe1ff9f.jpg?v=1758533898&width=800",
-   "tag": "Retro find",
+   "price": 476,
+   "was": 800,
+   "category": "Jackets",
+   "url": "https://www.overkillshop.com/products/palace-x-nike-fa-england-varsity-jacket-im6636-065-cool-grey-white-bright-crimson?variant=56854737092988",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM6636-065_1.jpg?v=1781171865&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "minimal"
    ],
    "department": "Unisex",
-   "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "COTTON LINEN JACKET",
-   "detail": "sandstone · Sizes S–XXL",
-   "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
-   "tag": "Romantic find",
-   "styles": [
-    "minimal",
-    "boho"
-   ],
-   "department": "Not specified",
    "sizes": [
+    "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
    "price": 39.99,
-   "was": 99.99,
+   "was": 100,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3528,14 +3392,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Run Shorts",
+   "name": "RBK Collegiate Men's Polo",
    "detail": "Sizes XS–XL · Men",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/rbk-lab-booty-shorts-100255073-4502?variant=56638266900828",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255073_155676_FR_Model_eCom.jpg?v=1773328710&width=800",
+   "category": "Shirts",
+   "url": "https://www.reebok.eu/products/rbk-collegiate-polo-100253132-1714?variant=56698409222492",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253132_154363_FR_Model_eCom.jpg?v=1770888589&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -3587,58 +3451,57 @@
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "IH Crop Hoodie",
-   "detail": "Size XXL · Men",
+   "brand": "Nike",
+   "name": "Air Max 95 OG",
+   "detail": "Size 39 · Unisex",
    "shop": "OVERKILL",
-   "price": 65,
-   "was": 109,
-   "category": "Hoodies",
-   "url": "https://www.overkillshop.com/products/jordan-ih-crop-hoodie-im7367-010-black-ivory?variant=56356791910780",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7367-010_1.jpg?v=1771314311&width=800",
-   "tag": "Nike pick",
+   "price": 122,
+   "was": 205,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/levis-x-nike-air-max-95-og-hm4743-001-black-black-anthracite-gym-red?variant=55522341880188",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HM4743-001_1_f546b8c2-b199-4d69-bf49-ce14fbe1ff9f.jpg?v=1758533898&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXL"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTER TELLERROCK",
-   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "sandstone · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Washed Blue TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3669,26 +3532,26 @@
   },
   {
    "brand": "Reebok",
-   "name": "Tulip Core High Impact Sports Bra Top",
-   "detail": "Sizes XXS–L · Women",
+   "name": "ID Run Shorts",
+   "detail": "Sizes XS–XL · Men",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/tulip-core-high-impact-bra-100254537-4455?variant=56638257267036",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254537_143562_FR_Model_eCom_9685b353-bdd4-47ae-b5a4-6c5458b2036a.jpg?v=1770919156&width=800",
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/rbk-lab-booty-shorts-100255073-4502?variant=56638266900828",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255073_155676_FR_Model_eCom.jpg?v=1773328710&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XXS",
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
@@ -3730,56 +3593,58 @@
    "sizes": []
   },
   {
-   "brand": "Nike",
-   "name": "Reactx Rejuven8 Slide QS .Swoosh Touch Grass",
-   "detail": "Sizes 37.5–47.5 · Unisex",
+   "brand": "Jordan",
+   "name": "IH Crop Hoodie",
+   "detail": "Size XXL · Men",
    "shop": "OVERKILL",
-   "price": 42,
-   "was": 70,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-reactx-rejuven8-slide-qs-swoosh-touch-grass-ir0459-001-dark-smoke-grey-black-klly-green?variant=56696905892220",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR0459-001_1.jpg?v=1778483138&width=800",
+   "price": 65,
+   "was": 109,
+   "category": "Hoodies",
+   "url": "https://www.overkillshop.com/products/jordan-ih-crop-hoodie-im7367-010-black-ivory?variant=56356791910780",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7367-010_1.jpg?v=1771314311&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Unisex",
-   "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN-JACKE",
-   "detail": "sandstone · Sizes S–XXL · Men",
-   "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
-   "tag": "Conscious basics",
-   "styles": [
-    "minimal"
-   ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
     "XXL"
    ]
   },
   {
+   "brand": "Armedangels",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
+   "shop": "ARMEDANGELS",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Sizes 24–26",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3810,27 +3675,26 @@
   },
   {
    "brand": "Reebok",
-   "name": "RBK Collegiate Men's Shorts",
-   "detail": "Sizes XXS–XL · Men",
+   "name": "Tulip Core High Impact Sports Bra Top",
+   "detail": "Sizes XXS–L · Women",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/rbk-collegiate-shorts-100253135-1714?variant=56638245896540",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253135_154364_FR_Model_eCom_1.jpg?v=1774017468&width=800",
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/tulip-core-high-impact-bra-100254537-4455?variant=56638257267036",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254537_143562_FR_Model_eCom_9685b353-bdd4-47ae-b5a4-6c5458b2036a.jpg?v=1770919156&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
@@ -3872,68 +3736,61 @@
   },
   {
    "brand": "Nike",
-   "name": "NFF Nigeria Fleece Hoodie",
-   "detail": "Sizes XS–S · Unisex",
+   "name": "Reactx Rejuven8 Slide QS .Swoosh Touch Grass",
+   "detail": "Sizes 37.5–47.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 66,
-   "was": 110,
-   "category": "Hoodies",
-   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-hoodie-ir5219-010-black-poison-green-white?variant=56854738633084",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR5219-010_1.jpg?v=1781172392&width=800",
-   "tag": "Utility pick",
+   "price": 42,
+   "was": 70,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/nike-reactx-rejuven8-slide-qs-swoosh-touch-grass-ir0459-001-dark-smoke-grey-black-klly-green?variant=56696905892220",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR0459-001_1.jpg?v=1778483138&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Unisex",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "CHECK CIRCLE SKIRT",
-   "detail": "oatmilk-black · Sizes XS–XL",
+   "name": "MILLAANA KLEID",
+   "detail": "steel melange · Sizes M–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367076165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "EXPRESS Tee BLACK",
-   "detail": "Size XS",
+   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
+   "detail": "Sizes 24–26",
    "shop": "HOMEBOY",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -3957,21 +3814,22 @@
   },
   {
    "brand": "Reebok",
-   "name": "Lux High-Rise 6\" Biker Shorts",
-   "detail": "Sizes XS–XL · Women",
+   "name": "RBK Collegiate Men's Shorts",
+   "detail": "Sizes XXS–XL · Men",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
    "category": "Shorts",
-   "url": "https://www.reebok.eu/products/lux-high-rise-6-biker-short-100243220-1315?variant=55324141355356",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243220_V1.jpg?v=1756323136&width=800",
+   "url": "https://www.reebok.eu/products/rbk-collegiate-shorts-100253135-1714?variant=56638245896540",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253135_154364_FR_Model_eCom_1.jpg?v=1774017468&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M",
@@ -4019,62 +3877,57 @@
   },
   {
    "brand": "Nike",
-   "name": "NFF Nigeria Fleece Pants",
-   "detail": "Sizes XS–L · Unisex",
+   "name": "NFF Nigeria Fleece Hoodie",
+   "detail": "Sizes XS–S · Unisex",
    "shop": "OVERKILL",
    "price": 66,
    "was": 110,
-   "category": "Trousers",
-   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-pants-ir5218-010-black-poison-green-white?variant=56854739026300",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR5218-010_1.jpg?v=1781172273&width=800",
-   "tag": "Retro find",
+   "category": "Hoodies",
+   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-hoodie-ir5219-010-black-poison-green-white?variant=56854738633084",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR5219-010_1.jpg?v=1781172392&width=800",
+   "tag": "Utility pick",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "utility"
    ],
    "department": "Unisex",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L"
+    "S"
    ]
   },
   {
    "brand": "Armedangels",
-   "name": "MILLAANA KLEID",
-   "detail": "steel melange · Sizes S–XXL · Women",
+   "name": "FLAABO MICRO FLEECE JACKET",
+   "detail": "nightshadow · Sizes L–XXL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367174469",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
-   "tag": "Conscious basics",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket?variant=55715248243013",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008313-3321_111.jpg?v=1791813480&width=800",
+   "tag": "Utility pick",
    "styles": [
-    "minimal"
+    "minimal",
+    "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "S",
-    "M",
     "L",
-    "XL",
     "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee ITALIAN WINE",
-   "detail": "Size L",
+   "name": "EXPRESS Tee BLACK",
+   "detail": "Size XS",
    "shop": "HOMEBOY",
    "price": 16,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-italian-wine?variant=58393878954358",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEEITALIANWINE.png?v=1726646699&width=800",
+   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4082,7 +3935,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "L"
+    "XS"
    ]
   },
   {
@@ -4107,24 +3960,26 @@
   },
   {
    "brand": "Reebok",
-   "name": "RBK-Lab Speed Running T-Shirt",
-   "detail": "Sizes XS–XXL · Men",
+   "name": "Lux High-Rise 6\" Biker Shorts",
+   "detail": "Sizes XS–XL · Women",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/rbk-lab-speed-running-t-shirt-100242024-2248?variant=55324098888028",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242024_V1.jpg?v=1756235393&width=800",
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/lux-high-rise-6-biker-short-100243220-1315?variant=55324141355356",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243220_V1.jpg?v=1756323136&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4166,43 +4021,45 @@
   },
   {
    "brand": "Nike",
-   "name": "NFF Nigeria Lightweight Track Pants",
-   "detail": "Sizes XS–M · Unisex",
+   "name": "NFF Nigeria Fleece Pants",
+   "detail": "Sizes XS–L · Unisex",
    "shop": "OVERKILL",
    "price": 66,
    "was": 110,
    "category": "Trousers",
-   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-lightweight-track-pants-iu7645-100-white-black?variant=56854738829692",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IU7645-100_1.jpg?v=1781172623&width=800",
+   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-pants-ir5218-010-black-poison-green-white?variant=56854739026300",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR5218-010_1.jpg?v=1781172273&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "utility"
    ],
    "department": "Unisex",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   {
    "brand": "Armedangels",
    "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Sizes L–XXL",
+   "detail": "nightshadow · Sizes L–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket?variant=55715248243013",
+   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket-nightshadow?variant=55715248243013",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008313-3321_111.jpg?v=1791813480&width=800",
    "tag": "Utility pick",
    "styles": [
     "minimal",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
     "L",
     "XXL"
@@ -4210,24 +4067,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "PENCIL Tee ITALIAN WINE",
+   "detail": "Size L",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-italian-wine?variant=58393878954358",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEEITALIANWINE.png?v=1726646699&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "boho"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S"
+    "L"
    ]
   },
   {
@@ -4252,28 +4107,23 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Small Logo Cropped Fleece Crewneck Women's Sweatshirt",
-   "detail": "Sizes XXS–XXL · Women",
+   "name": "RBK-Lab Speed Running T-Shirt",
+   "detail": "Sizes XS–XXL · Men",
    "shop": "REEBOK",
    "price": 18,
    "was": 45,
-   "category": "Sweatshirts",
-   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-cropped-fleece-crewneck-sweatshirt-100241296-11019?variant=55324058976604",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241296_V1.jpg?v=1756233028&width=800",
-   "tag": "Street edit",
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/rbk-lab-speed-running-t-shirt-100242024-2248?variant=55324098888028",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242024_V1.jpg?v=1756235393&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear",
-    "utility"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XXS",
+    "XS",
     "S",
-    "M",
-    "L",
-    "XL",
     "XXL"
    ]
   },
@@ -4317,6 +4167,155 @@
   },
   {
    "brand": "Nike",
+   "name": "NFF Nigeria Lightweight Track Pants",
+   "detail": "Sizes XS–M · Unisex",
+   "shop": "OVERKILL",
+   "price": 66,
+   "was": 110,
+   "category": "Trousers",
+   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-lightweight-track-pants-iu7645-100-white-black?variant=56854738829692",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IU7645-100_1.jpg?v=1781172623&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Unisex",
+   "sizes": [
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "MILLAANA KLEID",
+   "detail": "cinnamon dust melange · Size XXL · Women",
+   "shop": "ARMEDANGELS",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/millaana-cinnamon-dust-melange?variant=54723366977861",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2870_111.jpg?v=1791813472&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
+   "shop": "HOMEBOY",
+   "price": 28,
+   "was": 70,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "boho"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Dark brown · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Small Logo Cropped Fleece Crewneck Women's Sweatshirt",
+   "detail": "Sizes XXS–XXL · Women",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 45,
+   "category": "Sweatshirts",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-cropped-fleece-crewneck-sweatshirt-100241296-11019?variant=55324058976604",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241296_V1.jpg?v=1756233028&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Nike",
+   "name": "Nike Air Max 95 *Big Bubble* *Premium* *Olympic*",
+   "detail": "White / Metallic Gold / Chile Red / Photo Blue · Sizes 38.5–43 · Unisex",
+   "shop": "ASPHALTGOLD",
+   "price": 88,
+   "was": 179,
+   "category": "Shoes",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-premium-olympic-white-metallic-gold-chile-red-photo-blue?variant=52840757559563",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eggypirijta-IB7872-100_Nike_Air-Max-95-Big-Bubble-Premium-Olympic-White-Metallic-Gold-Chile-Red-Photo-Blue_os-1.jpg?v=1769784874&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "sport",
+    "streetwear",
+    "retro",
+    "statement"
+   ],
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Nike PEGASUS PREMIUM SP",
+   "detail": "Size 8 · Men",
+   "shop": "AFEW",
+   "price": 129.99,
+   "was": 209.99,
+   "category": "Shoes",
+   "url": "https://www.afew-store.com/products/nike-pegasus-premium-sp-caldera-brown-pecan-caldera-brown?variant=52250652934410",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-pegasus-premium-sp-caldera-brown-pecan-caldera-brown-iq5691-200-footwear_20_3E_20sneaker.jpg?v=1765408029&width=800",
+   "tag": "Nike pick",
+   "styles": [
+    "sport",
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
    "name": "NFF Nigeria Lightweight Track Jacket",
    "detail": "Size XS · Unisex",
    "shop": "OVERKILL",
@@ -4338,22 +4337,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Sizes L–XXL · Men",
+   "name": "JOANIAAS STRICKJACKE",
+   "detail": "tinted navy · Size XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket-nightshadow?variant=55715248243013",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008313-3321_111.jpg?v=1791813480&width=800",
-   "tag": "Utility pick",
+   "price": 94.9,
+   "was": 229.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/joaniaas-tinted-navy?variant=54723550511429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005160-3232_111.jpg?v=1791813392&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "utility"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "L",
     "XXL"
    ]
   },
@@ -4378,20 +4375,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Dark brown · Size XS",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -4443,14 +4440,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Sizes XS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4458,7 +4455,9 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -4504,14 +4503,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–M · Women",
+   "name": "Wellsville midweight t-shirt",
+   "detail": "Black · Size M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4519,8 +4518,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
     "M"
    ]
   },
@@ -4569,22 +4566,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Wellsville midweight t-shirt",
-   "detail": "Black · Size M · Women",
+   "name": "Vernal midweight t-shirt",
+   "detail": "White · Size XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88jtblk1-black?variant=45766582534330",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JTBLK-1_3d048543-4b05-42a3-ba27-e7a2b73e43de.jpg?v=1779221439&width=800",
+   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581813434",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M"
+    "XXL"
    ]
   },
   {
@@ -4633,14 +4630,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal midweight t-shirt",
+   "name": "Derby midweight t-shirt",
    "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4702,23 +4699,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "name": "Plain City lightweight t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/plain-city-lightweight-t-shirt-dk0a88jiblk1-black?variant=45766576734394",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JIBLK-1_10f261b3-1b2a-479e-929c-0c93602eb249.jpg?v=1779221490&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "XXL"
+    "XS"
    ]
   },
   {
@@ -4765,23 +4762,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Plain City lightweight t-shirt",
-   "detail": "Black · Size XS",
+   "name": "Lynndyl lightweight t-shirt",
+   "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/plain-city-lightweight-t-shirt-dk0a88jiblk1-black?variant=45766576734394",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JIBLK-1_10f261b3-1b2a-479e-929c-0c93602eb249.jpg?v=1779221490&width=800",
-   "tag": "Quiet essential",
+   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "minimal"
+    "utility"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
@@ -4832,14 +4828,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Lynndyl lightweight t-shirt",
-   "detail": "Black · Size S",
+   "name": "Aitkin lightweight t-shirt",
+   "detail": "White · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4847,7 +4843,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "S",
+    "M"
    ]
   },
   {
@@ -4896,14 +4893,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin lightweight t-shirt",
-   "detail": "White · Sizes S–M",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4911,8 +4908,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
@@ -4953,22 +4949,25 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Size XS",
+   "name": "Loose Wave lightweight t-shirt",
+   "detail": "Black · Sizes XXS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
+   "url": "https://dickies.eu/products/loose-wave-lightweight-t-shirt-dk0a88fdblk1-black?variant=45766562873530",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88FDBLK-1_a80df320-43a4-47c9-a1b1-70e9f5b11e93.jpg?v=1779221463&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XXS",
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
