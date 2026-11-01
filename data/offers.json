@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T11:25:37.607Z",
+ "generatedAt": "2026-11-01T20:39:08.013Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,17 +9,17 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 446
+   "found": 445
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 847
+   "found": 844
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 265
+   "found": 264
   },
   {
    "source": "AFEW",
@@ -29,7 +29,7 @@
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 78
+   "found": 77
   },
   {
    "source": "A.P.C.",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 822
+   "found": 803
   },
   {
    "source": "6PM",
@@ -149,7 +149,7 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 7.5–8.5 · Women",
+   "detail": "Size 7.5 · Women",
    "shop": "AFEW",
    "price": 39,
    "was": 129.99,
@@ -2457,7 +2457,7 @@
   {
    "brand": "Armedangels",
    "name": "CALINAA KLEID",
-   "detail": "steel melange · Sizes XS–XXL · Women",
+   "detail": "steel melange · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
@@ -2473,8 +2473,7 @@
     "XS",
     "S",
     "M",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -3199,12 +3198,12 @@
   {
    "brand": "HOMEBOY",
    "name": "OLD SCHOOL Hood JAMES BROWN",
-   "detail": "Sizes XXS–S",
+   "detail": "Sizes XXS–XS",
    "shop": "HOMEBOY",
    "price": 34.99,
    "was": 89.99,
    "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872138614",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872204150",
    "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
    "tag": "Retro find",
    "styles": [
@@ -3215,8 +3214,7 @@
    "department": "Not specified",
    "sizes": [
     "XXS",
-    "XS",
-    "S"
+    "XS"
    ]
   },
   {
@@ -3865,7 +3863,7 @@
    "was": 194.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black?variant=52477140500746",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black-ih1413-300-footwear_20_3E_20sneaker.jpg?v=1793519651&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black-ih1413-300-footwear_20_3E_20sneaker.jpg?v=1793535131&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3899,12 +3897,12 @@
   {
    "brand": "Armedangels",
    "name": "MILLAANA KLEID",
-   "detail": "steel melange · Sizes L–XXL · Women",
+   "detail": "steel melange · Sizes XL–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367141701",
+   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367108933",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
    "tag": "Conscious basics",
    "styles": [
@@ -3912,7 +3910,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "L",
     "XL",
     "XXL"
    ]
@@ -4046,7 +4043,7 @@
   {
    "brand": "Armedangels",
    "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Sizes L–XXL",
+   "detail": "nightshadow · Size L",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
@@ -4060,8 +4057,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "L",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -4192,7 +4188,7 @@
   {
    "brand": "Armedangels",
    "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Sizes L–XXL · Men",
+   "detail": "nightshadow · Size L · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
@@ -4206,8 +4202,7 @@
    ],
    "department": "Men",
    "sizes": [
-    "L",
-    "XXL"
+    "L"
    ]
   },
   {
