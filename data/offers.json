@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T21:53:37.879Z",
+ "generatedAt": "2026-11-04T12:19:39.720Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -14,17 +14,17 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 842
+   "found": 841
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 279
+   "found": 280
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 263
+   "found": 264
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 872
+   "found": 900
   },
   {
    "source": "6PM",
@@ -1094,7 +1094,7 @@
   {
    "brand": "Dickies",
    "name": "Vernal vest",
-   "detail": "Egret · Sizes XS–L · Women",
+   "detail": "Egret · Size XS · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
@@ -1108,8 +1108,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "L"
+    "XS"
    ]
   },
   {
@@ -1162,12 +1161,12 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Air Superfly",
-   "detail": "Sizes 8.5–9.5 · Women",
+   "detail": "Sizes 7–9.5 · Women",
    "shop": "AFEW",
    "price": 39.99,
    "was": 99.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389699027210",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-superfly-black-sail?variant=52389698928906",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-superfly-black-sail-hq7955-001-footwear_20_3E_20sneaker.jpg?v=1768298871&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -1851,13 +1850,13 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
-   "detail": "Sizes 6.5–12.5 · Women",
+   "detail": "Sizes 6.5–12 · Women",
    "shop": "AFEW",
    "price": 101.99,
    "was": 194.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1793707747&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1793785215&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2420,7 +2419,7 @@
    "was": 189.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey?variant=51690836295946",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey-hj5996-002-footwear_20_3E_20sneaker.jpg?v=1793694441&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey-hj5996-002-footwear_20_3E_20sneaker.jpg?v=1793779687&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2466,7 +2465,6 @@
    "department": "Women",
    "sizes": [
     "S",
-    "M",
     "XL"
    ]
   },
@@ -2590,7 +2588,7 @@
   {
    "brand": "Armedangels",
    "name": "CALINAA KLEID",
-   "detail": "steel melange · Sizes XS–XL · Women",
+   "detail": "steel melange · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
@@ -2604,9 +2602,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "XL"
+    "S"
    ]
   },
   {
@@ -2735,24 +2731,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL · Women",
+   "name": "AGAAMON STRICKJACKE",
+   "detail": "dark cranberry · Size XL",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/agaamon-dark-cranberry?variant=54723701440837",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005754-3320_111.jpg?v=1791813502&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
     "XL"
    ]
   },
@@ -2883,18 +2875,18 @@
   {
    "brand": "Armedangels",
    "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
@@ -3028,19 +3020,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
@@ -3174,19 +3166,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING MIDI DRESS",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
@@ -3323,20 +3315,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "indigo haze · Men",
+   "name": "LEO BAT WING MIDI DRESS",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
+   "price": 59.9,
+   "was": 149.9,
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3462,26 +3460,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "COTTON LINEN JACKET",
-   "detail": "sandstone · Sizes S–XXL",
+   "name": "MIKULAA TWEED",
+   "detail": "pure-walnut cream · Size L · Women",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
+   "price": 119.9,
+   "was": 299.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "url": "https://www.armedangels.com/products/mikulaa-tweed-pure-walnut-cream?variant=55714949628229",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007816-3374_111.jpg?v=1791813632&width=800",
    "tag": "Romantic find",
    "styles": [
     "minimal",
     "boho"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -3603,26 +3597,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTER TELLERROCK",
-   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "name": "AARY",
+   "detail": "indigo haze · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3745,19 +3733,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN-JACKE",
-   "detail": "sandstone · Sizes S–XXL · Men",
+   "name": "COTTON LINEN JACKET",
+   "detail": "sandstone · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
-   "tag": "Conscious basics",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
     "S",
     "M",
@@ -3890,19 +3879,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CHECK CIRCLE SKIRT",
-   "detail": "oatmilk-black · Sizes XS–XL",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
@@ -4041,20 +4030,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MILLAANA KLEID",
-   "detail": "steel melange · Sizes XL–XXL · Women",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "sandstone · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367108933",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
+    "S",
+    "M",
+    "L",
     "XL",
     "XXL"
    ]
@@ -4185,21 +4177,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Size XL",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket?variant=55715248275781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008313-3321_111.jpg?v=1791813480&width=800",
-   "tag": "Utility pick",
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "utility"
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
     "XL"
    ]
   },
@@ -4331,22 +4326,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FLAABO MICRO FLEECE JACKET",
-   "detail": "nightshadow · Size XL · Men",
+   "name": "MILLAANA KLEID",
+   "detail": "steel melange · Sizes S–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/flaabo-micro-fleece-jacket-nightshadow?variant=55715248275781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008313-3321_111.jpg?v=1791813480&width=800",
-   "tag": "Utility pick",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367174469",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "utility"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "XL"
+    "S",
+    "XXL"
    ]
   },
   {
