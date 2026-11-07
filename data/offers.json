@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-07T11:12:39.158Z",
+ "generatedAt": "2026-11-07T20:20:52.043Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 88
+   "found": 87
   },
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 555
+   "found": 548
   },
   {
    "source": "REEBOK",
@@ -19,7 +19,7 @@
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 298
+   "found": 297
   },
   {
    "source": "AFEW",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 892
+   "found": 854
   },
   {
    "source": "6PM",
@@ -870,7 +870,7 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Sizes 8.5–11.5 · Women",
+   "detail": "Sizes 8.5–10.5 · Women",
    "shop": "AFEW",
    "price": 33,
    "was": 109.99,
@@ -1193,19 +1193,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "VICHY SEERSUCKER POUCH BAG W",
-   "detail": "foam-dried palm · Women",
+   "name": "YENAAS COLORBLOCK CAP",
+   "detail": "oatmilk-tabasco red",
    "shop": "ARMEDANGELS",
    "price": 19.9,
    "was": 49.9,
    "category": "Accessories",
-   "url": "https://www.armedangels.com/products/vichy-seersucker-pouch-bag-w-foam-dried-palm?variant=57299297141061",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008560-3657_111.jpg?v=1791813566&width=800",
+   "url": "https://www.armedangels.com/products/yenaas-colorblock-cap?variant=56614055543109",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008452-3572_111.jpg?v=1791813650&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": []
   },
   {
@@ -1329,20 +1329,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "VICHY SEERSUCKER POUCH BAG W",
-   "detail": "foam-dried palm",
+   "name": "FARIBAA ZEBRARAA LEGGINGS",
+   "detail": "black · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 19.9,
    "was": 49.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/vichy-seersucker-pouch-bag-w?variant=57299297141061",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008560-3657_111.jpg?v=1791813566&width=800",
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1468,20 +1470,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "YENAAS COLORBLOCK CAP",
-   "detail": "oatmilk-tabasco red",
+   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
+   "detail": "wedgwood · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
-   "price": 19.9,
-   "was": 49.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/yenaas-colorblock-cap?variant=56614055543109",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008452-3572_111.jpg?v=1791813650&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -1603,21 +1610,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FARIBAA ZEBRARAA LEGGINGS",
-   "detail": "black · Size XS · Women",
+   "name": "GARN-MIX POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 19.9,
-   "was": 49.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
-   "tag": "Conscious basics",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1741,24 +1753,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
-   "detail": "wedgwood · Sizes S–XL · Men",
+   "name": "YARNMIX KNIT POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1883,26 +1896,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GARN-MIX POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
+   "name": "CALINAA KLEID",
+   "detail": "black · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-black?variant=55714984493381",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-105_111.jpg?v=1791813491&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -1996,7 +2004,7 @@
    "was": 194.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1793971275&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1794068467&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2027,23 +2035,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "YARNMIX KNIT POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
+   "name": "CALINAA KLEID",
+   "detail": "steel melange · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -2173,23 +2180,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "black · Sizes S–XXL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-black?variant=55714984493381",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-105_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "XL",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -2312,24 +2321,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "steel melange · Sizes XS–XXL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
-    "XL",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -2456,14 +2466,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL · Women",
+   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2596,14 +2606,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL",
+   "name": "LEO BAT WING MIDI DRESS",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2742,26 +2752,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "AARY",
+   "detail": "indigo haze · Men",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -2887,25 +2891,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING MIDI DRESS",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "COTTON LINEN JACKET",
+   "detail": "sandstone · Sizes S–XXL",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
-   "tag": "Conscious basics",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2980,12 +2985,12 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Shox Z",
-   "detail": "Black / Black / University Red · Sizes 38.5–39 · Women",
+   "detail": "Black / Black / University Red · Size 39 · Women",
    "shop": "ASPHALTGOLD",
    "price": 51,
    "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513238283",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513271051",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
    "tag": "Retro find",
    "styles": [
@@ -3037,20 +3042,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "indigo haze · Men",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3174,20 +3185,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "COTTON LINEN JACKET",
-   "detail": "sandstone · Sizes S–XXL",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "sandstone · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
-   "tag": "Romantic find",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "boho"
+    "minimal"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
     "S",
     "M",
@@ -3321,19 +3331,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTER TELLERROCK",
-   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
@@ -3344,14 +3354,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants ANTARCTICA TAB",
-   "detail": "Size 25",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
    "price": 39.99,
-   "was": 100,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-antarctica-tab?variant=58393891635574",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYcordPantsANARCTICAfront_resizeandreshoot.jpg?v=1761831532&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3469,37 +3479,31 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN-JACKE",
-   "detail": "sandstone · Sizes S–XXL · Men",
+   "name": "AARY",
+   "detail": "undyed · Men",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136075589",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007343-1677_111.jpg?v=1791813632&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Men",
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3611,37 +3615,31 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CHECK CIRCLE SKIRT",
-   "detail": "oatmilk-black · Sizes XS–XL",
+   "name": "AARJO TARPA TAPERED JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aarjo-tarpa-rinse-black?variant=54723577479493",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005231-520_111.jpg?v=1791813397&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Washed Blue TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
+   "detail": "Sizes 24–26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3755,41 +3753,40 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MILLAANA KLEID",
-   "detail": "steel melange · Sizes XS–XXL · Women",
+   "name": "MAIRAA",
+   "detail": "rosalilly · Women",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/millaana-steel-melange?variant=54723367240005",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30004446-2874_111.jpg?v=1791813653&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
-   "sizes": [
-    "XS",
-    "XXL"
-   ]
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Sizes 24–26",
+   "name": "EXPRESS Tee BLACK",
+   "detail": "Size XS",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "price": 16,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "Dickies",
@@ -3899,14 +3896,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "undyed · Men",
+   "name": "IAAN SLIM JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136075589",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007343-1677_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -3916,22 +3913,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "EXPRESS Tee BLACK",
-   "detail": "Size XS",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
-   "tag": "Skate & baggy",
+   "price": 28,
+   "was": 70,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "S"
    ]
   },
   {
@@ -4045,42 +4044,45 @@
   },
   {
    "brand": "Armedangels",
-   "name": "AARJO TARPA TAPERED JEANS",
-   "detail": "rinse black · Men",
+   "name": "POPLIN LARISAANA MINI-KLEID",
+   "detail": "true camel · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aarjo-tarpa-rinse-black?variant=54723577479493",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005231-520_111.jpg?v=1791813397&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid-true-camel?variant=57299203588421",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
     "streetwear",
-    "boho"
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4187,31 +4189,37 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAIRAA",
-   "detail": "rosalilly · Women",
+   "name": "POPLIN MINI LARISAANA KLEID",
+   "detail": "true camel · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid?variant=57299203588421",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
-   "detail": "Sizes 24–28",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -4328,31 +4336,37 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IAAN SLIM JEANS",
-   "detail": "rinse black · Men",
+   "name": "KARIERTES LANGARMHEMD",
+   "detail": "fatigue green · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/check-longsleeve-shirt-fatigue-green?variant=56485748179269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3453_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Men",
-   "sizes": []
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
-   "detail": "Sizes 22–30",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
+   "detail": "Sizes 22–33",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -4411,19 +4425,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
-   "detail": "Sizes 22–33",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4472,14 +4485,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
-   "detail": "Sizes 22–30",
+   "name": "x-tra MONSTER Denim Shorts Washed Black",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4535,21 +4548,26 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 22–24",
+   "name": "Pencil Hood GREY HEATHER",
+   "detail": "Sizes XXS–M",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4599,26 +4617,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Hood GREY HEATHER",
-   "detail": "Sizes XXS–M",
+   "name": "x-tra BAGGY Denim WASHED GREY TAB",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 39.99,
    "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4667,69 +4680,6 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–27",
-   "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Cherry Fork lightweight t-shirt",
-   "detail": "Egret · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/cherry-fork-lightweight-t-shirt-dk0a8ds7c481-white?variant=45766670844090",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DS7C48-1_9d2520fd-49bf-47e8-97c8-37630660a753.jpg?v=1779221447&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Satin Logo Fleece Pants",
-   "detail": "Sizes XXS–M · Women",
-   "shop": "REEBOK",
-   "price": 20,
-   "was": 50,
-   "category": "Trousers",
-   "url": "https://www.reebok.eu/products/satin-logo-fleece-pants-100239801-11019?variant=55324002812252",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239801_V1.jpg?v=1756232346&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "sport",
-    "retro",
-    "streetwear",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
    "name": "BOLD BOY Zipper BLACK",
    "detail": "Size M · Kids",
    "shop": "HOMEBOY",
@@ -4771,14 +4721,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Small Logo Fleece Cuffed Pants",
-   "detail": "Sizes XS–M · Women",
+   "name": "Satin Logo Fleece Pants",
+   "detail": "Sizes XXS–M · Women",
    "shop": "REEBOK",
    "price": 20,
    "was": 50,
    "category": "Trousers",
-   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-cuffed-pants-100240934-3344?variant=55324040429916",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240934_V1.jpg?v=1756233114&width=800",
+   "url": "https://www.reebok.eu/products/satin-logo-fleece-pants-100239801-11019?variant=55324002812252",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100239801_V1.jpg?v=1756232346&width=800",
    "tag": "Street edit",
    "styles": [
     "sport",
@@ -4788,6 +4738,7 @@
    ],
    "department": "Women",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M"
@@ -4833,14 +4784,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Small Logo Fleece Jogger Pants",
-   "detail": "Sizes XS–XL · Men",
+   "name": "ID Small Logo Fleece Cuffed Pants",
+   "detail": "Sizes XS–M · Women",
    "shop": "REEBOK",
    "price": 20,
    "was": 50,
    "category": "Trousers",
-   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-jogger-pants-100240231-1315?variant=55324025651548",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240231_V1.jpg?v=1756235114&width=800",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-cuffed-pants-100240934-3344?variant=55324040429916",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240934_V1.jpg?v=1756233114&width=800",
    "tag": "Street edit",
    "styles": [
     "sport",
@@ -4848,13 +4799,11 @@
     "streetwear",
     "utility"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
@@ -4897,21 +4846,29 @@
   },
   {
    "brand": "Reebok",
-   "name": "Smash Edge Elastic & Top Strap Kids Trainers",
-   "detail": "Sizes 27.5–32.5 · Kids",
+   "name": "ID Small Logo Fleece Jogger Pants",
+   "detail": "Sizes XS–XL · Men",
    "shop": "REEBOK",
    "price": 20,
    "was": 50,
-   "category": "Shoes",
-   "url": "https://www.reebok.eu/products/reebok-smash-edge-elastic-top-strap-unisex-sneaker-100221595-2433?variant=55323869970780",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100221595_SLC_eCom.jpg?v=1758535337&width=800",
-   "tag": "Retro sport",
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-fleece-jogger-pants-100240231-1315?variant=55324025651548",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100240231_V1.jpg?v=1756235114&width=800",
+   "tag": "Street edit",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "streetwear",
+    "utility"
    ],
-   "department": "Kids",
-   "sizes": []
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -4949,6 +4906,64 @@
    "department": "Not specified",
    "sizes": [
     "M"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Smash Edge Elastic & Top Strap Kids Trainers",
+   "detail": "Sizes 27.5–32.5 · Kids",
+   "shop": "REEBOK",
+   "price": 20,
+   "was": 50,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/reebok-smash-edge-elastic-top-strap-unisex-sneaker-100221595-2433?variant=55323869970780",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100221595_SLC_eCom.jpg?v=1758535337&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Kids",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Vintage Denim VINTAGE BLACK TAB",
+   "detail": "Sizes 24–28",
+   "shop": "HOMEBOY",
+   "price": 49.99,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-black-tab?variant=58393895797110",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1087x-traMONSTERVintageDenimVINTAGEBLACKfront_resized.jpg?v=1761824836&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Polk midweight t-shirt",
+   "detail": "Stormy sea · Sizes S–L · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591545530",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "L"
    ]
   },
   {
