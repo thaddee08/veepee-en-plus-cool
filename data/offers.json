@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T11:25:05.217Z",
+ "generatedAt": "2026-11-08T20:36:23.503Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,22 +9,22 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 545
+   "found": 544
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1190
+   "found": 1187
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 298
+   "found": 296
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 264
+   "found": 263
   },
   {
    "source": "OVERKILL",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 835
+   "found": 795
   },
   {
    "source": "6PM",
@@ -868,12 +868,12 @@
   {
    "brand": "Nike",
    "name": "Nike Total 90",
-   "detail": "Sizes 9–12 · Men",
+   "detail": "Size 12 · Men",
    "shop": "AFEW",
    "price": 33,
    "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511564554",
+   "url": "https://www.afew-store.com/products/nike-total-90-mink-brown-white-racer-blue?variant=52247511761162",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-total-90-mink-brown-white-racer-blue-hq2851-202-footwear_20_3E_20sneaker.jpg?v=1765368045&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -3484,7 +3484,7 @@
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136075589",
+   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136206661",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007343-1677_111.jpg?v=1791813632&width=800",
    "tag": "Conscious basics",
    "styles": [
