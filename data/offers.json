@@ -1,20 +1,20 @@
 {
- "generatedAt": "2026-11-08T20:36:23.503Z",
+ "generatedAt": "2026-11-09T13:02:36.761Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 87
+   "found": 86
   },
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 544
+   "found": 542
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1187
+   "found": 1186
   },
   {
    "source": "ASPHALTGOLD",
@@ -24,12 +24,12 @@
   {
    "source": "AFEW",
    "ok": true,
-   "found": 263
+   "found": 262
   },
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 75
+   "found": 110
   },
   {
    "source": "A.P.C.",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 795
+   "found": 786
   },
   {
    "source": "6PM",
@@ -1327,21 +1327,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "FARIBAA ZEBRARAA LEGGINGS",
-   "detail": "black · Size XS · Women",
+   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
+   "detail": "wedgwood · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
-   "price": 19.9,
-   "was": 49.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/faribaa-zebraraa-black?variant=55715005333829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007841-105_111.jpg?v=1791813625&width=800",
+   "price": 39.9,
+   "was": 99.9,
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -1470,24 +1473,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN KURZARMHEMD",
-   "detail": "wedgwood · Sizes S–XL · Men",
+   "name": "GARN-MIX POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/baumwoll-lino-kurzarmshirt-wedgwood?variant=57299135889733",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008345-3455_111.jpg?v=1791813597&width=800",
-   "tag": "Conscious basics",
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
    "department": "Men",
    "sizes": [
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1610,20 +1615,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GARN-MIX POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL · Men",
+   "name": "YARNMIX KNIT POLOSHIRT",
+   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
    "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt-tabasco-red-oatmilk-sunflower?variant=56485794939205",
+   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
-   "tag": "Statement color",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
     "S",
     "M",
@@ -1715,21 +1719,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike NIKE DBREAK SP",
-   "detail": "Size 9.5 · Men",
+   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
+   "detail": "Sizes 6.5–12 · Women",
    "shop": "AFEW",
-   "price": 47,
-   "was": 99.99,
+   "price": 101.99,
+   "was": 194.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-nike-dbreak-sp-black-metallic-gold-black?variant=51900374319370",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-nike-dbreak-sp-black-metallic-gold-black-bv7725-003-footwear_20_3E_20sneaker.jpg?v=1759757890&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1794224891&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1752,23 +1755,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "YARNMIX KNIT POLOSHIRT",
-   "detail": "tabasco red-oatmilk-sunflower · Sizes S–XXL",
+   "name": "CALINAA KLEID",
+   "detail": "steel melange · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 99.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/yarnmix-knit-poloshirt?variant=56485794939205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008199-3504_111.jpg?v=1791813469&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -1858,18 +1860,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
-   "detail": "Sizes 6.5–12 · Women",
+   "name": "Nike WMNS T90",
+   "detail": "Size 8.5 · Women",
    "shop": "AFEW",
-   "price": 101.99,
-   "was": 194.99,
+   "price": 57.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477138993418",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1794068467&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-t90-metallic-silver-black-university-red?variant=52095792283914",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-t90-metallic-silver-black-university-red-im7595-001-footwear_20_3E_20sneaker.jpg?v=1762767039&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1894,21 +1897,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "black · Size S · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-black?variant=55714984493381",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-105_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -1994,21 +2001,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS T90",
-   "detail": "Size 8.5 · Women",
+   "name": "Nike SHOX R4 QS",
+   "detail": "Sizes 4.5–9.5 · Men",
    "shop": "AFEW",
-   "price": 57.99,
-   "was": 109.99,
+   "price": 87.99,
+   "was": 159.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-t90-metallic-silver-black-university-red?variant=52095792283914",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-t90-metallic-silver-black-university-red-im7595-001-footwear_20_3E_20sneaker.jpg?v=1762767039&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2033,24 +2039,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CALINAA KLEID",
-   "detail": "steel melange · Sizes XS–XXL · Women",
+   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
+   "detail": "washed berry · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 99.9,
+   "price": 59.9,
+   "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/calinaa-steel-melange?variant=55714989801797",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007839-2874_111.jpg?v=1791813475&width=800",
+   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
-    "XL",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -2139,20 +2146,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike SHOX R4 QS",
-   "detail": "Sizes 4.5–9.5 · Men",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 7–7.5 · Women",
    "shop": "AFEW",
-   "price": 87.99,
-   "was": 159.99,
+   "price": 98.99,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2176,14 +2183,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL · Women",
+   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
+   "detail": "dark steel-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid-washed-berry?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2280,14 +2287,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 7–7.5 · Women",
+   "name": "Nike WMNS AIR MAX 95 OG",
+   "detail": "Size 5.5 · Women",
    "shop": "AFEW",
-   "price": 98.99,
-   "was": 179.99,
+   "price": 104.99,
+   "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey?variant=51690836295946",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey-hj5996-002-footwear_20_3E_20sneaker.jpg?v=1793779687&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2317,14 +2324,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SATIN FLEDERMAUSÄRMEL MINI-KLEID",
-   "detail": "washed berry · Sizes XS–XL",
+   "name": "LEO BAT WING MIDI DRESS",
+   "detail": "dark steel-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 59.9,
    "was": 149.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/satin-fledermausarmel-mini-kleid?variant=57299305759045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008574-3563_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -2424,14 +2431,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR MAX 95 OG",
-   "detail": "Size 5.5 · Women",
+   "name": "Nike WMNS Air Max Moto 2K",
+   "detail": "Sizes 6.5–10 · Women",
    "shop": "AFEW",
-   "price": 104.99,
-   "was": 189.99,
+   "price": 72.99,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey?variant=51690836295946",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-og-black-blue-tint-white-medium-grey-hj5996-002-footwear_20_3E_20sneaker.jpg?v=1793779687&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey?variant=52609079607562",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey-hq2056-010-footwear_20_3E_20sneaker.jpg?v=1771856139&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2462,26 +2469,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO-FLEDERMAUSÄRMEL MIDI-KLEID",
-   "detail": "dark steel-black · Sizes XS–XL · Women",
+   "name": "AARY",
+   "detail": "indigo haze · Men",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress-dark-steel-black?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Men",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -2567,18 +2568,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Max Moto 2K",
-   "detail": "Sizes 6.5–10 · Women",
+   "name": "Nike WMNS Shox Z",
+   "detail": "Sizes 6.5–9 · Women",
    "shop": "AFEW",
    "price": 72.99,
    "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey?variant=52609079607562",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey-hq2056-010-footwear_20_3E_20sneaker.jpg?v=1771856139&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52460159336714",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog-iq7574-663-footwear_20_3E_20sneaker.jpg?v=1793840834&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2603,25 +2605,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LEO BAT WING MIDI DRESS",
-   "detail": "dark steel-black · Sizes XS–XL",
+   "name": "COTTON LINEN JACKET",
+   "detail": "sandstone · Sizes S–XXL",
    "shop": "ARMEDANGELS",
-   "price": 59.9,
-   "was": 149.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/leo-bat-wing-midi-dress?variant=56485757583685",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008132-3583_111.jpg?v=1791813597&width=800",
-   "tag": "Conscious basics",
+   "price": 64.9,
+   "was": 159.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "tag": "Romantic find",
    "styles": [
-    "minimal"
+    "minimal",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2712,59 +2715,63 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 6.5–9 · Women",
+   "name": "Nike BOOK 2 'Spiridon'",
+   "detail": "Sizes 9–11 · Men",
    "shop": "AFEW",
-   "price": 72.99,
-   "was": 129.99,
+   "price": 84.99,
+   "was": 149.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52460159336714",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog-iq7574-663-footwear_20_3E_20sneaker.jpg?v=1793840834&width=800",
+   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1793707867&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
     "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "IH Crop Hoodie",
-   "detail": "Size XXL · Men",
+   "brand": "Nike",
+   "name": "Cryoshot Air Speed M England",
+   "detail": "Sizes 36.5–48.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 65,
-   "was": 109,
-   "category": "Hoodies",
-   "url": "https://www.overkillshop.com/products/jordan-ih-crop-hoodie-im7367-010-black-ivory?variant=56356791910780",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7367-010_1.jpg?v=1771314311&width=800",
+   "price": 119,
+   "was": 200,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/palace-x-nike-cryoshot-air-speed-m-england-im0705-001-black-white-crimson?variant=56855332454780",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0702-001_1.jpg?v=1781269156&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXL"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "indigo haze · Men",
+   "name": "KARIERTER TELLERROCK",
+   "detail": "oatmilk-black · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-indigo-haze?variant=54724062773573",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007089-2283_111.jpg?v=1791813641&width=800",
+   "category": "Skirts",
+   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -2849,59 +2856,57 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike BOOK 2 'Spiridon'",
-   "detail": "Sizes 9–11 · Men",
+   "name": "Nike WMNS AIR RIFT",
+   "detail": "Sizes 6–11 · Women",
    "shop": "AFEW",
-   "price": 84.99,
-   "was": 149.99,
+   "price": 73.99,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1793707867&width=800",
-   "tag": "Statement color",
-   "styles": [
-    "sport",
-    "streetwear",
-    "statement"
-   ],
-   "department": "Men",
-   "sizes": []
-  },
-  {
-   "brand": "Jordan",
-   "name": "IH MJ Star SS Tee",
-   "detail": "Size XL · Men",
-   "shop": "OVERKILL",
-   "price": 30,
-   "was": 49,
-   "category": "T-shirts",
-   "url": "https://www.overkillshop.com/products/jordan-ih-mj-star-ss-tee-im7363-010-black?variant=56356792369532",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7363-010_1.jpg?v=1771313979&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-rift-black-hemp?variant=52695585194250",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-rift-black-hemp-ir5696-010-footwear_20_3E_20sneaker.jpg?v=1773224795&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
-   "sizes": [
-    "XL"
-   ]
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "Nike",
+   "name": "Cryoshot Mercurial Vapor R9 Netherlands",
+   "detail": "Sizes 36–45 · Unisex",
+   "shop": "OVERKILL",
+   "price": 119,
+   "was": 200,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/patta-x-nike-cryoshot-mercurial-vapor-r9-netherlands-im0589-001-metallic-silver-hyper-crimson-black?variant=56855331799420",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0589-001_1.jpg?v=1781269042&width=800",
+   "tag": "Utility pick",
+   "styles": [
+    "sport",
+    "streetwear",
+    "utility",
+    "statement"
+   ],
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "COTTON LINEN JACKET",
-   "detail": "sandstone · Sizes S–XXL",
+   "name": "BAUMWOLL-LEINEN-JACKE",
+   "detail": "sandstone · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket?variant=56748735856965",
+   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
-   "tag": "Romantic find",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "boho"
+    "minimal"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
     "S",
     "M",
@@ -3000,14 +3005,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR RIFT",
-   "detail": "Sizes 6–11 · Women",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 10.5–11.5 · Women",
    "shop": "AFEW",
-   "price": 73.99,
-   "was": 129.99,
+   "price": 104,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-rift-black-hemp?variant=52695585194250",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-rift-black-hemp-ir5696-010-footwear_20_3E_20sneaker.jpg?v=1773224795&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464192778",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3018,38 +3023,38 @@
   },
   {
    "brand": "Nike",
-   "name": "Air Max Plus VII",
-   "detail": "Sizes 40–46 · Men",
+   "name": "Cryoshot Tiempo 94 Canada",
+   "detail": "Sizes 36–46 · Unisex",
    "shop": "OVERKILL",
-   "price": 120,
-   "was": 189,
+   "price": 119,
+   "was": 200,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-air-max-plus-vll-iq0282-084-smoke-grey-metallic-silver-iron-grey?variant=56387188261244",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IQ0282-084_1.jpg?v=1772206868&width=800",
-   "tag": "Retro find",
+   "url": "https://www.overkillshop.com/products/nocta-x-nike-cryoshot-tiempo-94-canada-im0703-700-university-gold-black-white?variant=56855333732732",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM0703-700_1.jpg?v=1781269254&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
-   "department": "Men",
+   "department": "Unisex",
    "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTER TELLERROCK",
-   "detail": "oatmilk-black · Sizes XS–XL · Women",
+   "name": "CHECK CIRCLE SKIRT",
+   "detail": "oatmilk-black · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 64.9,
    "was": 159.9,
    "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt-oatmilk-black?variant=56485798052165",
+   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
@@ -3146,32 +3151,32 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 10.5–11.5 · Women",
+   "name": "Nike Air Max 95 OG",
+   "detail": "Sizes 10–12 · Men",
    "shop": "AFEW",
-   "price": 104,
-   "was": 179.99,
+   "price": 111.99,
+   "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464192778",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988055818",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1793954707&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
-   "brand": "Nike",
-   "name": "Reactx Rejuven8 Slide QS .Swoosh Touch Grass",
-   "detail": "Sizes 37.5–47.5 · Unisex",
+   "brand": "Jordan",
+   "name": "Jumpman Jack TR",
+   "detail": "Size 36.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 45,
-   "was": 70,
+   "price": 119,
+   "was": 200,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-reactx-rejuven8-slide-qs-swoosh-touch-grass-ir0459-001-dark-smoke-grey-black-klly-green?variant=56696905892220",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR0459-001_1.jpg?v=1778483138&width=800",
+   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-jumpman-jack-tr-im9113-300-green-spark-vapor-green-black?variant=56527082062204",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM9113-300_1_2f400188-86a5-4f6f-87e5-c0f4fc204f88.jpg?v=1774447514&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3182,26 +3187,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BAUMWOLL-LEINEN-JACKE",
-   "detail": "sandstone · Sizes S–XXL · Men",
+   "name": "AARJO TARPA TAPERED JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/cotton-linen-jacket-sandstone?variant=56748735856965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008045-2248_111.jpg?v=1791813662&width=800",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/aarjo-tarpa-rinse-black?variant=54723577479493",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005231-520_111.jpg?v=1791813397&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Men",
-   "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3292,55 +3291,40 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 OG",
-   "detail": "Sizes 10–12 · Men",
+   "name": "Nike ACG Phassad",
+   "detail": "Sizes 9.5–13 · Men",
    "shop": "AFEW",
-   "price": 111.99,
-   "was": 189.99,
+   "price": 71.99,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988055818",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1793954707&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-acg-phassad-anthracite-mink-iron-grey-black?variant=52477406413066",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-phassad-anthracite-mink-iron-grey-black-hm7133-003-footwear_20_3E_20sneaker.jpg?v=1793808428&width=800",
+   "tag": "Utility pick",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Men",
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "Jumpman Jack TR",
-   "detail": "Size 36.5 · Unisex",
+   "brand": "Nike",
+   "name": "FA England Varsity Jacket",
+   "detail": "Sizes XS–XL · Unisex",
    "shop": "OVERKILL",
-   "price": 130,
-   "was": 200,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/travis-scott-x-jordan-jumpman-jack-tr-im9113-300-green-spark-vapor-green-black?variant=56527082062204",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM9113-300_1_2f400188-86a5-4f6f-87e5-c0f4fc204f88.jpg?v=1774447514&width=800",
-   "tag": "Nike pick",
+   "price": 476,
+   "was": 800,
+   "category": "Jackets",
+   "url": "https://www.overkillshop.com/products/palace-x-nike-fa-england-varsity-jacket-im6636-065-cool-grey-white-bright-crimson?variant=56854737092988",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM6636-065_1.jpg?v=1781171865&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "sport",
-    "streetwear"
-   ],
-   "department": "Unisex",
-   "sizes": []
-  },
-  {
-   "brand": "Armedangels",
-   "name": "CHECK CIRCLE SKIRT",
-   "detail": "oatmilk-black · Sizes XS–XL",
-   "shop": "ARMEDANGELS",
-   "price": 64.9,
-   "was": 159.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/check-circle-skirt?variant=56485798052165",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008212-1692_111.jpg?v=1791813575&width=800",
-   "tag": "Conscious basics",
-   "styles": [
+    "streetwear",
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Unisex",
    "sizes": [
     "XS",
     "S",
@@ -3348,6 +3332,23 @@
     "L",
     "XL"
    ]
+  },
+  {
+   "brand": "Armedangels",
+   "name": "MAIRAA",
+   "detail": "rosalilly · Women",
+   "shop": "ARMEDANGELS",
+   "price": 49.9,
+   "was": 119.9,
+   "category": "Trousers",
+   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
+   "tag": "Conscious basics",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3437,55 +3438,51 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ACG Phassad",
-   "detail": "Sizes 9.5–13 · Men",
+   "name": "Nike WMNS Air Max Moto 2K SE",
+   "detail": "Sizes 7–9 · Women",
    "shop": "AFEW",
-   "price": 71.99,
-   "was": 119.99,
+   "price": 83.99,
+   "was": 139.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-acg-phassad-anthracite-mink-iron-grey-black?variant=52477406413066",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-phassad-anthracite-mink-iron-grey-black-hm7133-003-footwear_20_3E_20sneaker.jpg?v=1793808428&width=800",
-   "tag": "Utility pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white?variant=52706683519242",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white-io4862-002-footwear_20_3E_20sneaker.jpg?v=1773398795&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "IH OS Fleece Pant",
-   "detail": "Size L · Men",
+   "brand": "Nike",
+   "name": "Air Max 95 OG",
+   "detail": "Size 39 · Unisex",
    "shop": "OVERKILL",
-   "price": 65,
-   "was": 99,
-   "category": "Trousers",
-   "url": "https://www.overkillshop.com/products/jordan-ih-os-fleece-pant-im7369-010-black?variant=56356792172924",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7369-010_1.jpg?v=1771314586&width=800",
+   "price": 122,
+   "was": 205,
+   "category": "Shoes",
+   "url": "https://www.overkillshop.com/products/levis-x-nike-air-max-95-og-hm4743-001-black-black-anthracite-gym-red?variant=55522341880188",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/HM4743-001_1_f546b8c2-b199-4d69-bf49-ce14fbe1ff9f.jpg?v=1758533898&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "utility"
+    "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "L"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "AARY",
-   "detail": "undyed · Men",
+   "name": "IAAN SLIM JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aary-undyed?variant=54724136206661",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007343-1677_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -3576,57 +3573,64 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Max Moto 2K SE",
-   "detail": "Sizes 7–9 · Women",
+   "name": "Nike Zoom Vomero 5",
+   "detail": "Sizes 4.5–6.5 · Men",
    "shop": "AFEW",
-   "price": 83.99,
-   "was": 139.99,
+   "price": 95.99,
+   "was": 159.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white?variant=52706683519242",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white-io4862-002-footwear_20_3E_20sneaker.jpg?v=1773398795&width=800",
+   "url": "https://www.afew-store.com/products/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver?variant=52695627890954",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver-im3486-002-footwear_20_3E_20sneaker.jpg?v=1773225341&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
    "brand": "Jordan",
-   "name": "Wmns Air Jordan 3 Retro Starfish",
-   "detail": "Sizes 37.5–38.5 · Unisex",
+   "name": "IH Crop Hoodie",
+   "detail": "Size XXL · Men",
    "shop": "OVERKILL",
-   "price": 99,
-   "was": 149,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/wmns-air-jordan-3-retro-starfish-ih7694-200-fossil-starfish-sail?variant=55522393915772",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IH7694-200_1.jpg?v=1752154436&width=800",
-   "tag": "Retro find",
+   "price": 65,
+   "was": 109,
+   "category": "Hoodies",
+   "url": "https://www.overkillshop.com/products/jordan-ih-crop-hoodie-im7367-010-black-ivory?variant=56356791910780",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IM7367-010_1.jpg?v=1771314311&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Men",
+   "sizes": [
+    "XXL"
+   ]
   },
   {
    "brand": "Armedangels",
-   "name": "AARJO TARPA TAPERED JEANS",
-   "detail": "rinse black · Men",
+   "name": "POPLIN LARISAANA MINI-KLEID",
+   "detail": "true camel · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/aarjo-tarpa-rinse-black?variant=54723577479493",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005231-520_111.jpg?v=1791813397&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid-true-camel?variant=57299203588421",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3713,14 +3717,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Zoom Vomero 5",
-   "detail": "Sizes 4.5–6.5 · Men",
+   "name": "Nike AIR MAX 95 Big Bubble Woven",
+   "detail": "Sizes 8–12.5 · Men",
    "shop": "AFEW",
-   "price": 95.99,
-   "was": 159.99,
+   "price": 119.99,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver?variant=52695627890954",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver-im3486-002-footwear_20_3E_20sneaker.jpg?v=1773225341&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1793978889&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3730,60 +3734,66 @@
    "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "Air Jordan 1 Retro High OG Shattered Backboard",
-   "detail": "Sizes 37.5–38 · Unisex",
+   "brand": "Nike",
+   "name": "Reactx Rejuven8 Slide QS .Swoosh Touch Grass",
+   "detail": "Sizes 37.5–47.5 · Unisex",
    "shop": "OVERKILL",
-   "price": 129,
-   "was": 190,
+   "price": 42,
+   "was": 70,
    "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/air-jordan-1-retro-high-og-shattered-backboard-dz5485-008-black-black-sail-starfish?variant=55533445841276",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/DZ5485-008_1_e309c9ce-1d81-4535-84c5-e6fa13710a22.jpg?v=1752669176&width=800",
-   "tag": "Retro find",
+   "url": "https://www.overkillshop.com/products/nike-reactx-rejuven8-slide-qs-swoosh-touch-grass-ir0459-001-dark-smoke-grey-black-klly-green?variant=56696905892220",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IR0459-001_1.jpg?v=1778483138&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Unisex",
    "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "MAIRAA",
-   "detail": "rosalilly · Women",
+   "name": "POPLIN MINI LARISAANA KLEID",
+   "detail": "true camel · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid?variant=57299203588421",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "EXPRESS Tee BLACK",
-   "detail": "Size XS",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/express-tee-black?variant=58393872433526",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3069-10EXPRESSTEEBLACKFRONT.jpg?v=1740050020&width=800",
-   "tag": "Skate & baggy",
+   "price": 28,
+   "was": 70,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "boho"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "S"
    ]
   },
   {
@@ -3853,18 +3863,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX 95 Big Bubble Woven",
-   "detail": "Sizes 8–12.5 · Men",
+   "name": "Nike LeBron XXIII 'LeBronto'",
+   "detail": "Sizes 8–11 · Men",
    "shop": "AFEW",
    "price": 119.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1793978889&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -3874,7 +3885,7 @@
    "name": "NFF Nigeria Fleece Hoodie",
    "detail": "Sizes XS–S · Unisex",
    "shop": "OVERKILL",
-   "price": 75,
+   "price": 66,
    "was": 110,
    "category": "Hoodies",
    "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-hoodie-ir5219-010-black-poison-green-white?variant=56854738633084",
@@ -3893,42 +3904,45 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IAAN SLIM JEANS",
-   "detail": "rinse black · Men",
+   "name": "KARIERTES LANGARMHEMD",
+   "detail": "fatigue green · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/check-longsleeve-shirt-fatigue-green?variant=56485748179269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3453_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Men",
-   "sizes": []
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
     "streetwear",
-    "boho"
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -3997,19 +4011,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike LeBron XXIII 'LeBronto'",
-   "detail": "Sizes 8–11 · Men",
+   "name": "Nike LEBRON XXIII 'Shut Up And Dribble'",
+   "detail": "Sizes 11.5–12 · Men",
    "shop": "AFEW",
    "price": 119.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400514826",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1793707877&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Men",
    "sizes": []
@@ -4019,7 +4032,7 @@
    "name": "NFF Nigeria Fleece Pants",
    "detail": "Sizes XS–L · Unisex",
    "shop": "OVERKILL",
-   "price": 75,
+   "price": 66,
    "was": 110,
    "category": "Trousers",
    "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-fleece-pants-ir5218-010-black-poison-green-white?variant=56854739026300",
@@ -4041,14 +4054,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "POPLIN LARISAANA MINI-KLEID",
-   "detail": "true camel · Sizes XS–XL · Women",
+   "name": "UN-WASTED KLEID",
+   "detail": "undyed-cinnamon dust · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid-true-camel?variant=57299203588421",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
+   "url": "https://www.armedangels.com/products/un-wasted-dress-undyed-cinnamon-dust?variant=56485762302277",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008159-3483_111.jpg?v=1791813463&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -4058,20 +4071,19 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK",
-   "detail": "Sizes 24–28",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-alt?variant=58393882493302",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -4143,18 +4155,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike LEBRON XXIII 'Shut Up And Dribble'",
-   "detail": "Sizes 11.5–12 · Men",
+   "name": "Nike ACG ULTRAFLY TRAIL SP",
+   "detail": "Sizes 8.5–12 · Men",
    "shop": "AFEW",
-   "price": 119.99,
-   "was": 199.99,
+   "price": 151.99,
+   "was": 249.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400514826",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1793707877&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold?variant=52537420775690",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold-ir7317-300-footwear_20_3E_20sneaker.jpg?v=1770809198&width=800",
+   "tag": "Utility pick",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "utility",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -4164,7 +4178,7 @@
    "name": "NFF Nigeria Lightweight Track Pants",
    "detail": "Sizes XS–M · Unisex",
    "shop": "OVERKILL",
-   "price": 75,
+   "price": 66,
    "was": 110,
    "category": "Trousers",
    "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-lightweight-track-pants-iu7645-100-white-black?variant=56854738829692",
@@ -4184,14 +4198,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "POPLIN MINI LARISAANA KLEID",
-   "detail": "true camel · Sizes XS–XL",
+   "name": "UN-WASTED DRESS",
+   "detail": "undyed-cinnamon dust · Sizes XS–L",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid?variant=57299203588421",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
+   "url": "https://www.armedangels.com/products/un-wasted-dress?variant=56485762302277",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008159-3483_111.jpg?v=1791813463&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
@@ -4201,20 +4215,19 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLUE",
-   "detail": "Sizes 22–30",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
+   "detail": "Sizes 22–33",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-blue-alt?variant=57460087587190",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-86_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLUE-86_1.jpg?v=1775632835&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -4295,59 +4308,58 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ACG ULTRAFLY TRAIL SP",
-   "detail": "Sizes 8.5–12 · Men",
+   "name": "Nike P-6000",
+   "detail": "Size 5 · Men",
    "shop": "AFEW",
-   "price": 151.99,
-   "was": 249.99,
+   "price": 66.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold?variant=52537420775690",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold-ir7317-300-footwear_20_3E_20sneaker.jpg?v=1770809198&width=800",
-   "tag": "Utility pick",
+   "url": "https://www.afew-store.com/products/nike-p-6000-white-black-metallic-silver-flt-silver?variant=51055865266442",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-p-6000-white-black-metallic-silver-flt-silver-cd6404-105-footwear_20_3E_20sneaker.jpg?v=1744702291&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "utility",
-    "statement"
+    "streetwear"
    ],
    "department": "Men",
    "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "W Zoom Vomero 5",
-   "detail": "Sizes 37.5–42 · Women",
+   "name": "NFF Nigeria Lightweight Track Jacket",
+   "detail": "Size XS · Unisex",
    "shop": "OVERKILL",
-   "price": 110,
-   "was": 159,
-   "category": "Shoes",
-   "url": "https://www.overkillshop.com/products/nike-w-zoom-vomero-5-ll6235-500-tattoo-particle-rose-particle-rose?variant=56396084117884",
-   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/II6236-500_1.jpg?v=1772525269&width=800",
+   "price": 90,
+   "was": 150,
+   "category": "Jackets",
+   "url": "https://www.overkillshop.com/products/slawn-x-nike-nff-nigeria-lightweight-track-jacket-iu7644-100-white-black?variant=56854737682812",
+   "image": "https://cdn.shopify.com/s/files/1/0631/5514/2847/files/IU7644-100_1.jpg?v=1781172499&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Unisex",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTES LANGARMHEMD",
-   "detail": "fatigue green · Sizes S–XXL · Men",
+   "name": "CHECK LONGSLEEVE SHIRT",
+   "detail": "fatigue green · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Shirts",
-   "url": "https://www.armedangels.com/products/check-longsleeve-shirt-fatigue-green?variant=56485748179269",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3453_111.jpg?v=1791813512&width=800",
+   "url": "https://www.armedangels.com/products/check-longsleeve-shirt?variant=56485748179269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3232_111.jpg?v=1791813625&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
     "S",
     "M",
@@ -4358,19 +4370,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK",
-   "detail": "Sizes 22–33",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black?variant=58393907364214",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4424,14 +4435,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey",
-   "detail": "Sizes 22–30",
+   "name": "x-tra MONSTER Denim Shorts Washed Black",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey?variant=58393861620086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4484,21 +4495,26 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 22–24",
+   "name": "Pencil Hood GREY HEATHER",
+   "detail": "Sizes XXS–M",
    "shop": "HOMEBOY",
    "price": 36,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917784438",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4547,26 +4563,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Hood GREY HEATHER",
-   "detail": "Sizes XXS–M",
+   "name": "x-tra BAGGY Denim WASHED GREY TAB",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 39.99,
    "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4616,21 +4627,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–27",
+   "name": "BOLD BOY Zipper BLACK",
+   "detail": "Size M · Kids",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
-   "tag": "Skate & baggy",
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958220150",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Kids",
+   "sizes": [
+    "M"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4679,24 +4693,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "BOLD BOY Zipper BLACK",
-   "detail": "Size M · Kids",
+   "name": "x-tra BAGGY Cord CHOCOLATE BROWN",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958220150",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
-   "tag": "Statement color",
+   "price": 44.5,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-chocolate-brown?variant=53530596082038",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1.jpg?v=1756809790&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Kids",
-   "sizes": [
-    "M"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4745,14 +4756,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Cord CHOCOLATE BROWN",
-   "detail": "Sizes 24–29",
+   "name": "x-tra MONSTER GOTHIC Denim MOON TAB",
+   "detail": "Sizes 24–27",
    "shop": "HOMEBOY",
-   "price": 44.5,
-   "was": 99.99,
+   "price": 49.99,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-chocolate-brown?variant=53530596082038",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1.jpg?v=1756809790&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-moon-tab?variant=58393887703414",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-79x-traMONSTERGOTHICDenimMOONBACK.jpg?v=1724750563&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4807,14 +4818,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER GOTHIC Denim MOON TAB",
-   "detail": "Sizes 24–27",
+   "name": "x-tra MONSTER Black Label DIRTY BLUE TAB",
+   "detail": "Sizes 24–34",
    "shop": "HOMEBOY",
    "price": 49.99,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-moon-tab?variant=58393887703414",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-79x-traMONSTERGOTHICDenimMOONBACK.jpg?v=1724750563&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-black-label-dirty-blue-tab?variant=58393924370806",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA2391-91x-traMONSTERBlackLabelDenimDIRTYBLUE-7.jpg?v=1727163814&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4871,18 +4882,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Black Label DIRTY BLUE TAB",
-   "detail": "Sizes 24–34",
+   "name": "x-tra MONSTER Vintage Denim VINTAGE BLACK TAB",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
    "price": 49.99,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-black-label-dirty-blue-tab?variant=58393924370806",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA2391-91x-traMONSTERBlackLabelDenimDIRTYBLUE-7.jpg?v=1727163814&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-black-tab?variant=58393895797110",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1087x-traMONSTERVintageDenimVINTAGEBLACKfront_resized.jpg?v=1761824836&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4927,14 +4939,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Vintage Denim VINTAGE BLACK TAB",
-   "detail": "Sizes 24–28",
+   "name": "x-tra MONSTER Vintage Denim VINTAGE BLUE TAB",
+   "detail": "Sizes 24–30",
    "shop": "HOMEBOY",
    "price": 49.99,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-black-tab?variant=58393895797110",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1087x-traMONSTERVintageDenimVINTAGEBLACKfront_resized.jpg?v=1761824836&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-blue-tab?variant=58393934528886",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1086-86x-traMONSTERDenimVINTAGEBLUEfront_resized.jpg?v=1761826160&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
