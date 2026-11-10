@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T13:02:36.761Z",
+ "generatedAt": "2026-11-10T00:21:51.110Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,27 +9,27 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 542
+   "found": 535
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1186
+   "found": 1184
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 296
+   "found": 293
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 262
+   "found": 261
   },
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 110
+   "found": 109
   },
   {
    "source": "A.P.C.",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 786
+   "found": 782
   },
   {
    "source": "6PM",
@@ -429,12 +429,12 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Size 9 · Women",
+   "detail": "Sizes 7.5–9 · Women",
    "shop": "AFEW",
    "price": 36,
    "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364396101898",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-light-bone-sail-white-gum-med-brown?variant=52364396003594",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-light-bone-sail-white-gum-med-brown-if3947-002-footwear_20_3E_20sneaker.jpg?v=1767789758&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -1455,7 +1455,7 @@
   {
    "brand": "Nike",
    "name": "T90",
-   "detail": "Sizes 37.5–44.5 · Unisex",
+   "detail": "Sizes 37.5–40 · Unisex",
    "shop": "OVERKILL",
    "price": 45,
    "was": 110,
@@ -3158,7 +3158,7 @@
    "was": 189.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988055818",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1793954707&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1794268087&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3226,14 +3226,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Coronet blue · Size S · Women",
+   "name": "Summerdale light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XL · Women",
    "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
+   "price": 15,
+   "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok371-blue?variant=45766300958906",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK37-1_6eb31e7c-2c23-4d66-b747-8b19cef00925.jpg?v=1779221324&width=800",
+   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3241,7 +3241,10 @@
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "XL"
    ]
   },
   {
@@ -3335,19 +3338,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAIRAA",
-   "detail": "rosalilly · Women",
+   "name": "IAAN SLIM JEANS",
+   "detail": "rinse black · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Trousers",
-   "url": "https://www.armedangels.com/products/mairaa-rosalilly?variant=54724007592261",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006878-3062_111.jpg?v=1791813517&width=800",
+   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -3370,25 +3373,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XL · Women",
+   "name": "Panther t-shirt",
+   "detail": "Whitecap grey · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
+   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "XL"
+    "S"
    ]
   },
   {
@@ -3475,20 +3475,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IAAN SLIM JEANS",
-   "detail": "rinse black · Men",
+   "name": "POPLIN LARISAANA MINI-KLEID",
+   "detail": "true camel · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Trousers",
-   "url": "https://www.armedangels.com/products/iaan-rinse-black?variant=54723615162693",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005359-520_111.jpg?v=1791813556&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid-true-camel?variant=57299203588421",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3510,14 +3516,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Panther t-shirt",
-   "detail": "Whitecap grey · Size S",
+   "name": "Outdoor t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
+   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3525,7 +3531,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -3611,19 +3617,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "POPLIN LARISAANA MINI-KLEID",
-   "detail": "true camel · Sizes XS–XL · Women",
+   "name": "POPLIN MINI LARISAANA KLEID",
+   "detail": "true camel · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid-true-camel?variant=57299203588421",
+   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid?variant=57299203588421",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
@@ -3653,13 +3659,13 @@
   {
    "brand": "Dickies",
    "name": "Outdoor t-shirt",
-   "detail": "Black · Size XS",
+   "detail": "Beige · Size M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
+   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pc481-beige?variant=45766391562426",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PC48-1_ca480ae1-06a7-45c2-a587-b4a4b4029920.jpg?v=1779221326&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3667,7 +3673,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "M"
    ]
   },
   {
@@ -3753,25 +3759,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "POPLIN MINI LARISAANA KLEID",
-   "detail": "true camel · Sizes XS–XL",
+   "name": "KARIERTES LANGARMHEMD",
+   "detail": "fatigue green · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/poplin-mini-larisaana-kleid?variant=57299203588421",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008428-3231_111.jpg?v=1791813423&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/check-longsleeve-shirt-fatigue-green?variant=56485748179269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3453_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3798,22 +3804,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Outdoor t-shirt",
-   "detail": "Beige · Size M",
+   "name": "Running Wild top",
+   "detail": "Brown · Sizes S–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pc481-beige?variant=45766391562426",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PC48-1_ca480ae1-06a7-45c2-a587-b4a4b4029920.jpg?v=1779221326&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
+   "tag": "Sport edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "M"
+    "S",
+    "L"
    ]
   },
   {
@@ -3904,25 +3912,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARIERTES LANGARMHEMD",
-   "detail": "fatigue green · Sizes S–XXL · Men",
+   "name": "UN-WASTED KLEID",
+   "detail": "undyed-cinnamon dust · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/check-longsleeve-shirt-fatigue-green?variant=56485748179269",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3453_111.jpg?v=1791813512&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/un-wasted-dress-undyed-cinnamon-dust?variant=56485762302277",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008159-3483_111.jpg?v=1791813463&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -3946,24 +3953,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Running Wild top",
-   "detail": "Brown · Sizes S–L · Women",
+   "name": "Bricklane t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
-   "tag": "Sport edit",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "sport"
+    "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "S",
-    "L"
+    "XS"
    ]
   },
   {
@@ -4054,19 +4059,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "UN-WASTED KLEID",
-   "detail": "undyed-cinnamon dust · Sizes XS–L · Women",
+   "name": "UN-WASTED DRESS",
+   "detail": "undyed-cinnamon dust · Sizes XS–L",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
    "category": "Dresses",
-   "url": "https://www.armedangels.com/products/un-wasted-dress-undyed-cinnamon-dust?variant=56485762302277",
+   "url": "https://www.armedangels.com/products/un-wasted-dress?variant=56485762302277",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008159-3483_111.jpg?v=1791813463&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
@@ -4096,13 +4101,13 @@
   {
    "brand": "Dickies",
    "name": "Bricklane t-shirt",
-   "detail": "Black · Size XS",
+   "detail": "Desert sand · Sizes S–XL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4110,7 +4115,9 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "XL"
    ]
   },
   {
@@ -4198,24 +4205,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "UN-WASTED DRESS",
-   "detail": "undyed-cinnamon dust · Sizes XS–L",
+   "name": "CHECK LONGSLEEVE SHIRT",
+   "detail": "fatigue green · Sizes S–XXL",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Dresses",
-   "url": "https://www.armedangels.com/products/un-wasted-dress?variant=56485762302277",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008159-3483_111.jpg?v=1791813463&width=800",
+   "category": "Shirts",
+   "url": "https://www.armedangels.com/products/check-longsleeve-shirt?variant=56485748179269",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3232_111.jpg?v=1791813625&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4239,14 +4247,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "Desert sand · Sizes S–XL",
+   "name": "Enterprise light weight t-shirt",
+   "detail": "Black · Sizes XS–L",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
+   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4254,9 +4262,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M",
-    "XL"
+    "XS",
+    "L"
    ]
   },
   {
@@ -4347,25 +4354,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "CHECK LONGSLEEVE SHIRT",
-   "detail": "fatigue green · Sizes S–XXL",
+   "name": "DAILIMAA ZEBRARAA KLEID",
+   "detail": "black · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 49.9,
    "was": 119.9,
-   "category": "Shirts",
-   "url": "https://www.armedangels.com/products/check-longsleeve-shirt?variant=56485748179269",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008085-3232_111.jpg?v=1791813625&width=800",
+   "category": "Dresses",
+   "url": "https://www.armedangels.com/products/dailimaa-zebraraa-black?variant=55714978300229",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007838-105_111.jpg?v=1791813405&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -4388,14 +4393,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Enterprise light weight t-shirt",
-   "detail": "Black · Sizes XS–L",
+   "name": "Desert Crest t-shirt",
+   "detail": "Whitecap grey · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4403,8 +4408,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "L"
+    "XS"
    ]
   },
   {
@@ -4453,14 +4457,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Desert Crest t-shirt",
-   "detail": "Whitecap grey · Size XS",
+   "name": "Apison light weight t-shirt",
+   "detail": "Dark blue · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
+   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4468,7 +4472,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
@@ -4518,14 +4522,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Apison light weight t-shirt",
-   "detail": "Dark blue · Size S",
+   "name": "Bricklane t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4533,7 +4537,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -4581,14 +4585,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "White · Size XS",
+   "name": "Tipp City lightweight t-shirt",
+   "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4648,14 +4652,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Tipp City lightweight t-shirt",
+   "name": "Amberley lightweight t-shirt",
    "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
+   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4711,14 +4715,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Amberley lightweight t-shirt",
-   "detail": "Egret · Size XS",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Dark brown · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4774,20 +4778,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Dark brown · Size XS",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -4836,22 +4840,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
+   "name": "Loretto midweight t-shirt",
+   "detail": "Cypress · Size M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/loretto-midweight-t-shirt-dk0a89enk721-green?variant=45766608224442",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A89ENK72-1_cf2c02c4-0331-4a36-84b1-0789ccaf3c66.jpg?v=1779221459&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "M"
    ]
   },
   {
@@ -4901,22 +4905,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Loretto midweight t-shirt",
-   "detail": "Cypress · Size M",
+   "name": "Polk midweight t-shirt",
+   "detail": "Stormy sea · Sizes S–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/loretto-midweight-t-shirt-dk0a89enk721-green?variant=45766608224442",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A89ENK72-1_cf2c02c4-0331-4a36-84b1-0789ccaf3c66.jpg?v=1779221459&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591545530",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "M"
+    "S",
+    "L"
    ]
   },
   {
@@ -4959,13 +4964,13 @@
   {
    "brand": "Dickies",
    "name": "Polk midweight t-shirt",
-   "detail": "Stormy sea · Sizes S–L · Women",
+   "detail": "White · Sizes XS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591545530",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4973,8 +4978,9 @@
    ],
    "department": "Women",
    "sizes": [
+    "XS",
     "S",
-    "L"
+    "M"
    ]
   },
   {
