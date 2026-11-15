@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:04:37.824Z",
+ "generatedAt": "2026-11-15T21:09:32.123Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,17 +9,17 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 521
+   "found": 519
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1155
+   "found": 1152
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 275
+   "found": 273
   },
   {
    "source": "AFEW",
@@ -29,7 +29,7 @@
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 76
+   "found": 75
   },
   {
    "source": "A.P.C.",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 899
+   "found": 888
   },
   {
    "source": "6PM",
@@ -2713,13 +2713,13 @@
   {
    "brand": "Nike",
    "name": "Nike Air Max 95 Premium 'Comet'",
-   "detail": "Sizes 8.5–14 · Men",
+   "detail": "Sizes 9–14 · Men",
    "shop": "AFEW",
    "price": 110.99,
    "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey?variant=53046071329034",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1794577871&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey?variant=53046071361802",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1794766750&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3067,7 +3067,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–27",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
@@ -3434,7 +3434,7 @@
    "was": 199.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1794739328&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1794775090&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3957,7 +3957,7 @@
   {
    "brand": "Dickies",
    "name": "Bricklane t-shirt",
-   "detail": "Desert sand · Sizes S–XL",
+   "detail": "Desert sand · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
@@ -3972,8 +3972,7 @@
    "department": "Not specified",
    "sizes": [
     "S",
-    "M",
-    "XL"
+    "M"
    ]
   },
   {
@@ -4087,7 +4086,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–28",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 89.99,
