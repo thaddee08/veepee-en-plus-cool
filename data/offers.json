@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T13:37:58.448Z",
+ "generatedAt": "2026-11-17T23:36:59.162Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,12 +9,12 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 515
+   "found": 513
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1151
+   "found": 1150
   },
   {
    "source": "ASPHALTGOLD",
@@ -39,7 +39,7 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 927
+   "found": 810
   },
   {
    "source": "6PM",
@@ -84,14 +84,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale three-pack socks",
-   "detail": "Brick red · Size 3",
+   "name": "Orcutt belt",
+   "detail": "Olive green",
    "shop": "DICKIES",
    "price": 9,
    "was": 18,
    "category": "Accessories",
-   "url": "https://dickies.eu/products/summerdale-three-pack-socks-dk0a88qjk741-red?variant=45766432227514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QJK74-1_542cfff8-2aed-48fb-9204-beb8474bffb8.jpg?v=1779221344&width=800",
+   "url": "https://dickies.eu/products/orcutt-belt-dk0a4x7el191-green?variant=45766374981818",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4X7EL19-1_a48b3347-93b8-4a04-939c-ba878bc5dc07.jpg?v=1779221324&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -225,21 +225,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Orcutt belt",
-   "detail": "Olive green",
+   "name": "Kids' Mapleton light weight t-shirt",
+   "detail": "Pine · Size XS · Kids",
    "shop": "DICKIES",
-   "price": 9,
-   "was": 18,
-   "category": "Accessories",
-   "url": "https://dickies.eu/products/orcutt-belt-dk0a4x7el191-green?variant=45766374981818",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4X7EL19-1_a48b3347-93b8-4a04-939c-ba878bc5dc07.jpg?v=1779221324&width=800",
+   "price": 10,
+   "was": 20,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/kids-mapleton-light-weight-t-shirt-dk0ksr64pin1-green?variant=45766234472634",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0KSR64PIN-1_c4b1b7cf-837c-4546-a1ae-d9a48837cc7a.jpg?v=1779221299&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Kids",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "Reebok",
@@ -288,12 +290,12 @@
   {
    "brand": "Nike",
    "name": "Nike WMNS Total 90",
-   "detail": "Sizes 11–11.5 · Women",
+   "detail": "Size 11.5 · Women",
    "shop": "AFEW",
    "price": 36,
    "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white?variant=52423755661578",
+   "url": "https://www.afew-store.com/products/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white?variant=52423755694346",
    "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-total-90-medium-olive-sequoia-gum-med-brown-white-if3947-200-footwear_20_3E_20sneaker.jpg?v=1768906292&width=800",
    "tag": "Nike pick",
    "styles": [
@@ -365,22 +367,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Kids' Mapleton light weight t-shirt",
-   "detail": "Pine · Size XS · Kids",
+   "name": "Honeyville tank top",
+   "detail": "White · Sizes XS–L · Women",
    "shop": "DICKIES",
-   "price": 10,
-   "was": 20,
+   "price": 11,
+   "was": 22,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/kids-mapleton-light-weight-t-shirt-dk0ksr64pin1-green?variant=45766234472634",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0KSR64PIN-1_c4b1b7cf-837c-4546-a1ae-d9a48837cc7a.jpg?v=1779221299&width=800",
+   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766514966714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88520WH-1_61b0c8e0-3d55-48c3-8a46-ea1858cf335b.jpg?v=1779221410&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Kids",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "M",
+    "L"
    ]
   },
   {
@@ -504,25 +508,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Honeyville tank top",
-   "detail": "White · Sizes XS–L · Women",
+   "name": "Summerdale logo beanie",
+   "detail": "Dark blue",
    "shop": "DICKIES",
    "price": 11,
    "was": 22,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766514966714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88520WH-1_61b0c8e0-3d55-48c3-8a46-ea1858cf335b.jpg?v=1779221410&width=800",
-   "tag": "Workwear",
+   "category": "Accessories",
+   "url": "https://dickies.eu/products/summerdale-logo-beanie-dk0a87nbl181-navy?variant=45766425215162",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87NBL18-1_231254e1-57af-4d40-b0b9-e1928e36497b.jpg?v=1779221388&width=800",
+   "tag": "Street edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "streetwear"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "M",
-    "L"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Reebok",
@@ -606,21 +607,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SAAMUS BOLD SOCKEN",
-   "detail": "tabasco red · Size 35 · Unisex",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-black · Sizes XS–L",
    "shop": "ARMEDANGELS",
-   "price": 9.9,
-   "was": 14.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/saamus-bold-socks-tabasco-red?variant=56186160415045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008776-3496_511.jpg?v=1794359578&width=800",
-   "tag": "Statement color",
+   "price": 29.9,
+   "was": 44.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "L"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -643,22 +646,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale logo beanie",
-   "detail": "Dark blue",
+   "name": "Two pack boxers",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
-   "price": 11,
-   "was": 22,
-   "category": "Accessories",
-   "url": "https://dickies.eu/products/summerdale-logo-beanie-dk0a87nbl181-navy?variant=45766425215162",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87NBL18-1_231254e1-57af-4d40-b0b9-e1928e36497b.jpg?v=1779221388&width=800",
-   "tag": "Street edit",
+   "price": 12.5,
+   "was": 25,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/two-pack-boxers-dk0a4xocblk1-black?variant=45766438551738",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XOCBLK-1_8ddb459c-573d-4fbe-b77f-557466330815.jpg?v=1779221364&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "streetwear"
+    "utility"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "Reebok",
@@ -744,21 +748,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SAAMUS BOLD SOCKS",
-   "detail": "tabasco red · Size 35",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-black · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
-   "price": 9.9,
-   "was": 14.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/saamus-bold-socks?variant=56186160415045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008776-2235_101.jpg?v=1794359578&width=800",
-   "tag": "Statement color",
+   "price": 29.9,
+   "was": 44.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "tag": "Sport edit",
    "styles": [
     "minimal",
-    "statement"
+    "sport"
    ],
-   "department": "Not specified",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "L"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -786,20 +793,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Two pack boxers",
-   "detail": "Black · Size XS",
+   "name": "Oakport light weight t-shirt",
+   "detail": "Pink · Size XS · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/two-pack-boxers-dk0a4xocblk1-black?variant=45766438551738",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XOCBLK-1_8ddb459c-573d-4fbe-b77f-557466330815.jpg?v=1779221364&width=800",
+   "url": "https://dickies.eu/products/oakport-light-weight-t-shirt-dk0a4y8lk391-pink?variant=45766384091322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8LK39-1_4e5b8365-53fb-4de6-b0c1-5c583f5c362e.jpg?v=1779221326&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -892,28 +899,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "moonlit lilac · Sizes XS–XXL",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-lapis blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-moonlit-lilac?variant=56678890078533",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3633_111.jpg?v=1791813628&width=800",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-lapis-blue?variant=57403238744389",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-3083_111.jpg?v=1791813602&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -937,20 +939,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Oakport light weight t-shirt",
-   "detail": "Pink · Size XS · Women",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Plum · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/oakport-light-weight-t-shirt-dk0a4y8lk391-pink?variant=45766384091322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8LK39-1_4e5b8365-53fb-4de6-b0c1-5c583f5c362e.jpg?v=1779221326&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS"
    ]
@@ -1038,24 +1040,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-soft blue · Sizes XS–M · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-soft-blue?variant=56678914949445",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3780_111.jpg?v=1791813641&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1079,13 +1083,13 @@
   {
    "brand": "Dickies",
    "name": "Mapleton light weight t-shirt",
-   "detail": "Plum · Size XS",
+   "detail": "True blue · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbmr01-violet?variant=45766300270778",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBMR0-1_a4ed5de5-3873-4f29-9c53-d6a4552cdf78.jpg?v=1779221310&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1177,23 +1181,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Sizes XS–L",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "L"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1216,22 +1223,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "True blue · Size XS",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Olive green · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbk421-blue?variant=45766298763450",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK42-1_4a58b2d4-f4da-43f3-89b3-a0fae5f010a9.jpg?v=1779221328&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpol191-green?variant=45766297256122",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOL19-1_5db301b8-78ec-42a7-b12e-d87575ca86b8.jpg?v=1779221339&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XL"
    ]
   },
   {
@@ -1318,14 +1325,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Sizes XS–L · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1333,9 +1340,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "L"
+    "S"
    ]
   },
   {
@@ -1360,13 +1365,13 @@
   {
    "brand": "Dickies",
    "name": "Maple Valley mid weight t-shirt",
-   "detail": "Olive green · Size XL · Women",
+   "detail": "Brown · Size XS · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpol191-green?variant=45766297256122",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOL19-1_5db301b8-78ec-42a7-b12e-d87575ca86b8.jpg?v=1779221339&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1374,7 +1379,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XL"
+    "XS"
    ]
   },
   {
@@ -1462,14 +1467,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-lapis blue · Sizes XS–S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "silver melange-white · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-lapis-blue?variant=57403238744389",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-3083_111.jpg?v=1791813602&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1477,7 +1482,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
     "S"
    ]
   },
@@ -1503,14 +1507,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Brown · Size XS · Women",
+   "name": "Vernal vest",
+   "detail": "Egret · Size XS · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok471-brown?variant=45766301515962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK47-1_89d3f6d1-6049-4373-9015-9955560c32b8.jpg?v=1779221276&width=800",
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1604,17 +1608,18 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "washed berry · Sizes XS–XXL · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "white-foam · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
@@ -1622,8 +1627,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -1646,22 +1650,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal vest",
-   "detail": "Egret · Size XS · Women",
+   "name": "Mapleton lightweight t-shirt",
+   "detail": "Retro indigo · Sizes XS–XXL",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "XXL"
    ]
   },
   {
@@ -1746,26 +1751,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-very berry · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -1789,13 +1792,13 @@
   {
    "brand": "Dickies",
    "name": "Mapleton lightweight t-shirt",
-   "detail": "Retro indigo · Sizes XS–XXL",
+   "detail": "Cypress · Sizes XS–S",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1804,7 +1807,7 @@
    "department": "Not specified",
    "sizes": [
     "XS",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -1890,14 +1893,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-silver melange · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1905,7 +1908,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -1928,23 +1931,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton lightweight t-shirt",
-   "detail": "Cypress · Sizes XS–S",
+   "name": "Maple Valley light weight t-shirt",
+   "detail": "Peach brulee · Sizes XS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "M",
+    "XL"
    ]
   },
   {
@@ -2029,20 +2033,19 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "silver melange-white · Size S · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "S"
    ]
@@ -2068,13 +2071,13 @@
   {
    "brand": "Dickies",
    "name": "Maple Valley light weight t-shirt",
-   "detail": "Peach brulee · Sizes XS–XL · Women",
+   "detail": "Burgundy · Sizes XXS–S · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2082,9 +2085,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "M",
-    "XL"
+    "XXS",
+    "S"
    ]
   },
   {
@@ -2172,26 +2174,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "white-foam · Sizes XS–XL · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2214,23 +2216,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley light weight t-shirt",
-   "detail": "Burgundy · Sizes XXS–S · Women",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XXL",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301089978",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XXS",
-    "S"
+    "XS",
+    "S",
+    "XXL"
    ]
   },
   {
@@ -2315,14 +2318,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-very berry · Sizes XS–M · Women",
+   "name": "TARJAA T-SHIRT",
+   "detail": "foam · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2356,24 +2359,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XXL",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Pumpkin spice · Size M · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301089978",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -2458,22 +2459,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-silver melange · Size XS · Women",
+   "name": "TARJAA T-SHIRT",
+   "detail": "pink mist · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -2500,28 +2505,29 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Pumpkin spice · Size M · Women",
+   "name": "Aitkin light weight chest logo t-shirt",
+   "detail": "Desert sand · Size S",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
+   "tag": "Street edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M"
+    "S"
    ]
   },
   {
    "brand": "Reebok",
    "name": "Embossed Edge T-Shirt",
-   "detail": "Sizes XXS–XXL · Women",
+   "detail": "Sizes XXS–L · Women",
    "shop": "REEBOK",
    "price": 14,
    "was": 35,
@@ -2539,8 +2545,7 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -2604,20 +2609,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-foam · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
+    "XS",
     "S"
    ]
   },
@@ -2643,23 +2650,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin light weight chest logo t-shirt",
-   "detail": "Desert sand · Size S",
+   "name": "V neck top",
+   "detail": "Black · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
-   "tag": "Street edit",
+   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "streetwear"
+    "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S"
+    "XL"
    ]
   },
   {
@@ -2747,26 +2753,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-dynamo blue · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -2793,14 +2797,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "V neck top",
-   "detail": "Black · Size XL · Women",
+   "name": "Racer top",
+   "detail": "Beige · Sizes XXS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2808,6 +2812,8 @@
    ],
    "department": "Women",
    "sizes": [
+    "XXS",
+    "XS",
     "XL"
    ]
   },
@@ -2893,26 +2899,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SLUB JERSEY STRIPE T-SHIRT",
-   "detail": "oatmilk-dynamo blue · Sizes XS–XL",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt?variant=56186057392453",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-3860_111.jpg?v=1791813486&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "XS"
    ]
   },
   {
@@ -2935,14 +2937,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Racer top",
-   "detail": "Beige · Sizes XXS–XL · Women",
+   "name": "Plentywood vest",
+   "detail": "Stormy weather · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2950,8 +2952,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
-    "XS",
     "XL"
    ]
   },
@@ -3037,26 +3037,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "SLUB JERSEY GESTREIFTES T-SHIRT",
-   "detail": "oatmilk-dynamo blue · Sizes XS–XL · Women",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–M",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/slub-jersey-stripe-t-shirt-oatmilk-dynamo-blue?variant=56186057392453",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008525-2711_111.jpg?v=1791813397&width=800",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
@@ -3079,14 +3077,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Plentywood vest",
-   "detail": "Stormy weather · Size XL · Women",
+   "name": "Summerdale light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XL · Women",
    "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3094,6 +3092,9 @@
    ],
    "department": "Women",
    "sizes": [
+    "XS",
+    "S",
+    "M",
     "XL"
    ]
   },
@@ -3180,25 +3181,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "foam · Sizes XS–M · Women",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
-   "tag": "Sport edit",
+   "price": 39.9,
+   "was": 59.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3220,25 +3216,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XL · Women",
+   "name": "Panther t-shirt",
+   "detail": "Whitecap grey · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
+   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "XL"
+    "S"
    ]
   },
   {
@@ -3267,12 +3260,12 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Shox Z",
-   "detail": "Black / Black / University Red · Sizes 36.5–40.5 · Women",
+   "detail": "Black / Black / University Red · Size 40.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 51,
    "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513402123",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513434891",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
    "tag": "Retro find",
    "styles": [
@@ -3322,26 +3315,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–L · Women",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
+    "XS"
    ]
   },
   {
@@ -3364,14 +3353,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Panther t-shirt",
-   "detail": "Whitecap grey · Size S",
+   "name": "Outdoor t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
+   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3379,7 +3368,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -3462,24 +3451,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–M · Women",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
-    "S",
-    "M"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3506,22 +3496,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Outdoor t-shirt",
-   "detail": "Black · Size XS",
+   "name": "Running Wild top",
+   "detail": "Brown · Sizes S–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
+   "tag": "Sport edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "S",
+    "L"
    ]
   },
   {
@@ -3609,14 +3601,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–XL · Women",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309690181",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3626,6 +3618,7 @@
    "sizes": [
     "XS",
     "S",
+    "M",
     "XL"
    ]
   },
@@ -3650,24 +3643,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Running Wild top",
-   "detail": "Brown · Sizes S–L · Women",
+   "name": "Bricklane t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
-   "tag": "Sport edit",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "sport"
+    "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "S",
-    "L"
+    "XS"
    ]
   },
   {
@@ -3754,22 +3745,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Size XS · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3794,13 +3789,13 @@
   {
    "brand": "Dickies",
    "name": "Bricklane t-shirt",
-   "detail": "Black · Size XS",
+   "detail": "Desert sand · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3808,7 +3803,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S",
+    "M"
    ]
   },
   {
@@ -3892,27 +3888,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA COLLEGE T-SHIRT",
-   "detail": "golden hay · Sizes XS–XXL · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "wedgwood · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-college-t-shirt-golden-hay?variant=58137792282949",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008819-3651_111.jpg?v=1791813520&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -3940,14 +3934,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "Desert sand · Sizes S–M",
+   "name": "Enterprise light weight t-shirt",
+   "detail": "Black · Sizes XS–L",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
+   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3955,8 +3949,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS",
+    "L"
    ]
   },
   {
@@ -4044,27 +4038,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å GESTREIFTES T-SHIRT",
-   "detail": "undyed-velvet red-soft blue · Sizes XS–XXL · Women",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "washed berry · Sizes XL–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-gestreiftes-t-shirt-undyed-velvet-red-soft-blue?variant=58137714786629",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008744-3756_111.jpg?v=1791813419&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "boho",
-    "statement"
+    "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -4089,14 +4077,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Enterprise light weight t-shirt",
-   "detail": "Black · Sizes XS–L",
+   "name": "Desert Crest t-shirt",
+   "detail": "Whitecap grey · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4104,14 +4092,13 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "L"
+    "XS"
    ]
   },
   {
    "brand": "Reebok",
    "name": "ID Basketball Relaxed T-Shirt",
-   "detail": "Sizes XXS–XXL · Men",
+   "detail": "Sizes XXS–XL · Men",
    "shop": "REEBOK",
    "price": 14,
    "was": 35,
@@ -4130,8 +4117,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -4191,26 +4177,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA COLLEGE T-SHIRT",
-   "detail": "tinted navy · Sizes XS–XL · Women",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-college-t-shirt-tinted-navy?variant=58137791660357",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008819-3232_111.jpg?v=1791813496&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4236,14 +4222,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Desert Crest t-shirt",
-   "detail": "Whitecap grey · Size XS",
+   "name": "Apison light weight t-shirt",
+   "detail": "Dark blue · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
+   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4251,7 +4237,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
@@ -4281,20 +4267,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Shox R4 QS",
-   "detail": "Natural / Net / Metallic Silver · Size 38.5 · Unisex",
+   "name": "Nike Moon Shoe OG",
+   "detail": "Sail / Black / Sail · Sizes 38.5–48.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 74,
-   "was": 159,
+   "price": 47,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52838077006091",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/v4arknp61ai-IO4544-100_Nike_Shox-R4-QS_Natural-Net-Metallic-Silver_os-1.jpg?v=1769612077&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-moon-shoe-og-sail-black-sail?variant=53189179343115",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/o0ai26xbold-IX3952-100_Nike_Wmns-Moon-Shoe-OG-Sail-Black-Sail_os-1.jpg?v=1782138407&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Unisex",
    "sizes": []
@@ -4341,25 +4326,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "VANJARAA MINI-ROCK",
-   "detail": "velvet red · Sizes XS–XXL · Women",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "tinted navy · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "Skirts",
-   "url": "https://www.armedangels.com/products/vanjaraa-mini-skirt-velvet-red?variant=56678915965253",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006564-3639_111.jpg?v=1791813538&width=800",
-   "tag": "Romantic find",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037600581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
+   "tag": "Sport edit",
    "styles": [
     "minimal",
-    "boho",
-    "statement"
+    "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
-    "M",
     "L",
     "XL",
     "XXL"
@@ -4368,7 +4350,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra BAGGY Cord CHOCOLATE BROWN",
-   "detail": "Sizes 24–29",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
    "price": 44.5,
    "was": 99.99,
@@ -4385,14 +4367,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Apison light weight t-shirt",
-   "detail": "Dark blue · Size S",
+   "name": "Bricklane t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4400,7 +4382,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -4450,14 +4432,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "White · Size XS",
+   "name": "Tipp City lightweight t-shirt",
+   "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4513,14 +4495,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Tipp City lightweight t-shirt",
+   "name": "Amberley lightweight t-shirt",
    "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
+   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4576,14 +4558,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Amberley lightweight t-shirt",
-   "detail": "Egret · Size XS",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Dark brown · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4639,20 +4621,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Dark brown · Size XS",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -4705,14 +4687,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
+   "name": "Polk midweight t-shirt",
+   "detail": "Stormy sea · Size L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591611066",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4720,7 +4702,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "L"
    ]
   },
   {
@@ -4768,13 +4750,13 @@
   {
    "brand": "Dickies",
    "name": "Polk midweight t-shirt",
-   "detail": "Stormy sea · Size L · Women",
+   "detail": "White · Sizes XS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591611066",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4782,7 +4764,9 @@
    ],
    "department": "Women",
    "sizes": [
-    "L"
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -4830,24 +4814,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–M · Women",
+   "name": "Vernal midweight t-shirt",
+   "detail": "White · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M"
+    "S"
    ]
   },
   {
@@ -4898,14 +4880,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal midweight t-shirt",
-   "detail": "White · Size S",
+   "name": "Derby midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/vernal-midweight-t-shirt-dk0a88jv0wh1-white?variant=45766581682362",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JV0WH-1_a086d83f-0569-4dd5-8d1d-568358457053.jpg?v=1779221439&width=800",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4913,7 +4895,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "S",
+    "XXL"
    ]
   },
   {
@@ -4968,23 +4951,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "name": "Plain City lightweight t-shirt",
+   "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/plain-city-lightweight-t-shirt-dk0a88jiblk1-black?variant=45766576767162",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JIBLK-1_10f261b3-1b2a-479e-929c-0c93602eb249.jpg?v=1779221490&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "XXL"
+    "S"
    ]
   },
   {
