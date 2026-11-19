@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-11-19T13:28:00.299Z",
+ "generatedAt": "2026-11-19T23:10:35.752Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 75
+   "found": 132
   },
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 482
+   "found": 480
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 1171
+   "found": 1166
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 276
+   "found": 278
   },
   {
    "source": "AFEW",
@@ -34,12 +34,12 @@
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 0
+   "found": 159
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 783
+   "found": 773
   },
   {
    "source": "6PM",
@@ -65,19 +65,18 @@
  "offers": [
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cargo Pants BLACK TAB",
-   "detail": "Sizes 22–29",
+   "name": "x-tra SWARM CHINO Pant Petrol TAB",
+   "detail": "Sizes 25–26",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 100,
+   "price": 17.99,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cargo-pants-black-tab?variant=58394344849782",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1701-10_2.jpg?v=1708429873&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-swarm-chino-pant-petrol-tab?variant=58393910378870",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201995_Product.jpg?v=1702292256&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -85,12 +84,12 @@
   {
    "brand": "Dickies",
    "name": "Honeyville tank top",
-   "detail": "White · Sizes XS–L · Women",
+   "detail": "White · Sizes M–L · Women",
    "shop": "DICKIES",
    "price": 11,
    "was": 22,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766514966714",
+   "url": "https://dickies.eu/products/honeyville-tank-top-dk0a88520wh1-white?variant=45766515032250",
    "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88520WH-1_61b0c8e0-3d55-48c3-8a46-ea1858cf335b.jpg?v=1779221410&width=800",
    "tag": "Workwear",
    "styles": [
@@ -99,7 +98,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
     "M",
     "L"
    ]
@@ -187,6 +185,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Lou Rue Madame Small 2.0",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 37.5,
+   "was": 75,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-20-bad-cohmn-m67065?variant=58086335644035",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065BAD_00.jpg?v=1779276525&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARK STRICK-OVERSHIRT",
    "detail": "steel melange · Size M · Men",
@@ -207,14 +222,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Black TAB",
-   "detail": "Sizes 26–28",
+   "name": "x-tra MONSTER Cargo Pants BLACK TAB",
+   "detail": "Sizes 22–29",
    "shop": "HOMEBOY",
    "price": 19.99,
-   "was": 100,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-black-tab?variant=58393920766326",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201672_Product.jpg?v=1702288106&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cargo-pants-black-tab?variant=58394345374070",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1701-10_2.jpg?v=1708429873&width=800",
    "tag": "Utility pick",
    "styles": [
     "skate",
@@ -324,6 +339,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Lou Rue Madame Small 2.0",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 37.5,
+   "was": 75,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-20-iac-cohmn-m67065?variant=58086336528771",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065IAC_00.jpg?v=1779276521&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GESTREIFTER MIKULAA BLAZER",
    "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
@@ -349,18 +381,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra SWARM CHINO Pant Petrol TAB",
-   "detail": "Sizes 25–26",
+   "name": "x-tra CARGO PANTS Black TAB",
+   "detail": "Size 26",
    "shop": "HOMEBOY",
-   "price": 17.99,
-   "was": 89.99,
+   "price": 19.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-swarm-chino-pant-petrol-tab?variant=58393910378870",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201995_Product.jpg?v=1702292256&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-black-tab?variant=58393920766326",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201672_Product.jpg?v=1702288106&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -464,6 +497,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "tote lou rue madame small 2.0",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 37.5,
+   "was": 75,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-rue-madame-small-20-eag-cohmn-m67065?variant=56643035890051",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMN-M67065EAG_00.jpg?v=1760602598&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "BALBAA PREMIUM STRICKPULLOVER",
    "detail": "true camel · Sizes M–L · Women",
@@ -524,7 +574,7 @@
   {
    "brand": "Reebok",
    "name": "ID Logo Cotton Sports Bra Top",
-   "detail": "Sizes S–M · Women",
+   "detail": "Size S · Women",
    "shop": "REEBOK",
    "price": 10,
    "was": 25,
@@ -539,8 +589,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "S",
-    "M"
+    "S"
    ]
   },
   {
@@ -601,6 +650,31 @@
    "department": "Women",
    "sizes": [
     "S"
+   ]
+  },
+  {
+   "brand": "A.P.C. Paris",
+   "name": "t-shirt manche courte apc printemps26",
+   "detail": "Sizes XXS–XXL",
+   "shop": "A.P.C.",
+   "price": 45,
+   "was": 90,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-manche-courte-apc-printemps26-aac-cohbs-m26465?variant=56631312253315",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBS-M26465AAC_00.jpg?v=1760604785&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -688,14 +762,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Fire Red / Metallic Silver / Black · Size 36.5 · Women",
+   "name": "Nike Air Max DN8",
+   "detail": "Vivid Purple / Black / Vivid Purple / Black · Size 45 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 41,
-   "was": 129,
+   "price": 59,
+   "was": 189,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-fire-red-metallic-silver-black?variant=52872647999755",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gyqsgx6wlso-IQ7574-671_Nike_Wmns-Shox-Z_Fire-Red-Metallic-Silver-Black_os-1.jpg?v=1770217208&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-dn8-vivid-purple-black-vivid-purple-black?variant=51342807564555",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jIBqxHAhFy6fstrbi63g_FQ7860-501-Nike-Air-Max-DN8-Vivid-Purple-Black-Vivid-Purple-Black-os-1.jpg?v=1746625150&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -703,7 +777,7 @@
     "retro",
     "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -745,6 +819,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Lou Small",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-small-cae-cohlx-m67048?variant=58086340362627",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHLX-M67048CAE_00.jpg?v=1779276522&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
    "detail": "white-black · Sizes XS–L · Women",
@@ -767,27 +858,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "hb. Sweater Vest GREY HEATHER",
-   "detail": "Sizes XS–XL",
+   "name": "x-tra MONSTER GOTHIC CORD SHORTS",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 69.99,
-   "category": "Jackets",
-   "url": "https://homeboy.eu/products/hb-sweater-vest-grey-heather?variant=58393873645942",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3300-12hb.SweaterVestFront.jpg?v=1740574893&width=800",
+   "price": 20,
+   "was": 99.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-cord-shorts?variant=47464137490711",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERGOTHICCORDSHORTS-4.jpg?v=1702292642&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -896,6 +981,23 @@
    ]
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Casquette Charlie",
+   "detail": "Sizes 56–58",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/casquette-charlie-aad-cogyx-m24069?variant=57113381863811",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGYX-M24069AAD_00.jpg?v=1767631912&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-SHORTS",
    "detail": "washed berry · Sizes XS–XXL · Women",
@@ -921,19 +1023,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive TAB",
-   "detail": "Sizes 26–32",
+   "name": "x-tra WORK SHORTS Moon TAB",
+   "detail": "Sizes 27–28",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 100,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
+   "price": 18,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-work-shorts-moon-tab?variant=59407282602358",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201947_Product.jpg?v=1702292203&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -984,22 +1085,21 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Superfly LX",
-   "detail": "Black / Off Noir / Photon Dust · Size 40.5 · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Black / Sail · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
    "price": 39,
    "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-off-noir-photon-dust?variant=52133115592971",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jw1FZkGoqhpUzusXprhI-HQ9148-001-Nike-Wmns-Air-Superfly-LX-Black-Off-Noir-Photon-Dust-os-1.jpg?v=1756389834&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1040,6 +1140,24 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Bonnet Logo",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/bonnet-logo-aae-woasl-m25113?variant=56643044704643",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WOASL-M25113AAE_00.jpg?v=1760602600&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "minimal",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-TOP",
    "detail": "washed berry · Size L · Women",
@@ -1061,14 +1179,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra WORK Pants WASHED BLUE TAB",
-   "detail": "Sizes 24–29",
+   "name": "x-tra MONSTER Chino TAUPE TAB",
+   "detail": "Size 26",
    "shop": "HOMEBOY",
-   "price": 26.99,
+   "price": 18,
    "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-work-pants-washed-blue-tab?variant=58394365067638",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0700-81x-traWORKPantsDenimWASHEDBLUEFLAT_1.png?v=1722409699&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-taupe-tab?variant=58393955303798",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-64x-traMONSTERChinoTAUPE.jpg?v=1738842265&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -1123,19 +1241,21 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Black / Sail · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Total 90 Shox Magia",
+   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 39,
-   "was": 119,
+   "price": 50,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1178,6 +1298,30 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "t-shirt standard apc brode GOTS",
+   "detail": "Sizes XS–3XL",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-standard-apc-brode-unisexe-pla-cohbw-m26392?variant=55522536653187",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBW-M26392PLA_00.jpg?v=1748356336&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL",
+    "3XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-SHORTS",
    "detail": "space steel · Sizes XS–XXL · Women",
@@ -1203,21 +1347,27 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim WASHED GREY TAB",
-   "detail": "Sizes 22–32",
+   "name": "hb. Sweater Vest GREY HEATHER",
+   "detail": "Sizes XS–XL",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "price": 19.99,
+   "was": 69.99,
+   "category": "Jackets",
+   "url": "https://homeboy.eu/products/hb-sweater-vest-grey-heather?variant=58393873777014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3300-12hb.SweaterVestFront.jpg?v=1740574893&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "Dickies",
@@ -1267,19 +1417,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia",
-   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 36.5–42 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 50,
-   "was": 149,
+   "price": 35,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938640139",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1322,6 +1471,30 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "t-shirt standard apc brode GOTS",
+   "detail": "Sizes XS–3XL",
+   "shop": "A.P.C.",
+   "price": 47.5,
+   "was": 95,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-standard-apc-brode-unisexe-aab-cohbw-m26392?variant=55522535539075",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBW-M26392AAB_00.jpg?v=1748468046&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "XL",
+    "XXL",
+    "3XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-TOP",
    "detail": "space steel · Size S · Women",
@@ -1343,19 +1516,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra ALIEN Cargo Cord Black TAB",
-   "detail": "Sizes 22–24",
+   "name": "x-tra MONSTER Denim Indigo TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
-   "price": 32.99,
-   "was": 109.98,
+   "price": 29.99,
+   "was": 100,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-indigo-tab?variant=58393932235126",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1079x-traMonsterIndigofrontmehrblau.jpg?v=1761752341&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -1410,18 +1582,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 36.5–42 · Women",
+   "name": "Nike Wmns Total 90 Shox Magia QS",
+   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 99,
+   "price": 53,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938640139",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1465,6 +1638,30 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt Standard V.P.C.",
+   "detail": "Sizes XS–XXL",
+   "shop": "A.P.C.",
+   "price": 55,
+   "was": 110,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-standard-grand-vpc-gots-tzd-cohmb-m26384?variant=56734373544323",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMB-M26384TZD_00.jpg?v=1778169471&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
    "detail": "silver melange-white · Size S · Women",
@@ -1486,23 +1683,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Tee BLACK",
-   "detail": "Size XXS",
+   "name": "x-tra WORK Pants WASHED BLUE TAB",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
-   "price": 12,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-black?variant=58393936494966",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/pencilblack.png?v=1702391456&width=800",
+   "price": 26.99,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-washed-blue-tab?variant=58394365067638",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0700-81x-traWORKPantsDenimWASHEDBLUEFLAT_1.png?v=1722409699&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -1551,20 +1746,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia QS",
-   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan Mule",
+   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
    "shop": "ASPHALTGOLD",
    "price": 53,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1607,6 +1801,31 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "T-shirt Standard V.P.C.",
+   "detail": "Sizes XXS–XXL",
+   "shop": "A.P.C.",
+   "price": 55,
+   "was": 110,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-standard-grand-vpc-gots-ilh-cohmb-m26384?variant=56631324377475",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMB-M26384ILH_00.jpg?v=1762160756&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
    "detail": "white-foam · Sizes XS–XL · Women",
@@ -1632,14 +1851,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Chino BLACK TAB",
-   "detail": "Sizes 25–26",
+   "name": "x-tra MONSTER Denim WASHED GREY TAB",
+   "detail": "Sizes 22–32",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58394367361398",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -1695,22 +1914,22 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan Mule",
-   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Air Max 95 Zip SP *Big Bubble*",
+   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Size 39 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 53,
-   "was": 149,
+   "price": 72,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910771044619",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -1722,7 +1941,7 @@
    "was": 199.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1794918249&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1795101127&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -1750,6 +1969,30 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "T-Shirt Huile D’olive",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "A.P.C.",
+   "price": 60,
+   "was": 120,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-huile-dolive-aab-cohbm-h26628?variant=57467914387843",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHBM-H26628AAB_00.jpg?v=1776097538&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
    "detail": "white-very berry · Sizes XS–M · Women",
@@ -1773,18 +2016,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
-   "detail": "Sizes 27–33",
+   "name": "x-tra CARGO PANTS Olive TAB",
+   "detail": "Sizes 26–30",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -1837,21 +2081,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 Zip SP *Big Bubble*",
-   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Size 39 · Unisex",
+   "name": "Nike Wmns Shox Z",
+   "detail": "White / Light Magenta · Sizes 39–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 72,
-   "was": 199,
+   "price": 47,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910771044619",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-light-magenta?variant=52838585794827",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/PadoGw7VTKYfloTMKOKF-HQ7540-101-Nike-Wmns-Shox-Z-White-Light-Magenta-os-1.jpg?v=1769525183&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1892,6 +2136,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Lou",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 65,
+   "was": 130,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-lou-cac-wvbej-m61442?variant=56643044278659",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEJ-M61442CAC_00.jpg?v=1760602600&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
    "detail": "white-silver melange · Sizes XS–M · Women",
@@ -1915,18 +2176,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra WORK Pants MOON TAB",
-   "detail": "Sizes 24–29",
+   "name": "x-tra ALIEN Cargo Cord Black TAB",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
+   "price": 32.99,
+   "was": 109.98,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-work-pants-moon-tab?variant=58394355859830",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/WORKERMOONFRONT_829dbf0a-0151-4a6a-9d7e-f313ddfecb7d.png?v=1722505107&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -1979,19 +2241,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Light Magenta · Sizes 39–42.5 · Women",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 129,
+   "price": 33,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-light-magenta?variant=52838585794827",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/PadoGw7VTKYfloTMKOKF-HQ7540-101-Nike-Wmns-Shox-Z-White-Light-Magenta-os-1.jpg?v=1769525183&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2033,6 +2296,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-Cartes Demi-Lune",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 70,
+   "was": 140,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-gaj-pxcbt-f63270?variant=57113387860355",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F63270GAJ_00.jpg?v=1767633081&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-TOP",
    "detail": "space steel · Size S",
@@ -2053,21 +2333,23 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra WORK PANTS Black TAB",
-   "detail": "Sizes 25–27",
+   "name": "Pencil Tee BLACK",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-work-pants-black-tab-kopie?variant=58394349502838",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201347_Product.jpg?v=1702288063&width=800",
+   "price": 12,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-black?variant=58393936494966",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/pencilblack.png?v=1702391456&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS"
+   ]
   },
   {
    "brand": "Dickies",
@@ -2116,20 +2398,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
+   "name": "Nike Wmns Air Rift Breathe",
+   "detail": "Black / Black / Black · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 33,
-   "was": 89,
+   "price": 48,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
+   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -2174,6 +2455,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-Cartes Demi-Lune",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 70,
+   "was": 140,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-demi-lune-rab-puacb-f63270?variant=56643037856131",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUACB-F63270RAB_00.jpg?v=1760601893&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GMT DYE RIPP-SHORTS",
    "detail": "space steel · Sizes XS–XXL",
@@ -2199,25 +2497,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee POPPY RED",
-   "detail": "Sizes XXS–S",
+   "name": "x-tra MONSTER Cord UBOOT TAB",
+   "detail": "Sizes 24–30",
    "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927156086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
-   "tag": "Statement color",
+   "price": 33,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot-tab?variant=58393916703094",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -2266,22 +2560,23 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Rift Breathe",
-   "detail": "Black / Black / Black · Size 35.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Air Jordan 1 Element Low A/T",
+   "detail": "Phantom / Black / Sail / Summit White · Size 40.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 48,
-   "was": 129,
+   "price": 76,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-jordan-1-element-low-at-phantom-black-sail-summit-white?variant=52819665879307",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/5pv3w3mzxfk-FV4227-003_Nike_Air-Jordan-1-Element-Low-A-T-Phantom-Black-Sail-Summit-White_os-1.jpg?v=1768917835&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "utility"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2323,6 +2618,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Crossbody Pouch Trek",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/crossbody-pouch-trek-caa-paags-h61733-1?variant=56643036381571",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PAAGS-H61733CAA_00.jpg?v=1760602150&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
    "detail": "foam · Sizes XS–XL · Women",
@@ -2347,23 +2659,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee BLACK",
-   "detail": "Size XXS",
+   "name": "x-tra MONSTER Cord CHOCOLATE BROWN",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "price": 33,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-chocolate-brown?variant=58393860604278",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1_bb55e197-5fc4-450b-b486-a6a4d3d45287.jpg?v=1756809945&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -2410,23 +2720,22 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 1 Element Low A/T",
-   "detail": "Phantom / Black / Sail / Summit White · Size 40.5 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 76,
-   "was": 199,
+   "price": 34,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-1-element-low-at-phantom-black-sail-summit-white?variant=52819665879307",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/5pv3w3mzxfk-FV4227-003_Nike_Air-Jordan-1-Element-Low-A-T-Phantom-Black-Sail-Summit-White_os-1.jpg?v=1768917835&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "utility"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2467,6 +2776,30 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Polo Julian",
+   "detail": "Sizes XS–XXL",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-julian-iak-coewt-h26563-1?variant=57113377603971",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COEWT-H26563IAK_00.jpg?v=1767633082&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
    "detail": "pink mist · Sizes XS–L · Women",
@@ -2492,25 +2825,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "OLD SCHOOL Hood JAMES BROWN",
-   "detail": "Sizes XXS–XS",
+   "name": "x-tra MONSTER Cord UBOOT",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 34.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872204150",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
-   "tag": "Retro find",
+   "price": 33,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot?variant=58393898484086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -2561,21 +2890,22 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 34,
-   "was": 89,
+   "price": 38,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2617,6 +2947,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Crossbody Pouch Trek",
+   "detail": "Men",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/crossbody-pouch-trek-iak-paafh-h61733?variant=55521296187779",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PAAFH-H61733IAK_00.jpg?v=1748552912&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
    "detail": "white-foam · Sizes XS–M · Women",
@@ -2640,14 +2987,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "name": "x-tra MONSTER Cord OLIVE TAB",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-olive-tab?variant=58095435776374",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1001-83X-TRAMONSTERCordOLIVE_2_e4d6a12b-80bd-4270-88c0-08d824799c68.png?v=1702900053&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2705,21 +3052,20 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
+   "detail": "Black / Black / Black · Size 39 · Women",
    "shop": "ASPHALTGOLD",
    "price": 38,
    "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2759,9 +3105,26 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Ceinture Rosette",
+   "detail": "Sizes 75–90 · Women",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/ceinture-rosette-caw-pxcbt-f65101?variant=56643045327235",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F65101CAW_00.jpg?v=1760601895&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–XL · Women",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
@@ -2776,20 +3139,19 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "XL"
+    "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Washed Blue TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER 3-D Denim WASHED BLUE",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 39.99,
+   "price": 30,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-3-d-denim-washed-blue?variant=58393943900534",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1864-81x-traMONSTER3-DDenimWASHEDBLUE.jpg?v=1747218173&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2842,20 +3204,20 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Black / Black / Black · Size 39 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
-   "was": 99,
+   "price": 47,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2899,6 +3261,31 @@
    ]
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Polo Standard",
+   "detail": "Sizes XS–3XL · Men",
+   "shop": "A.P.C.",
+   "price": 75,
+   "was": 150,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-gots-aab-cogwz-h26342?variant=55522286076291",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGWZ-H26342AAB_00.jpg?v=1748468043&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "3XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
    "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
@@ -2921,14 +3308,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Size 24",
+   "name": "x-tra MONSTER Chino DUST",
+   "detail": "Size 28",
    "shop": "HOMEBOY",
-   "price": 39.99,
+   "price": 30,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust?variant=47925691547927",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2985,13 +3372,13 @@
   {
    "brand": "Jordan",
    "name": "Nike Wmns Jordan Pointe",
-   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 47,
    "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
@@ -3039,6 +3426,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-cartes Genève",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-de-visite-dar-pxawv-f63349?variant=66078181884172",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63349DAR_00.jpg?v=1795006352&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "GIANNAA DIFFERENCE T-SHIRT",
    "detail": "silver melange · Sizes XS–M",
@@ -3062,25 +3466,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "x-tra MONSTER Denim Shorts Washed Blue TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748761462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue-tab?variant=59407296528758",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "boho"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -3127,19 +3527,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Black / Black / University Red · Size 40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 119,
+   "price": 51,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513434891",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -3154,7 +3555,7 @@
    "was": 189.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988088586",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1795085891&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1795098609&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3182,6 +3583,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "la ceinture",
+   "detail": "Sizes 75–90 · Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/la-ceinture-lzz-pxccu-f65221?variant=56643045917059",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCCU-F65221LZZ_00.jpg?v=1760601896&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "PIÑAYARN® BLEND BUCKET HAT W",
    "detail": "dried palm · Unisex",
@@ -3200,14 +3618,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 28–36",
+   "name": "x-tra MONSTER Shorts Moon TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 27,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917981046",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon-tab?variant=59407217230198",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3262,20 +3680,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Black / Black / University Red · Size 40.5 · Women",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Black / Hemp · Sizes 36.5–39 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 51,
+   "price": 52,
    "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513434891",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -3318,6 +3734,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-cartes Genève",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 80,
+   "was": 160,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/business-card-holder-geneve-rab-puacb-f63349?variant=56643038708099",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUACB-F63349RAB_00.jpg?v=1760601893&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
    "detail": "white · Size XS · Women",
@@ -3339,26 +3772,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Hood GREY HEATHER",
-   "detail": "Sizes XXS–M",
+   "name": "x-tra MONSTER Chino BLACK TAB",
+   "detail": "Sizes 25–26",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 27,
    "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58394367361398",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -3406,18 +3834,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Black / Hemp · Sizes 36.5–39 · Women",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 52,
-   "was": 129,
+   "price": 40,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -3463,6 +3892,29 @@
    ]
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Polo Ella",
+   "detail": "Sizes XS–XL",
+   "shop": "A.P.C.",
+   "price": 85,
+   "was": 170,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-ella-aad-cohmt-f26564-1?variant=57113382912387",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMT-F26564AAD_00.jpg?v=1767633726&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
    "detail": "dried palm · Sizes XS–XL",
@@ -3487,14 +3939,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Denim WASHED GREY TAB",
-   "detail": "Sizes 22–32",
+   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
+   "detail": "Sizes 27–33",
    "shop": "HOMEBOY",
-   "price": 39.99,
+   "price": 27,
    "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-denim-washed-grey-tab?variant=58393892749686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0380x-traBAGGYDenimWASHEDGREYfront_resized_205705ef-fc4f-4941-ae32-0d96712f46c1.jpg?v=1761822719&width=800",
+   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3548,19 +4000,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 40,
-   "was": 99,
+   "price": 54,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -3603,6 +4056,28 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "top manches courtes raye",
+   "detail": "Sizes S–XL · Women",
+   "shop": "A.P.C.",
+   "price": 85,
+   "was": 170,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/top-manches-courtes-raye-caa-liaez-f26579?variant=58164647002499",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/LIAEZ-F26579CAA_00.jpg?v=1780395741&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "LUALAA LEINEN-MIX T-SHIRT",
    "detail": "dried palm · Sizes XS–XL · Women",
@@ -3627,24 +4102,21 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "BOLD BOY Zipper BLACK",
-   "detail": "Size M · Kids",
+   "name": "x-tra WORK Pants MOON TAB",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
-   "price": 39.99,
+   "price": 27,
    "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/bold-boy-zipper-black?variant=58393958220150",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3070-10BOLDBOYZIPPERBLACK_1.png?v=1740144246&width=800",
-   "tag": "Statement color",
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-moon-tab?variant=58394355859830",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/WORKERMOONFRONT_829dbf0a-0151-4a6a-9d7e-f313ddfecb7d.png?v=1722505107&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Kids",
-   "sizes": [
-    "M"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -3691,23 +4163,22 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–42.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Air Jordan 6 Retro *GS* *Infrared Salesman*",
+   "detail": "Black / Light Crimson · Size 38 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 54,
-   "was": 129,
+   "price": 64,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-jordan-6-retro-gs-infrared-salesman-black-light-crimson?variant=52882403787019",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/nlgyo0hc7xe-IQ1275-001_Nike_Air-Jordan-6-Retro-GS-Infrared-Salesman-Black-Light-Crimson_os-1.jpg?v=1770909494&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -3748,6 +4219,29 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "T-Shirt Bahia",
+   "detail": "Sizes M–3XL",
+   "shop": "A.P.C.",
+   "price": 85,
+   "was": 170,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-bahia-aad-cohfq-h26231-1?variant=55525815026051",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHFQ-H26231AAD_00.jpg?v=1747058590&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "3XL"
+   ]
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
    "detail": "foam · Sizes S–XXL · Men",
@@ -3773,14 +4267,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Cord CHOCOLATE BROWN",
-   "detail": "Sizes 24–28",
+   "name": "x-tra WORK PANTS Black TAB",
+   "detail": "Sizes 25–27",
    "shop": "HOMEBOY",
-   "price": 44.5,
-   "was": 99.99,
+   "price": 27,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-chocolate-brown?variant=53530596082038",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1.jpg?v=1756809790&width=800",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-black-tab-kopie?variant=58394349502838",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201347_Product.jpg?v=1702288063&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3832,22 +4326,23 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 6 Retro *GS* *Infrared Salesman*",
-   "detail": "Black / Light Crimson · Size 38 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Velvet Brown / Velvet Brown / Metallic Gold · Size 36.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 64,
-   "was": 149,
+   "price": 57,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-6-retro-gs-infrared-salesman-black-light-crimson?variant=52882403787019",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/nlgyo0hc7xe-IQ1275-001_Nike_Air-Jordan-6-Retro-GS-Infrared-Salesman-Black-Light-Crimson_os-1.jpg?v=1770909494&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-velvet-brown-velvet-brown-metallic-gold?variant=52882389500171",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/toolf23n10g-IB8954-200_Nike_Wmns-Air-Rift-Velvet-Brown-Velvet-Brown-Metallic-Gold_os-1.jpg?v=1770909729&width=800",
+   "tag": "Romantic find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "boho",
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3890,6 +4385,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Tote Trapèze",
+   "detail": "Sale",
+   "shop": "A.P.C.",
+   "price": 87.5,
+   "was": 175,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-trapeze-pbc-wvbek-m67051?variant=56643046211971",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEK-M67051PBC_00_2f6d5af5-9d86-4df2-867a-1681824953a6.jpg?v=1771868766&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
    "detail": "wedgwood · Sizes S–XL · Men",
@@ -3914,14 +4426,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER GOTHIC Denim MOON TAB",
-   "detail": "Sizes 24–27",
+   "name": "x-tra MONSTER Denim Shorts Washed Blue",
+   "detail": "Sizes 26–36",
    "shop": "HOMEBOY",
-   "price": 49.99,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-moon-tab?variant=58393887703414",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-79x-traMONSTERGOTHICDenimMOONBACK.jpg?v=1724750563&width=800",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue?variant=58393865748854",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4033,6 +4545,23 @@
    "sizes": []
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-Cartes Paris",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 90,
+   "was": 180,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-paris-gaj-pxcbt-f63670?variant=57113388384643",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F63670GAJ_00.jpg?v=1769173374&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
    "detail": "washed berry · Sizes XL–XXL · Men",
@@ -4055,18 +4584,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Black Label DIRTY BLUE TAB",
-   "detail": "Sizes 24–34",
+   "name": "x-tra MONSTER CARGO SHORTS OLIVE TAB",
+   "detail": "Sizes 22–31",
    "shop": "HOMEBOY",
-   "price": 49.99,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-black-label-dirty-blue-tab?variant=58393924370806",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA2391-91x-traMONSTERBlackLabelDenimDIRTYBLUE-7.jpg?v=1727163814&width=800",
-   "tag": "Skate & baggy",
+   "price": 24,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-cargo-shorts-olive-tab?variant=59407351480694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1500-83x-traMONSTERCargoSHORTSOLIVE_1.jpg?v=1712828819&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4177,6 +4707,23 @@
    ]
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "porte-carte paris",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 90,
+   "was": 180,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-carte-paris-gae-pxawv-f63670?variant=56643038183811",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63670GAE_00.jpg?v=1760601893&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
    "detail": "foam · Sizes S–XXL · Men",
@@ -4202,19 +4749,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Vintage Denim VINTAGE BLACK TAB",
-   "detail": "Sizes 24–34",
+   "name": "x-tra MONSTER CHINO SHORTS Dust TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
-   "price": 49.99,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-black-tab?variant=58393895797110",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1087x-traMONSTERVintageDenimVINTAGEBLACKfront_resized.jpg?v=1761824836&width=800",
-   "tag": "Retro find",
+   "price": 24,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-shorts-dust-tab?variant=59407348531574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1400-82_2_636bf907-a236-40c4-b1b4-0dfacb15108c.jpg?v=1723129899&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4329,6 +4875,23 @@
    ]
   },
   {
+   "brand": "A.P.C. Paris",
+   "name": "Porte-Cartes Paris",
+   "detail": "Women",
+   "shop": "A.P.C.",
+   "price": 90,
+   "was": 180,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/porte-cartes-paris-dar-pxawv-f63670?variant=57113389760899",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63670DAR_00.jpg?v=1767631914&width=800",
+   "tag": "French minimal",
+   "styles": [
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
    "detail": "tinted navy · Sizes S–XXL · Men",
@@ -4353,19 +4916,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Vintage Denim VINTAGE BLUE TAB",
-   "detail": "Sizes 24–30",
+   "name": "x-tra MONSTER GOTHIC Denim WASHED BLUE TAB",
+   "detail": "Sizes 25–31",
    "shop": "HOMEBOY",
-   "price": 49.99,
+   "price": 39.99,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-denim-vintage-blue-tab?variant=58393934528886",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1086-86x-traMONSTERDenimVINTAGEBLUEfront_resized.jpg?v=1761826160&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-washed-blue-tab?variant=58393868697974",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-81x-traMONSTERGOTHICDenimWASHEDBLUE.png?v=1738152507&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -4419,14 +4981,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "BLOWBALL Jacket BEIGE",
-   "detail": "Sizes L–XXL",
+   "name": "MASTERBOY Tee WHITE",
+   "detail": "Size L",
    "shop": "HOMEBOY",
-   "price": 79.99,
-   "was": 169.99,
-   "category": "Jackets",
-   "url": "https://homeboy.eu/products/blowball-jacket-beige?variant=58393883083126",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/202197_Product.jpg?v=1700823831&width=800",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-white?variant=55289606111606",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-11MASTERBOYTEEWHITE.jpg?v=1740049997&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4434,9 +4996,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -4486,21 +5046,25 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "HB. Cap NAVY Snapback",
-   "detail": "Sale",
+   "name": "PENCIL Tee POPPY RED",
+   "detail": "Sizes XXS–S",
    "shop": "HOMEBOY",
    "price": 14.99,
-   "was": 29.99,
-   "category": "Accessories",
-   "url": "https://homeboy.eu/products/hb-cap-navy?variant=49539249275159",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01CA0323-13HB.CapNAVY_3.jpg?v=1724680442&width=800",
-   "tag": "Skate & baggy",
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927287158",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "S"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4550,21 +5114,23 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "Nu Pencil Cap FOREST GREEN - Snapback",
-   "detail": "FOREST GREEN",
+   "name": "MASTERBOY Tee BLACK",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
    "price": 14.99,
-   "was": 29.99,
-   "category": "Accessories",
-   "url": "https://homeboy.eu/products/nu-pencil-cap-forest-green-snapback?variant=49539220570391",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01CA0321-51PENCILCapFORESTGREEN_42eedb7c-e7ec-4b2a-a072-a86491b463ce.jpg?v=1724164614&width=800",
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS"
+   ]
   },
   {
    "brand": "Dickies",
@@ -4612,25 +5178,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "GIRLS Crop Tee - New School WASHED LILAC",
-   "detail": "Sizes XXS–XL · Kids",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Sizes XXS–XS",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 39.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/girls-crop-tee-new-school-lilac?variant=55819976147318",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/02TS5011-61GIRLSCropTee-NewSchoolWASHEDLILAC-61_1.jpg?v=1772635305&width=800",
-   "tag": "Statement color",
+   "price": 34.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872269686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
     "streetwear",
-    "statement"
+    "retro"
    ],
-   "department": "Kids",
+   "department": "Not specified",
    "sizes": [
     "XXS",
-    "XS",
-    "XL"
+    "XS"
    ]
   },
   {
@@ -4657,7 +5222,7 @@
   {
    "brand": "Reebok",
    "name": "Crest Men's T-Shirt",
-   "detail": "Sizes XXS–XL · Men",
+   "detail": "Sizes XXS–L · Men",
    "shop": "REEBOK",
    "price": 14,
    "was": 35,
@@ -4675,48 +5240,42 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "GIRLS Crop Tee - New School LIGHT BLUEE",
-   "detail": "Sizes XXS–M · Kids",
+   "name": "x-tra CARGO PANTS Olive",
+   "detail": "Sizes 26–32",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 39.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/girls-crop-tee-new-school-blue?variant=58393933742454",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/02TS5011-31GIRLSCropTee-NewSchoolLIGHTBLUE-31_1.jpg?v=1771948832&width=800",
-   "tag": "Skate & baggy",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive?variant=47463942553879",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
-   "department": "Kids",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Plain City lightweight t-shirt",
+   "name": "Lynndyl lightweight t-shirt",
    "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/plain-city-lightweight-t-shirt-dk0a88jiblk1-black?variant=45766576767162",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JIBLK-1_10f261b3-1b2a-479e-929c-0c93602eb249.jpg?v=1779221490&width=800",
-   "tag": "Quiet essential",
+   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "minimal"
+    "utility"
    ],
    "department": "Not specified",
    "sizes": [
@@ -4749,38 +5308,33 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "GIRLS Crop Tee - COW Nappo",
-   "detail": "Sizes XXS–L · Kids",
+   "name": "x-tra BAGGY Vintage Denim VINTAGE BLACK",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 39.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/girls-crop-tee-cow-nappo?variant=55819951407478",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/02TS5090-11_GIRLS_Crop_Tee_-_COW_Nappo_WHITE-11_1.jpg?v=1772634805&width=800",
-   "tag": "Skate & baggy",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-vintage-denim-vintage-black?variant=58393864110454",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0387x-traBAGGYVintageDenimVINTAGEBLACKfront_resized_9228937a-cd4c-40de-b961-401470663070.jpg?v=1761824560&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
-   "department": "Kids",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Lynndyl lightweight t-shirt",
-   "detail": "Black · Size S",
+   "name": "Aitkin lightweight t-shirt",
+   "detail": "White · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4788,7 +5342,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "S",
+    "M"
    ]
   },
   {
@@ -4818,36 +5373,32 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee WASHED GREEN",
-   "detail": "Sizes M–XXL",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 39.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-green?variant=55819685036406",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Pencil-Tee-Green-4.jpg?v=1771926018&width=800",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "M",
-    "XL",
-    "XXL"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin lightweight t-shirt",
-   "detail": "White · Sizes S–M",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4855,8 +5406,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
@@ -4885,43 +5435,43 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee WASHED YELLOW",
-   "detail": "Size M",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
-   "price": 19.99,
-   "was": 39.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-yellow?variant=55819640177014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3021-60PENCILTeeWASHEDYELLOW-60_5.jpg?v=1772318144&width=800",
-   "tag": "Statement color",
+   "price": 39.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Size XS",
+   "name": "Loose Wave lightweight t-shirt",
+   "detail": "Black · Sizes XXS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
+   "url": "https://dickies.eu/products/loose-wave-lightweight-t-shirt-dk0a88fdblk1-black?variant=45766562873530",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88FDBLK-1_a80df320-43a4-47c9-a1b1-70e9f5b11e93.jpg?v=1779221463&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XXS",
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -4953,14 +5503,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY DIAMOND Denim WASHED BLUE TAB",
-   "detail": "Sizes 26–27",
+   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 49.99,
-   "was": 100,
+   "price": 39.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-diamond-denim-washed-blue-tab?variant=58393942589814",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Dimanond_Blue_Back.jpg?v=1757499729&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4971,14 +5521,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Loose Wave lightweight t-shirt",
-   "detail": "Black · Sizes XXS–M · Women",
+   "name": "Icon midweight t-shirt",
+   "detail": "White · Sizes S–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/loose-wave-lightweight-t-shirt-dk0a88fdblk1-black?variant=45766562873530",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88FDBLK-1_a80df320-43a4-47c9-a1b1-70e9f5b11e93.jpg?v=1779221463&width=800",
+   "url": "https://dickies.eu/products/icon-midweight-t-shirt-dk0a888j0wh1-white?variant=45766545998010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A888J0WH-1_a1542240-9cc3-4f16-a3c5-d2f73c2ec2c2.jpg?v=1779221483&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4986,10 +5536,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
-    "XS",
     "S",
-    "M"
+    "L"
    ]
   },
   {
