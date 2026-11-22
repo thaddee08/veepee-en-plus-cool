@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-11-21T21:46:29.807Z",
+ "generatedAt": "2026-11-22T12:44:47.412Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 127
+   "found": 124
   },
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 469
+   "found": 465
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 979
+   "found": 982
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 283
+   "found": 285
   },
   {
    "source": "AFEW",
@@ -34,12 +34,12 @@
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 158
+   "found": 156
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 775
+   "found": 760
   },
   {
    "source": "6PM",
@@ -842,22 +842,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-lapis blue · Size M · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-lapis-blue?variant=57403238809925",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-3083_111.jpg?v=1791813602&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "M"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -999,26 +1003,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "washed berry · Sizes XS–XXL · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "washed berry · Sizes M–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
     "M",
-    "L",
-    "XL",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -1156,23 +1157,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "washed berry · Sizes M–L · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
+    "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1299,7 +1303,7 @@
   {
    "brand": "A.P.C. Paris",
    "name": "t-shirt standard apc brode GOTS",
-   "detail": "Sizes XS–3XL",
+   "detail": "Sizes XXL–3XL",
    "shop": "A.P.C.",
    "price": 47.5,
    "was": 95,
@@ -1312,33 +1316,28 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
     "XXL",
     "3XL"
    ]
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -1490,14 +1489,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "silver melange-white · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1632,12 +1631,12 @@
   {
    "brand": "A.P.C. Paris",
    "name": "T-shirt Standard V.P.C.",
-   "detail": "Sizes XS–L",
+   "detail": "Sizes XS–M",
    "shop": "A.P.C.",
    "price": 55,
    "was": 110,
    "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-standard-grand-vpc-gots-tzd-cohmb-m26384?variant=56734373544323",
+   "url": "https://www.apc.fr/products/t-shirt-standard-grand-vpc-gots-tzd-cohmb-m26384?variant=56734373577091",
    "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMB-M26384TZD_00.jpg?v=1778169471&width=800",
    "tag": "French minimal",
    "styles": [
@@ -1647,20 +1646,19 @@
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L"
+    "M"
    ]
   },
   {
    "brand": "Armedangels",
    "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "silver melange-white · Size S · Women",
+   "detail": "white-foam · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1668,7 +1666,10 @@
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "XL"
    ]
   },
   {
@@ -1818,14 +1819,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "white-foam · Sizes XS–XL · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-very berry · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1834,9 +1835,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "XL"
+    "S"
    ]
   },
   {
@@ -1988,13 +1987,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-very berry · Sizes XS–M · Women",
+   "detail": "white-silver melange · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2002,9 +2001,7 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
@@ -2146,22 +2143,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-silver melange · Size XS · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
@@ -2230,22 +2226,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
+   "name": "Nike Ava Rover",
+   "detail": "Fossil / Black / Cosmic Clay / Canyon Rust · Size 41 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 33,
-   "was": 89,
+   "price": 51,
+   "was": 139,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-ava-rover-fossil-black-cosmic-clay-canyon-rust?variant=51948411519243",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/p70aZ0gu0z5AZwKfKEDo-DX4215-204-Nike-Ava-Rover-Fossil-Black-Cosmic-Clay-Canyon-Rust-os-1.jpg?v=1753448795&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2304,21 +2299,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2385,19 +2385,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift Breathe",
-   "detail": "Black / Black / Black · Size 35.5 · Women",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 48,
-   "was": 129,
+   "price": 33,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2405,13 +2406,13 @@
   {
    "brand": "Nike",
    "name": "Nike BOOK 2 'Spiridon'",
-   "detail": "Sizes 9–10 · Men",
+   "detail": "Size 9 · Men",
    "shop": "AFEW",
    "price": 84.99,
    "was": 149.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1794999909&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1795302490&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
@@ -2460,26 +2461,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL",
+   "name": "TARJAA T-SHIRT",
+   "detail": "foam · Size M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960721733",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -2547,23 +2544,22 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 1 Element Low A/T",
-   "detail": "Phantom / Black / Sail / Summit White · Size 40.5 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift Breathe",
+   "detail": "Black / Black / Black · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 76,
-   "was": 199,
+   "price": 48,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-1-element-low-at-phantom-black-sail-summit-white?variant=52819665879307",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/5pv3w3mzxfk-FV4227-003_Nike_Air-Jordan-1-Element-Low-A-T-Phantom-Black-Sail-Summit-White_os-1.jpg?v=1768917835&width=800",
+   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "utility"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2622,20 +2618,22 @@
   {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
-   "detail": "foam · Sizes S–M · Women",
+   "detail": "pink mist · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960688965",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M"
    ]
@@ -2705,22 +2703,23 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Air Jordan 1 Element Low A/T",
+   "detail": "Phantom / Black / Sail / Summit White · Size 40.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 34,
-   "was": 89,
+   "price": 76,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-jordan-1-element-low-at-phantom-black-sail-summit-white?variant=52819665879307",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/5pv3w3mzxfk-FV4227-003_Nike_Air-Jordan-1-Element-Low-A-T-Phantom-Black-Sail-Summit-White_os-1.jpg?v=1768917835&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "utility"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2785,19 +2784,18 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–L · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-foam · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
    "department": "Women",
    "sizes": [
@@ -2873,22 +2871,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
-   "was": 99,
+   "price": 34,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2948,13 +2945,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–L · Women",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2963,9 +2960,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L"
+    "S"
    ]
   },
   {
@@ -3032,20 +3027,21 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Air Superfly",
-   "detail": "Black / Black / Black · Size 39 · Women",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 38,
    "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -3104,14 +3100,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3120,7 +3116,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "XXL"
    ]
   },
   {
@@ -3186,20 +3182,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Black / Black / Black · Size 39 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 119,
+   "price": 38,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -3274,23 +3270,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–S",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -3359,13 +3355,13 @@
   {
    "brand": "Jordan",
    "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
+   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
    "price": 47,
    "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
@@ -3431,24 +3427,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA DIFFERENCE T-SHIRT",
-   "detail": "silver melange · Sizes XS–S",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3513,20 +3505,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Black / Black / University Red · Size 40.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 51,
-   "was": 129,
+   "price": 47,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-black-black-university-red-1?variant=52790513434891",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/btnvyt9rbf-HQ7540-003_Nike_Wmns-Shox-Z_Black-Black-University-Re_os-1.jpg?v=1767618620&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -3592,20 +3583,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PIÑAYARN® BLEND BUCKET HAT W",
-   "detail": "dried palm · Unisex",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3756,21 +3750,24 @@
   {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "white · Size XS · Women",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3919,24 +3916,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309690181",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
+    "S",
     "M",
-    "L",
     "XL"
    ]
   },
@@ -4085,25 +4082,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LUALAA LEINEN-MIX T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309690181",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
     "S",
     "M",
-    "XL"
+    "L",
+    "XXL"
    ]
   },
   {
@@ -4245,13 +4242,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "detail": "wedgwood · Sizes S–L · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4261,8 +4258,7 @@
    "sizes": [
     "S",
     "M",
-    "L",
-    "XXL"
+    "L"
    ]
   },
   {
@@ -4405,14 +4401,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "wedgwood · Sizes S–L · Men",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "washed berry · Sizes XL–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4420,9 +4416,8 @@
    ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "L"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4565,13 +4560,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "washed berry · Sizes XL–XXL · Men",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4579,6 +4574,9 @@
    ],
    "department": "Men",
    "sizes": [
+    "S",
+    "M",
+    "L",
     "XL",
     "XXL"
    ]
@@ -4726,13 +4724,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "detail": "tinted navy · Sizes L–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037666117",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4740,8 +4738,6 @@
    ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
     "L",
     "XL",
     "XXL"
@@ -4889,14 +4885,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "tinted navy · Sizes L–XXL · Men",
+   "name": "ICONIC Å MAARKOS GD T-SHIRT",
+   "detail": "foam washed · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037666117",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
+   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-foam-washed?variant=56186035372357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3613_111.jpg?v=1791813662&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4904,9 +4900,10 @@
    ],
    "department": "Men",
    "sizes": [
+    "S",
+    "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
@@ -5173,19 +5170,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY Vintage Denim VINTAGE BLACK",
-   "detail": "Size 24",
+   "name": "x-tra MONSTER Denim washed Black TAB",
+   "detail": "Sizes 22–26",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-vintage-denim-vintage-black?variant=58393864110454",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0387x-traBAGGYVintageDenimVINTAGEBLACKfront_resized_9228937a-cd4c-40de-b961-401470663070.jpg?v=1761824560&width=800",
-   "tag": "Retro find",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -5237,14 +5233,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black TAB",
-   "detail": "Sizes 22–26",
+   "name": "x-tra MONSTER Denim Washed Blue TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 39.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black-tab?variant=58393922896246",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5300,21 +5296,25 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Washed Blue TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra BEACH BAGGY Linen Pant Butter",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
+   "price": 28,
+   "was": 70,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-blue-tab?variant=58393936527734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1081x-tramonsterdenimwashedblueback.jpg?v=1761751066&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748728694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
+   "tag": "Romantic find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "boho"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5365,14 +5365,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER hb. Denim WASHED BLACK",
-   "detail": "Size 24",
+   "name": "x-tra MONSTER Cord DARK GREY TAB",
+   "detail": "Size 27",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
+   "price": 44,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-hb-denim-washed-black-768892?variant=58393959793014",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB_Black_Back.jpg?v=1756828159&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-dark-grey-tab?variant=58393920012662",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/MONSTERCORDDARKGREYFRONT.png?v=1748935651&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5431,25 +5431,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
+   "name": "x-tra BAGGY Vintage Denim VINTAGE TAB blue",
+   "detail": "Size 29",
    "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
+   "price": 40,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748728694",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
+   "url": "https://homeboy.eu/products/x-tra-baggy-denim-moon-two?variant=58393889112438",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-BAGGY-Vintage-Denim-VINTAGE-blue-1_e1b004d2-7067-41ba-bc5b-68325b0c90e3.jpg?v=1776938603&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
     "streetwear",
-    "boho"
+    "retro"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -5499,18 +5496,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord DARK GREY TAB",
-   "detail": "Size 27",
+   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK TAB",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 44,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-dark-grey-tab?variant=58393920012662",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/MONSTERCORDDARKGREYFRONT.png?v=1748935651&width=800",
-   "tag": "Skate & baggy",
+   "price": 36,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-tab?variant=59407370125686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": []
