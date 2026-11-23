@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-22T21:57:39.692Z",
+ "generatedAt": "2026-11-23T14:54:00.742Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 197
+   "found": 213
   },
   {
    "source": "DICKIES",
@@ -14,12 +14,12 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 982
+   "found": 979
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 283
+   "found": 221
   },
   {
    "source": "AFEW",
@@ -34,12 +34,12 @@
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 155
+   "found": 153
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 738
+   "found": 752
   },
   {
    "source": "6PM",
@@ -66,7 +66,7 @@
   {
    "brand": "HOMEBOY",
    "name": "x-tra SWARM CHINO Pant Petrol TAB",
-   "detail": "Sizes 25–32",
+   "detail": "Sizes 25–26",
    "shop": "HOMEBOY",
    "price": 17.99,
    "was": 89.99,
@@ -104,14 +104,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Basketball Mesh Women's Top",
-   "detail": "Sizes XXS–XL · Women",
+   "name": "ID Train Women's Cropped Tank",
+   "detail": "Sizes XS–XL · Women",
    "shop": "REEBOK",
-   "price": 15,
-   "was": 38,
+   "price": 7,
+   "was": 25,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/street-sport-washed-jogger-pants-100254859-11019?variant=56776568766812",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254859_155567_FR_Model_eCom.jpg?v=1771597521&width=800",
+   "url": "https://www.reebok.eu/products/id-train-cropped-tank-100241952-11019?variant=55324094726492",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241952_V1.jpg?v=1757061271&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -119,7 +119,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
     "XS",
     "S",
     "M",
@@ -203,26 +202,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MIKULAA BLAZER",
-   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
+   "name": "MAARK STRICK-OVERSHIRT",
+   "detail": "steel melange · Size L · Men",
    "shop": "ARMEDANGELS",
    "price": 149.9,
-   "was": 249.9,
+   "was": 259.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/stripe-mikulaa-blazer-sand-stone-undyed-pink-mist?variant=55573329477957",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007279-3658_111.jpg?v=1791813512&width=800",
-   "tag": "Statement color",
+   "url": "https://www.armedangels.com/products/maark-steel-melange?variant=55715170844997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007962-2874_111.jpg?v=1791813609&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
@@ -282,33 +276,30 @@
   },
   {
    "brand": "Reebok",
-   "name": "Sadie 2 Colour Logo Women's Cropped T-Shirt",
-   "detail": "Sizes XS–XL · Women",
+   "name": "ID Basketball Logo Men's Tank",
+   "detail": "Sizes XS–XXL · Men",
    "shop": "REEBOK",
    "price": 10,
-   "was": 25,
+   "was": 35,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/dreamblend-spacer-vector-track-jacket-100257294-4455?variant=56638289707356",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100257294_142803_FR_Model_eCom.jpg?v=1770922662&width=800",
+   "url": "https://www.reebok.eu/products/reebok-identity-basketball-logo-tank-100242061-3295?variant=55324106522972",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242061_V1.jpg?v=1756323474&width=800",
    "tag": "Street edit",
    "styles": [
     "sport",
     "retro",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
+    "XXL"
    ]
   },
   {
    "brand": "Nike",
    "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–40 · Women",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–37.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 44,
    "was": 149,
@@ -379,23 +370,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BALBAA PREMIUM STRICKPULLOVER",
-   "detail": "true camel · Sizes S–L · Women",
+   "name": "GESTREIFTER MIKULAA BLAZER",
+   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
-   "price": 119.9,
-   "was": 189.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/balbaa-premium-true-camel?variant=55715229204805",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008032-3231_111.jpg?v=1791813603&width=800",
-   "tag": "Conscious basics",
+   "price": 149.9,
+   "was": 249.9,
+   "category": "Jackets",
+   "url": "https://www.armedangels.com/products/stripe-mikulaa-blazer-sand-stone-undyed-pink-mist?variant=55573329477957",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007279-3658_111.jpg?v=1791813512&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
@@ -456,26 +450,24 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Cap Sleeve Women's T-Shirt",
-   "detail": "Sizes XXS–XL · Women",
+   "name": "ID Short Sleeve Vector Men's T-Shirt",
+   "detail": "Sizes XS–M · Men",
    "shop": "REEBOK",
    "price": 10,
-   "was": 25,
+   "was": 35,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-cap-sleeve-t-shirt-100252978-4455?variant=56638242324828",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100252978_153972_FR_Model_eCom.jpg?v=1770250171&width=800",
+   "url": "https://www.reebok.eu/products/id-short-sleeve-vector-mens-t-shirt-100269026-269026?variant=58180139221340",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100269026_166543_FR_Model_eCom.jpg?v=1783093398&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
-    "XXS",
+    "XS",
     "S",
-    "M",
-    "L",
-    "XL"
+    "M"
    ]
   },
   {
@@ -552,21 +544,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Size XS",
+   "name": "BALBAA PREMIUM STRICKPULLOVER",
+   "detail": "true camel · Sizes S–L · Women",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "price": 119.9,
+   "was": 189.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/balbaa-premium-true-camel?variant=55715229204805",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008032-3231_111.jpg?v=1791813603&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -626,14 +620,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Women's Cropped Tank",
-   "detail": "Sizes XS–XL · Women",
+   "name": "ID Train Colorblocked Woven Shorts",
+   "detail": "Sizes XXS–XL · Women",
    "shop": "REEBOK",
    "price": 10,
-   "was": 25,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-train-cropped-tank-100241952-11019?variant=55324094726492",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241952_V1.jpg?v=1757061271&width=800",
+   "was": 35,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/id-train-colorblocked-woven-short-100254716-11019?variant=56638262313308",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254716_155497_FR_Model_eCom.jpg?v=1773330671&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -641,6 +635,7 @@
    ],
    "department": "Women",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M",
@@ -733,23 +728,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Size XS · Women",
+   "name": "SAAMUS SHORT SOCKS",
+   "detail": "pure-armedangels yellow · Size 47",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
-   "tag": "Sport edit",
+   "price": 9.9,
+   "was": 14.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/saamus-short-socks?variant=56485903728965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008777-4016_101.jpg?v=1795110069&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "6PM",
@@ -809,41 +801,39 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID 2-Colour Logo Women's T-Shirt",
-   "detail": "Sizes XXS–XXL · Women",
+   "name": "Freshman Men's T-Shirt",
+   "detail": "Sizes XXS–XL · Men",
    "shop": "REEBOK",
    "price": 10,
-   "was": 25,
+   "was": 35,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/reebok-identity-2-color-logo-t-shirt-100241387-1313?variant=55324064153948",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100241387_143446_FR_Model_eCom.jpg?v=1770248498&width=800",
-   "tag": "Street edit",
+   "url": "https://www.reebok.eu/products/freshman-t-shirt-100253065-3268?variant=56698440647004",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253065_153947_FR_Model_eCom.jpg?v=1770887973&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
     "XXS",
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max DN8",
-   "detail": "Vivid Purple / Black / Vivid Purple / Black · Size 45 · Unisex",
+   "name": "Nike Wmns Total 90 Shox Magia",
+   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 59,
-   "was": 189,
+   "price": 50,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-dn8-vivid-purple-black-vivid-purple-black?variant=51342807564555",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jIBqxHAhFy6fstrbi63g_FQ7860-501-Nike-Air-Max-DN8-Vivid-Purple-Black-Vivid-Purple-Black-os-1.jpg?v=1746625150&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -851,7 +841,7 @@
     "retro",
     "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -910,27 +900,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "washed berry · Sizes XS–XXL · Women",
+   "name": "SAAMUS SHORT SOCKEN",
+   "detail": "pure-armedangels yellow · Size 47 · Unisex",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "price": 9.9,
+   "was": 14.9,
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/saamus-short-socks-pure-armedangels-yellow?variant=56485903728965",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008777-3565_511.jpg?v=1795110069&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -972,22 +956,21 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Women's T-Shirt",
-   "detail": "Sizes XXS–XL · Women",
+   "name": "Heritage Cut & Sew T-Shirt",
+   "detail": "Sizes XS–XL",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
+   "price": 10,
+   "was": 35,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-train-tee-100254546-4455?variant=56638257987932",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254546_145007_FR_Model_eCom.jpg?v=1773336318&width=800",
+   "url": "https://www.reebok.eu/products/heritage-cut-sew-t-shirt-100256516-1714?variant=56698421969244",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100256516_156188_FR_Model_eCom.jpg?v=1770922284&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XXS",
     "XS",
     "S",
     "M",
@@ -997,22 +980,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Total 90",
-   "detail": "White / Black / Gym Red · Size 45.5 · Unisex",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 38.5–42 · Women",
    "shop": "ASPHALTGOLD",
    "price": 35,
-   "was": 109,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-total-90-white-black-gym-red?variant=51948425052427",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/NcOUO4Yvf5f3ogaquUIR-HQ2851-100-Nike-Total-90-White-Black-Gym-Red-os-1.jpg?v=1753107084&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938803979",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1071,23 +1053,21 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "washed berry · Sizes M–L · Women",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-black · Size XS",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M",
-    "L"
+    "XS"
    ]
   },
   {
@@ -1130,41 +1110,46 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Blocked Men's T-Shirt",
-   "detail": "Sizes XXS–M · Men",
+   "name": "Sidewinder Football Crop Collared Women's Jersey",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
+   "price": 13,
+   "was": 45,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/heritage-dance-track-pants-100255207-4509?variant=56638271586652",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255207_155708_FR_Model_eCom.jpg?v=1770922174&width=800",
+   "url": "https://www.reebok.eu/products/sidewinder-football-crop-collared-jersey-womens-jersey-100269171-269171?variant=58351681143132",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100269171_166593_Head_FR_Model_eCom.jpg?v=1791384259&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Black / Sail · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Total 90 Shox Magia QS",
+   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 39,
-   "was": 119,
+   "price": 53,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1225,26 +1210,22 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL · Women",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-black · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XS"
    ]
   },
   {
@@ -1287,14 +1268,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "Dynamic Puff Women's T-Shirt",
-   "detail": "Sizes XXS–XXL · Women",
+   "name": "Sidewinder Football 6\" Women's Shorts",
+   "detail": "Sizes XXS–XL · Women",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/dynamic-puff-t-shirt-100253619-253619?variant=56638250844508",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253619_154007_FR_Model_eCom.jpg?v=1770912536&width=800",
+   "price": 13,
+   "was": 45,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/sidewinder-football-6-short-womens-shorts-100273532-273532?variant=58351719940444",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100273532_166589_FR_Model_eCom.jpg?v=1784897852&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -1307,25 +1288,23 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia",
-   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan Mule",
+   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 50,
+   "price": 53,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1390,22 +1369,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1454,14 +1437,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "Dynamic Puff Women's T-Shirt",
+   "name": "Lux Contour Crop Top",
    "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
+   "price": 13,
+   "was": 45,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/dynamic-puff-t-shirt-100253617-253617?variant=56638250090844",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253617_154007_FR_Model_eCom.jpg?v=1770889480&width=800",
+   "url": "https://www.reebok.eu/products/lux-contour-crop-100243230-1315?variant=55324142960988",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/145005-100243230_04Large2.jpg?v=1758203176&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -1479,20 +1462,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 38.5–42 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Black / Sail · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 99,
+   "price": 43,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938803979",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -1557,14 +1539,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "silver melange-white · Size S · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "washed berry · Sizes M–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1572,7 +1554,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "M",
+    "L"
    ]
   },
   {
@@ -1617,14 +1600,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train 9\" Knit Men's Shorts",
+   "name": "ID Basketball 7\" 2-In-1 Shorts",
    "detail": "Sizes XS–XXL · Men",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
+   "price": 16,
+   "was": 55,
    "category": "Shorts",
-   "url": "https://www.reebok.eu/products/id-train-9-knit-short-100243173-3417?variant=55324137161052",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243173_V1.jpg?v=1756401803&width=800",
+   "url": "https://www.reebok.eu/products/reebok-identity-basketball-7-2-in-1-shorts-100242043-3319?variant=55324102295900",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/143693-100242043_04Large2.jpg?v=1758205419&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -1642,22 +1625,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia QS",
-   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
+   "name": "Nike Ava Rover",
+   "detail": "Fossil / Black / Cosmic Clay / Canyon Rust · Size 41 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 53,
-   "was": 149,
+   "price": 51,
+   "was": 139,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-ava-rover-fossil-black-cosmic-clay-canyon-rust?variant=51948411519243",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/p70aZ0gu0z5AZwKfKEDo-DX4215-204-Nike-Ava-Rover-Fossil-Black-Cosmic-Clay-Canyon-Rust-os-1.jpg?v=1753448795&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "statement"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -1718,41 +1700,43 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "white-foam · Sizes XS–XL · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
-    "XL"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra WORK Pants WASHED BLUE TAB",
-   "detail": "Sizes 24–29",
+   "name": "x-tra MONSTER CARGO SHORTS OLIVE TAB",
+   "detail": "Sizes 22–31",
    "shop": "HOMEBOY",
-   "price": 26.99,
-   "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-work-pants-washed-blue-tab?variant=58394365067638",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0700-81x-traWORKPantsDenimWASHEDBLUEFLAT_1.png?v=1722409699&width=800",
-   "tag": "Skate & baggy",
+   "price": 23.99,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-cargo-shorts-olive-tab?variant=59407351480694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1500-83x-traMONSTERCargoSHORTSOLIVE_1.jpg?v=1712828819&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -1780,14 +1764,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Football Sidewinder Men's T-Shirt",
-   "detail": "Sizes XXS–XXL · Men",
+   "name": "ID Basketball 7\" 2-In-1 Shorts",
+   "detail": "Sizes S–XXL · Men",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-football-sidewinder-t-shirt-mens-t-shirt-100267562-267562?variant=58351706636636",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267562_165865_FR_Model_eCom.jpg?v=1787755505&width=800",
+   "price": 16,
+   "was": 55,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/reebok-identity-basketball-7-2-in-1-shorts-100242041-3295?variant=55324103016796",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242041_V1.jpg?v=1756827330&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -1795,8 +1779,6 @@
    ],
    "department": "Men",
    "sizes": [
-    "XXS",
-    "XS",
     "S",
     "M",
     "L",
@@ -1805,20 +1787,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan Mule",
-   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift Breathe",
+   "detail": "Black / Black / Black · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 53,
-   "was": 149,
+   "price": 48,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -1886,14 +1868,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-very berry · Sizes XS–S · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -1901,20 +1883,19 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
     "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim WASHED GREY TAB",
-   "detail": "Sizes 22–32",
+   "name": "x-tra MONSTER CHINO SHORTS Dust TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "price": 23.99,
+   "was": 79.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-shorts-dust-tab?variant=59407348531574",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1400-82_2_636bf907-a236-40c4-b1b4-0dfacb15108c.jpg?v=1723129899&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -1947,14 +1928,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train HR Booty Shorts DP",
-   "detail": "Sizes XS–XXL · Women",
+   "name": "Athlete Speed 2-in-1 High Rise 5\" Women's Shorts",
+   "detail": "Sizes XS–XL · Women",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
+   "price": 16,
+   "was": 55,
    "category": "Shorts",
-   "url": "https://www.reebok.eu/products/id-train-hr-booty-short-dp-100256357-11019?variant=56638282793308",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100256357_155710_FR_Model_eCom.jpg?v=1774281182&width=800",
+   "url": "https://www.reebok.eu/products/athlete-speed-2-in-1-high-rise-5-womens-shorts-100270738-270738?variant=58180140400988",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100270738_167361_FR_Model_eCom.jpg?v=1783095208&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -1965,28 +1946,26 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 Zip SP *Big Bubble*",
-   "detail": "Phantom / Black / Light Crimson / Smoke Grey · Size 39 · Unisex",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Sail / Black / Sail · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 72,
-   "was": 199,
+   "price": 34,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-max-95-zip-sp-big-bubble-phantom-black-light-crimson-smoke-grey?variant=52910771044619",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/pxdrgq1ori-IM0695-002_Nike_Air-Max-95-Zip-SP-Big-Bubble-Phantom-Black-Light-Crimson-Smoke-Grey_os-1.jpg?v=1772116041&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2053,14 +2032,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-silver melange · Size XS · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "silver melange-white · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-silver-melange-white?variant=55610324746565",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3599_111.jpg?v=1791813402&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2068,24 +2047,23 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive TAB",
-   "detail": "Sizes 26–32",
+   "name": "x-tra WORK Pants WASHED BLUE TAB",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
+   "price": 26.99,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-washed-blue-tab?variant=58394365067638",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0700-81x-traWORKPantsDenimWASHEDBLUEFLAT_1.png?v=1722409699&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -2112,19 +2090,18 @@
   },
   {
    "brand": "Reebok",
-   "name": "High Density Logo T-Shirt",
+   "name": "RBK.B Woven Shorts",
    "detail": "Sizes XS–XL · Unisex",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/high-density-logo-t-shirt-100256474-1315?variant=56776541372764",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100256474_156163_FR_Model_eCom.jpg?v=1771602349&width=800",
-   "tag": "Street edit",
+   "price": 16,
+   "was": 55,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/rbk-b-woven-short-100256704-4514?variant=56981074674012",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100256704_156356_FR_Model_eCom.jpg?v=1773404514&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear"
+    "retro"
    ],
    "department": "Unisex",
    "sizes": [
@@ -2137,21 +2114,22 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Light Magenta · Sizes 39–42.5 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 129,
+   "price": 38,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-light-magenta?variant=52838585794827",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/PadoGw7VTKYfloTMKOKF-HQ7540-101-Nike-Wmns-Shox-Z-White-Light-Magenta-os-1.jpg?v=1769525183&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -2210,33 +2188,37 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "white-foam · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "XL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black",
-   "detail": "Sizes 24–33",
+   "name": "x-tra WORK Pants MOON TAB",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
+   "price": 26.99,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black?variant=58823396458870",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-moon-tab?variant=58394355859830",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/WORKERMOONFRONT_829dbf0a-0151-4a6a-9d7e-f313ddfecb7d.png?v=1722505107&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2268,45 +2250,39 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Run Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "name": "Smash Edge Junior Trainers",
+   "detail": "Sizes 34.5–38 · Kids",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/street-sport-vector-icon-track-jacket-100255197-4508?variant=56638272995676",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255197_155707_FR_Model_eCom.jpg?v=1770922004&width=800",
+   "price": 16,
+   "was": 55,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/reebok-smash-edge-unisex-sneaker-100221601-2433?variant=55323823866204",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100221601_SLC_eCom.jpg?v=1758552575&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Kids",
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Ava Rover",
-   "detail": "Fossil / Black / Cosmic Clay / Canyon Rust · Size 41 · Unisex",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Black / Black / Black · Size 39 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 51,
-   "was": 139,
+   "price": 38,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-ava-rover-fossil-black-cosmic-clay-canyon-rust?variant=51948411519243",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/p70aZ0gu0z5AZwKfKEDo-DX4215-204-Nike-Ava-Rover-Fossil-Black-Cosmic-Clay-Canyon-Rust-os-1.jpg?v=1753448795&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2365,38 +2341,35 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-very berry · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord BLACK",
-   "detail": "Sizes 22–36",
+   "name": "x-tra WORK PANTS Black TAB",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
+   "price": 26.99,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-black?variant=58393873187190",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYCordPantsBlackfront_resize_reshoot_d7b2a072-82c0-4447-a121-227211102015.jpg?v=1761834006&width=800",
+   "url": "https://homeboy.eu/products/x-tra-work-pants-black-tab-kopie?variant=58393970508150",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201347_Product.jpg?v=1702288063&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2427,44 +2400,36 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train High Rise 4\" Short Leggings",
-   "detail": "Sizes XS–XL · Women",
+   "name": "Smash Edge Junior Trainers",
+   "detail": "Sizes 34.5–37 · Kids",
    "shop": "REEBOK",
-   "price": 12,
-   "was": 30,
-   "category": "Trousers",
-   "url": "https://www.reebok.eu/products/id-train-high-rise-4-short-leggings-100241907-11019?variant=55324092105052",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100241907_F_Model_eCom.jpg?v=1756323607&width=800",
+   "price": 16,
+   "was": 55,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/reebok-smash-edge-unisex-sneaker-100221602-2434?variant=55323883241820",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100221602_SLC_eCom.jpg?v=1758534520&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Kids",
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Black / Hemp · Sizes 36.5–39 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 33,
-   "was": 89,
+   "price": 52,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -2478,7 +2443,7 @@
    "was": 149.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1795302490&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1795423987&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
@@ -2527,42 +2492,38 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–M · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-silver melange · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra ALIEN Cargo Cord Black TAB",
-   "detail": "Sizes 22–24",
+   "name": "x-tra MONSTER Denim WASHED GREY TAB",
+   "detail": "Sizes 22–31",
    "shop": "HOMEBOY",
-   "price": 32.99,
-   "was": 109.98,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
@@ -2591,43 +2552,38 @@
   },
   {
    "brand": "Reebok",
-   "name": "Embossed Edge T-Shirt",
-   "detail": "Sizes XXS–L · Women",
+   "name": "Tobe x Reebok Infant Chukwu Abuo Sneakers",
+   "detail": "Sizes 19.5–26.5 · Unisex",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/embossed-edge-t-shirt-100253629-1713?variant=56698410729820",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253629_154012_FR_Model_eCom.jpg?v=1770912633&width=800",
+   "price": 19,
+   "was": 65,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100247061-243069?variant=55776789070172",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100247061_SLC_eCom.jpg?v=1761061664&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift Breathe",
-   "detail": "Black / Black / Black · Size 35.5 · Women",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Metallic Silver / White / Grey Fog / White · Sizes 36–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 48,
-   "was": 129,
+   "price": 36,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-metallic-silver-white-grey-fog-white?variant=52982943777035",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/6bc5asthm3h-II6984-001_Nike_Wmns-Sprint-Sister_Metallic-Silver-White-Grey-Fog-White_Os-1.jpg?v=1774452336&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -2687,41 +2643,38 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–L · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
+    "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord UBOOT TAB",
-   "detail": "Sizes 24–30",
+   "name": "x-tra CARGO PANTS Olive TAB",
+   "detail": "Sizes 26–32",
    "shop": "HOMEBOY",
-   "price": 33,
-   "was": 109.99,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot-tab?variant=58393916703094",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -2748,19 +2701,18 @@
   },
   {
    "brand": "Reebok",
-   "name": "Studded Logo Women's T-Shirt",
+   "name": "Lux Peached Women's Biker Shorts",
    "detail": "Sizes XXS–XL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/studded-logo-t-shirt-100253950-10300?variant=56698411843932",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253950_155035_FR_Model_eCom.jpg?v=1770914939&width=800",
-   "tag": "Street edit",
+   "price": 19,
+   "was": 65,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/lux-peached-womens-biker-shorts-100269221-269221?variant=58180158521692",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100269221_F_Model_eCom.jpg?v=1784216635&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear"
+    "retro"
    ],
    "department": "Women",
    "sizes": [
@@ -2773,23 +2725,23 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 1 Element Low A/T",
-   "detail": "Phantom / Black / Sail / Summit White · Size 40.5 · Unisex",
+   "brand": "Nike",
+   "name": "Nike Wmns Shox Z",
+   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 76,
-   "was": 199,
+   "price": 54,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-1-element-low-at-phantom-black-sail-summit-white?variant=52819665879307",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/5pv3w3mzxfk-FV4227-003_Nike_Air-Jordan-1-Element-Low-A-T-Phantom-Black-Sail-Summit-White_os-1.jpg?v=1768917835&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro",
-    "utility"
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2854,35 +2806,38 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–S · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord CHOCOLATE BROWN",
-   "detail": "Sizes 24–31",
+   "name": "x-tra MONSTER Denim washed Black",
+   "detail": "Sizes 24–33",
    "shop": "HOMEBOY",
-   "price": 33,
-   "was": 109.99,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-chocolate-brown?variant=58393860604278",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1_bb55e197-5fc4-450b-b486-a6a4d3d45287.jpg?v=1756809945&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black?variant=58823396458870",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2916,42 +2871,45 @@
   },
   {
    "brand": "Reebok",
-   "name": "Athlete Men's T-shirt",
-   "detail": "Sizes XXS–M · Men",
+   "name": "Lux Tee Women's T-Shirt",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
+   "price": 19,
+   "was": 65,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/wardrobe-essentials-cropped-t-shirt-100254303-4508?variant=56638255759708",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254303_155331_FR_Model_eCom.jpg?v=1770918697&width=800",
+   "url": "https://www.reebok.eu/products/lux-tee-womens-t-shirt-100269235-269235?variant=58180176970076",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100269235_166632_FR_Model_eCom.jpg?v=1783094287&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 34,
-   "was": 89,
+   "price": 52,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -3012,35 +2970,38 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
+   "name": "TARJAA T-SHIRT",
+   "detail": "pink mist · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
-    "XXL"
+    "S",
+    "M",
+    "L"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord UBOOT",
-   "detail": "Sizes 24–30",
+   "name": "x-tra MONSTER Cord BLACK",
+   "detail": "Sizes 22–25",
    "shop": "HOMEBOY",
-   "price": 33,
-   "was": 109.99,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot?variant=58393898484086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-black?variant=58393873187190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYCordPantsBlackfront_resize_reshoot_d7b2a072-82c0-4447-a121-227211102015.jpg?v=1761834006&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3071,14 +3032,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "Athlete Men's T-shirt",
-   "detail": "Sizes XXS–M · Men",
+   "name": "Men's Bonded Pique Polo Shirt",
+   "detail": "Sizes S–L · Men",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-football-7-shorts-100254302-4479?variant=56638255300956",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254302_155331_FR_Model_eCom.jpg?v=1770918640&width=800",
+   "price": 22,
+   "was": 75,
+   "category": "Shirts",
+   "url": "https://www.reebok.eu/products/mens-bonded-pique-polo-shirt-rgms26124c-8948?variant=58852536680796",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100281963_F_Model_eComcopia.jpg?v=1790858715&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -3086,30 +3047,28 @@
    ],
    "department": "Men",
    "sizes": [
-    "XXS",
-    "XS",
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Cinnamon / Pony / Burgundy Crush / Black · Sizes 36.5–42 · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
-   "was": 99,
+   "price": 52,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-cinnamon-pony-burgundy-crush-black?variant=52838574588171",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/AvIh5RZbZsjCUOXsIf79-HQ7955-202-Nike-Wmns-Air-Superfly-Cinnamon-Pony-Burgundy-Crush-Black-os-1.jpg?v=1770107264&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
     "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3168,39 +3127,41 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA DIFFERENCE T-SHIRT",
-   "detail": "silver melange · Sizes XS–S",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-foam · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 59.9,
+   "price": 29.9,
+   "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "S",
+    "M"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord OLIVE TAB",
-   "detail": "Size 25",
+   "name": "x-tra ALIEN Cargo Cord Black TAB",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
-   "price": 33,
-   "was": 109.99,
+   "price": 32.99,
+   "was": 109.98,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-olive-tab?variant=58095435776374",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1001-83X-TRAMONSTERCordOLIVE_2_e4d6a12b-80bd-4270-88c0-08d824799c68.png?v=1702900053&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
@@ -3227,38 +3188,32 @@
   },
   {
    "brand": "Reebok",
-   "name": "Reebok World Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "name": "Tobe x Reebok Children's Chukwu Abuo Sneakers",
+   "detail": "Sizes 27–34 · Kids",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/reebok-world-t-shirt-100253217-4457?variant=56638247633244",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253217_154393_FR_Model_eCom.jpg?v=1770888953&width=800",
+   "price": 22,
+   "was": 75,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100229553-233631?variant=55776786481500",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100229553_SLC_eCom.jpg?v=1761062079&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Kids",
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Black / Black / Black · Size 39 · Women",
+   "name": "Nike Wmns Moon Shoe OG SP",
+   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 38,
+   "price": 44,
    "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-black-black-black?variant=52771273801995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/h063sXuMZtb4LxWBpNFC-HJ8082-002-Nike-Wmns-Air-Superfly-Black-Black-Black-os-1.jpg?v=1767105680&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -3277,7 +3232,7 @@
    "was": 189.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey?variant=53046071394570",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1795262947&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1795436173&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3338,31 +3293,35 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PIÑAYARN® BLEND BUCKET HAT W",
-   "detail": "dried palm · Unisex",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 59.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
-   "tag": "Conscious basics",
+   "price": 29.9,
+   "was": 44.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER 3-D Denim WASHED BLUE",
+   "name": "x-tra MONSTER Cord UBOOT TAB",
    "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 30,
-   "was": 99.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-3-d-denim-washed-blue?variant=58393943900534",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1864-81x-traMONSTER3-DDenimWASHEDBLUE.jpg?v=1747218173&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot-tab?variant=58393916703094",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3395,42 +3354,47 @@
   },
   {
    "brand": "Reebok",
-   "name": "Lawn Club Men's T-Shirt",
-   "detail": "Sizes XS–L · Men",
+   "name": "Forge Standard Canvas Skirt Women's Skirt",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/lawn-club-t-shirt-100253179-4457?variant=56717958611292",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253179_154379_FR_Model_eCom.jpg?v=1770888849&width=800",
-   "tag": "Retro sport",
+   "price": 22,
+   "was": 75,
+   "category": "Skirts",
+   "url": "https://www.reebok.eu/products/workwear-canvas-skirt-womens-skirt-100267596-267596?variant=58351689236828",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267596_165928_FR_Model_eCom.jpg?v=1784817482&width=800",
+   "tag": "Skate & work",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "skate"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XXS",
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Metallic Silver / Photon Dust / Smoke Grey · Sizes 36–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Sprint Sister",
+   "detail": "Linen / Sail / Linen · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 119,
+   "price": 40,
+   "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-metallic-silver-photon-dust-smoke-grey?variant=52987057963275",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ynfrj47e0ac-IB8597-002_Nike_Wmns-Jordan-Pointe-Metallic-Silver-Photon-Dust-Smoke-Grey_os-1.jpg?v=1774452090&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-linen-sail-linen?variant=53183306072331",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/d1chssmht3s-IB7102-200_Nike_Wmns-Sprint-Sister-Linen-Sail-Linen_os-1.jpg?v=1781705535&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro",
+    "boho"
    ],
    "department": "Women",
    "sizes": []
@@ -3491,14 +3455,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "white · Size XS · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 59.9,
+   "price": 29.9,
+   "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3506,19 +3470,20 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Chino DUST",
-   "detail": "Size 28",
+   "name": "x-tra MONSTER Cord CHOCOLATE BROWN",
+   "detail": "Sizes 24–31",
    "shop": "HOMEBOY",
-   "price": 30,
-   "was": 99.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust?variant=47925691547927",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-chocolate-brown?variant=58393860604278",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1_bb55e197-5fc4-450b-b486-a6a4d3d45287.jpg?v=1756809945&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3549,42 +3514,37 @@
   },
   {
    "brand": "Reebok",
-   "name": "Crest Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "name": "Ultra Lo Mary Jane Women's Trainers",
+   "detail": "Sizes 35–42.5 · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/crest-t-shirt-100253048-253048?variant=56638244192604",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253048_153938_FR_Model_eCom.jpg?v=1770887652&width=800",
+   "price": 22,
+   "was": 75,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/ultra-lo-mary-jane-womens-trainers-100261002-261002?variant=58180127162716",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100261002_SLC_eCom.jpg?v=1783075213&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Black / Metallic Silver / Black · Sizes 35.5–36.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 47,
-   "was": 119,
+   "price": 58,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-iced-carmine-coconut-milk-elemental-pink?variant=52987059405067",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0vcqb03ork1-IB8597-607_Nike_Wmns-Jordan-Pointe-Iced-Carmine-Coconut-Milk-Elemental-Pink_os-1.jpg?v=1774452140&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-metallic-silver-black?variant=52882392187147",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bhd93ds9oq8-IB8954-001_Nike_Wmns-Air-Rift-Black-Metallic-Silver-Black_os-1.jpg?v=1770909723&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -3650,14 +3610,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–S",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3666,21 +3626,19 @@
    "department": "Not specified",
    "sizes": [
     "XS",
-    "M",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Blue TAB",
-   "detail": "Sizes 22–28",
+   "name": "x-tra MONSTER Cord UBOOT",
+   "detail": "Sizes 24–30",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue-tab?variant=59407296528758",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
+   "price": 33,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot?variant=58393898484086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3712,43 +3670,47 @@
   },
   {
    "brand": "Reebok",
-   "name": "80's Vector Men's T-Shirt",
-   "detail": "Sizes XXS–M · Men",
+   "name": "Glitz Corset Women's Corset Top",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
+   "price": 25,
+   "was": 85,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/80s-vector-t-shirt-100253017-10300?variant=56638243209564",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253017_153916_FR_Model_eCom.jpg?v=1770250459&width=800",
+   "url": "https://www.reebok.eu/products/glitz-corset-womens-corset-top-100272724-272724?variant=58351722398044",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100272724_168138_FR_Model_eCom.jpg?v=1784889052&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Black / Hemp · Sizes 36.5–39 · Women",
+   "name": "Nike Air Max 95 *Big Bubble* *Leather*",
+   "detail": "Black / Black / Black · Sizes 36–37.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 52,
-   "was": 129,
+   "price": 95,
+   "was": 199,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-hemp?variant=52982894919947",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jhwdrwgtwjg-IR5696-010_Nike_Wmns-Air-Rift_Black-Hemp_os-1.jpg?v=1774452913&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-leather-black-black-black?variant=52700896690443",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/u7hh7jte2pk-IM0696-001_Nike_Air-Max-95-Big-Bubble-Leather-Black-Black-Black_os-1.jpg?v=1764341065&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -3819,36 +3781,31 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LUALAA LEINEN-MIX T-SHIRT",
-   "detail": "dried palm · Sizes S–XL · Women",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "S",
-    "M",
-    "XL"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Shorts Moon TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER Cord OLIVE TAB",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon-tab?variant=59407217230198",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
+   "price": 33,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-olive-tab?variant=58095435776374",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1001-83X-TRAMONSTERCordOLIVE_2_e4d6a12b-80bd-4270-88c0-08d824799c68.png?v=1702900053&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3879,18 +3836,19 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Rib Biker Shorts",
-   "detail": "Sizes XS–XL · Women",
+   "name": "Forge Standard Cropped Canvas Women's Jacket",
+   "detail": "Sizes XS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/id-train-rib-biker-shorts-100243240-1315?variant=55324146008412",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243240_V1.jpg?v=1756400595&width=800",
-   "tag": "Retro sport",
+   "price": 28,
+   "was": 95,
+   "category": "Jackets",
+   "url": "https://www.reebok.eu/products/workwear-cropped-canvas-jacket-womens-jacket-100267595-267595?variant=58351685009756",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267595_165927_FR_Model_eCom.jpg?v=1784892714&width=800",
+   "tag": "Skate & work",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "skate"
    ],
    "department": "Women",
    "sizes": [
@@ -3898,24 +3856,26 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Moon Shoe OG SP",
-   "detail": "Summit White / Team Crimson / Gum Light Brown · Sizes 36–46 · Women",
+   "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
+   "detail": "Cargo Khaki / Medium Olive · Sizes 36–40 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 40,
-   "was": 99,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-moon-shoe-og-sp-summit-white-team-crimson-gum-light-brown?variant=53011398623499",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2wws34nh3pa-II0407-100_Nike_Wmns-Moon-Racer-OG-SP_Summit-White-Team-Crimson-Gum-Light-Brown_os-1.jpg?v=1774958439&width=800",
+   "price": 95,
+   "was": 195,
+   "category": "Accessories",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-jewel-swoosh-cargo-khaki-medium-olive?variant=52882421743883",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ezg9c9dizyn-IH1413-300_Nike_Wmns-Air-Max-95-Big-Bubble-Jewel-Swoosh-Cargo-Khaki-Medium-Olive_os-1.jpg?v=1770909523&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "utility"
    ],
    "department": "Women",
    "sizes": []
@@ -3985,37 +3945,34 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "S",
-    "M",
-    "L",
-    "XXL"
+    "XS"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Chino BLACK TAB",
-   "detail": "Sizes 25–26",
+   "name": "x-tra MONSTER 3-D Denim WASHED BLUE",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
+   "price": 30,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58394367361398",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-3-d-denim-washed-blue?variant=58393943900534",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1864-81x-traMONSTER3-DDenimWASHEDBLUE.jpg?v=1747218173&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4046,36 +4003,32 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Short Sleeve Vector Men's T-Shirt",
-   "detail": "Sizes XS–M · Men",
+   "name": "R400 Trainers",
+   "detail": "Sizes 35–45.5 · Unisex",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-short-sleeve-vector-mens-t-shirt-100269026-269026?variant=58180139221340",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100269026_166543_FR_Model_eCom.jpg?v=1783093398&width=800",
+   "price": 28,
+   "was": 95,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/r400-sneakers-100245071-4183?variant=56638192320860",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100245071_SLC_eCom.jpg?v=1770720479&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "Pink Foam / Metallic Silver / Grey Fog · Sizes 36.5–42.5 · Women",
+   "name": "Nike Air Max 95 *Big Bubble* *Premium* *Olympic*",
+   "detail": "White / Metallic Gold / Chile Red / Photo Blue · Sizes 38.5–42.5 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 54,
-   "was": 129,
+   "price": 88,
+   "was": 179,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52872647377163",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jbyab53m11-IQ7574-663_Nike_Wmns-Shox-Z_Pink-Foam-Metallic-Silver-Grey-Fog_os-1.jpg?v=1770217195&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-air-max-95-big-bubble-premium-olympic-white-metallic-gold-chile-red-photo-blue?variant=52840757559563",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eggypirijta-IB7872-100_Nike_Air-Max-95-Big-Bubble-Premium-Olympic-White-Metallic-Gold-Chile-Red-Photo-Blue_os-1.jpg?v=1769784874&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -4083,7 +4036,7 @@
     "retro",
     "statement"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -4151,36 +4104,37 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "wedgwood · Sizes S–L · Men",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Not specified",
    "sizes": [
-    "S",
+    "XS",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
-   "detail": "Sizes 27–36",
+   "name": "x-tra MONSTER Chino DUST",
+   "detail": "Size 28",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
+   "price": 30,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust?variant=47925691547927",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4211,14 +4165,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Colorblocked Woven Shorts",
-   "detail": "Sizes XXS–XL · Women",
+   "name": "Elevated Athletic Cropped Varsity Women's Bomber Jacket",
+   "detail": "Sizes XS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/id-train-colorblocked-woven-short-100254716-11019?variant=56638262313308",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254716_155497_FR_Model_eCom.jpg?v=1773330671&width=800",
+   "price": 79,
+   "was": 265,
+   "category": "Jackets",
+   "url": "https://www.reebok.eu/products/elevated-athletic-cropped-varsity-bomber-womens-bomber-jacket-100266653-266653?variant=58351668658524",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100266653_165382_FR_Model_eCom.jpg?v=1784894714&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -4226,32 +4180,36 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Air Jordan 6 Retro *GS* *Infrared Salesman*",
-   "detail": "Black / Light Crimson · Size 38 · Unisex",
+   "brand": "Nike",
+   "name": "Nike AeroSwift Dri-FIT ADV 2 Inch Brief-Lined Shorts",
+   "detail": "Black / Dark Smoke Grey / Bright Crimson · Sizes S–XL · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 64,
-   "was": 149,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-air-jordan-6-retro-gs-infrared-salesman-black-light-crimson?variant=52882403787019",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/nlgyo0hc7xe-IQ1275-001_Nike_Air-Jordan-6-Retro-GS-Infrared-Salesman-Black-Light-Crimson_os-1.jpg?v=1770909494&width=800",
-   "tag": "Retro find",
+   "price": 44,
+   "was": 89,
+   "category": "Shorts",
+   "url": "https://www.asphaltgold.com/products/nikeaeroswift-drifit-adv-2-inch-brieflined-shorts-black-dark-smoke-grey-bright-crimson?variant=53069456310539",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/jxbf9yzls3g-IR4445-010_Nike_AeroSwift-Dri-FIT-ADV-2-Inch-Brief-Lined-Shorts-Black-Dark-Smoke-Grey-Bright-Crimson_os-1.jpg?v=1777559025&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "statement"
    ],
    "department": "Unisex",
-   "sizes": []
+   "sizes": [
+    "S",
+    "L",
+    "XL"
+   ]
   },
   {
    "brand": "Nike",
@@ -4309,35 +4267,35 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "washed berry · Sizes XL–XXL · Men",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes S–M · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
-    "XL",
-    "XXL"
+    "S",
+    "M"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants Black",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER Denim Shorts Washed Blue TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
-   "price": 29.99,
+   "price": 27,
    "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black?variant=58393899106678",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traBAGGYCordJAMESBROWN-1_2c2a738e-aca8-4367-887b-c1fd06cfc5f0.jpg?v=1791274622&width=800",
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue-tab?variant=59407296528758",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4368,47 +4326,47 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Basketball Relaxed T-Shirt",
-   "detail": "Sizes XXS–XL · Men",
+   "name": "ID Train High Rise 6.5\" Women's Biker Shorts",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-basketball-relaxed-t-shirt-100255125-11019?variant=56776514273628",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255125_155691_FR_Model_eCom.jpg?v=1771604048&width=800",
+   "price": 12,
+   "was": 40,
+   "category": "Shorts",
+   "url": "https://www.reebok.eu/products/id-train-high-rise-6-5-biker-shorts-100241903-1315?variant=55324088533340",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100241903_F_Model_eCom.jpg?v=1756230974&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Sprint Sister",
-   "detail": "Linen / Sail / Linen · Sizes 36.5–40.5 · Women",
+   "name": "Nike ZoomX Vaporfly 4",
+   "detail": "Spruce Aura / Dark Obsidian / Grey Fog · Sizes 44–47 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 40,
-   "was": 89,
+   "price": 130,
+   "was": 259,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-linen-sail-linen?variant=53183306072331",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/d1chssmht3s-IB7102-200_Nike_Wmns-Sprint-Sister-Linen-Sail-Linen_os-1.jpg?v=1781705535&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-zoomx-vaporfly-next-4-flyknit-spruce-aura-dark-obsidian-grey-fog?variant=53189166694667",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0brjzbb5zua-IM8203-001_Nike_Zoomx-Vaporfly-Next-4-Flyknit-Spruce-Aura-Dark-Obsidian-Grey-Fog_os-1.jpg?v=1782138335&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro",
-    "boho"
+    "retro"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -4467,14 +4425,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "name": "MAARKOS WAFFLE T-SHIRT",
    "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4484,21 +4442,19 @@
    "sizes": [
     "S",
     "M",
-    "L",
-    "XL",
     "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants Black TAB",
-   "detail": "Size 28",
+   "name": "x-tra MONSTER Shorts Moon TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
-   "price": 35.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black-tab?variant=58393875939702",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-10x-traBAGGYCordBLACKFRONT.png?v=1761834169&width=800",
+   "price": 27,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon-tab?variant=59407217230198",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4529,20 +4485,21 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Basketball Relaxed T-Shirt",
-   "detail": "Sizes XXS–XL · Unisex",
+   "name": "Alt Sport Graphic Men's T-Shirt",
+   "detail": "Sizes XXS–XL · Men",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
+   "price": 12,
+   "was": 40,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-basketball-relaxed-t-shirt-100255124-4464?variant=56776540422492",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255124_155691_FR_Model_eCom.jpg?v=1771602056&width=800",
-   "tag": "Retro sport",
+   "url": "https://www.reebok.eu/products/alt-sport-graphic-t-shirt-mens-t-shirt-100267754-267754?variant=58351701557596",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267754_166048_FR_Model_eCom.jpg?v=1786523741&width=800",
+   "tag": "Street edit",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "streetwear"
    ],
-   "department": "Unisex",
+   "department": "Men",
    "sizes": [
     "XXS",
     "XS",
@@ -4553,20 +4510,20 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Black / Metallic Silver / Black · Sizes 35.5–36.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan 1 Retro High OG *Psychic Blue*",
+   "detail": "Pale Ivory / Psychic Blue / Coconut Milk · Size 36 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 58,
-   "was": 129,
+   "price": 90,
+   "was": 179,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-black-metallic-silver-black?variant=52882392187147",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bhd93ds9oq8-IB8954-001_Nike_Wmns-Air-Rift-Black-Metallic-Silver-Black_os-1.jpg?v=1770909723&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-1-retro-high-og-psychic-blue-pale-ivory-psychic-blue-coconut-milk?variant=52910777893131",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gvla0692e54-FD2596-102_Nike_Wmns-Air-Jordan-1-Retro-High-OG-Psychic-Blue-Pale-Ivory-Psychic-Blue-Coconut-Milk_os-1.jpg?v=1772116007&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "retro"
    ],
    "department": "Women",
    "sizes": []
@@ -4628,14 +4585,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "tinted navy · Sizes L–XXL · Men",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "wedgwood · Sizes S–L · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037666117",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4643,21 +4600,21 @@
    ],
    "department": "Men",
    "sizes": [
-    "L",
-    "XL",
-    "XXL"
+    "S",
+    "M",
+    "L"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER GOTHIC Denim WASHED BLUE TAB",
-   "detail": "Sizes 25–31",
+   "name": "x-tra MONSTER Chino BLACK TAB",
+   "detail": "Sizes 24–26",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 109.99,
+   "price": 27,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-washed-blue-tab?variant=58393868697974",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-81x-traMONSTERGOTHICDenimWASHEDBLUE.png?v=1738152507&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58393970278774",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4688,41 +4645,40 @@
   },
   {
    "brand": "Reebok",
-   "name": "Wardrobe Essentials Women's T-Shirt",
-   "detail": "Sizes XXS–XXL · Women",
+   "name": "Patch Logo Polo",
+   "detail": "Sizes XXS–XL · Unisex",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/wardrobe-essentials-t-shirt-100253807-4519?variant=56698438254940",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253807_154877_FR_Model_eCom.jpg?v=1770913984&width=800",
-   "tag": "Quiet essential",
+   "price": 12,
+   "was": 40,
+   "category": "Shirts",
+   "url": "https://www.reebok.eu/products/patch-logo-polo-rk25670asu-100077?variant=58096084287836",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/RK25670ASU_100077_Unisex_Model_eCom2A.jpg?v=1781871076&width=800",
+   "tag": "Street edit",
    "styles": [
     "sport",
     "retro",
-    "minimal"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": [
     "XXS",
     "XS",
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ]
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox Z",
-   "detail": "White / Metallic Silver · Sizes 36–40.5 · Women",
+   "name": "Nike Wmns Shox TL",
+   "detail": "White / Work Blue · Size 36.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 59,
-   "was": 129,
+   "price": 86,
+   "was": 169,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-z-white-metallic-silver?variant=52981868069131",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/92twrad39pj-HQ7540-103_Nike_Wmns-Shox-Z_White-Metallic-Silver_os-1.jpg?v=1774451950&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-tl-white-work-blue?variant=52838559482123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8gO2hGcdU29vSHhm3xd8-AR3566-106-Nike-Wmns-Shox-TL-White-Work-Blue-os-1.jpg?v=1770107268&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -4790,14 +4746,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å MAARKOS GD T-SHIRT",
-   "detail": "foam washed · Sizes S–XL · Men",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "washed berry · Sizes XL–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-foam-washed?variant=56186035372357",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3613_111.jpg?v=1791813662&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4805,30 +4761,27 @@
    ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee WHITE",
-   "detail": "Size L",
+   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
+   "detail": "Sizes 27–36",
    "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-white?variant=55289606111606",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-11MASTERBOYTEEWHITE.jpg?v=1740049997&width=800",
+   "price": 27,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "L"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -4852,14 +4805,14 @@
   },
   {
    "brand": "Reebok",
-   "name": "Freshman Men's T-Shirt",
-   "detail": "Sizes XXS–XL · Men",
+   "name": "Sidewinder Football Jersey Men's Jersey",
+   "detail": "Sizes XXS–XXL · Men",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
+   "price": 15,
+   "was": 50,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/freshman-t-shirt-100253065-3268?variant=56698440647004",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253065_153947_FR_Model_eCom.jpg?v=1770887973&width=800",
+   "url": "https://www.reebok.eu/products/sidewinder-football-jersey-mens-jersey-100269178-269178?variant=58351704211804",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100269178_166597_FR_Model_eCom.jpg?v=1788526782&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -4872,7 +4825,8 @@
     "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4880,7 +4834,7 @@
    "name": "Nike Wmns Air Rift",
    "detail": "Cream / Cream/ Light Orewood Brown · Sizes 36.5–44.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 60,
+   "price": 66,
    "was": 129,
    "category": "Shoes",
    "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-cream-cream-light-orewood-brown?variant=53179085947147",
@@ -4952,14 +4906,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å MAARKOS GD T-SHIRT",
-   "detail": "granit washed · Size S · Men",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-granit-washed?variant=56186035175749",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3612_111.jpg?v=1791813671&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4967,7 +4921,269 @@
    ],
    "department": "Men",
    "sizes": [
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY CORD Pants Black",
+   "detail": "Sizes 22–34",
+   "shop": "HOMEBOY",
+   "price": 29.99,
+   "was": 89.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black?variant=58393899106678",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traBAGGYCordJAMESBROWN-1_2c2a738e-aca8-4367-887b-c1fd06cfc5f0.jpg?v=1791274622&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Football Quarter Zip Women's Top",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 15,
+   "was": 50,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/id-football-1-4-zip-womens-1-4-zip-100267577-267577?variant=58351705424220",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267577_165871_FR_Model_eCom.jpg?v=1787061044&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY CORD Pants Black TAB",
+   "detail": "Size 28",
+   "shop": "HOMEBOY",
+   "price": 35.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black-tab?variant=58393875939702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-10x-traBAGGYCordBLACKFRONT.png?v=1761834169&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Polk midweight t-shirt",
+   "detail": "Stormy sea · Size L · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591611066",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Wardrobe Essentials Men's Polo Shirt",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "REEBOK",
+   "price": 15,
+   "was": 50,
+   "category": "Shirts",
+   "url": "https://www.reebok.eu/products/wardrobe-essentials-polo-shirt-100253235-11019?variant=56698440909148",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253235_154400_FR_Model_eCom.jpg?v=1770889176&width=800",
+   "tag": "Quiet essential",
+   "styles": [
+    "sport",
+    "retro",
+    "minimal"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER GOTHIC Denim WASHED BLUE TAB",
+   "detail": "Sizes 25–31",
+   "shop": "HOMEBOY",
+   "price": 39.99,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-washed-blue-tab?variant=58393868697974",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-81x-traMONSTERGOTHICDenimWASHEDBLUE.png?v=1738152507&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Sizes XS–M · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "ID Train Rib Women's Stirrup Leggings",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 15,
+   "was": 50,
+   "category": "Trousers",
+   "url": "https://www.reebok.eu/products/id-train-rib-stirrup-leggings-100243248-1315?variant=55324147974492",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100243248_V1.jpg?v=1756909534&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "MASTERBOY Tee WHITE",
+   "detail": "Size L",
+   "shop": "HOMEBOY",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-white?variant=55289606111606",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-11MASTERBOYTEEWHITE.jpg?v=1740049997&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "L"
+   ]
+  },
+  {
+   "brand": "Dickies",
+   "name": "Derby midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Logo Crewneck Sweatshirt",
+   "detail": "Sizes XS–XL · Unisex",
+   "shop": "REEBOK",
+   "price": 18,
+   "was": 60,
+   "category": "Sweatshirts",
+   "url": "https://www.reebok.eu/products/crewneck-sweatshirt-100284095-284095?variant=58492219982172",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100284095_F_Model_eCom.jpg?v=1785420359&width=800",
+   "tag": "Street edit",
+   "styles": [
+    "sport",
+    "retro",
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4994,46 +5210,49 @@
   },
   {
    "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
+   "name": "Lynndyl lightweight t-shirt",
+   "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
    "brand": "Reebok",
-   "name": "Freshman Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "name": "Wardrobe Essentials Retro Zip Top",
+   "detail": "Sizes XXS–XXL · Women",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
+   "price": 21,
+   "was": 70,
    "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/freshman-t-shirt-100253063-1714?variant=56698436223324",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253063_153947_FR_Model_eCom.jpg?v=1770887920&width=800",
-   "tag": "Retro sport",
+   "url": "https://www.reebok.eu/products/wardrobe-essentials-retro-zip-top-100253829-3344?variant=56698436485468",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100253829_F_Model_eCom.jpg?v=1770826430&width=800",
+   "tag": "Quiet essential",
    "styles": [
     "sport",
-    "retro"
+    "retro",
+    "minimal"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "XXS",
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -5058,47 +5277,42 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "Stormy sea · Size L · Women",
+   "name": "Aitkin lightweight t-shirt",
+   "detail": "White · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591611066",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "L"
+    "S",
+    "M"
    ]
   },
   {
    "brand": "Reebok",
-   "name": "80's Vector Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "name": "Tobe x Reebok Junior Chukwu Abuo Sneakers",
+   "detail": "Sizes 34.5–39 · Kids",
    "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/80s-vector-t-shirt-100253016-11019?variant=56638241866076",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253016_153916_Detail_Model_eCom.jpg?v=1770250406&width=800",
+   "price": 24,
+   "was": 80,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100229552-233631?variant=55776792117596",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100229552_SLC_eCom.jpg?v=1761057864&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Kids",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -5125,264 +5339,6 @@
   {
    "brand": "Dickies",
    "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–M · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Crest Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
-   "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/crest-t-shirt-100253047-11019?variant=56638244421980",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100253047_153938_FR_Model_eCom.jpg?v=1770887596&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Men",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive",
-   "detail": "Sizes 26–32",
-   "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive?variant=47463942553879",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
-   "styles": [
-    "skate",
-    "streetwear",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "XXL"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Heritage Cut & Sew T-Shirt",
-   "detail": "Sizes XS–XL",
-   "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/heritage-cut-sew-t-shirt-100256516-1714?variant=56698421969244",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100256516_156188_FR_Model_eCom.jpg?v=1770922284&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim WASHED GREY",
-   "detail": "Sizes 24–25",
-   "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey?variant=58393947996534",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Lynndyl lightweight t-shirt",
-   "detail": "Black · Size S",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "ID Small Logo Cotton Women's Leggings",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "REEBOK",
-   "price": 14,
-   "was": 35,
-   "category": "Trousers",
-   "url": "https://www.reebok.eu/products/reebok-identity-small-logo-cotton-leggings-100239995-1315?variant=55324011790684",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142663-100239995_04_Large_a9b41463-7a72-4587-9588-516eff162ae7.jpg?v=1758204296&width=800",
-   "tag": "Street edit",
-   "styles": [
-    "sport",
-    "retro",
-    "streetwear"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra BEACH BAGGY Linen Pant Butter",
-   "detail": "Sizes XS–S",
-   "shop": "HOMEBOY",
-   "price": 28,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-beach-baggy-linen-pant-butter?variant=55816748728694",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1200-68x-traBEACHBAGGYLinenPantBUTTER-68_1.1.jpg?v=1773436547&width=800",
-   "tag": "Romantic find",
-   "styles": [
-    "skate",
-    "streetwear",
-    "boho"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Aitkin lightweight t-shirt",
-   "detail": "White · Sizes S–M",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "M"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Lux Fitness Training Burnout Women's T-Shirt",
-   "detail": "Sizes XS–XL · Women",
-   "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/lux-fitness-training-burnout-tee-100254389-11019?variant=56698413220188",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254389_155385_FR_Model_eCom.jpg?v=1774017821&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord DARK GREY TAB",
-   "detail": "Size 27",
-   "shop": "HOMEBOY",
-   "price": 44,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-dark-grey-tab?variant=58393920012662",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/MONSTERCORDDARKGREYFRONT.png?v=1748935651&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
    "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
@@ -5402,49 +5358,42 @@
   },
   {
    "brand": "Reebok",
-   "name": "Brie Small Logo Women's Leggings",
-   "detail": "Sizes XXS–XXL · Women",
+   "name": "Tobe x Reebok Junior Chukwu Abuo Sneakers",
+   "detail": "Sizes 34.5–39 · Kids",
    "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "Trousers",
-   "url": "https://www.reebok.eu/products/brie-small-logo-legging-100251593-4455?variant=56638203167068",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100251593_142663_FR_Model_eCom.jpg?v=1770249359&width=800",
-   "tag": "Street edit",
+   "price": 24,
+   "was": 80,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100247055-243069?variant=55776781959516",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100247055_SLC_eCom.jpg?v=1761058347&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear"
+    "retro"
    ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Kids",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra DESPERADO Denim SHORTS VINTAGE BLACK TAB",
-   "detail": "Sizes 24–28",
+   "name": "hb. Crew BLACK",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 36,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-desperado-denim-shorts-vintage-black-tab?variant=59407370125686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH2200-87_x-tra_DESPERADOS_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1775632035&width=800",
-   "tag": "Retro find",
+   "price": 31.99,
+   "was": 79.99,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859228022",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5471,43 +5420,37 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Blocked Knit Shorts",
-   "detail": "Sizes XS–XXL · Men",
+   "name": "Court Advance Surge Women's Sneakers",
+   "detail": "Sizes 36–41 · Women",
    "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/id-train-blocked-knit-shorts-100255082-4507?variant=56638270800220",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100255082_155678_FR_Model_eCom.jpg?v=1773328241&width=800",
+   "price": 24,
+   "was": 80,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/reebok-court-advance-surge-sneakers-100202648-1319?variant=54323844841820",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/23357227_53839673_800.webp?v=1744656927&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black",
-   "detail": "Sizes 28–36",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
+   "detail": "Sizes 22–36",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 35.99,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black?variant=58393917981046",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": []
@@ -5535,51 +5478,39 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID Train Rib Shrug",
-   "detail": "Sizes XXS–XL · Women",
+   "name": "Ultra Lo Women's Trainers",
+   "detail": "Sizes 35–42.5 · Women",
    "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "Jackets",
-   "url": "https://www.reebok.eu/products/id-train-rib-shrug-100254843-11019?variant=56638264213852",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100254843_155555_FR_Model_eCom.jpg?v=1770921562&width=800",
+   "price": 27,
+   "was": 90,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/ultra-lo-womens-trainers-100260997-260997?variant=58351666626908",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100260997_SLC_eCom.jpg?v=1784819496&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
     "retro"
    ],
    "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
-   "name": "Pencil Hood GREY HEATHER",
-   "detail": "Sizes XXS–M",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
-   "price": 36,
+   "price": 35.99,
    "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/pencil-hood-grey-heather?variant=58393915097462",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/NZ74387_3bd4d43b-927a-44d6-a9ac-16847bc4f627.jpg?v=1702296581&width=800",
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
@@ -5603,29 +5534,21 @@
   },
   {
    "brand": "Reebok",
-   "name": "ID 1-Color Logo Fleece Shorts",
-   "detail": "Sizes XS–XL · Men",
+   "name": "Ultra Lo Women's Trainers",
+   "detail": "Sizes 35–42.5 · Women",
    "shop": "REEBOK",
-   "price": 16,
-   "was": 40,
-   "category": "Shorts",
-   "url": "https://www.reebok.eu/products/reebok-identity-1-color-logo-fleece-shorts-100239983-1315?variant=55324010676572",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/142649-100239983_04Large.jpg?v=1758205597&width=800",
-   "tag": "Street edit",
+   "price": 27,
+   "was": 90,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/ultra-lo-womens-sneakers-100245704-1952?variant=56638182293852",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100245704_SLC_eCom.jpg?v=1770721419&width=800",
+   "tag": "Retro sport",
    "styles": [
     "sport",
-    "retro",
-    "streetwear",
-    "utility"
+    "retro"
    ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Women",
+   "sizes": []
   }
  ]
 }
