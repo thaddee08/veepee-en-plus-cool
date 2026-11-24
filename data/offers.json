@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-24T03:00:57.462Z",
+ "generatedAt": "2026-11-24T15:01:21.117Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 211
+   "found": 210
   },
   {
    "source": "DICKIES",
@@ -14,17 +14,17 @@
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 978
+   "found": 948
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 212
+   "found": 207
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 316
+   "found": 315
   },
   {
    "source": "OVERKILL",
@@ -34,12 +34,12 @@
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 148
+   "found": 149
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 739
+   "found": 765
   },
   {
    "source": "6PM",
@@ -129,7 +129,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–37.5 · Women",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–36 · Women",
    "shop": "ASPHALTGOLD",
    "price": 44,
    "was": 149,
@@ -805,7 +805,7 @@
   {
    "brand": "Reebok",
    "name": "Freshman Men's T-Shirt",
-   "detail": "Sizes XXS–L · Men",
+   "detail": "Sizes XXS–M · Men",
    "shop": "REEBOK",
    "price": 10,
    "was": 35,
@@ -822,8 +822,7 @@
     "XXS",
     "XS",
     "S",
-    "M",
-    "L"
+    "M"
    ]
   },
   {
@@ -855,7 +854,7 @@
    "was": 109.99,
    "category": "Shoes",
    "url": "https://www.afew-store.com/products/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory?variant=52603977859338",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1795457827&width=800",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-dbreak-sde-sp-hyper-royal-photon-dust-sail-pale-ivory-iq0635-400-footwear_20_3E_20sneaker.jpg?v=1795511171&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -965,7 +964,7 @@
   {
    "brand": "Reebok",
    "name": "Heritage Cut & Sew T-Shirt",
-   "detail": "Sizes XS–XL",
+   "detail": "Sizes XS–L · Men",
    "shop": "REEBOK",
    "price": 10,
    "was": 35,
@@ -977,13 +976,12 @@
     "sport",
     "retro"
    ],
-   "department": "Not specified",
+   "department": "Men",
    "sizes": [
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
@@ -1642,7 +1640,7 @@
    "price": 34,
    "was": 89,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081135371",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-sprint-sister-sail-black-sail?variant=52985081200907",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n701j3mq1sf-IB7102-100_Nike_Wmns-Sprint-Sister_Sail-Black-Sail_os-1.jpg?v=1774452040&width=800",
    "tag": "Retro find",
    "styles": [
@@ -1998,7 +1996,7 @@
   {
    "brand": "Nike",
    "name": "Total90 Shox Magia",
-   "detail": "Sizes 37.5–40.5 · Women",
+   "detail": "Sizes 37.5–40 · Women",
    "shop": "OVERKILL",
    "price": 80,
    "was": 149,
@@ -2260,7 +2258,7 @@
   {
    "brand": "Reebok",
    "name": "Smash Edge Junior Trainers",
-   "detail": "Sizes 34.5–38 · Kids",
+   "detail": "Sizes 34.5–37 · Kids",
    "shop": "REEBOK",
    "price": 16,
    "was": 55,
@@ -2350,25 +2348,21 @@
   {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–L · Women",
+   "detail": "foam · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
+    "XS"
    ]
   },
   {
@@ -2412,7 +2406,7 @@
   {
    "brand": "Reebok",
    "name": "Smash Edge Junior Trainers",
-   "detail": "Sizes 34.5–37 · Kids",
+   "detail": "Sizes 34.5–36.5 · Kids",
    "shop": "REEBOK",
    "price": 16,
    "was": 55,
@@ -2504,24 +2498,26 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–M · Women",
+   "name": "TARJAA T-SHIRT",
+   "detail": "pink mist · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   {
@@ -2568,7 +2564,7 @@
   {
    "brand": "Reebok",
    "name": "Tobe x Reebok Infant Chukwu Abuo Sneakers",
-   "detail": "Sizes 19.5–26.5 · Unisex",
+   "detail": "Sizes 19.5–26.5 · Kids",
    "shop": "REEBOK",
    "price": 19,
    "was": 65,
@@ -2580,7 +2576,7 @@
     "sport",
     "retro"
    ],
-   "department": "Unisex",
+   "department": "Kids",
    "sizes": []
   },
   {
@@ -2666,13 +2662,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–S · Women",
+   "detail": "white-foam · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2821,14 +2817,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2837,7 +2833,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -2910,7 +2906,7 @@
   {
    "brand": "Jordan",
    "name": "Nike Wmns Jordan Pointe",
-   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–42.5 · Women",
+   "detail": "Iced Carmine / Coconut Milk / Elemental Pink · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 52,
    "was": 119,
@@ -2982,24 +2978,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA DIFFERENCE T-SHIRT",
-   "detail": "silver melange · Sizes XS–M",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
-   "price": 39.9,
-   "was": 59.9,
+   "price": 29.9,
+   "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M"
+    "XXL"
    ]
   },
   {
@@ -3146,20 +3141,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PIÑAYARN® BLEND BUCKET HAT W",
-   "detail": "dried palm · Unisex",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–M",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -3299,23 +3299,20 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "white · Size XS · Women",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "HOMEBOY",
@@ -3462,24 +3459,21 @@
   {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "M",
-    "L",
-    "XL"
+    "XS"
    ]
   },
   {
@@ -3622,23 +3616,25 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LUALAA LEINEN-MIX T-SHIRT",
-   "detail": "dried palm · Sizes S–M · Women",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -3709,7 +3705,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Air Max 95 *Big Bubble* *Jewel Swoosh*",
-   "detail": "Cargo Khaki / Medium Olive · Sizes 36–40 · Women",
+   "detail": "Cargo Khaki / Medium Olive · Sizes 36–37.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 95,
    "was": 195,
@@ -3793,24 +3789,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes S–M · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
     "S",
-    "M",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -3965,13 +3960,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "wedgwood · Sizes S–L · Men",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3981,7 +3976,7 @@
    "sizes": [
     "S",
     "M",
-    "L"
+    "XXL"
    ]
   },
   {
@@ -4122,14 +4117,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "washed berry · Sizes XL–XXL · Men",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "wedgwood · Sizes S–L · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4137,8 +4132,9 @@
    ],
    "department": "Men",
    "sizes": [
-    "XL",
-    "XXL"
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -4207,12 +4203,12 @@
   {
    "brand": "Nike",
    "name": "Nike ZoomX Vaporfly 4",
-   "detail": "Spruce Aura / Dark Obsidian / Grey Fog · Sizes 44–47 · Unisex",
+   "detail": "Spruce Aura / Dark Obsidian / Grey Fog · Size 47 · Unisex",
    "shop": "ASPHALTGOLD",
    "price": 130,
    "was": 259,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-zoomx-vaporfly-next-4-flyknit-spruce-aura-dark-obsidian-grey-fog?variant=53189166694667",
+   "url": "https://www.asphaltgold.com/products/nike-zoomx-vaporfly-next-4-flyknit-spruce-aura-dark-obsidian-grey-fog?variant=53189166858507",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0brjzbb5zua-IM8203-001_Nike_Zoomx-Vaporfly-Next-4-Flyknit-Spruce-Aura-Dark-Obsidian-Grey-Fog_os-1.jpg?v=1782138335&width=800",
    "tag": "Retro find",
    "styles": [
@@ -4279,13 +4275,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "detail": "washed berry · Sizes XL–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-washed-berry?variant=56186038812997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3563_111.jpg?v=1791813491&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4293,9 +4289,6 @@
    ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "L",
     "XL",
     "XXL"
    ]
@@ -4441,13 +4434,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS LEINEN-MIX T-SHIRT",
-   "detail": "tinted navy · Sizes L–XXL · Men",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037666117",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-foam?variant=56186038092101",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3472_111.jpg?v=1791813656&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4455,6 +4448,8 @@
    ],
    "department": "Men",
    "sizes": [
+    "S",
+    "M",
     "L",
     "XL",
     "XXL"
@@ -4601,14 +4596,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "ICONIC Å MAARKOS GD T-SHIRT",
-   "detail": "foam washed · Sizes S–XL · Men",
+   "name": "MAARKOS LEINEN-MIX T-SHIRT",
+   "detail": "tinted navy · Sizes L–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-foam-washed?variant=56186035372357",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3613_111.jpg?v=1791813662&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-linen-blend-t-shirt-tinted-navy?variant=56186037666117",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008060-3232_111.jpg?v=1791813564&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4616,9 +4611,9 @@
    ],
    "department": "Men",
    "sizes": [
-    "S",
-    "M",
-    "XL"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4762,13 +4757,13 @@
   {
    "brand": "Armedangels",
    "name": "ICONIC Å MAARKOS GD T-SHIRT",
-   "detail": "granit washed · Size S · Men",
+   "detail": "foam washed · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-granit-washed?variant=56186035175749",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3612_111.jpg?v=1791813671&width=800",
+   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-foam-washed?variant=56186035372357",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3613_111.jpg?v=1791813662&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4776,7 +4771,8 @@
    ],
    "department": "Men",
    "sizes": [
-    "S"
+    "S",
+    "XL"
    ]
   },
   {
@@ -4919,13 +4915,13 @@
   {
    "brand": "Armedangels",
    "name": "ICONIC Å MAARKOS GD T-SHIRT",
-   "detail": "washed berry washed · Sizes L–XXL · Men",
+   "detail": "granit washed · Size S · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-washed-berry-washed?variant=56186034946373",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3611_111.jpg?v=1791813535&width=800",
+   "url": "https://www.armedangels.com/products/iconic-a-maarkos-gd-t-shirt-granit-washed?variant=56186035175749",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008057-3612_111.jpg?v=1791813671&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4933,9 +4929,7 @@
    ],
    "department": "Men",
    "sizes": [
-    "L",
-    "XL",
-    "XXL"
+    "S"
    ]
   },
   {
