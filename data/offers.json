@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:01:21.117Z",
+ "generatedAt": "2026-11-25T00:54:45.802Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,17 +9,17 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 464
+   "found": 461
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 948
+   "found": 947
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 207
+   "found": 206
   },
   {
    "source": "AFEW",
@@ -29,17 +29,17 @@
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 119
+   "found": 118
   },
   {
    "source": "A.P.C.",
    "ok": true,
-   "found": 149
+   "found": 148
   },
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 765
+   "found": 751
   },
   {
    "source": "6PM",
@@ -474,12 +474,12 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Total 90",
-   "detail": "Metallic Platinum / Photon Dust · Sizes 37.5–38.5 · Women",
+   "detail": "Metallic Platinum / Photon Dust · Size 37.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 34,
    "was": 109,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-t90-metallic-platinum-photon-dust?variant=51717243240715",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-t90-metallic-platinum-photon-dust?variant=51717243306251",
    "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n8XMcChcluqxWdwg6lKA_II9792-011-Nike-Wmns-T90-Metallic-Platinum-Photon-Dust-OS-1.jpg?v=1750837958&width=800",
    "tag": "Retro find",
    "styles": [
@@ -645,22 +645,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia",
-   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Black / Sail · Size 41 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 50,
-   "was": 149,
+   "price": 31,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-blacksail?variant=52872639873291",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/liiqi3p8mt-HQ7955-001_Nike_Wmns-Air-Superfly_Black-Sail_os-1.jpg?v=1770217019&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -827,14 +825,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Superfly",
-   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 38.5–40.5 · Women",
+   "name": "Nike Wmns Total 90 Shox Magia",
+   "detail": "Sail / Metallic Silver / Pale Ivory / Sail · Size 35.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 35,
-   "was": 99,
+   "price": 50,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938803979",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-sail-metallic-silver-pale-ivory-sail?variant=52811338481931",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/bc3hovz9iil-IO9300-100_Nike_Wmns-Total-90-Shox-Magia-Sail-Metallic-Silver-Pale-Ivory-Sail_os-1.jpg?v=1768474512&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -986,14 +984,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90 Shox Magia QS",
-   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
+   "name": "Nike Wmns Air Superfly",
+   "detail": "Metallic Silver / Black / Anthracite / Volt · Sizes 39–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 53,
-   "was": 149,
+   "price": 35,
+   "was": 99,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-superfly-metallic-silver-black-anthracite-volt?variant=52819938836747",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/9ajvgrh5r3p-IB5824-001_Nike_Wmns-Air-Superfly_Metallic-Silver-Black-Anthracite-Volt_os-1.jpg?v=1768919389&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
@@ -1099,20 +1097,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Vernal vest",
-   "detail": "Egret · Size XS · Women",
+   "name": "Mapleton lightweight t-shirt",
+   "detail": "Retro indigo · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/vernal-vest-dk0a88qwc481-grey?variant=45766604619962",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88QWC48-1_8a0c7c00-9aa7-487e-a9fa-0f3816a2fb5a.jpg?v=1779221446&width=800",
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS"
    ]
@@ -1144,19 +1142,20 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan Mule",
-   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Total 90 Shox Magia QS",
+   "detail": "Taupe Grey / Metallic Silver / Light Violet Ore · Sizes 36.5–42.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 53,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
-   "tag": "Statement color",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-total-90-shox-magia-qs-taupe-grey-metallic-silver-light-violet-ore?variant=52985058165003",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/w2my5ybesp-IO9300-201_Nike_Wmns-Total-90-Shox-Magia-QS-Taupe-Grey-Metallic-Silver-Light-Violet-Ore_os-1.jpg?v=1774452700&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
+    "retro",
     "statement"
    ],
    "department": "Women",
@@ -1267,13 +1266,13 @@
   {
    "brand": "Dickies",
    "name": "Mapleton lightweight t-shirt",
-   "detail": "Retro indigo · Size XS",
+   "detail": "Cypress · Size XS",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbri21-blue?variant=45766476824762",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBRI2-1_1cf83104-e112-45cf-9093-c0666bfb4c7c.jpg?v=1779221432&width=800",
+   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1311,18 +1310,19 @@
   },
   {
    "brand": "Jordan",
-   "name": "Nike Wmns Jordan Pointe",
-   "detail": "Black / Sail · Sizes 36–43 · Women",
+   "name": "Nike Wmns Air Jordan Mule",
+   "detail": "Summit White / Metallic Silver / Black · Sizes 35.5–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 43,
-   "was": 119,
+   "price": 53,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-mule-summit-white-metallic-silver-black?variant=52759465722123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/k78djxd9zih-HJ4292-100_Nike_Wmns-Air-Jordan-Mule-Summit-White-Metallic-Silver-Black_os-1.jpg?v=1765811472&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1424,22 +1424,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton lightweight t-shirt",
-   "detail": "Cypress · Size XS",
+   "name": "Maple Valley light weight t-shirt",
+   "detail": "Peach brulee · Sizes XS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-lightweight-t-shirt-dk0a4xdbk721-green?variant=45766474956986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBK72-1_8281b135-54ef-45df-9500-4373a93b15e6.jpg?v=1779221425&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "M",
+    "XL"
    ]
   },
   {
@@ -1469,20 +1471,19 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike Wmns Air Rift Breathe",
-   "detail": "Black / Black / Black · Size 35.5 · Women",
+   "brand": "Jordan",
+   "name": "Nike Wmns Jordan Pointe",
+   "detail": "Black / Sail · Sizes 36–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 48,
-   "was": 129,
+   "price": 43,
+   "was": 119,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nikewmns-air-rift-breathe-black-black-black?variant=52763028553995",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/1psgngmtrnh-IB8881-001_Nike_Wmns-Air-Rift-Breathe-Black-Black-Black_os-1.jpg?v=1766408694&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-jordan-pointe-black-sail?variant=53034572775691",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/uhnjm12fhqm-IB8597-001_Nike_Wmns-Jordan-Pointe-Black-Sail_os-1.jpg?v=1776085386&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -1588,13 +1589,13 @@
   {
    "brand": "Dickies",
    "name": "Maple Valley light weight t-shirt",
-   "detail": "Peach brulee · Sizes XS–XL · Women",
+   "detail": "Burgundy · Sizes XXS–S · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaok731-pink?variant=45766299713722",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOK73-1_e4192c21-49b4-419f-b5fa-d5c569859f55.jpg?v=1779221311&width=800",
+   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -1602,9 +1603,8 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "M",
-    "XL"
+    "XXS",
+    "S"
    ]
   },
   {
@@ -1635,7 +1635,7 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Sprint Sister",
-   "detail": "Sail / Black / Sail · Sizes 36.5–42.5 · Women",
+   "detail": "Sail / Black / Sail · Sizes 36.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 34,
    "was": 89,
@@ -1748,23 +1748,24 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley light weight t-shirt",
-   "detail": "Burgundy · Sizes XXS–S · Women",
+   "name": "Mapleton light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XXL",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-light-weight-t-shirt-dk0a4zaol161-red?variant=45766297878714",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4ZAOL16-1_6732ef06-9b7e-4f2f-bd96-96c20f2c58a7.jpg?v=1779221345&width=800",
+   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301089978",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XXS",
-    "S"
+    "XS",
+    "S",
+    "XXL"
    ]
   },
   {
@@ -1913,24 +1914,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Mapleton light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XXL",
+   "name": "Maple Valley mid weight t-shirt",
+   "detail": "Pumpkin spice · Size M · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/mapleton-light-weight-t-shirt-dk0a4xdbl161-red?variant=45766301089978",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XDBL16-1_430409cc-1484-4b04-9fe8-f63d981077e0.jpg?v=1779221331&width=800",
+   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "XXL"
+    "M"
    ]
   },
   {
@@ -2075,22 +2074,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Maple Valley mid weight t-shirt",
-   "detail": "Pumpkin spice · Size M · Women",
+   "name": "Aitkin light weight chest logo t-shirt",
+   "detail": "Desert sand · Size S",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/maple-valley-mid-weight-t-shirt-dk0a4xpok641-orange?variant=45766298173626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4XPOK64-1_66044671-2b7a-46ea-a63a-35092468f256.jpg?v=1779221328&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
+   "tag": "Street edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "M"
+    "S"
    ]
   },
   {
@@ -2236,23 +2236,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin light weight chest logo t-shirt",
-   "detail": "Desert sand · Size S",
+   "name": "V neck top",
+   "detail": "Black · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-light-weight-chest-logo-t-shirt-dk0a4y8ol171-beige?variant=45766120276154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y8OL17-1_d6de8b2f-616a-4a31-acd1-051f88889be3.jpg?v=1779221161&width=800",
-   "tag": "Street edit",
+   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "streetwear"
+    "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "S"
+    "XL"
    ]
   },
   {
@@ -2367,32 +2366,39 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim WASHED GREY TAB",
-   "detail": "Sizes 22–31",
+   "name": "1993 Jacket US NAVY",
+   "detail": "Sizes XS–XXL",
    "shop": "HOMEBOY",
-   "price": 29.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "price": 26.99,
+   "was": 89.99,
+   "category": "Jackets",
+   "url": "https://homeboy.eu/products/1993-jacket-us-navy-763710?variant=58393880363382",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/1993-jacket-us-navy-763710-1.jpg?v=1777276483&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "Dickies",
-   "name": "V neck top",
-   "detail": "Black · Size XL · Women",
+   "name": "Racer top",
+   "detail": "Beige · Sizes XXS–XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/v-neck-top-dk0a8677blk1-black?variant=45766444548282",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8677BLK-1_da6664a4-2ae9-4e7b-ae8f-3a089cd69c09.jpg?v=1779221378&width=800",
+   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2400,6 +2406,8 @@
    ],
    "department": "Women",
    "sizes": [
+    "XXS",
+    "XS",
     "XL"
    ]
   },
@@ -2522,33 +2530,32 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive TAB",
-   "detail": "Sizes 26–32",
+   "name": "x-tra MONSTER Denim WASHED GREY TAB",
+   "detail": "Sizes 22–27",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-grey-tab?variant=58394346979702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085x-traMONSTERDenimWASHEDGREYfront_resized.jpg?v=1761823521&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Racer top",
-   "detail": "Beige · Sizes XXS–XL · Women",
+   "name": "Plentywood vest",
+   "detail": "Stormy weather · Size XL · Women",
    "shop": "DICKIES",
    "price": 12.5,
    "was": 25,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/racer-top-dk0a4z8gc481-white?variant=45766341165242",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8GC48-1_5154904c-c5d7-4342-9f15-daad6aa36c64.jpg?v=1779221397&width=800",
+   "category": "Jackets",
+   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2556,8 +2563,6 @@
    ],
    "department": "Women",
    "sizes": [
-    "XXS",
-    "XS",
     "XL"
    ]
   },
@@ -2682,32 +2687,33 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim washed Black",
-   "detail": "Sizes 24–33",
+   "name": "x-tra CARGO PANTS Olive TAB",
+   "detail": "Sizes 26–32",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black?variant=58823396458870",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive-tab?variant=58393874104694",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Plentywood vest",
-   "detail": "Stormy weather · Size XL · Women",
+   "name": "Summerdale light weight t-shirt",
+   "detail": "Burgundy · Sizes XS–XL · Women",
    "shop": "DICKIES",
-   "price": 12.5,
-   "was": 25,
-   "category": "Jackets",
-   "url": "https://dickies.eu/products/plentywood-vest-dk0a4z9dg701-blue?variant=45766330679482",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z9DG70-1_2a52092c-fbf9-4bc7-983c-b53b9725d594.jpg?v=1779221312&width=800",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -2715,6 +2721,9 @@
    ],
    "department": "Women",
    "sizes": [
+    "XS",
+    "S",
+    "M",
     "XL"
    ]
   },
@@ -2838,14 +2847,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord BLACK",
-   "detail": "Sizes 22–25",
+   "name": "x-tra MONSTER Denim washed Black",
+   "detail": "Sizes 24–33",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-black?variant=58393873187190",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYCordPantsBlackfront_resize_reshoot_d7b2a072-82c0-4447-a121-227211102015.jpg?v=1761834006&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-washed-black?variant=58823396458870",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1085_x-traMONSTERDenimWASHED_BLACK_front_resized.jpg?v=1761824185&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -2856,25 +2865,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XL · Women",
+   "name": "Panther t-shirt",
+   "detail": "Whitecap grey · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/summerdale-light-weight-t-shirt-dk0a4y1bl161-red?variant=45766427214010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Y1BL16-1_e19ba921-4a72-4783-8273-e19da7f7f654.jpg?v=1779221355&width=800",
+   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "XL"
+    "S"
    ]
   },
   {
@@ -2999,33 +3005,32 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra ALIEN Cargo Cord Black TAB",
-   "detail": "Sizes 22–24",
+   "name": "x-tra MONSTER Cord BLACK",
+   "detail": "Sizes 22–25",
    "shop": "HOMEBOY",
-   "price": 32.99,
-   "was": 109.98,
+   "price": 29.99,
+   "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
-   "tag": "Utility pick",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-black?variant=58393873187190",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301x-traBAGGYCordPantsBlackfront_resize_reshoot_d7b2a072-82c0-4447-a121-227211102015.jpg?v=1761834006&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Panther t-shirt",
-   "detail": "Whitecap grey · Size S",
+   "name": "Outdoor t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/panther-t-shirt-dk0a8819f901-white?variant=45766400573626",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8819F90-1_9149166b-7fdd-42e4-9e61-e2976ff1d31f.jpg?v=1779221333&width=800",
+   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3033,7 +3038,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -3163,40 +3168,43 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord UBOOT TAB",
-   "detail": "Size 24",
+   "name": "x-tra ALIEN Cargo Cord Black TAB",
+   "detail": "Sizes 22–24",
    "shop": "HOMEBOY",
-   "price": 33,
-   "was": 109.99,
+   "price": 32.99,
+   "was": 109.98,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot-tab?variant=58393916703094",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-alien-cargo-cord-black?variant=58630058639734",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/200951_Product.jpg?v=1701963884&width=800",
+   "tag": "Utility pick",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Not specified",
    "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Outdoor t-shirt",
-   "detail": "Black · Size XS",
+   "name": "Running Wild top",
+   "detail": "Brown · Sizes S–L · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/outdoor-t-shirt-dk0a4z8pblk1-black?variant=45766391234746",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8PBLK-1_fc8d8e79-d5ee-4b56-b683-44d8780800fe.jpg?v=1779221335&width=800",
-   "tag": "Workwear",
+   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
+   "tag": "Sport edit",
    "styles": [
     "skate",
-    "utility"
+    "utility",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS"
+    "S",
+    "L"
    ]
   },
   {
@@ -3316,14 +3324,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord CHOCOLATE BROWN",
-   "detail": "Sizes 24–31",
+   "name": "x-tra MONSTER Cord UBOOT TAB",
+   "detail": "Sizes 24–30",
    "shop": "HOMEBOY",
    "price": 33,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-chocolate-brown?variant=58393860604278",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1_bb55e197-5fc4-450b-b486-a6a4d3d45287.jpg?v=1756809945&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot-tab?variant=58393916703094",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3334,24 +3342,22 @@
   },
   {
    "brand": "Dickies",
-   "name": "Running Wild top",
-   "detail": "Brown · Sizes S–L · Women",
+   "name": "Bricklane t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/running-wild-top-dk0a4z8lk411-brown?variant=45766365282490",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8LK41-1_4c6de050-7823-4f44-9cc7-bbb29f5522a0.jpg?v=1779221397&width=800",
-   "tag": "Sport edit",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "tag": "Workwear",
    "styles": [
     "skate",
-    "utility",
-    "sport"
+    "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "S",
-    "L"
+    "XS"
    ]
   },
   {
@@ -3478,14 +3484,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord UBOOT",
-   "detail": "Sizes 24–30",
+   "name": "x-tra MONSTER Cord CHOCOLATE BROWN",
+   "detail": "Sizes 24–29",
    "shop": "HOMEBOY",
    "price": 33,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot?variant=58393898484086",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-chocolate-brown?variant=58393860604278",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERvs.BAGGYCordCHOCOLATEBROWN-43_1_bb55e197-5fc4-450b-b486-a6a4d3d45287.jpg?v=1756809945&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3497,13 +3503,13 @@
   {
    "brand": "Dickies",
    "name": "Bricklane t-shirt",
-   "detail": "Black · Size XS",
+   "detail": "Desert sand · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8rblk1-black?variant=45766121947322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8RBLK-1_54ac5ccc-592f-45ac-ab52-63ce100b6a37.jpg?v=1779221159&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3511,7 +3517,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S",
+    "M"
    ]
   },
   {
@@ -3639,14 +3646,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Cord OLIVE TAB",
-   "detail": "Size 25",
+   "name": "x-tra MONSTER Cord UBOOT",
+   "detail": "Sizes 24–30",
    "shop": "HOMEBOY",
    "price": 33,
    "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-cord-olive-tab?variant=58095435776374",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1001-83X-TRAMONSTERCordOLIVE_2_e4d6a12b-80bd-4270-88c0-08d824799c68.png?v=1702900053&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-uboot?variant=58393898484086",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/Monster_Cord_Uboot_Front.jpg?v=1756822217&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3657,14 +3664,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "Desert sand · Sizes S–M",
+   "name": "Enterprise light weight t-shirt",
+   "detail": "Black · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0ds1-khaki?variant=45766111428794",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0DS-1_c10e6a2d-c1c9-4d7c-841d-61325be8221f.jpg?v=1779221194&width=800",
+   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3672,8 +3679,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
@@ -3810,14 +3816,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER 3-D Denim WASHED BLUE",
-   "detail": "Size 24",
+   "name": "x-tra MONSTER Cord OLIVE TAB",
+   "detail": "Size 25",
    "shop": "HOMEBOY",
-   "price": 30,
-   "was": 99.99,
+   "price": 33,
+   "was": 109.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-3-d-denim-washed-blue?variant=58393943900534",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1864-81x-traMONSTER3-DDenimWASHEDBLUE.jpg?v=1747218173&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-cord-olive-tab?variant=58095435776374",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1001-83X-TRAMONSTERCordOLIVE_2_e4d6a12b-80bd-4270-88c0-08d824799c68.png?v=1702900053&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3828,14 +3834,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Enterprise light weight t-shirt",
-   "detail": "Black · Size XS",
+   "name": "Desert Crest t-shirt",
+   "detail": "Whitecap grey · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/enterprise-light-weight-t-shirt-dk0a4yrnblk1-black?variant=45766078890170",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4YRNBLK-1_e0cd0aa8-f469-40e0-95bc-ec6d8b158c9c.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -3981,14 +3987,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Chino DUST",
-   "detail": "Size 28",
+   "name": "x-tra MONSTER 3-D Denim WASHED BLUE",
+   "detail": "Size 24",
    "shop": "HOMEBOY",
    "price": 30,
    "was": 99.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust?variant=47925691547927",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-3-d-denim-washed-blue?variant=58393943900534",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1864-81x-traMONSTER3-DDenimWASHEDBLUE.jpg?v=1747218173&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -3999,14 +4005,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Desert Crest t-shirt",
-   "detail": "Whitecap grey · Size XS",
+   "name": "Apison light weight t-shirt",
+   "detail": "Dark blue · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/desert-crest-t-shirt-dk0a88ddf901-white?variant=45766023577786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88DDF90-1_ea12bc00-9a6f-4499-bb47-20f258eb4e00.jpg?v=1779221211&width=800",
+   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4014,7 +4020,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
    ]
   },
   {
@@ -4139,14 +4145,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Blue TAB",
-   "detail": "Sizes 22–28",
+   "name": "x-tra MONSTER Chino DUST",
+   "detail": "Size 28",
    "shop": "HOMEBOY",
-   "price": 27,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue-tab?variant=59407296528758",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
+   "price": 30,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-dust?variant=47925691547927",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-82x-traMONSTERChinoDUST_1.jpg?v=1723129062&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4157,14 +4163,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Apison light weight t-shirt",
-   "detail": "Dark blue · Size S",
+   "name": "Bricklane t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/apison-light-weight-t-shirt-dk0a87qml181-navy?variant=45766016204986",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A87QML18-1_f964725d-bcac-4864-9771-947d33df5830.jpg?v=1779221160&width=800",
+   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4172,7 +4178,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS"
    ]
   },
   {
@@ -4201,22 +4207,22 @@
    ]
   },
   {
-   "brand": "Nike",
-   "name": "Nike ZoomX Vaporfly 4",
-   "detail": "Spruce Aura / Dark Obsidian / Grey Fog · Size 47 · Unisex",
+   "brand": "Jordan",
+   "name": "Nike Wmns Air Jordan 1 Retro High OG *Psychic Blue*",
+   "detail": "Pale Ivory / Psychic Blue / Coconut Milk · Size 36 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 130,
-   "was": 259,
+   "price": 90,
+   "was": 179,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-zoomx-vaporfly-next-4-flyknit-spruce-aura-dark-obsidian-grey-fog?variant=53189166858507",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/0brjzbb5zua-IM8203-001_Nike_Zoomx-Vaporfly-Next-4-Flyknit-Spruce-Aura-Dark-Obsidian-Grey-Fog_os-1.jpg?v=1782138335&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-1-retro-high-og-psychic-blue-pale-ivory-psychic-blue-coconut-milk?variant=52910777893131",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gvla0692e54-FD2596-102_Nike_Wmns-Air-Jordan-1-Retro-High-OG-Psychic-Blue-Pale-Ivory-Psychic-Blue-Coconut-Milk_os-1.jpg?v=1772116007&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
     "retro"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -4295,14 +4301,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Shorts Moon TAB",
-   "detail": "Sizes 22–34",
+   "name": "x-tra MONSTER Denim Shorts Washed Blue TAB",
+   "detail": "Sizes 22–28",
    "shop": "HOMEBOY",
    "price": 27,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon-tab?variant=59407217230198",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-blue-tab?variant=59407296528758",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traMONSTERDenimSHORTSWASHEDBLUE-81-0.jpg?v=1777288192&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4313,14 +4319,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Bricklane t-shirt",
-   "detail": "White · Size XS",
+   "name": "Tipp City lightweight t-shirt",
+   "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/bricklane-t-shirt-dk0a4z8r0wh1-white?variant=45766131024058",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A4Z8R0WH-1_b4733d25-5d42-4330-9262-4b77d3c89d34.jpg?v=1779221193&width=800",
+   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4358,20 +4364,21 @@
    ]
   },
   {
-   "brand": "Jordan",
-   "name": "Nike Wmns Air Jordan 1 Retro High OG *Psychic Blue*",
-   "detail": "Pale Ivory / Psychic Blue / Coconut Milk · Size 36 · Women",
+   "brand": "Nike",
+   "name": "Nike Wmns Shox TL",
+   "detail": "White / Work Blue · Size 36.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 90,
-   "was": 179,
+   "price": 86,
+   "was": 169,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-jordan-1-retro-high-og-psychic-blue-pale-ivory-psychic-blue-coconut-milk?variant=52910777893131",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/gvla0692e54-FD2596-102_Nike_Wmns-Air-Jordan-1-Retro-High-OG-Psychic-Blue-Pale-Ivory-Psychic-Blue-Coconut-Milk_os-1.jpg?v=1772116007&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-tl-white-work-blue?variant=52838559482123",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8gO2hGcdU29vSHhm3xd8-AR3566-106-Nike-Wmns-Shox-TL-White-Work-Blue-os-1.jpg?v=1770107268&width=800",
    "tag": "Retro find",
    "styles": [
     "sport",
     "streetwear",
-    "retro"
+    "retro",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -4457,14 +4464,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Chino BLACK TAB",
-   "detail": "Sizes 24–26",
+   "name": "x-tra MONSTER Shorts Moon TAB",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
    "price": 27,
    "was": 89.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58393970278774",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-shorts-moon-tab?variant=59407217230198",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra-MONSTER-Shorts-Moon1_5c638741-be7d-493a-a761-9064ab277729.jpg?v=1776957220&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4475,14 +4482,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Tipp City lightweight t-shirt",
+   "name": "Amberley lightweight t-shirt",
    "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/tipp-city-lightweight-t-shirt-dk0a8djbc481-white?variant=45766672613562",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DJBC48-1_1487b67f-8244-46cb-82ef-916b884dfacf.jpg?v=1779221466&width=800",
+   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4521,20 +4528,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Shox TL",
-   "detail": "White / Work Blue · Size 36.5 · Women",
+   "name": "Nike Wmns Air Rift",
+   "detail": "Cream / Cream/ Light Orewood Brown · Sizes 36.5–44.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 86,
-   "was": 169,
+   "price": 66,
+   "was": 129,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-shox-tl-white-work-blue?variant=52838559482123",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8gO2hGcdU29vSHhm3xd8-AR3566-106-Nike-Wmns-Shox-TL-White-Work-Blue-os-1.jpg?v=1770107268&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-cream-cream-light-orewood-brown?variant=53179085947147",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ku60uxl2zp-HM8288-200_Nike_Wmns-Air-Rift-Cream-Cream--Light-Orewood-Brown_os-1.jpg?v=1781704979&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -4618,14 +4623,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
-   "detail": "Sizes 27–36",
+   "name": "x-tra MONSTER Chino BLACK TAB",
+   "detail": "Sizes 24–26",
    "shop": "HOMEBOY",
    "price": 27,
    "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-chino-black-tab?variant=58393970278774",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1400-10x-traMONSTERChinoBlack_1.jpg?v=1723128922&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4636,14 +4641,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Amberley lightweight t-shirt",
-   "detail": "Egret · Size XS",
+   "name": "Sunflower lightweight t-shirt",
+   "detail": "Dark brown · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/amberley-lightweight-t-shirt-dk0a8e1oc481-white?variant=45766670287034",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8E1OC48-1_044b3104-e047-4046-a2b5-c31e2d550579.jpg?v=1779221468&width=800",
+   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -4682,20 +4687,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Air Rift",
-   "detail": "Cream / Cream/ Light Orewood Brown · Sizes 36.5–44.5 · Women",
+   "name": "Nike Wmns Marina",
+   "detail": "Black / White · Sizes 38–39 · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 66,
-   "was": 129,
+   "price": 15,
+   "was": 29,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-air-rift-cream-cream-light-orewood-brown?variant=53179085947147",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ku60uxl2zp-HM8288-200_Nike_Wmns-Air-Rift-Cream-Cream--Light-Orewood-Brown_os-1.jpg?v=1781704979&width=800",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-marina-black-white?variant=53018142638347",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2ymrnujsitk-IH2381-001_Nike_Wmns-Marina-Black-White_os-1.jpg?v=1775554718&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Unisex",
    "sizes": []
   },
   {
@@ -4777,14 +4782,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants Black",
-   "detail": "Sizes 22–34",
+   "name": "x-tra LOOSE Flex Denim Washed Blue TAB",
+   "detail": "Sizes 27–36",
    "shop": "HOMEBOY",
-   "price": 29.99,
+   "price": 27,
    "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black?variant=58393899106678",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traBAGGYCordJAMESBROWN-1_2c2a738e-aca8-4367-887b-c1fd06cfc5f0.jpg?v=1791274622&width=800",
+   "url": "https://homeboy.eu/products/x-tra-loose-flex-denim-washed-blue-tab?variant=58394360545654",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-tra_LOOSE_Denim_washed_Blue_7d941c60-64fc-4978-b289-e69086edf826.jpg?v=1759141166&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -4795,20 +4800,20 @@
   },
   {
    "brand": "Dickies",
-   "name": "Sunflower lightweight t-shirt",
-   "detail": "Dark brown · Size XS",
+   "name": "Glade Springs lightweight t-shirt",
+   "detail": "Bridal rose · Size XS · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/sunflower-lightweight-t-shirt-dk0a88f40db1-brown?variant=45766669697210",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88F40DB-1_510f5dd9-edb4-4564-89d3-a93a28da87a8.jpg?v=1779221460&width=800",
+   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
    ]
@@ -4841,20 +4846,22 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Marina",
-   "detail": "Black / White · Sizes 38–39 · Unisex",
+   "name": "Nike Wmns Air Max 95 *Big Bubble*",
+   "detail": "Soft Yellow / Metallic Silver / Alabaster · Sizes 36.5–43 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 15,
-   "was": 29,
+   "price": 101,
+   "was": 195,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-marina-black-white?variant=53018142638347",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/2ymrnujsitk-IH2381-001_Nike_Wmns-Marina-Black-White_os-1.jpg?v=1775554718&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-air-max-95-big-bubble-soft-yellow-metallic-silver-alabaster?variant=52910702985483",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/ix9gtfgat7-IQ3444-722_Nike_Wmns-Air-Max-95-Big-Bubble-Soft-Yellow-Metallic-Silver-Alabaster_os-1.jpg?v=1771855493&width=800",
+   "tag": "Retro find",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "retro",
+    "statement"
    ],
-   "department": "Unisex",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -4934,77 +4941,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra BAGGY CORD Pants Black TAB",
-   "detail": "Size 28",
+   "name": "x-tra BAGGY CORD Pants Black",
+   "detail": "Sizes 22–34",
    "shop": "HOMEBOY",
-   "price": 35.99,
-   "was": 99.99,
+   "price": 29.99,
+   "was": 89.99,
    "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black-tab?variant=58393875939702",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-10x-traBAGGYCordBLACKFRONT.png?v=1761834169&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Glade Springs lightweight t-shirt",
-   "detail": "Bridal rose · Size XS · Women",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/glade-springs-lightweight-t-shirt-dk0a8dnxl471-pink?variant=45766662553786",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8DNXL47-1_26b2293a-a230-4fd1-bde5-8e7ed15fd9ef.jpg?v=1779221441&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "ID Football Quarter Zip Women's Top",
-   "detail": "Sizes XXS–XL · Women",
-   "shop": "REEBOK",
-   "price": 15,
-   "was": 50,
-   "category": "T-shirts",
-   "url": "https://www.reebok.eu/products/id-football-1-4-zip-womens-1-4-zip-100267577-267577?variant=58351705424220",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267577_165871_FR_Model_eCom.jpg?v=1787061044&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": [
-    "XXS",
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra MONSTER GOTHIC Denim WASHED BLUE TAB",
-   "detail": "Sizes 25–31",
-   "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 109.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-washed-blue-tab?variant=58393868697974",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-81x-traMONSTERGOTHICDenimWASHEDBLUE.png?v=1738152507&width=800",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black?variant=58393899106678",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/x-traBAGGYCordJAMESBROWN-1_2c2a738e-aca8-4367-887b-c1fd06cfc5f0.jpg?v=1791274622&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5035,6 +4979,71 @@
   },
   {
    "brand": "Reebok",
+   "name": "ID Football Quarter Zip Women's Top",
+   "detail": "Sizes XXS–XL · Women",
+   "shop": "REEBOK",
+   "price": 15,
+   "was": 50,
+   "category": "T-shirts",
+   "url": "https://www.reebok.eu/products/id-football-1-4-zip-womens-1-4-zip-100267577-267577?variant=58351705424220",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100267577_165871_FR_Model_eCom.jpg?v=1787061044&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra BAGGY CORD Pants Black TAB",
+   "detail": "Size 28",
+   "shop": "HOMEBOY",
+   "price": 35.99,
+   "was": 99.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-baggy-cord-pants-black-tab?variant=58393875939702",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA0301-10x-traBAGGYCordBLACKFRONT.png?v=1761834169&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Sizes XS–M · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "Reebok",
    "name": "Wardrobe Essentials Men's Polo Shirt",
    "detail": "Sizes XS–XXL · Men",
    "shop": "REEBOK",
@@ -5061,46 +5070,41 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee POPPY RED",
-   "detail": "Sizes XXS–S",
+   "name": "x-tra MONSTER GOTHIC Denim WASHED BLUE TAB",
+   "detail": "Sizes 25–31",
    "shop": "HOMEBOY",
-   "price": 14.99,
-   "was": 40,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927287158",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
-   "tag": "Statement color",
+   "price": 39.99,
+   "was": 109.99,
+   "category": "Trousers",
+   "url": "https://homeboy.eu/products/x-tra-monster-gothic-denim-washed-blue-tab?variant=58393868697974",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01PA1900-81x-traMONSTERGOTHICDenimWASHEDBLUE.png?v=1738152507&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": [
-    "XXS",
-    "S"
-   ]
+   "sizes": []
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–M · Women",
+   "name": "Derby midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
-    "M"
+    "XXL"
    ]
   },
   {
@@ -5130,34 +5134,36 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee BLACK",
-   "detail": "Size XXS",
+   "name": "PENCIL Tee POPPY RED",
+   "detail": "Sizes XXS–S",
    "shop": "HOMEBOY",
    "price": 14.99,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927287158",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS"
+    "XXS",
+    "S"
    ]
   },
   {
    "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "name": "Lynndyl lightweight t-shirt",
+   "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
+   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5165,8 +5171,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -5196,36 +5201,34 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "OLD SCHOOL Hood JAMES BROWN",
-   "detail": "Sizes XXS–XS",
+   "name": "MASTERBOY Tee BLACK",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
-   "price": 34.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872269686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
-   "tag": "Retro find",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
-    "XS"
+    "XXS"
    ]
   },
   {
    "brand": "Dickies",
-   "name": "Lynndyl lightweight t-shirt",
-   "detail": "Black · Size S",
+   "name": "Aitkin lightweight t-shirt",
+   "detail": "White · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5233,7 +5236,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "S",
+    "M"
    ]
   },
   {
@@ -5265,74 +5269,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "hb. Crew BLACK",
-   "detail": "Sizes XS–S",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Sizes XXS–XS",
    "shop": "HOMEBOY",
-   "price": 31.99,
-   "was": 79.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859228022",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Aitkin lightweight t-shirt",
-   "detail": "White · Sizes S–M",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "S",
-    "M"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Tobe x Reebok Junior Chukwu Abuo Sneakers",
-   "detail": "Sizes 34.5–39 · Kids",
-   "shop": "REEBOK",
-   "price": 24,
-   "was": 80,
-   "category": "Shoes",
-   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100229552-233631?variant=55776792117596",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100229552_SLC_eCom.jpg?v=1761057864&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Kids",
-   "sizes": []
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
-   "detail": "Sizes 22–36",
-   "shop": "HOMEBOY",
-   "price": 35.99,
+   "price": 34.99,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872269686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
    "tag": "Retro find",
    "styles": [
     "skate",
@@ -5340,7 +5284,10 @@
     "retro"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XXS",
+    "XS"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5370,8 +5317,8 @@
    "price": 24,
    "was": 80,
    "category": "Shoes",
-   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100247055-243069?variant=55776781959516",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100247055_SLC_eCom.jpg?v=1761058347&width=800",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100229552-233631?variant=55776792117596",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100229552_SLC_eCom.jpg?v=1761057864&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -5382,21 +5329,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
-   "detail": "Sizes 22–30",
+   "name": "hb. Crew BLACK",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 35.99,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "price": 31.99,
+   "was": 79.99,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859228022",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
     "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5423,6 +5373,64 @@
   },
   {
    "brand": "Reebok",
+   "name": "Tobe x Reebok Junior Chukwu Abuo Sneakers",
+   "detail": "Sizes 34.5–39 · Kids",
+   "shop": "REEBOK",
+   "price": 24,
+   "was": 80,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/tobe-x-reebok-unisex-chukwu-abuo-100247055-243069?variant=55776781959516",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100247055_SLC_eCom.jpg?v=1761058347&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Kids",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
+   "detail": "Sizes 22–36",
+   "shop": "HOMEBOY",
+   "price": 35.99,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "tag": "Retro find",
+   "styles": [
+    "skate",
+    "streetwear",
+    "retro"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Icon midweight t-shirt",
+   "detail": "White · Sizes S–L · Women",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/icon-midweight-t-shirt-dk0a888j0wh1-white?variant=45766545998010",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A888J0WH-1_a1542240-9cc3-4f16-a3c5-d2f73c2ec2c2.jpg?v=1779221483&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "L"
+   ]
+  },
+  {
+   "brand": "Reebok",
    "name": "Court Advance Surge Women's Sneakers",
    "detail": "Sizes 36–41 · Women",
    "shop": "REEBOK",
@@ -5431,6 +5439,62 @@
    "category": "Shoes",
    "url": "https://www.reebok.eu/products/reebok-court-advance-surge-sneakers-100202648-1319?variant=54323844841820",
    "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/23357227_53839673_800.webp?v=1744656927&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 35.99,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Wellsville midweight t-shirt",
+   "detail": "White · Size XS",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88860wh1-white?variant=45766541181114",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88860WH-1_bd9d0b2f-fadd-4e82-9d5b-b7dc2099bfbc.jpg?v=1779221462&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Ultra Lo Women's Trainers",
+   "detail": "Sizes 35–42.5 · Women",
+   "shop": "REEBOK",
+   "price": 27,
+   "was": 90,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/ultra-lo-womens-trainers-100260997-260997?variant=58351666626908",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100260997_SLC_eCom.jpg?v=1784819496&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
@@ -5459,72 +5523,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Icon midweight t-shirt",
-   "detail": "White · Sizes S–L · Women",
+   "name": "Dry Ridge lightweight t-shirt",
+   "detail": "Egret · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/icon-midweight-t-shirt-dk0a888j0wh1-white?variant=45766545998010",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A888J0WH-1_a1542240-9cc3-4f16-a3c5-d2f73c2ec2c2.jpg?v=1779221483&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Women",
-   "sizes": [
-    "S",
-    "L"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Ultra Lo Women's Trainers",
-   "detail": "Sizes 35–42.5 · Women",
-   "shop": "REEBOK",
-   "price": 27,
-   "was": 90,
-   "category": "Shoes",
-   "url": "https://www.reebok.eu/products/ultra-lo-womens-trainers-100260997-260997?variant=58351666626908",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100260997_SLC_eCom.jpg?v=1784819496&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Women",
-   "sizes": []
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive",
-   "detail": "Sizes 26–32",
-   "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive?variant=47463942553879",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
-   "styles": [
-    "skate",
-    "streetwear",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": []
-  },
-  {
-   "brand": "Dickies",
-   "name": "Wellsville midweight t-shirt",
-   "detail": "White · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/wellsville-midweight-t-shirt-dk0a88860wh1-white?variant=45766541181114",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88860WH-1_bd9d0b2f-fadd-4e82-9d5b-b7dc2099bfbc.jpg?v=1779221462&width=800",
+   "url": "https://dickies.eu/products/dry-ridge-lightweight-t-shirt-dk0a8853c481-grey?variant=45766527484090",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8853C48-1_b084698f-525b-449e-8b94-8cda68cfc42b.jpg?v=1779221438&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
