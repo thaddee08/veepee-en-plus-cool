@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-25T14:35:20.517Z",
+ "generatedAt": "2026-11-26T00:33:54.602Z",
  "sources": [
   {
    "source": "HOMEBOY",
    "ok": true,
-   "found": 208
+   "found": 207
   },
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 460
+   "found": 459
   },
   {
    "source": "REEBOK",
@@ -19,12 +19,12 @@
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 202
+   "found": 205
   },
   {
    "source": "AFEW",
    "ok": true,
-   "found": 315
+   "found": 314
   },
   {
    "source": "OVERKILL",
@@ -39,12 +39,12 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 762
+   "found": 752
   },
   {
    "source": "6PM",
-   "ok": false,
-   "error": "HTTP 401 for https://www.6pmseason.com/products.json?limit=250&page=1"
+   "ok": true,
+   "found": 266
   },
   {
    "source": "RAINS",
@@ -127,22 +127,23 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–36 · Women",
+   "name": "Nike Tech Woven Vest",
+   "detail": "Black · Size S · Unisex",
    "shop": "ASPHALTGOLD",
-   "price": 44,
-   "was": 149,
-   "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-dark-field-brown-bright-cactus-brigt-cactus?variant=52895889981707",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eramlwdxlfn-IO9932-200_Nike_Wmns-Rejuven-8-OG-SE-Dark-Field-Brown-Bright-Cactus-Brigt-Cactus_os-1.jpg?v=1771314541&width=800",
-   "tag": "Statement color",
+   "price": 36,
+   "was": 179,
+   "category": "Jackets",
+   "url": "https://www.asphaltgold.com/products/nike-tech-woven-vest-black?variant=51531171954955",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/XChhyN65dOKgLaTTJJHJ_HM4262-010-Nike-Tech-Woven-Vest-Black-os-1.jpg?v=1750248067&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Unisex",
+   "sizes": [
+    "S"
+   ]
   },
   {
    "brand": "Nike",
@@ -223,6 +224,30 @@
    ]
   },
   {
+   "brand": "6PM",
+   "name": "WMNS FITTED CROPPED TOP BLACK",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/fitted-cropped-top-black?variant=53080921506059",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0045.jpg?v=1777995494&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Cargo Pants BLACK TAB",
    "detail": "Sizes 22–29",
@@ -285,17 +310,18 @@
   {
    "brand": "Nike",
    "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Black / Muslin / Rust Factor · Sizes 35.5–40.5 · Women",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–36 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 45,
+   "price": 44,
    "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-black-muslin-rust-factor?variant=52882428133643",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8xug5ntrxxg-IO9932-001_Nike_Wmns-Rejuven-8-OG-SE-Black-Muslin-Rust-Factor_os-1.jpg?v=1770909468&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-dark-field-brown-bright-cactus-brigt-cactus?variant=52895889981707",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/eramlwdxlfn-IO9932-200_Nike_Wmns-Rejuven-8-OG-SE-Dark-Field-Brown-Bright-Cactus-Brigt-Cactus_os-1.jpg?v=1771314541&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -377,6 +403,27 @@
    ]
   },
   {
+   "brand": "6PM",
+   "name": "WMNS RIBBED TANKTOP SANDSTONE",
+   "detail": "Sizes L–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-ribbed-tanktop-sandstone?variant=52360001519883",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/25-10-30_6pm_253.jpg?v=1763655527&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra CARGO PANTS Black TAB",
    "detail": "Sizes 26–28",
@@ -439,20 +486,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Wmns Total 90",
-   "detail": "Metallic Platinum / Photon Dust · Size 37.5 · Women",
+   "name": "Nike Wmns Rejuven 8 OG SE",
+   "detail": "Black / Muslin / Rust Factor · Sizes 35.5–40.5 · Women",
    "shop": "ASPHALTGOLD",
-   "price": 34,
-   "was": 109,
+   "price": 45,
+   "was": 149,
    "category": "Shoes",
-   "url": "https://www.asphaltgold.com/products/nike-wmns-t90-metallic-platinum-photon-dust?variant=51717243306251",
-   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/n8XMcChcluqxWdwg6lKA_II9792-011-Nike-Wmns-T90-Metallic-Platinum-Photon-Dust-OS-1.jpg?v=1750837958&width=800",
-   "tag": "Retro find",
+   "url": "https://www.asphaltgold.com/products/nike-wmns-rejuven-8-og-se-black-muslin-rust-factor?variant=52882428133643",
+   "image": "https://cdn.shopify.com/s/files/1/0473/6965/0340/files/8xug5ntrxxg-IO9932-001_Nike_Wmns-Rejuven-8-OG-SE-Black-Muslin-Rust-Factor_os-1.jpg?v=1770909468&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "retro",
-    "statement"
+    "streetwear"
    ],
    "department": "Women",
    "sizes": []
@@ -532,6 +577,30 @@
     "M",
     "L",
     "XL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS BOXER SHORTS SANDSTONE",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "Shorts",
+   "url": "https://www.6pmseason.com/products/wmns-boxer-shorts-sandstone?variant=52360000995595",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/25-10-30_6pm_260.jpg?v=1763655588&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -704,6 +773,26 @@
    ]
   },
   {
+   "brand": "6PM",
+   "name": "WMNS TANKTOP BLACK",
+   "detail": "Sizes L–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-tanktop-black?variant=52049575346443",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6003.jpg?v=1759137819&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "L",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra UFO Cargo Denim Moon TAB",
    "detail": "Sizes 24–25",
@@ -863,6 +952,30 @@
    ]
   },
   {
+   "brand": "6PM",
+   "name": "WMNS TANKTOP EVERGREEN",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-tanktop-evergreen?variant=52049575051531",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6004.jpg?v=1759137833&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER GOTHIC CORD SHORTS",
    "detail": "Size 24",
@@ -903,7 +1016,7 @@
   {
    "brand": "Reebok",
    "name": "Heritage Cut & Sew T-Shirt",
-   "detail": "Sizes XS–L · Men",
+   "detail": "Sizes XS–M · Men",
    "shop": "REEBOK",
    "price": 10,
    "was": 35,
@@ -919,8 +1032,7 @@
    "sizes": [
     "XS",
     "S",
-    "M",
-    "L"
+    "M"
    ]
   },
   {
@@ -999,21 +1111,50 @@
   },
   {
    "brand": "Armedangels",
-   "name": "MAARK STRICK-OVERSHIRT",
-   "detail": "steel melange · Size XL · Men",
+   "name": "GESTREIFTER MIKULAA BLAZER",
+   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 149.9,
-   "was": 259.9,
+   "was": 249.9,
    "category": "Jackets",
-   "url": "https://www.armedangels.com/products/maark-steel-melange?variant=55715170877765",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007962-2874_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "url": "https://www.armedangels.com/products/stripe-mikulaa-blazer-sand-stone-undyed-pink-mist?variant=55573329477957",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007279-3658_111.jpg?v=1791813512&width=800",
+   "tag": "Statement color",
    "styles": [
-    "minimal"
+    "minimal",
+    "statement"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": [
+    "XS",
+    "M",
+    "L",
     "XL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS TANKTOP CRANBERRY RED",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-tanktop-cranberry-red?variant=52049574854923",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6005.jpg?v=1759137845&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "streetwear",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1107,20 +1248,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
-   "detail": "Size 8.5 · Women",
+   "name": "Nike SHOX R4 QS",
+   "detail": "Sizes 4.5–9.5 · Men",
    "shop": "AFEW",
-   "price": 101.99,
-   "was": 194.99,
+   "price": 87.99,
+   "was": 159.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown?variant=52477139124490",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-lt-british-tan-flax-velvet-brown-ih1413-200-footwear_20_3E_20sneaker.jpg?v=1794584057&width=800",
+   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1161,18 +1302,38 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GESTREIFTER MIKULAA BLAZER",
-   "detail": "sand stone-undyed-pink mist · Sizes XS–XL · Women",
+   "name": "BALBAA PREMIUM STRICKPULLOVER",
+   "detail": "true camel · Sizes S–L · Women",
    "shop": "ARMEDANGELS",
-   "price": 149.9,
-   "was": 249.9,
-   "category": "Jackets",
-   "url": "https://www.armedangels.com/products/stripe-mikulaa-blazer-sand-stone-undyed-pink-mist?variant=55573329477957",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007279-3658_111.jpg?v=1791813512&width=800",
-   "tag": "Statement color",
+   "price": 119.9,
+   "was": 189.9,
+   "category": "Knitwear",
+   "url": "https://www.armedangels.com/products/balbaa-premium-true-camel?variant=55715229204805",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008032-3231_111.jpg?v=1791813603&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "statement"
+    "minimal"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS BOXER SHORTS BLACK",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "Shorts",
+   "url": "https://www.6pmseason.com/products/wmns-boxer-shorts-black?variant=52049572331787",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6010.jpg?v=1759138040&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
    ],
    "department": "Women",
    "sizes": [
@@ -1266,20 +1427,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike SHOX R4 QS",
-   "detail": "Sizes 4.5–9.5 · Men",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 7–7.5 · Women",
    "shop": "AFEW",
-   "price": 87.99,
-   "was": 159.99,
+   "price": 98.99,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-shox-r4-qs-natural-net-metallic-silver?variant=52450134032650",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-shox-r4-qs-natural-net-metallic-silver-io4544-100-footwear_20_3E_20sneaker.jpg?v=1769296168&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1323,23 +1484,45 @@
   },
   {
    "brand": "Armedangels",
-   "name": "BALBAA PREMIUM STRICKPULLOVER",
-   "detail": "true camel · Sizes S–L · Women",
+   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
+   "detail": "white-black · Size XS",
    "shop": "ARMEDANGELS",
-   "price": 119.9,
-   "was": 189.9,
-   "category": "Knitwear",
-   "url": "https://www.armedangels.com/products/balbaa-premium-true-camel?variant=55715229204805",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008032-3231_111.jpg?v=1791813603&width=800",
+   "price": 29.9,
+   "was": 44.9,
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
+   "department": "Not specified",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS BOXER SHORTS EVERGREEN",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "Shorts",
+   "url": "https://www.6pmseason.com/products/wmns-boxer-shorts-evergreen?variant=52049572135179",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6009.jpg?v=1759138052&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
    "department": "Women",
    "sizes": [
+    "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1430,20 +1613,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 7–7.5 · Women",
+   "name": "Nike AIR MAX 95 Big Bubble Woven",
+   "detail": "Sizes 8–12.5 · Men",
    "shop": "AFEW",
-   "price": 98.99,
-   "was": 179.99,
+   "price": 109.99,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-black-black-cave-stone?variant=52695823483146",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-black-black-cave-stone-hm9612-010-footwear_20_3E_20sneaker.jpg?v=1773228522&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1795628527&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -1487,20 +1670,46 @@
   {
    "brand": "Armedangels",
    "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Size XS",
+   "detail": "white-black · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt?variant=57403238547781",
+   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
    "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
-   "tag": "Conscious basics",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS BOXER SHORTS CRANBERRY RED",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 12,
+   "was": 24,
+   "category": "Shorts",
+   "url": "https://www.6pmseason.com/products/wmns-boxer-shorts-cranberry-red?variant=52049571938571",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop6007.jpg?v=1759138063&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "streetwear",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -1589,18 +1798,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike AIR MAX 95 Big Bubble Woven",
-   "detail": "Sizes 8–12.5 · Men",
+   "name": "Nike LeBron XXIII 'LeBronto'",
+   "detail": "Sizes 8–11 · Men",
    "shop": "AFEW",
    "price": 109.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey?variant=53184085590282",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-woven-bb-white-purple-dynasty-pearl-grey-ib3695-100-footwear_20_3E_20sneaker.jpg?v=1795194136&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -1626,7 +1836,7 @@
   {
    "brand": "A.P.C. Paris",
    "name": "T-shirt Standard V.P.C.",
-   "detail": "Sizes S–M",
+   "detail": "Size M",
    "shop": "A.P.C.",
    "price": 55,
    "was": 110,
@@ -1639,28 +1849,51 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
     "M"
    ]
   },
   {
    "brand": "Armedangels",
-   "name": "NEUES GESTREIFTES IDAARA T-SHIRT",
-   "detail": "white-black · Size XS · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "washed berry · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/neues-gestreiftes-idaara-t-shirt-white-black?variant=57403238547781",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30009448-307_111.jpg?v=1791813605&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS DOUBLE LAYER TANKTOP COCONUT WHITE",
+   "detail": "Sizes L–XXL · Unisex",
+   "shop": "6PM",
+   "price": 14.5,
+   "was": 29,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-double-layer-tanktop-coconut-white?variant=53121004634379",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_0065.jpg?v=1781537269&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": [
+    "L",
+    "XXL"
    ]
   },
   {
@@ -1748,21 +1981,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike LeBron XXIII 'LeBronto'",
-   "detail": "Sizes 8–11 · Men",
+   "name": "Nike WMNS Air Max Moto 2K",
+   "detail": "Sizes 6.5–10 · Women",
    "shop": "AFEW",
-   "price": 109.99,
-   "was": 199.99,
+   "price": 72.99,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black?variant=52683943837962",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-lebronto-silt-red-metallic-copper-black-ih1513-602-footwear_20_3E_20sneaker.jpg?v=1773052365&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey?variant=52609079607562",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey-hq2056-010-footwear_20_3E_20sneaker.jpg?v=1771856139&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -1810,22 +2042,41 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "washed berry · Sizes XS–XXL · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "washed berry · Sizes M–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-washed-berry?variant=57299180847429",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-3563_111.jpg?v=1791813609&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS DOUBLE LAYER TANKTOP LIGHT GREY MELANGE",
+   "detail": "Sizes M–XXL · Unisex",
+   "shop": "6PM",
+   "price": 14.5,
+   "was": 29,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-double-layer-tanktop-light-grey-melange?variant=53121004372235",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_0060.jpg?v=1781537329&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Unisex",
+   "sizes": [
     "M",
     "L",
     "XL",
@@ -1913,18 +2164,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Max Moto 2K",
-   "detail": "Sizes 6.5–10 · Women",
+   "name": "Nike WMNS Shox Z",
+   "detail": "Sizes 6.5–9 · Women",
    "shop": "AFEW",
    "price": 72.99,
    "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey?variant=52609079607562",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-wolf-grey-pure-platinum-cool-grey-hq2056-010-footwear_20_3E_20sneaker.jpg?v=1771856139&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52460159336714",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog-iq7574-663-footwear_20_3E_20sneaker.jpg?v=1795199659&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Women",
    "sizes": []
@@ -1974,23 +2226,47 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "washed berry · Sizes M–L · Women",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-washed-berry?variant=57299195691333",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-3563_111.jpg?v=1791813383&width=800",
-   "tag": "Sport edit",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
    "department": "Women",
    "sizes": [
+    "XS",
+    "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS RIBBED LS DARK HAZELNUT",
+   "detail": "Sizes L–XXL · Women",
+   "shop": "6PM",
+   "price": 14.5,
+   "was": 29,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-ribbed-ls-dark-hazelnut?variant=52360001290507",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/25-10-30_6pm_72.jpg?v=1763655558&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2078,21 +2354,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox Z",
-   "detail": "Sizes 6.5–9 · Women",
+   "name": "Nike BOOK 2 'Spiridon'",
+   "detail": "Size 9 · Men",
    "shop": "AFEW",
-   "price": 72.99,
-   "was": 129.99,
+   "price": 84.99,
+   "was": 149.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog?variant=52460159336714",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-z-pink-foam-metallic-silver-grey-fog-iq7574-663-footwear_20_3E_20sneaker.jpg?v=1795199659&width=800",
+   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1795423987&width=800",
    "tag": "Statement color",
    "styles": [
     "sport",
     "streetwear",
     "statement"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2133,17 +2409,37 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts-space-steel?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT TEAL",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-teal?variant=53080920391947",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0120.jpg?v=1777995776&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
    ],
    "department": "Women",
    "sizes": [
@@ -2240,21 +2536,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike BOOK 2 'Spiridon'",
-   "detail": "Size 9 · Men",
+   "name": "Nike WMNS AIR RIFT",
+   "detail": "Sizes 6–11 · Women",
    "shop": "AFEW",
-   "price": 84.99,
-   "was": 149.99,
+   "price": 73.99,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-book-2-sp-metallic-silver-sport-red-black-white?variant=52475382497546",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-book-2-sp-metallic-silver-sport-red-black-white-iq0050-001-footwear_20_3E_20sneaker.jpg?v=1795423987&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-rift-black-hemp?variant=52695585194250",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-rift-black-hemp-ir5696-010-footwear_20_3E_20sneaker.jpg?v=1773224795&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2294,14 +2589,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "white-foam · Sizes XS–XL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top-space-steel?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2309,7 +2604,34 @@
    ],
    "department": "Women",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "XL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT FRESH MINT",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-fresh-mint?variant=53080920195339",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0157.jpg?v=1777995827&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2391,20 +2713,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR RIFT",
-   "detail": "Sizes 6–11 · Women",
+   "name": "Nike Astrograbber",
+   "detail": "Sizes 8–13 · Men",
    "shop": "AFEW",
    "price": 73.99,
    "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-rift-black-hemp?variant=52695585194250",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-rift-black-hemp-ir5696-010-footwear_20_3E_20sneaker.jpg?v=1773224795&width=800",
+   "url": "https://www.afew-store.com/products/nike-astrograbber-qs-medium-olive-cacao-wow-alabaster?variant=52503255122186",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-qs-medium-olive-cacao-wow-alabaster-io9281-200-footwear_20_3E_20sneaker.jpg?v=1770215734&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2446,14 +2768,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "white-foam · Sizes XS–XL · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-very berry · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-white-foam?variant=55610322616645",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3560_111.jpg?v=1791813533&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2462,9 +2784,31 @@
    "department": "Women",
    "sizes": [
     "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT STONE BROWN",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-stone-brown?variant=53080920588555",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0189.jpg?v=1777995729&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
     "S",
     "M",
-    "XL"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2545,20 +2889,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Astrograbber",
-   "detail": "Sizes 8–13 · Men",
+   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
+   "detail": "Sizes 7–9 · Women",
    "shop": "AFEW",
-   "price": 73.99,
-   "was": 129.99,
+   "price": 110.99,
+   "was": 194.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-astrograbber-qs-medium-olive-cacao-wow-alabaster?variant=52503255122186",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-astrograbber-qs-medium-olive-cacao-wow-alabaster-io9281-200-footwear_20_3E_20sneaker.jpg?v=1770215734&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black?variant=52477140500746",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black-ih1413-300-footwear_20_3E_20sneaker.jpg?v=1794992586&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -2606,13 +2950,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-very berry · Sizes XS–S · Women",
+   "detail": "white-silver melange · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-very-berry?variant=55610261635397",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3603_111.jpg?v=1791813466&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -2620,8 +2964,32 @@
    ],
    "department": "Women",
    "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "SLIM FIT T-SHIRT BLACK",
+   "detail": "Sizes XXS–XXL · Men",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/slim-fit-t-shirt-black?variant=46301052895499",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop5970.jpg?v=1759505107&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XXS",
     "XS",
-    "S"
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -2645,7 +3013,7 @@
   {
    "brand": "Dickies",
    "name": "Summerdale light weight t-shirt",
-   "detail": "Burgundy · Sizes XS–XL · Women",
+   "detail": "Burgundy · Sizes XS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
@@ -2661,8 +3029,7 @@
    "sizes": [
     "XS",
     "S",
-    "M",
-    "XL"
+    "M"
    ]
   },
   {
@@ -2711,14 +3078,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS AIR MAX 95 BIG BUBBLE",
-   "detail": "Sizes 7–9 · Women",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 10.5–11.5 · Women",
    "shop": "AFEW",
-   "price": 110.99,
-   "was": 194.99,
+   "price": 104,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black?variant=52477140500746",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-95-big-bubble-cargo-khaki-medium-olive-black-ih1413-300-footwear_20_3E_20sneaker.jpg?v=1794992586&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464192778",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -2764,28 +3131,50 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-silver melange · Size XS · Women",
+   "name": "GMT DYE RIPP-TOP",
+   "detail": "space steel · Size S",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-white-silver-melange?variant=55610259931461",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3279_111.jpg?v=1791813628&width=800",
-   "tag": "Sport edit",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "S"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "SLIM FIT T-SHIRT WHITE",
+   "detail": "Sizes XS–XXL · Men",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/slim-fit-t-shirt-white?variant=44722189041931",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop5967.jpg?v=1759505113&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Cord BLACK",
-   "detail": "Sizes 22–36",
+   "detail": "Sizes 22–25",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
@@ -2868,20 +3257,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 10.5–11.5 · Women",
+   "name": "Nike Air Max 95 Premium 'Comet'",
+   "detail": "Sizes 9.5–14 · Men",
    "shop": "AFEW",
-   "price": 104,
-   "was": 179.99,
+   "price": 110.99,
+   "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-tattoo-tattoo-black?variant=52326464192778",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-tattoo-tattoo-black-ib1087-500-footwear_20_3E_20sneaker.jpg?v=1766993130&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey?variant=53046071394570",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1795436173&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -2922,21 +3311,50 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-TOP",
-   "detail": "space steel · Size S",
+   "name": "GMT DYE RIPP-SHORTS",
+   "detail": "space steel · Sizes XS–XXL",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-top?variant=57299195232581",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008416-2682_111.jpg?v=1791813558&width=800",
+   "category": "Shorts",
+   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
    "tag": "Conscious basics",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT GREY MELANGE",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-grey-melange?variant=52935846723851",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-02-20_6PM_0343.png?v=1772208785&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3022,14 +3440,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 Premium 'Comet'",
-   "detail": "Sizes 9.5–14 · Men",
+   "name": "Nike Air Max 95 OG",
+   "detail": "Sizes 10.5–12 · Men",
    "shop": "AFEW",
-   "price": 110.99,
+   "price": 111.99,
    "was": 189.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey?variant=53046071394570",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-premium-white-comet-red-neutral-grey-medium-grey-ib7862-100-footwear_20_3E_20sneaker.jpg?v=1795436173&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988088586",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1795098609&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3084,19 +3502,40 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GMT DYE RIPP-SHORTS",
-   "detail": "space steel · Sizes XS–XXL",
+   "name": "TARJAA T-SHIRT",
+   "detail": "foam · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
-   "category": "Shorts",
-   "url": "https://www.armedangels.com/products/gmt-dye-ripp-shorts?variant=57299180585285",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008409-2682_111.jpg?v=1791813512&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "M"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT EVERGREEN",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-evergreen?variant=52049571741963",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop5998.jpg?v=1759138074&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
@@ -3185,18 +3624,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Air Max 95 OG",
-   "detail": "Sizes 10.5–12 · Men",
+   "name": "Nike ACG Phassad",
+   "detail": "Sizes 9.5–13 · Men",
    "shop": "AFEW",
-   "price": 111.99,
-   "was": 189.99,
+   "price": 71.99,
+   "was": 119.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-air-max-95-og-white-emerald-green-lake-blue?variant=52940988088586",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-95-og-white-emerald-green-lake-blue-ih7855-100-footwear_20_3E_20sneaker.jpg?v=1795098609&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-acg-phassad-anthracite-mink-iron-grey-black?variant=52477406413066",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-phassad-anthracite-mink-iron-grey-black-hm7133-003-footwear_20_3E_20sneaker.jpg?v=1795048269&width=800",
+   "tag": "Utility pick",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "utility"
    ],
    "department": "Men",
    "sizes": []
@@ -3246,22 +3686,49 @@
   {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
-   "detail": "foam · Sizes XS–M · Women",
+   "detail": "pink mist · Sizes XS–L · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
     "XS",
-    "M"
+    "S",
+    "M",
+    "L"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT BUBBLEGLOW",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-bubbleglow?variant=52049571545355",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6pm_E-shop5996.jpg?v=1759138083&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3351,21 +3818,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ACG Phassad",
-   "detail": "Sizes 9.5–13 · Men",
+   "name": "Nike WMNS Zoom Skylon 11",
+   "detail": "Sizes 6–10 · Women",
    "shop": "AFEW",
-   "price": 71.99,
-   "was": 119.99,
+   "price": 77.99,
+   "was": 129.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-acg-phassad-anthracite-mink-iron-grey-black?variant=52477406413066",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-phassad-anthracite-mink-iron-grey-black-hm7133-003-footwear_20_3E_20sneaker.jpg?v=1795048269&width=800",
-   "tag": "Utility pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-p-6000-white-cacao-wow-metallic-silver?variant=53447656538378",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-p-6000-white-cacao-wow-metallic-silver-iu7360-102-footwear_20_3E_20sneaker.jpg?v=1785322167&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3406,26 +3872,47 @@
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–L · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-foam · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT BUTTERCREAM",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-buttercream?variant=51966665294091",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000073.jpg?v=1753104379&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
    ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3507,14 +3994,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Zoom Skylon 11",
-   "detail": "Sizes 6–10 · Women",
+   "name": "Nike WMNS Air Max Moto 2K SE",
+   "detail": "Sizes 7–9 · Women",
    "shop": "AFEW",
-   "price": 77.99,
-   "was": 129.99,
+   "price": 83.99,
+   "was": 139.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-p-6000-white-cacao-wow-metallic-silver?variant=53447656538378",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-p-6000-white-cacao-wow-metallic-silver-iu7360-102-footwear_20_3E_20sneaker.jpg?v=1785322167&width=800",
+   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white?variant=52706683519242",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white-io4862-002-footwear_20_3E_20sneaker.jpg?v=1773398795&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -3571,13 +4058,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–S · Women",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3587,6 +4074,30 @@
    "sizes": [
     "XS",
     "S"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT BLACK",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-black?variant=51966665097483",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000109.jpg?v=1753104412&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3677,20 +4188,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Air Max Moto 2K SE",
-   "detail": "Sizes 7–9 · Women",
+   "name": "Nike Zoom Vomero 5",
+   "detail": "Sizes 4.5–6.5 · Men",
    "shop": "AFEW",
-   "price": 83.99,
-   "was": 139.99,
+   "price": 95.99,
+   "was": 159.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white?variant=52706683519242",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-air-max-moto-2k-se-pure-platinum-wolf-grey-white-io4862-002-footwear_20_3E_20sneaker.jpg?v=1773398795&width=800",
+   "url": "https://www.afew-store.com/products/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver?variant=52695627890954",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver-im3486-002-footwear_20_3E_20sneaker.jpg?v=1773225341&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
     "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -3742,14 +4253,14 @@
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -3758,7 +4269,32 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "XXL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT WINE RED",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-wine-red?variant=51966664900875",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000092.jpg?v=1753104443&width=800",
+   "tag": "Statement color",
+   "styles": [
+    "streetwear",
+    "statement"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -3847,20 +4383,21 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike Zoom Vomero 5",
-   "detail": "Sizes 4.5–6.5 · Men",
+   "name": "Nike WMNS Shox TL",
+   "detail": "Sizes 12–14 · Women",
    "shop": "AFEW",
-   "price": 95.99,
-   "was": 159.99,
+   "price": 107.99,
+   "was": 179.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver?variant=52695627890954",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-zoom-vomero-5-grey-fog-chrome-metallic-silver-im3486-002-footwear_20_3E_20sneaker.jpg?v=1773225341&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-off-noir-metallic-silver-hyper-pink?variant=52492330467594",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-off-noir-metallic-silver-hyper-pink-iq0273-045-footwear_20_3E_20sneaker.jpg?v=1770020140&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
-   "department": "Men",
+   "department": "Women",
    "sizes": []
   },
   {
@@ -3911,23 +4448,47 @@
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–M",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT ORBIT BLUE",
+   "detail": "Sizes XS–XL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-orbit-blue?variant=51966664704267",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000164.jpg?v=1753104470&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
    "department": "Women",
    "sizes": [
     "XS",
-    "XXL"
+    "S",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -4006,21 +4567,20 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike WMNS Shox TL",
-   "detail": "Sizes 12–14 · Women",
+   "name": "Nike LEBRON XXIII 'Shut Up And Dribble'",
+   "detail": "Sizes 11–11.5 · Men",
    "shop": "AFEW",
-   "price": 107.99,
-   "was": 179.99,
+   "price": 119.99,
+   "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-wmns-shox-tl-off-noir-metallic-silver-hyper-pink?variant=52492330467594",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-wmns-shox-tl-off-noir-metallic-silver-hyper-pink-iq0273-045-footwear_20_3E_20sneaker.jpg?v=1770020140&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400482058",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1795639209&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -4063,24 +4623,43 @@
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA DIFFERENCE T-SHIRT",
-   "detail": "silver melange · Sizes XS–M",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Not specified",
+   "department": "Unisex",
+   "sizes": []
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT SOFT VIOLET",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-soft-violet?variant=51966664474891",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000141.jpg?v=1753104494&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4166,18 +4745,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike LEBRON XXIII 'Shut Up And Dribble'",
-   "detail": "Sizes 11–12 · Men",
+   "name": "Nike LEBRON XXIII 'Green With Envy'",
+   "detail": "Sizes 9–12 · Men",
    "shop": "AFEW",
    "price": 119.99,
    "was": 199.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-cool-grey-black-cool-grey?variant=52477400482058",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-cool-grey-black-cool-grey-ih1513-002-footwear_20_3E_20sneaker.jpg?v=1795171765&width=800",
-   "tag": "Nike pick",
+   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-volt-tint-multi-color-black-magic-ember?variant=52460174180618",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-volt-tint-multi-color-black-magic-ember-ih1513-700-footwear_20_3E_20sneaker.jpg?v=1795205475&width=800",
+   "tag": "Statement color",
    "styles": [
     "sport",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -4219,20 +4799,46 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PIÑAYARN® BLEND BUCKET HAT W",
-   "detail": "dried palm · Unisex",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS CROPPED T-SHIRT OFF-WHITE",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 17,
+   "was": 34,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-cropped-t-shirt-off-white?variant=51966664278283",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/6PM_25-07-08_000057.jpg?v=1753104614&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "HOMEBOY",
@@ -4320,19 +4926,19 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike LEBRON XXIII 'Green With Envy'",
+   "name": "Nike ACG ULTRAFLY TRAIL SP",
    "detail": "Sizes 9–12 · Men",
    "shop": "AFEW",
-   "price": 119.99,
-   "was": 199.99,
+   "price": 151.99,
+   "was": 249.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-lebron-xxiii-volt-tint-multi-color-black-magic-ember?variant=52460174180618",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-lebron-xxiii-volt-tint-multi-color-black-magic-ember-ih1513-700-footwear_20_3E_20sneaker.jpg?v=1795205475&width=800",
-   "tag": "Statement color",
+   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-black-dk-smoke-grey-vegas-gold?variant=52537437159690",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-black-dk-smoke-grey-vegas-gold-ir7317-001-footwear_20_3E_20sneaker.jpg?v=1770809441&width=800",
+   "tag": "Utility pick",
    "styles": [
     "sport",
     "streetwear",
-    "statement"
+    "utility"
    ],
    "department": "Men",
    "sizes": []
@@ -4376,21 +4982,48 @@
   {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "white · Size XS · Women",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
+   "department": "Not specified",
+   "sizes": [
+    "XS",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS T-SHIRT TEAL",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 19.5,
+   "was": 39,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-t-shirt-teal?variant=53080919802123",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0100.jpg?v=1777996114&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4482,18 +5115,19 @@
   {
    "brand": "Nike",
    "name": "Nike ACG ULTRAFLY TRAIL SP",
-   "detail": "Sizes 9–12 · Men",
+   "detail": "Sizes 8.5–12 · Men",
    "shop": "AFEW",
    "price": 151.99,
    "was": 249.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-black-dk-smoke-grey-vegas-gold?variant=52537437159690",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-black-dk-smoke-grey-vegas-gold-ir7317-001-footwear_20_3E_20sneaker.jpg?v=1770809441&width=800",
+   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold?variant=52537420775690",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold-ir7317-300-footwear_20_3E_20sneaker.jpg?v=1770809198&width=800",
    "tag": "Utility pick",
    "styles": [
     "sport",
     "streetwear",
-    "utility"
+    "utility",
+    "statement"
    ],
    "department": "Men",
    "sizes": []
@@ -4536,25 +5170,48 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309690181",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
     "XS",
+    "S",
+    "M"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS T-SHIRT FRESH MINT",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 19.5,
+   "was": 39,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-t-shirt-fresh-mint?variant=53080919605515",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0174.jpg?v=1777996158&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4645,20 +5302,18 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike ACG ULTRAFLY TRAIL SP",
-   "detail": "Sizes 8.5–12 · Men",
+   "name": "Nike P-6000",
+   "detail": "Size 5 · Men",
    "shop": "AFEW",
-   "price": 151.99,
-   "was": 249.99,
+   "price": 66.99,
+   "was": 109.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold?variant=52537420775690",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-acg-ultrafly-trail-sp-dutch-green-barely-volt-vegas-gold-ir7317-300-footwear_20_3E_20sneaker.jpg?v=1770809198&width=800",
-   "tag": "Utility pick",
+   "url": "https://www.afew-store.com/products/nike-p-6000-white-black-metallic-silver-flt-silver?variant=51055865266442",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-p-6000-white-black-metallic-silver-flt-silver-cd6404-105-footwear_20_3E_20sneaker.jpg?v=1744702291&width=800",
+   "tag": "Nike pick",
    "styles": [
     "sport",
-    "streetwear",
-    "utility",
-    "statement"
+    "streetwear"
    ],
    "department": "Men",
    "sizes": []
@@ -4701,24 +5356,48 @@
   },
   {
    "brand": "Armedangels",
-   "name": "LUALAA LEINEN-MIX T-SHIRT",
-   "detail": "dried palm · Sizes XS–M · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309690181",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
+   "department": "Men",
+   "sizes": [
+    "S",
+    "M",
+    "XXL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS T-SHIRT STONE BROWN",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 19.5,
+   "was": 39,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-t-shirt-stone-brown?variant=53080919998731",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-04-08_6PM_0132.jpg?v=1777995900&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
    "department": "Women",
    "sizes": [
     "XS",
     "S",
-    "M"
+    "M",
+    "L",
+    "XL",
+    "XXL"
    ]
   },
   {
@@ -4806,14 +5485,14 @@
   },
   {
    "brand": "Nike",
-   "name": "Nike P-6000",
-   "detail": "Size 5 · Men",
+   "name": "Nike Air Max Dn8",
+   "detail": "Sizes 8–13 · Men",
    "shop": "AFEW",
-   "price": 66.99,
-   "was": 109.99,
+   "price": 127.99,
+   "was": 209.99,
    "category": "Shoes",
-   "url": "https://www.afew-store.com/products/nike-p-6000-white-black-metallic-silver-flt-silver?variant=51055865266442",
-   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-p-6000-white-black-metallic-silver-flt-silver-cd6404-105-footwear_20_3E_20sneaker.jpg?v=1744702291&width=800",
+   "url": "https://www.afew-store.com/products/nike-air-max-dn8-dark-hazel-pale-ivory-fauna-brown?variant=52683784880394",
+   "image": "https://cdn.shopify.com/s/files/1/2718/4356/files/nike-air-max-dn8-dark-hazel-pale-ivory-fauna-brown-io4479-200-footwear_20_3E_20sneaker.jpg?v=1773051636&width=800",
    "tag": "Nike pick",
    "styles": [
     "sport",
@@ -4868,13 +5547,13 @@
   {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "detail": "wedgwood · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4884,6 +5563,31 @@
    "sizes": [
     "S",
     "M",
+    "L",
+    "XL"
+   ]
+  },
+  {
+   "brand": "6PM",
+   "name": "WMNS T-SHIRT GREY MELANGE",
+   "detail": "Sizes XS–XXL · Women",
+   "shop": "6PM",
+   "price": 19.5,
+   "was": 39,
+   "category": "T-shirts",
+   "url": "https://www.6pmseason.com/products/wmns-t-shirt-grey-melange?variant=52935846527243",
+   "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/26-02-20_6PM_0338.png?v=1772208890&width=800",
+   "tag": "Frankfurt streetwear",
+   "styles": [
+    "streetwear"
+   ],
+   "department": "Women",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
     "XXL"
    ]
   },
@@ -5018,24 +5722,22 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "PENCIL Tee POPPY RED",
-   "detail": "Sizes XXS–S",
+   "name": "MASTERBOY Tee WHITE",
+   "detail": "Size L",
    "shop": "HOMEBOY",
    "price": 14.99,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927287158",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
-   "tag": "Statement color",
+   "url": "https://homeboy.eu/products/masterboy-tee-white?variant=55289606111606",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-11MASTERBOYTEEWHITE.jpg?v=1740049997&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "statement"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
-    "S"
+    "L"
    ]
   },
   {
@@ -5086,22 +5788,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "MASTERBOY Tee BLACK",
-   "detail": "Size XXS",
+   "name": "PENCIL Tee POPPY RED",
+   "detail": "Sizes XXS–S",
    "shop": "HOMEBOY",
    "price": 14.99,
    "was": 40,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/pencil-tee-poppy-red?variant=58393927287158",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/PENCILTEERED.png?v=1740144399&width=800",
+   "tag": "Statement color",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "statement"
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS"
+    "XXS",
+    "S"
    ]
   },
   {
@@ -5151,19 +5855,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "name": "MASTERBOY Tee BLACK",
    "detail": "Size XXS",
    "shop": "HOMEBOY",
-   "price": 34.99,
-   "was": 89.99,
-   "category": "Hoodies",
-   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872269686",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
-   "tag": "Retro find",
+   "price": 14.99,
+   "was": 40,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/masterboy-tee-black?variant=58393950421366",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01TS3065-10MASTERBOYTEEBLACKFRONT.jpg?v=1740049938&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": [
@@ -5220,23 +5923,23 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "hb. Crew BLACK",
-   "detail": "Sizes XS–S",
+   "name": "OLD SCHOOL Hood JAMES BROWN",
+   "detail": "Size XXS",
    "shop": "HOMEBOY",
-   "price": 31.99,
-   "was": 79.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859228022",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
-   "tag": "Skate & baggy",
+   "price": 34.99,
+   "was": 89.99,
+   "category": "Hoodies",
+   "url": "https://homeboy.eu/products/old-school-hood-james-brown-763758?variant=58393872269686",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/OLD_SCHOOL_Hood_JAMES_BROWNZeichenflaeche_1.jpg?v=1757679952&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": [
-    "XS",
-    "S"
+    "XXS"
    ]
   },
   {
@@ -5279,22 +5982,24 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
-   "detail": "Sizes 22–36",
+   "name": "hb. Crew BLACK",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 35.99,
-   "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
-   "tag": "Retro find",
+   "price": 31.99,
+   "was": 79.99,
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859228022",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "S"
+   ]
   },
   {
    "brand": "Dickies",
@@ -5339,18 +6044,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
-   "detail": "Sizes 22–30",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
+   "detail": "Sizes 22–36",
    "shop": "HOMEBOY",
    "price": 35.99,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": []
@@ -5396,14 +6102,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim Shorts Washed Black TAB",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
    "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
    "price": 35.99,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black-tab?variant=59407320514934",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5452,19 +6158,18 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra CARGO PANTS Olive",
-   "detail": "Sizes 26–32",
+   "name": "x-tra MONSTER Denim Shorts Washed Black TAB",
+   "detail": "Sizes 22–30",
    "shop": "HOMEBOY",
-   "price": 39.99,
-   "was": 99.99,
-   "category": "Trousers",
-   "url": "https://homeboy.eu/products/x-tra-cargo-pants-olive?variant=47463942553879",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/201512_Product.jpg?v=1702290324&width=800",
-   "tag": "Utility pick",
+   "price": 35.99,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-black-tab?variant=59407320514934",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-84x-traMONSTERDenimSHORTSWASHEDBLACK-84-1.jpg?v=1775572702&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "utility"
+    "streetwear"
    ],
    "department": "Not specified",
    "sizes": []
