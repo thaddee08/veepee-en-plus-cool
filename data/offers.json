@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:10:15.209Z",
+ "generatedAt": "2026-11-28T13:14:41.871Z",
  "sources": [
   {
    "source": "HOMEBOY",
@@ -9,17 +9,17 @@
   {
    "source": "DICKIES",
    "ok": true,
-   "found": 449
+   "found": 446
   },
   {
    "source": "REEBOK",
    "ok": true,
-   "found": 995
+   "found": 982
   },
   {
    "source": "ASPHALTGOLD",
    "ok": true,
-   "found": 194
+   "found": 191
   },
   {
    "source": "AFEW",
@@ -29,7 +29,7 @@
   {
    "source": "OVERKILL",
    "ok": true,
-   "found": 116
+   "found": 115
   },
   {
    "source": "A.P.C.",
@@ -39,12 +39,12 @@
   {
    "source": "ARMEDANGELS",
    "ok": true,
-   "found": 747
+   "found": 753
   },
   {
    "source": "6PM",
    "ok": true,
-   "found": 315
+   "found": 312
   },
   {
    "source": "RAINS",
@@ -104,7 +104,7 @@
   {
    "brand": "Reebok",
    "name": "ID Train Women's Cropped Tank",
-   "detail": "Sizes XS–L · Women",
+   "detail": "Size XS · Women",
    "shop": "REEBOK",
    "price": 7,
    "was": 25,
@@ -118,16 +118,13 @@
    ],
    "department": "Women",
    "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
+    "XS"
    ]
   },
   {
    "brand": "Nike",
    "name": "Nike Wmns Rejuven 8 OG SE",
-   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–36.5 · Women",
+   "detail": "Dark Field Brown / Bright Cactus / Brigt Cactus · Sizes 35.5–37.5 · Women",
    "shop": "ASPHALTGOLD",
    "price": 44,
    "was": 149,
@@ -764,7 +761,7 @@
   {
    "brand": "6PM",
    "name": "BIG POCKET SHORTS BLACK",
-   "detail": "Sizes XS–S · Unisex",
+   "detail": "Size XS · Unisex",
    "shop": "6PM",
    "price": 16.2,
    "was": 54,
@@ -777,8 +774,7 @@
    ],
    "department": "Unisex",
    "sizes": [
-    "XS",
-    "S"
+    "XS"
    ]
   },
   {
@@ -2027,7 +2023,7 @@
   {
    "brand": "6PM",
    "name": "SIX MESH JERSEY CHERRY BONBON",
-   "detail": "Sizes XS–XL · Men",
+   "detail": "Sizes XS–L · Men",
    "shop": "6PM",
    "price": 20.7,
    "was": 69,
@@ -2044,8 +2040,7 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ]
   },
   {
@@ -2215,7 +2210,7 @@
   {
    "brand": "6PM",
    "name": "SEERSUCKER PULL-OVER SHIRT NAUTICAL BLUE/WHITE",
-   "detail": "Sizes XS–XL · Men",
+   "detail": "Sizes XS–M · Men",
    "shop": "6PM",
    "price": 22.2,
    "was": 74,
@@ -2230,8 +2225,7 @@
    "sizes": [
     "XS",
     "S",
-    "M",
-    "XL"
+    "M"
    ]
   },
   {
@@ -2398,7 +2392,7 @@
   {
    "brand": "6PM",
    "name": "WARPED GRID SHIRT STRAWBERRY MILK",
-   "detail": "Sizes XXS–XL · Unisex",
+   "detail": "Sizes XXS–S · Unisex",
    "shop": "6PM",
    "price": 22.2,
    "was": 74,
@@ -2413,9 +2407,7 @@
    "sizes": [
     "XXS",
     "XS",
-    "S",
-    "L",
-    "XL"
+    "S"
    ]
   },
   {
@@ -2748,12 +2740,12 @@
   {
    "brand": "6PM",
    "name": "HOODED SHIRT DARK NAVY",
-   "detail": "Sizes XXS–XS · Men",
+   "detail": "Size XS · Men",
    "shop": "6PM",
    "price": 25.2,
    "was": 84,
    "category": "Shirts",
-   "url": "https://www.6pmseason.com/products/hooded-shirt-dark-navy?variant=52854280257803",
+   "url": "https://www.6pmseason.com/products/hooded-shirt-dark-navy?variant=52854280290571",
    "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/Capture__26-02-18_6PM_0261.jpg?v=1773764574&width=800",
    "tag": "Frankfurt streetwear",
    "styles": [
@@ -2761,7 +2753,6 @@
    ],
    "department": "Men",
    "sizes": [
-    "XXS",
     "XS"
    ]
   },
@@ -3070,19 +3061,19 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Ceinture Rosette",
-   "detail": "Sizes 75–90 · Women",
+   "name": "Crossbody Pouch Trek",
+   "detail": "Men",
    "shop": "A.P.C.",
    "price": 75,
    "was": 150,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/ceinture-rosette-caw-pxcbt-f65101?variant=56643045327235",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F65101CAW_00.jpg?v=1760601895&width=800",
+   "url": "https://www.apc.fr/products/crossbody-pouch-trek-iak-paafh-h61733?variant=55521296187779",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PAAFH-H61733IAK_00.jpg?v=1748552912&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": []
   },
   {
@@ -3108,7 +3099,7 @@
   {
    "brand": "6PM",
    "name": "HOODED DRESS SHIRT BLUE/ORANGE/BLACK",
-   "detail": "Sizes XXS–L",
+   "detail": "Sizes XXS–M",
    "shop": "6PM",
    "price": 25.2,
    "was": 84,
@@ -3125,14 +3116,13 @@
     "XXS",
     "XS",
     "S",
-    "M",
-    "L"
+    "M"
    ]
   },
   {
    "brand": "HOMEBOY",
    "name": "x-tra MONSTER Denim washed Black",
-   "detail": "Sizes 24–33",
+   "detail": "Sizes 24–28",
    "shop": "HOMEBOY",
    "price": 29.99,
    "was": 99.99,
@@ -3252,27 +3242,20 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Polo Standard",
-   "detail": "Sizes XS–XXL · Men",
+   "name": "Ceinture Rosette",
+   "detail": "Sizes 75–90 · Women",
    "shop": "A.P.C.",
    "price": 75,
    "was": 150,
-   "category": "Shirts",
-   "url": "https://www.apc.fr/products/polo-gots-aab-cogwz-h26342?variant=55522286109059",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGWZ-H26342AAB_00.jpg?v=1748468043&width=800",
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/ceinture-rosette-caw-pxcbt-f65101?variant=56643045327235",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F65101CAW_00.jpg?v=1760601895&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Men",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
@@ -3429,20 +3412,27 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Porte-cartes Genève",
-   "detail": "Women",
+   "name": "Polo Standard",
+   "detail": "Sizes XS–XXL · Men",
    "shop": "A.P.C.",
-   "price": 80,
-   "was": 160,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/porte-cartes-de-visite-dar-pxawv-f63349?variant=66078181884172",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63349DAR_00.jpg?v=1795006352&width=800",
+   "price": 75,
+   "was": 150,
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-gots-aab-cogwz-h26342?variant=55522286109059",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COGWZ-H26342AAB_00.jpg?v=1748468043&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": []
+   "department": "Men",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ]
   },
   {
    "brand": "Armedangels",
@@ -3471,7 +3461,7 @@
   {
    "brand": "6PM",
    "name": "SLIM NYLON JACKET BLACK",
-   "detail": "Sizes XXS–XS",
+   "detail": "Size XXS",
    "shop": "6PM",
    "price": 28.2,
    "was": 94,
@@ -3484,8 +3474,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
-    "XS"
+    "XXS"
    ]
   },
   {
@@ -3612,14 +3601,14 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "la ceinture",
-   "detail": "Sizes 75–85 · Women",
+   "name": "Porte-cartes Genève",
+   "detail": "Women",
    "shop": "A.P.C.",
    "price": 80,
    "was": 160,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/la-ceinture-lzz-pxccu-f65221?variant=56643045917059",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCCU-F65221LZZ_00.jpg?v=1760601896&width=800",
+   "url": "https://www.apc.fr/products/porte-cartes-de-visite-dar-pxawv-f63349?variant=66078181884172",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63349DAR_00.jpg?v=1795006352&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
@@ -3630,21 +3619,24 @@
   {
    "brand": "Armedangels",
    "name": "TARJAA T-SHIRT",
-   "detail": "foam · Size XS · Women",
+   "detail": "pink mist · Sizes XS–M · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-foam?variant=55099960656197",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3472_111.jpg?v=1791813411&width=800",
+   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport"
+    "sport",
+    "statement"
    ],
    "department": "Women",
    "sizes": [
-    "XS"
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -3794,59 +3786,51 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Polo Ella",
-   "detail": "Sizes XS–XL",
+   "name": "la ceinture",
+   "detail": "Sizes 75–85 · Women",
    "shop": "A.P.C.",
-   "price": 85,
-   "was": 170,
-   "category": "Shirts",
-   "url": "https://www.apc.fr/products/polo-ella-aad-cohmt-f26564-1?variant=57113382912387",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMT-F26564AAD_00.jpg?v=1767633726&width=800",
+   "price": 80,
+   "was": 160,
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/la-ceinture-lzz-pxccu-f65221?variant=56643045917059",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCCU-F65221LZZ_00.jpg?v=1760601896&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Women",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "TARJAA T-SHIRT",
-   "detail": "pink mist · Sizes XS–M · Women",
+   "name": "IDAARA GESTREIFTES T-SHIRT",
+   "detail": "white-foam · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/tarjaa-t-shirt-pink-mist?variant=55099958165829",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30005167-3433_111.jpg?v=1791813416&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
-    "sport",
-    "statement"
+    "sport"
    ],
    "department": "Women",
    "sizes": [
     "XS",
-    "S",
-    "M"
+    "S"
    ]
   },
   {
    "brand": "6PM",
    "name": "MA-6 NYLON BOMBER BLACK",
-   "detail": "Sizes XXS–M",
+   "detail": "Sizes XS–S",
    "shop": "6PM",
    "price": 29.7,
    "was": 99,
    "category": "Jackets",
-   "url": "https://www.6pmseason.com/products/ma-6-nylon-bomber-black?variant=52359997456651",
+   "url": "https://www.6pmseason.com/products/ma-6-nylon-bomber-black?variant=52359997489419",
    "image": "https://cdn.shopify.com/s/files/1/0071/1465/3762/files/25-10-30_6pm_97.jpg?v=1763656509&width=800",
    "tag": "Frankfurt streetwear",
    "styles": [
@@ -3854,10 +3838,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "XXS",
     "XS",
-    "S",
-    "M"
+    "S"
    ]
   },
   {
@@ -3981,20 +3963,21 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "top manches courtes raye",
-   "detail": "Sizes S–XL · Women",
+   "name": "Polo Ella",
+   "detail": "Sizes XS–XL",
    "shop": "A.P.C.",
    "price": 85,
    "was": 170,
-   "category": "T-shirts",
-   "url": "https://www.apc.fr/products/top-manches-courtes-raye-caa-liaez-f26579?variant=58164647002499",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/LIAEZ-F26579CAA_00.jpg?v=1780395741&width=800",
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-ella-aad-cohmt-f26564-1?variant=57113382912387",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHMT-F26564AAD_00.jpg?v=1767633726&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
+    "XS",
     "S",
     "M",
     "L",
@@ -4004,13 +3987,13 @@
   {
    "brand": "Armedangels",
    "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-foam · Sizes XS–S · Women",
+   "detail": "white-dynamo blue · Sizes XS–S · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-foam?variant=55111526940997",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-3560_111.jpg?v=1791813676&width=800",
+   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4175,38 +4158,36 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "T-Shirt Bahia",
-   "detail": "Sizes XS–3XL",
+   "name": "top manches courtes raye",
+   "detail": "Sizes S–XL · Women",
    "shop": "A.P.C.",
    "price": 85,
    "was": 170,
    "category": "T-shirts",
-   "url": "https://www.apc.fr/products/t-shirt-bahia-aad-cohfq-h26231-1?variant=55525815026051",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHFQ-H26231AAD_00.jpg?v=1747058590&width=800",
+   "url": "https://www.apc.fr/products/top-manches-courtes-raye-caa-liaez-f26579?variant=58164647002499",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/LIAEZ-F26579CAA_00.jpg?v=1780395741&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
+    "S",
     "M",
     "L",
-    "XL",
-    "XXL",
-    "3XL"
+    "XL"
    ]
   },
   {
    "brand": "Armedangels",
-   "name": "IDAARA GESTREIFTES T-SHIRT",
-   "detail": "white-dynamo blue · Sizes XS–S · Women",
+   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
+   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 29.9,
    "was": 44.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/idaara-stripes-t-shirt-white-dynamo-blue?variant=55111525499205",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006406-2688_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -4215,7 +4196,7 @@
    "department": "Women",
    "sizes": [
     "XS",
-    "S"
+    "XXL"
    ]
   },
   {
@@ -4361,40 +4342,49 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Tote Trapèze",
-   "detail": "Sale",
+   "name": "T-Shirt Bahia",
+   "detail": "Sizes XS–3XL",
    "shop": "A.P.C.",
-   "price": 87.5,
-   "was": 175,
-   "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-trapeze-pbc-wvbek-m67051?variant=56643046211971",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEK-M67051PBC_00_2f6d5af5-9d86-4df2-867a-1681824953a6.jpg?v=1771868766&width=800",
+   "price": 85,
+   "was": 170,
+   "category": "T-shirts",
+   "url": "https://www.apc.fr/products/t-shirt-bahia-aad-cohfq-h26231-1?variant=55525815026051",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHFQ-H26231AAD_00.jpg?v=1747058590&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "XS",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "3XL"
+   ]
   },
   {
    "brand": "Armedangels",
-   "name": "KARDAA GESTREIFTES RIPP-T-SHIRT",
-   "detail": "blue glow-tinted navy · Sizes XS–XXL · Women",
+   "name": "GIANNAA DIFFERENCE T-SHIRT",
+   "detail": "silver melange · Sizes XS–L",
    "shop": "ARMEDANGELS",
-   "price": 29.9,
-   "was": 44.9,
+   "price": 39.9,
+   "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/kardaa-stripes-t-shirt-blue-glow-tinted-navy?variant=55111530676549",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30006916-3552_111.jpg?v=1791813472&width=800",
+   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
     "XS",
-    "XXL"
+    "S",
+    "M",
+    "L"
    ]
   },
   {
@@ -4529,43 +4519,37 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Porte-Cartes Paris",
-   "detail": "Women",
+   "name": "Tote Trapèze",
+   "detail": "Sale",
    "shop": "A.P.C.",
-   "price": 90,
-   "was": 180,
+   "price": 87.5,
+   "was": 175,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/porte-cartes-paris-gaj-pxcbt-f63670?variant=57113388384643",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F63670GAJ_00.jpg?v=1769173374&width=800",
+   "url": "https://www.apc.fr/products/tote-trapeze-pbc-wvbek-m67051?variant=56643046211971",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WVBEK-M67051PBC_00_2f6d5af5-9d86-4df2-867a-1681824953a6.jpg?v=1771868766&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "GIANNAA DIFFERENCE T-SHIRT",
-   "detail": "silver melange · Sizes XS–L",
+   "name": "PIÑAYARN® BLEND BUCKET HAT W",
+   "detail": "dried palm · Unisex",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/giannaa-difference-t-shirt-silver-melange?variant=57299198935365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008420-3215_111.jpg?v=1791813502&width=800",
-   "tag": "Sport edit",
+   "category": "Accessories",
+   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
+   "tag": "Conscious basics",
    "styles": [
-    "minimal",
-    "sport"
+    "minimal"
    ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L"
-   ]
+   "department": "Unisex",
+   "sizes": []
   },
   {
    "brand": "6PM",
@@ -4719,8 +4703,8 @@
    "price": 90,
    "was": 180,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/porte-cartes-paris-dar-pxawv-f63670?variant=57113389760899",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63670DAR_00.jpg?v=1767631914&width=800",
+   "url": "https://www.apc.fr/products/porte-cartes-paris-gaj-pxcbt-f63670?variant=57113388384643",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXCBT-F63670GAJ_00.jpg?v=1769173374&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
@@ -4730,20 +4714,23 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PIÑAYARN® BLEND BUCKET HAT W",
-   "detail": "dried palm · Unisex",
+   "name": "PUFFÄRMEL T-SHIRT",
+   "detail": "white · Size XS · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
-   "category": "Accessories",
-   "url": "https://www.armedangels.com/products/pinayarn®-blend-bucket-hat-w-dried-palm?variant=57299361595717",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008799-3562_111.jpg?v=1791813530&width=800",
-   "tag": "Conscious basics",
+   "category": "T-shirts",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "tag": "Sport edit",
    "styles": [
-    "minimal"
+    "minimal",
+    "sport"
    ],
-   "department": "Unisex",
-   "sizes": []
+   "department": "Women",
+   "sizes": [
+    "XS"
+   ]
   },
   {
    "brand": "6PM",
@@ -4892,39 +4879,42 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Tote Lou",
-   "detail": "Sale",
+   "name": "Porte-Cartes Paris",
+   "detail": "Women",
    "shop": "A.P.C.",
-   "price": 95,
-   "was": 190,
+   "price": 90,
+   "was": 180,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-lou-lad-puacd-m61442?variant=56643040805251",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUACD-M61442LAD_00.jpg?v=1760602599&width=800",
+   "url": "https://www.apc.fr/products/porte-cartes-paris-dar-pxawv-f63670?variant=57113389760899",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PXAWV-F63670DAR_00.jpg?v=1767631914&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": []
   },
   {
    "brand": "Armedangels",
    "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "white · Size XS · Women",
+   "detail": "dried palm · Sizes XS–XL",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-white?variant=57299235799365",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-188_111.jpg?v=1791813632&width=800",
+   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS"
+    "XS",
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -5076,14 +5066,14 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "tote ninon small",
+   "name": "Tote Lou",
    "detail": "Sale",
    "shop": "A.P.C.",
    "price": 95,
    "was": 190,
    "category": "Accessories",
-   "url": "https://www.apc.fr/products/tote-ninon-small-aad-cohos-m61861?variant=58164643692931",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOS-M61861AAD_00.jpg?v=1780395740&width=800",
+   "url": "https://www.apc.fr/products/tote-lou-lad-puacd-m61442?variant=56643040805251",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/PUACD-M61442LAD_00.jpg?v=1760602599&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
@@ -5093,25 +5083,24 @@
   },
   {
    "brand": "Armedangels",
-   "name": "PUFFÄRMEL T-SHIRT",
-   "detail": "dried palm · Sizes XS–XL",
+   "name": "LUALAA LEINEN-MIX T-SHIRT",
+   "detail": "dried palm · Sizes S–XXL · Women",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/puffarmel-t-shirt-dried-palm?variant=57299236127045",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30008474-3562_111.jpg?v=1791813443&width=800",
+   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Not specified",
+   "department": "Women",
    "sizes": [
-    "XS",
+    "S",
     "M",
-    "L",
-    "XL"
+    "XXL"
    ]
   },
   {
@@ -5255,46 +5244,39 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "Polo Crop Livia",
-   "detail": "Sizes XS–XL · Women",
+   "name": "tote ninon small",
+   "detail": "Sale",
    "shop": "A.P.C.",
    "price": 95,
    "was": 190,
-   "category": "Shirts",
-   "url": "https://www.apc.fr/products/polo-crop-livia-tiq-cohrl-f26617?variant=57467914158467",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHRL-F26617TIQ_00.jpg?v=1776097538&width=800",
+   "category": "Accessories",
+   "url": "https://www.apc.fr/products/tote-ninon-small-aad-cohos-m61861?variant=58164643692931",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHOS-M61861AAD_00.jpg?v=1780395740&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
    ],
-   "department": "Women",
-   "sizes": [
-    "XS",
-    "S",
-    "M",
-    "L",
-    "XL"
-   ]
+   "department": "Not specified",
+   "sizes": []
   },
   {
    "brand": "Armedangels",
-   "name": "LUALAA LEINEN-MIX T-SHIRT",
-   "detail": "dried palm · Sizes S–XXL · Women",
+   "name": "MAARKOS WAFFLE T-SHIRT",
+   "detail": "foam · Sizes S–XXL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/lualaa-linen-blend-t-shirt-dried-palm?variant=55661309722949",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007366-3562_111.jpg?v=1791813386&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
     "sport"
    ],
-   "department": "Women",
+   "department": "Men",
    "sizes": [
     "S",
-    "M",
     "XXL"
    ]
   },
@@ -5446,14 +5428,14 @@
   },
   {
    "brand": "A.P.C. Paris",
-   "name": "gilet emilie",
-   "detail": "Sizes XS–L · Women",
+   "name": "Polo Crop Livia",
+   "detail": "Sizes XS–XL · Women",
    "shop": "A.P.C.",
    "price": 95,
    "was": 190,
-   "category": "Jackets",
-   "url": "https://www.apc.fr/products/gilet-emilie-iak-woaoc-f22337?variant=57153340473731",
-   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/WOAOC-F22337IAK_00.jpg?v=1768233112&width=800",
+   "category": "Shirts",
+   "url": "https://www.apc.fr/products/polo-crop-livia-tiq-cohrl-f26617?variant=57467914158467",
+   "image": "https://cdn.shopify.com/s/files/1/0900/0973/1459/files/COHRL-F26617TIQ_00.jpg?v=1776097538&width=800",
    "tag": "French minimal",
    "styles": [
     "minimal"
@@ -5463,19 +5445,20 @@
     "XS",
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ]
   },
   {
    "brand": "Armedangels",
    "name": "MAARKOS WAFFLE T-SHIRT",
-   "detail": "foam · Sizes S–XXL · Men",
+   "detail": "wedgwood · Sizes S–XL · Men",
    "shop": "ARMEDANGELS",
    "price": 39.9,
    "was": 59.9,
    "category": "T-shirts",
-   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-foam?variant=55610370064709",
-   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3472_111.jpg?v=1791813641&width=800",
+   "url": "https://www.armedangels.com/products/maarkos-waffle-t-shirt-wedgwood?variant=55610369507653",
+   "image": "https://cdn.shopify.com/s/files/1/0915/0850/6949/files/30007282-3455_111.jpg?v=1791813483&width=800",
    "tag": "Sport edit",
    "styles": [
     "minimal",
@@ -5484,7 +5467,9 @@
    "department": "Men",
    "sizes": [
     "S",
-    "XXL"
+    "M",
+    "L",
+    "XL"
    ]
   },
   {
@@ -5533,13 +5518,13 @@
   {
    "brand": "Dickies",
    "name": "Polk midweight t-shirt",
-   "detail": "Stormy sea · Size L · Women",
+   "detail": "White · Sizes XS–M · Women",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pcl371-blue?variant=45766591611066",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PCL37-1_fccc0218-09e3-4b7d-bb29-55754d37e91a.jpg?v=1779221441&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5547,7 +5532,9 @@
    ],
    "department": "Women",
    "sizes": [
-    "L"
+    "XS",
+    "S",
+    "M"
    ]
   },
   {
@@ -5595,24 +5582,23 @@
   },
   {
    "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Sizes XS–M · Women",
+   "name": "Derby midweight t-shirt",
+   "detail": "White · Sizes S–XXL",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88pc0wh1-white?variant=45766591316154",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88PC0WH-1_e85bcd59-57da-4505-93b1-30f6b7790d2d.jpg?v=1779221461&width=800",
+   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
     "utility"
    ],
-   "department": "Women",
+   "department": "Not specified",
    "sizes": [
-    "XS",
     "S",
-    "M"
+    "XXL"
    ]
   },
   {
@@ -5660,14 +5646,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Derby midweight t-shirt",
-   "detail": "White · Sizes S–XXL",
+   "name": "Lynndyl lightweight t-shirt",
+   "detail": "Black · Size S",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/derby-midweight-t-shirt-dk0a88jgwhx1-white?variant=45766580699322",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JGWHX-1_c00caf54-7bf3-4b4a-ab6e-861bfbef7806.jpg?v=1779221452&width=800",
+   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5675,8 +5661,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "XXL"
+    "S"
    ]
   },
   {
@@ -5724,14 +5709,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Lynndyl lightweight t-shirt",
-   "detail": "Black · Size S",
+   "name": "Aitkin lightweight t-shirt",
+   "detail": "White · Sizes S–M",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/lynndyl-lightweight-t-shirt-dk0a88jhblk1-black?variant=45766576373946",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88JHBLK-1_2fd7ac4b-06c0-466a-a834-d891c20c7554.jpg?v=1779221476&width=800",
+   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5739,7 +5724,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S"
+    "S",
+    "M"
    ]
   },
   {
@@ -5786,14 +5772,14 @@
   },
   {
    "brand": "Dickies",
-   "name": "Aitkin lightweight t-shirt",
-   "detail": "White · Sizes S–M",
+   "name": "Polk midweight t-shirt",
+   "detail": "White · Size XS",
    "shop": "DICKIES",
    "price": 15,
    "was": 30,
    "category": "T-shirts",
-   "url": "https://dickies.eu/products/aitkin-lightweight-t-shirt-dk0a88gl0wh1-white?variant=45766571491514",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GL0WH-1_50593c74-c8ad-4940-b824-07d181c8c172.jpg?v=1779221478&width=800",
+   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
    "tag": "Workwear",
    "styles": [
     "skate",
@@ -5801,8 +5787,7 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "S",
-    "M"
+    "XS"
    ]
   },
   {
@@ -5846,67 +5831,6 @@
    "department": "Not specified",
    "sizes": [
     "XXS"
-   ]
-  },
-  {
-   "brand": "Dickies",
-   "name": "Polk midweight t-shirt",
-   "detail": "White · Size XS",
-   "shop": "DICKIES",
-   "price": 15,
-   "was": 30,
-   "category": "T-shirts",
-   "url": "https://dickies.eu/products/polk-midweight-t-shirt-dk0a88go0wh1-white?variant=45766570311866",
-   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A88GO0WH-1_c31a6ab5-c40b-4cbe-9627-d9781ce53a39.jpg?v=1779221480&width=800",
-   "tag": "Workwear",
-   "styles": [
-    "skate",
-    "utility"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS"
-   ]
-  },
-  {
-   "brand": "Reebok",
-   "name": "Yoga Stretch Knit Pants",
-   "detail": "Size M · Men",
-   "shop": "REEBOK",
-   "price": 21,
-   "was": 70,
-   "category": "Trousers",
-   "url": "https://www.reebok.eu/products/yoga-stretch-knit-pants-100242190-3404?variant=55324122841436",
-   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/100242190_V1.jpg?v=1756400134&width=800",
-   "tag": "Retro sport",
-   "styles": [
-    "sport",
-    "retro"
-   ],
-   "department": "Men",
-   "sizes": [
-    "M"
-   ]
-  },
-  {
-   "brand": "HOMEBOY",
-   "name": "hb. Crew BLACK",
-   "detail": "Sizes XS–S",
-   "shop": "HOMEBOY",
-   "price": 31.99,
-   "was": 79.99,
-   "category": "T-shirts",
-   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859293558",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
-   "tag": "Skate & baggy",
-   "styles": [
-    "skate",
-    "streetwear"
-   ],
-   "department": "Not specified",
-   "sizes": [
-    "XS",
-    "S"
    ]
   },
   {
@@ -5961,14 +5885,14 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "CHAOS Hood WASHED LIGHT BLUE",
-   "detail": "Size M",
+   "name": "hb. Crew BLACK",
+   "detail": "Sizes XS–S",
    "shop": "HOMEBOY",
-   "price": 35.99,
-   "was": 89.99,
+   "price": 31.99,
+   "was": 79.99,
    "category": "T-shirts",
-   "url": "https://homeboy.eu/products/chaos-hood-washed-blue?variant=55820061213046",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3289-31CHAOSHoodWASHEDLIGHTBLUE-31.jpg?v=1772721649&width=800",
+   "url": "https://homeboy.eu/products/hb-crew-black-763742?variant=58393859293558",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/HB._Crew_BLACKZeichenflaeche_1.jpg?v=1757678537&width=800",
    "tag": "Skate & baggy",
    "styles": [
     "skate",
@@ -5976,7 +5900,8 @@
    ],
    "department": "Not specified",
    "sizes": [
-    "M"
+    "XS",
+    "S"
    ]
   },
   {
@@ -6020,22 +5945,23 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
-   "detail": "Sizes 22–36",
+   "name": "CHAOS Hood WASHED LIGHT BLUE",
+   "detail": "Size M",
    "shop": "HOMEBOY",
    "price": 35.99,
    "was": 89.99,
-   "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
-   "tag": "Retro find",
+   "category": "T-shirts",
+   "url": "https://homeboy.eu/products/chaos-hood-washed-blue?variant=55820061213046",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SW3289-31CHAOSHoodWASHEDLIGHTBLUE-31.jpg?v=1772721649&width=800",
+   "tag": "Skate & baggy",
    "styles": [
     "skate",
-    "streetwear",
-    "retro"
+    "streetwear"
    ],
    "department": "Not specified",
-   "sizes": []
+   "sizes": [
+    "M"
+   ]
   },
   {
    "brand": "Dickies",
@@ -6077,18 +6003,19 @@
   },
   {
    "brand": "HOMEBOY",
-   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
-   "detail": "Sizes 22–30",
+   "name": "x-tra Monster Vintage SHORTS VINTAGE BLACK TAB",
+   "detail": "Sizes 22–36",
    "shop": "HOMEBOY",
    "price": 35.99,
    "was": 89.99,
    "category": "Shorts",
-   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
-   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
-   "tag": "Skate & baggy",
+   "url": "https://homeboy.eu/products/x-tra-monster-vintage-shorts-vintage-black-tab?variant=59407340634486",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1087-87_x-tra_MONSTER_Vintage_Denim_SHORTS_VINTAGE_BLACK-87_1.jpg?v=1742910280&width=800",
+   "tag": "Retro find",
    "styles": [
     "skate",
-    "streetwear"
+    "streetwear",
+    "retro"
    ],
    "department": "Not specified",
    "sizes": []
@@ -6123,6 +6050,62 @@
    "category": "Shoes",
    "url": "https://www.reebok.eu/products/reebok-court-advance-surge-sneakers-100202648-1319?variant=54323844841820",
    "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/23357227_53839673_800.webp?v=1744656927&width=800",
+   "tag": "Retro sport",
+   "styles": [
+    "sport",
+    "retro"
+   ],
+   "department": "Women",
+   "sizes": []
+  },
+  {
+   "brand": "HOMEBOY",
+   "name": "x-tra MONSTER Denim SHORTS Washed Grey TAB",
+   "detail": "Sizes 22–30",
+   "shop": "HOMEBOY",
+   "price": 35.99,
+   "was": 89.99,
+   "category": "Shorts",
+   "url": "https://homeboy.eu/products/x-tra-monster-denim-shorts-washed-grey-tab?variant=59407335915894",
+   "image": "https://cdn.shopify.com/s/files/1/0837/1404/8279/files/01SH1084-85x-traMONSTERDenimWASHEDGREY_2.jpg?v=1712829664&width=800",
+   "tag": "Skate & baggy",
+   "styles": [
+    "skate",
+    "streetwear"
+   ],
+   "department": "Not specified",
+   "sizes": []
+  },
+  {
+   "brand": "Dickies",
+   "name": "Dry Ridge lightweight t-shirt",
+   "detail": "Light grey · Size S",
+   "shop": "DICKIES",
+   "price": 15,
+   "was": 30,
+   "category": "T-shirts",
+   "url": "https://dickies.eu/products/dry-ridge-lightweight-t-shirt-dk0a8853a281-grey?variant=45766527320250",
+   "image": "https://cdn.shopify.com/s/files/1/0753/4749/3050/files/DK0A8853A28-1_0e4ee0e8-a776-4f36-a3b6-0c6450d673e8.jpg?v=1779221415&width=800",
+   "tag": "Workwear",
+   "styles": [
+    "skate",
+    "utility"
+   ],
+   "department": "Not specified",
+   "sizes": [
+    "S"
+   ]
+  },
+  {
+   "brand": "Reebok",
+   "name": "Ultra Lo Women's Trainers",
+   "detail": "Sizes 35–42.5 · Women",
+   "shop": "REEBOK",
+   "price": 27,
+   "was": 90,
+   "category": "Shoes",
+   "url": "https://www.reebok.eu/products/ultra-lo-womens-trainers-100260997-260997?variant=58351666626908",
+   "image": "https://cdn.shopify.com/s/files/1/0897/4467/1068/files/JPG-100260997_SLC_eCom.jpg?v=1784819496&width=800",
    "tag": "Retro sport",
    "styles": [
     "sport",
